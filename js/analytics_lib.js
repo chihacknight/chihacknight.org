@@ -10,7 +10,7 @@
  *
  */
 
-var analyticsTrackingCode = 'UA-28508534-1'; //enter your tracking code here
+var analyticsTrackingCode = 'UA-43958206-1'; //enter your tracking code here
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', analyticsTrackingCode]);
@@ -48,9 +48,5 @@ jQuery(function () {
 		if (href.match(/^mailto:/i)) {
 			_trackClickEventWithGA("Emails", "Click", href);
 		}
-
-    $(window).hashchange( function(){
-      _gaq.push(['_trackPageview',location.pathname + location.search  + location.hash]);
-    });
 	});
 });
