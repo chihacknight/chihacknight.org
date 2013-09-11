@@ -66,15 +66,22 @@
 
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
+    <script src="js/jquery.dataTables.sorting.js"></script>
 
     <script src="data/hack_night_events.js"></script>
 
     <script>
 
       for (var i = 0; i < hack_night_events.length; i++) {
-        console.log(hack_night_events[i]);
+        var date = new moment(hack_night_events[i]['date']);
         var row = "<tr id='event-" + hack_night_events[i]['id'] + "'>\
-          <td class='nowrap'>" + hack_night_events[i]['date'] + "</td>\
+          <td class='nowrap'>\
+            <div class='well text-center'>\
+              <time datetime='" + date.format('YYYY-MM-DD') + "'>\
+              " + date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]') + "\
+              </time>\
+            </div>\
+          </td>\
           <td>\
             <h4>" + hack_night_events[i]['title'] + "</h4>\
             " + hack_night_events[i]['description'] + "\
@@ -89,7 +96,7 @@
       $('#hack-night-events').dataTable( {
           "aaSorting": [ [0,'desc'] ],
           "aoColumns": [
-              null,
+              { "sType": "datetime" },
               null
           ],
           "bInfo": false,
