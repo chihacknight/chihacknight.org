@@ -73,3 +73,5 @@ body {
     border-bottom: 0;
   }
 }
+
+.nowrap { white-space:nowrap; }

@@ -37,6 +37,17 @@
         <!-- Begin page content-->
         <h1>Events</h1>
 
+        <table id='hack-night-events' class='table'>
+          <thead>
+            <tr>
+              <td>Date</td>
+              <td>Event</td>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+
         <!-- End page content-->
 
         <div class="footer">
@@ -49,7 +60,42 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/analytics_lib.js"></script>
+
+    <script src="js/moment.min.js"></script>
+    <script src="js/jquery.dataTables.min.js"></script>
+
+    <script src="data/hack_night_events.js"></script>
+
+    <script>
+
+      for (var i = 0; i < hack_night_events.length; i++) {
+        console.log(hack_night_events[i]);
+        var row = "<tr id='event-" + hack_night_events[i]['id'] + "'>\
+          <td class='nowrap'>" + hack_night_events[i]['date'] + "</td>\
+          <td>\
+            <h4>" + hack_night_events[i]['title'] + "</h4>\
+            " + hack_night_events[i]['description'] + "\
+            <p class='text-muted'>Sponsor: " + hack_night_events[i]['sponsor'] + "</p>\
+          </td>\
+          </tr>";
+
+        $("#hack-night-events tbody").append(row);
+      }
+
+      // initialize datatables
+      $('#hack-night-events').dataTable( {
+          "aaSorting": [ [0,'desc'] ],
+          "aoColumns": [
+              null,
+              null
+          ],
+          "bInfo": false,
+          "bPaginate": false
+      } );
+
+    </script>
   </body>
 </html>
