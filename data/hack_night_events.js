@@ -44,7 +44,7 @@ var hack_night_events = [
   {
     "id": "94",
     "title": "DataMandering",
-    "date": "2013-08-6",
+    "date": "2013-08-06",
     "description": "<p>John Fahrenbach will talk about his <a href='http://datamandering.org/'>Datamandering</a> project, an online tool for demystifying the <a href='http://en.wikipedia.org/wiki/Gerrymandering'>gerrymandering</a> process with open data.</p>",
     "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
   },
