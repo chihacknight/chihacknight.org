@@ -37,7 +37,14 @@
         <!-- Begin page content-->
         <h1>Projects</h1>
 
-        <p>Coming soon! If you want to help out, <a href='https://github.com/open-city/civic-hack-night/issues/3'>check out this feature on our issue tracker</a>.</p>
+        <p>(This page is still in progress.  If you want to help out, see <a href='https://github.com/open-city/civic-hack-night/issues/3'>this ticket</a> in our issue tracker.</p>
+
+        <table id='hack-night-projects' class='table'>
+          <thead>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
 
         <!-- End page content-->
 
@@ -54,5 +61,34 @@
     <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/analytics_lib.js"></script>
+
+    <script src="js/moment.min.js"></script>
+    <script src="js/jquery.dataTables.min.js"></script>
+    <script src="js/jquery.dataTables.sorting.js"></script>
+
+    <script src="data/hack_night_projects.js"></script>
+
+    <script>
+      // In real life, this is going to use the project URLs to pull
+      // information from GitHub and display that (e.g., project
+      // summary, recent activity, etc).
+      //
+      // This way, data/hack_night_projects.js can be maintained as
+      // *just* a list of projects URLs -- easy, simple, winning.
+      // To make it even easier, simpler, and winninger, let's make
+      // the "https://" on the front optional for github URLs (and
+      // maybe for a few other common cases) in the data file.  That
+      // means some rudimentary Javascript string manipulation below,
+      // but Derek is waiting for me to push this so he can change the
+      // name of this repository, so I'm leaving this comment instead.
+      for (var i = 0; i < hack_night_projects.length; i++) {
+        var row = "<tr id='project-" + hack_night_projects[i] + "'>   \
+          <td><h3><a href=\"" + hack_night_projects[i] + "\" >"
+          + hack_night_projects[i]
+          + "</a>"
+          + "</h3></td></tr>";
+        $("#hack-night-projects tbody").append(row);
+      }
+    </script>
   </body>
 </html>
