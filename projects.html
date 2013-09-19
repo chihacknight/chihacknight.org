@@ -10,6 +10,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/custom.css" rel="stylesheet">
@@ -75,7 +76,7 @@
         <!-- End page content-->
 
         <div class="footer">
-          <p class='pull-right'>&copy; Open City 2013 | <a href='https://github.com/open-city/open-gov-hack-night'>Pull requests welcome!</a></p>
+          <p class='pull-right'>&copy; Open City 2013 | <a href='https://github.com/open-city/open-gov-hack-night'><i class='icon-github'></i> Pull requests welcome!</a></p>
         </div>
       </div>
     </div> <!-- /container -->
@@ -151,9 +152,9 @@
               {{/contributors}}\
             </p>\
             <p>\
-              <a class='btn btn-default' href='{{html_url}}/network'>{{watchers_count}} watchers</a>\
-              <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} forks</a>\
-              <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} open issues</a>\
+              <a class='btn btn-default' href='{{html_url}}/network'>{{watchers_count}} <i class='icon-eye-open'></i></a>\
+              <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} <i class='icon-code-fork'></i></a>\
+              <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} <i class='icon-exclamation-sign'></i></a>\
               {{language}}\
             </p>\
           </td>\
