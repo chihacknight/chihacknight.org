@@ -5,6 +5,12 @@ body {
   font-size: 17px;
 }
 
+.contributors img {
+  width: 50px;
+}
+
+a:hover .label { text-decoration: none; }
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
