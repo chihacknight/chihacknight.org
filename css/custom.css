@@ -10,7 +10,7 @@ body {
 }
 
 .contributor-owner img {
-  width: 70px;
+  border: 1px solid #428bca;
 }
 
 .label:hover { text-decoration: none; }

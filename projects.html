@@ -107,10 +107,10 @@
       $('#submit-project').click(function(){
          
         $.post(
-          'http://civic-json-app.herokuapp.com/', 
+          'http://civic-json-app.herokuapp.com/add-project/', 
           data={'project_url': $('#github-url').val()}, 
           function(resp){ 
-            displayMessage( "Your project has been submitted! It should display below within 5 minutes", 'success' );
+            displayMessage( "Your project has been submitted! It should display below within 5 minutes.", 'success' );
             $("#github-url").val("");
           }
         ).fail(function() {
@@ -133,16 +133,11 @@
         <tr>\
           <td>\
             <h3><a href='{{html_url}}'>{{name}}</a></h3>\
-            <dl class='dl-horizontal'>\
-              <dt>Website</dt>\
-              <dd><a href='{{homepage}}'>{{homepage}}</a></dd>\
-              <dt>Language</dt>\
-              <dd>{{language}}</dd>\
-              <dt>Created</dt>\
-              <dd>{{created_at}}</dd>\
-              <dt>Updated</dt>\
-              <dd>{{updated_at}}</dd>\
-            </dl>\
+            <a href='{{homepage}}'>{{homepage}}</a>\
+            <br /><strong>Updated</strong>\
+            {{updated_at_formatted}}\
+            <br /><strong>Created</strong>\
+            {{created_at_formatted}}\
           </td>\
           <td>\
             <p>{{description}}</p>\
@@ -156,12 +151,10 @@
               {{/contributors}}\
             </p>\
             <p>\
-              <a href='{{html_url}}/network'>\
-                <span class='label label-primary'>{{watchers_count}} watchers</span></a>\
-              <a href='{{html_url}}/network'>\
-                <span class='label label-primary'>{{forks_count}} forks</span></a>\
-              <a href='{{html_url}}/issues'>\
-                <span class='label label-primary'>{{open_issues}} open issues</span></a>\
+              <a class='btn btn-default' href='{{html_url}}/network'>{{watchers_count}} watchers</a>\
+              <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} forks</a>\
+              <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} open issues</a>\
+              {{language}}\
             </p>\
           </td>\
         </tr>\
@@ -171,12 +164,20 @@
         //console.log( jqXHR.status ); // Alerts 200
 
         for (var i = 0; i < json.length; i++) {
+          json[i]['created_at_formatted'] = moment(json[i]['created_at']).fromNow();
+          json[i]['updated_at_formatted'] = moment(json[i]['updated_at']).fromNow();
+
+          var prefix = 'http://';
+          var homepage = json[i]['homepage'];
+          if (homepage != null && homepage.substr(0, prefix.length) !== prefix)
+            json[i]['homepage'] = prefix + homepage;
+
           $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
         }
 
         // initialize datatables
         $('#hack-night-projects').dataTable( {
-            "aaSorting": [ [0,'desc'] ],
+            "aaSorting": [ [0,'asc'] ],
             "aoColumns": [
                 null,
                 null
