@@ -161,7 +161,7 @@
         </tr>\
       ";
 
-      $.when( $.getJSON( "http://civic-json-app.herokuapp.com/projects/" ) ).then(function( json, textStatus, jqXHR ) {
+      $.when( $.getJSON( "https://s3.amazonaws.com/civic-json/project_details.json" ) ).then(function( json, textStatus, jqXHR ) {
         //console.log( jqXHR.status ); // Alerts 200
 
         for (var i = 0; i < json.length; i++) {
