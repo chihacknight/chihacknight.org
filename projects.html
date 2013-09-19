@@ -37,7 +37,7 @@
         <!-- Begin page content-->
         <h1>Projects</h1>
 
-        <p><em>This page is still in progress.  If you want to help out, see <a href='https://github.com/open-city/civic-hack-night/issues/3'>this ticket</a> in our issue tracker.</em></p>
+        <p>Civic open source projects worked on at the hack night.</p>
 
         <table id='hack-night-projects' class='table'>
           <thead>
@@ -126,20 +126,24 @@
         </tr>\
       ";
 
-      for (var i = 0; i < hack_night_projects.length; i++) {
-        $("#hack-night-projects tbody").append(Mustache.render(template, hack_night_projects[i]));
-      }
+      $.when( $.getJSON( "http://civic-json-app.herokuapp.com/projects/" ) ).then(function( json, textStatus, jqXHR ) {
+        console.log( jqXHR.status ); // Alerts 200
 
-      // initialize datatables
-      $('#hack-night-projects').dataTable( {
-          "aaSorting": [ [0,'desc'] ],
-          "aoColumns": [
-              null,
-              null
-          ],
-          "bInfo": false,
-          "bPaginate": false
-      } );
+        for (var i = 0; i < json.length; i++) {
+          $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
+        }
+
+        // initialize datatables
+        $('#hack-night-projects').dataTable( {
+            "aaSorting": [ [0,'desc'] ],
+            "aoColumns": [
+                null,
+                null
+            ],
+            "bInfo": false,
+            "bPaginate": false
+        } );
+      });
     </script>
   </body>
 </html>
