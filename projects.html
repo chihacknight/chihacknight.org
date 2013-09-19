@@ -39,6 +39,26 @@
 
         <p>Civic open source projects worked on at the hack night.</p>
 
+        <div class='well'>
+
+          <p>Add a project for us to track. We will <a href='https://github.com/open-city/civic-json-worker'>automatically update this list</a> based on your activity on <a href='https://github.com/'>Github</a>.</p>
+
+          <form class="form-horizontal" role="form">
+            <div class="form-group">
+              <label for="github-url" class="col-lg-2 control-label">Github URL</label>
+              <div class="col-lg-10">
+                <input type="text" class="form-control" id="github-url" placeholder="https://github.com/my-name/my-project">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-lg-offset-2 col-lg-10">
+                <button  id='submit-project' type="submit" class="btn btn-success">Submit</button>
+              </div>
+            </div>
+          </form>
+
+        </div>
+
         <table id='hack-night-projects' class='table'>
           <thead>
             <tr>
@@ -71,23 +91,34 @@
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/mustache.js"></script>
 
-
-    <script src="data/hack_night_projects.js"></script>
-
     <script>
-      // In real life, this is going to use the project URLs to pull
-      // information from GitHub and display that (e.g., project
-      // summary, recent activity, etc).
-      //
-      // This way, data/hack_night_projects.js can be maintained as
-      // *just* a list of projects URLs -- easy, simple, winning.
-      // To make it even easier, simpler, and winninger, let's make
-      // the "https://" on the front optional for github URLs (and
-      // maybe for a few other common cases) in the data file.  That
-      // means some rudimentary Javascript string manipulation below,
-      // but Derek is waiting for me to push this so he can change the
-      // name of this repository, so I'm leaving this comment instead.
+      
+      //AJAX form submission to civic-json-worker
+      $('#submit-project').click(function(){
+         
+        $.post(
+          'http://civic-json-app.herokuapp.com/', 
+          data={'project_url': $('#github-url').val()}, 
+          function(resp){ 
+            console.log('Submitting ' + resp['name']);
+            $("#github-url").val("");
+          }
+        ).fail(function() {
+          alert( "There was an error submitting your project. Check that the URL is correct." );
+        });
 
+        return false;
+      });
+       
+      $("#github-url").keydown(function(e){
+      var key =  e.keyCode ? e.keyCode : e.which;
+        if(key == 13) {
+          $('#submit-project').click();
+          return false;
+        }
+      });
+
+      //rendering projects list
       var template = "\
         <tr>\
           <td>\
@@ -127,7 +158,7 @@
       ";
 
       $.when( $.getJSON( "http://civic-json-app.herokuapp.com/projects/" ) ).then(function( json, textStatus, jqXHR ) {
-        console.log( jqXHR.status ); // Alerts 200
+        //console.log( jqXHR.status ); // Alerts 200
 
         for (var i = 0; i < json.length; i++) {
           $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
