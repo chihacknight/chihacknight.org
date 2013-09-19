@@ -110,11 +110,11 @@
           'http://civic-json-app.herokuapp.com/add-project/', 
           data={'project_url': $('#github-url').val()}, 
           function(resp){ 
-            displayMessage( "Your project has been submitted! It should display below within 5 minutes.", 'success' );
+            displayMessage( "<strong>Your project has been submitted!</strong> It should display below within 5 minutes.", 'success' );
             $("#github-url").val("");
           }
         ).fail(function() {
-          displayMessage( "Error submitting your project! Check that the URL is correct.", 'danger' );
+          displayMessage( "<strong>Error submitting your project!</strong> Check that the URL is correct.", 'danger' );
         });
 
         return false;
