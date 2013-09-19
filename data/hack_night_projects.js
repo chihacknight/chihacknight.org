@@ -15,7 +15,7 @@ var hack_night_projects = [
       "avatar_url": "https://0.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png"
     },
     "contributors_url": "https://api.github.com/repos/cnunciato/jekyll-starter/contributors",
-    "contributors": {
+    "contributors": [
       {
         "login": "hunterowens",
         "avatar_url": "https://2.gravatar.com/avatar/ff16180e6d9715d5ae17526cb83d7cfb?d=https%3A%2F%2Fidenticons.github.com%2Fc3663e10b721e5d713a55aebf8621901.png",
@@ -46,9 +46,8 @@ var hack_night_projects = [
         "html_url": "https://github.com/matthewgee",
         "contributions": 1
       }
-    },
+    ],
     "created_at": "2013-07-16T18:19:47Z",
     "updated_at": "2013-09-18T01:16:31Z"
-    }
   }
 ]

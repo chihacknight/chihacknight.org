@@ -9,7 +9,11 @@ body {
   width: 50px;
 }
 
-a:hover .label { text-decoration: none; }
+.contributor-owner img {
+  width: 70px;
+}
+
+.label:hover { text-decoration: none; }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
