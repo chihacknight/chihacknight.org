@@ -8,3 +8,4 @@ Built in plain HTML, Javascript and CSS
 
 * [Bootstrap 3](getbootstrap.com) - HTML and CSS layouts
 * [DataTables](datatables.net) - for searching and sorting talbes
+* [Mustache](github.com/janl/mustache.js) - templating library for javascript (used on projects page)

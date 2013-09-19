@@ -47,47 +47,6 @@
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>
-                <h3><a href='https://github.com/dssg/census-communities-usa'>census-communities-usa</a></h3>
-                <dl class='dl-horizontal'>
-                  <dt>Website</dt>
-                  <dd><a href='http://wherewework.org'>wherewework.org</a></dd>
-
-                  <dt>Language</dt>
-                  <dd>Python</dd>
-
-                  <dt>Created</dt>
-                  <dd>7/16/2013</dd>
-
-                  <dt>Updated</dt>
-                  <dd>9/18/2013</dd>
-
-                </dl>
-              </td>
-              <td>
-                <p>Mapping and analyzing local business data from the Census Bureau</p>
-
-                <h5>Contributors</h5>
-                <p class='contributors'>
-                  <a href='https://github.com/dssg' class='contributor-owner'><img class='img-thumbnail' src='https://0.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png' alt='Owner: dssg'/></a>
-                  <a href='https://github.com/hunterowens'><img class='img-thumbnail' src='https://2.gravatar.com/avatar/ff16180e6d9715d5ae17526cb83d7cfb?d=https%3A%2F%2Fidenticons.github.com%2Fc3663e10b721e5d713a55aebf8621901.png' alt='hunterowens' /></a>
-                  <a href='https://github.com/evz'><img class='img-thumbnail' src='https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png' alt='evz' /></a>
-                  <a href='https://github.com/fishmanadam'><img class='img-thumbnail' src='https://2.gravatar.com/avatar/d1529c1f159f49be15cf5fde0366b599?d=https%3A%2F%2Fidenticons.github.com%2Fdb534c76db466f7764d7e745900be88d.png' alt='fishmanadam' /></a>
-                  <a href='https://github.com/jtwalsh0'><img class='img-thumbnail' src='https://0.gravatar.com/avatar/05e1d117da7a62657f617bd553f4ed83?d=https%3A%2F%2Fidenticons.github.com%2F31d750398f38453e376cf435deb5fea9.png' alt='jtwalsh0' /></a>
-                  <a href='https://github.com/matthewgee'><img class='img-thumbnail' src='https://1.gravatar.com/avatar/1dbb7a239d59f1effc696f6424050a5a?d=https%3A%2F%2Fidenticons.github.com%2F9bf88927e24ab526ed285da976feecf0.png' alt='matthewgee' /></a>
-                </p>
-
-                <p>
-                  <a href='https://github.com/dssg/census-communities-usa/network'>
-                    <span class="label label-primary">8 watchers</span></a>
-                  <a href='https://github.com/dssg/census-communities-usa/network'>
-                    <span class="label label-primary">4 forks</span></a>
-                  <a href='https://github.com/dssg/census-communities-usa/issues'>
-                    <span class="label label-primary">7 open issues</span></a>
-                </p>
-              </td>
-            </tr>
           </tbody>
         </table>
 
@@ -110,6 +69,8 @@
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
+    <script src="js/mustache.js"></script>
+
 
     <script src="data/hack_night_projects.js"></script>
 
@@ -126,14 +87,59 @@
       // means some rudimentary Javascript string manipulation below,
       // but Derek is waiting for me to push this so he can change the
       // name of this repository, so I'm leaving this comment instead.
-      // for (var i = 0; i < hack_night_projects.length; i++) {
-      //   var row = "<tr id='project-" + hack_night_projects[i] + "'>   \
-      //     <td><h3><a href=\"" + hack_night_projects[i] + "\" >"
-      //     + hack_night_projects[i]
-      //     + "</a>"
-      //     + "</h3></td></tr>";
-      //   $("#hack-night-projects tbody").append(row);
-      // }
+
+      var template = "\
+        <tr>\
+          <td>\
+            <h3><a href='{{html_url}}'>{{name}}</a></h3>\
+            <dl class='dl-horizontal'>\
+              <dt>Website</dt>\
+              <dd><a href='{{homepage}}'>{{homepage}}</a></dd>\
+              <dt>Language</dt>\
+              <dd>{{language}}</dd>\
+              <dt>Created</dt>\
+              <dd>{{created_at}}</dd>\
+              <dt>Updated</dt>\
+              <dd>{{updated_at}}</dd>\
+            </dl>\
+          </td>\
+          <td>\
+            <p>{{description}}</p>\
+            <h5>Contributors</h5>\
+            <p class='contributors'>\
+              {{#owner}}\
+                <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}'/></a>\
+              {{/owner}}\
+              {{#contributors}}\
+                <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
+              {{/contributors}}\
+            </p>\
+            <p>\
+              <a href='{{html_url}}/network'>\
+                <span class='label label-primary'>{{watchers_count}} watchers</span></a>\
+              <a href='{{html_url}}/network'>\
+                <span class='label label-primary'>{{forks_count}} forks</span></a>\
+              <a href='{{html_url}}/issues'>\
+                <span class='label label-primary'>{{open_issues}} open issues</span></a>\
+            </p>\
+          </td>\
+        </tr>\
+      ";
+
+      for (var i = 0; i < hack_night_projects.length; i++) {
+        $("#hack-night-projects tbody").append(Mustache.render(template, hack_night_projects[i]));
+      }
+
+      // initialize datatables
+      $('#hack-night-projects').dataTable( {
+          "aaSorting": [ [0,'desc'] ],
+          "aoColumns": [
+              null,
+              null
+          ],
+          "bInfo": false,
+          "bPaginate": false
+      } );
     </script>
   </body>
 </html>
