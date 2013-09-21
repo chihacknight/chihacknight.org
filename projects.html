@@ -36,9 +36,7 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>Projects</h1>
-
-        <p>Civic open source projects worked on at the hack night.</p>
+        <h1>Share your civic project</h1>
 
         <div class='well'>
 
@@ -60,6 +58,9 @@
         </div>
 
         <div id='submit-message' class="alert" style="display: none;"></div>
+
+        <h1>Projects <span id='project-count'></span></h1>
+        <p>Civic, open source projects worked on at the hack night.</p>
 
         <table id='hack-night-projects' class='table'>
           <thead>
@@ -95,6 +96,7 @@
 
     <script>
 
+      // helper function for displaying messages when submitting projects
       function displayMessage(message, type) {
         $( "#submit-message" ).fadeOut(function() {
           $( "#submit-message" ).attr('class', 'alert alert-' + type);
@@ -103,7 +105,8 @@
         $( "#submit-message" ).fadeIn();
       }
       
-      //AJAX form submission to civic-json-worker
+      // AJAX form submission to civic-json-worker
+      // https://github.com/open-city/civic-json-worker
       $('#submit-project').click(function(){
          
         $.post(
@@ -120,6 +123,7 @@
         return false;
       });
        
+      // handle the case where someone hits the 'enter' key insted of the submit button
       $("#github-url").keydown(function(e){
       var key =  e.keyCode ? e.keyCode : e.which;
         if(key == 13) {
@@ -128,7 +132,7 @@
         }
       });
 
-      //rendering projects list
+      // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
         <tr>\
           <td>\
@@ -161,21 +165,31 @@
       ";
 
       $.when( $.getJSON( "https://s3.amazonaws.com/civic-json/project_details.json" ) ).then(function( json, textStatus, jqXHR ) {
-        //console.log( jqXHR.status ); // Alerts 200
 
+        // update project count at the top of the page
+        $('#project-count').html("(" + json.length + ")");
+
+        // loop through our json data
         for (var i = 0; i < json.length; i++) {
+
+          // to display text like 'x days ago' we use moment.js's awesome fromNow function 
+          // http://momentjs.com/docs/#/displaying/fromnow/
           json[i]['created_at_formatted'] = moment(json[i]['created_at']).fromNow();
           json[i]['updated_at_formatted'] = moment(json[i]['updated_at']).fromNow();
 
+          // check to make sure all our URL's have http:// in front of them
+          // otherwise they won't link properly
           var prefix = 'http://';
           var homepage = json[i]['homepage'];
           if (homepage != null && homepage.substr(0, prefix.length) !== prefix)
             json[i]['homepage'] = prefix + homepage;
 
+          // using the template above, add the project as a new row to our table
           $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
         }
 
-        // initialize datatables
+        // initialize datatables for sorting and searching
+        // http://datatables.net/
         $('#hack-night-projects').dataTable( {
             "aaSorting": [ [0,'asc'] ],
             "aoColumns": [
