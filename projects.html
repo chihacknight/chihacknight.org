@@ -68,6 +68,9 @@
             <tr>
               <th>Project</th>
               <th>Description</th>
+              <th>Stars</th>
+              <th>Forks</th>
+              <th>Issues</th>
             </tr>
           </thead>
           <tbody>
@@ -139,15 +142,17 @@
         <tr>\
           <td>\
             <h3><a href='{{html_url}}'>{{name}}</a></h3>\
-            <a href='{{homepage}}'>{{homepage}}</a>\
+            <a href='{{homepage}}'>Website</a>\
             <br /><strong>Updated</strong>\
             {{updated_at_formatted}}\
             <br /><strong>Created</strong>\
             {{created_at_formatted}}\
+            <br /><strong>Language</strong>\
+            {{language}}\
           </td>\
           <td>\
             <p>{{description}}</p>\
-            <h5>Contributors</h5>\
+            <h4>Contributors</h4>\
             <p class='contributors'>\
               {{#owner}}\
                 <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}'/></a>\
@@ -156,12 +161,15 @@
                 <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
               {{/contributors}}\
             </p>\
-            <p>\
-              <a class='btn btn-default' href='{{html_url}}/network'>{{watchers_count}} <i class='icon-eye-open'></i></a>\
-              <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} <i class='icon-code-fork'></i></a>\
-              <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} <i class='icon-exclamation-sign'></i></a>\
-              {{language}}\
-            </p>\
+          </td>\
+          <td>\
+            <a class='btn btn-default' href='{{html_url}}/network'>{{watchers_count}} <i class='icon-star'></i></a>\
+          </td>\
+          <td>\
+            <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} <i class='icon-code-fork'></i></a>\
+          </td>\
+          <td>\
+            <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} <i class='icon-exclamation-sign'></i></a>\
           </td>\
         </tr>\
       ";
@@ -193,10 +201,13 @@
         // initialize datatables for sorting and searching
         // http://datatables.net/
         var projects_table = $('#hack-night-projects').dataTable( {
-            "aaSorting": [ [0,'asc'] ],
+            "aaSorting": [ [2,'desc'], [3, 'desc'] ],
             "aoColumns": [
                 null,
-                null
+                null,
+                { "sType": "num-html" },
+                { "sType": "num-html" },
+                { "sType": "num-html" }
             ],
             "bInfo": false,
             "bPaginate": false
