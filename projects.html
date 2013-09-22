@@ -93,6 +93,7 @@
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
+    <script src="js/jquery.address.js"></script>
     <script src="js/mustache.js"></script>
 
     <script>
@@ -191,7 +192,7 @@
 
         // initialize datatables for sorting and searching
         // http://datatables.net/
-        $('#hack-night-projects').dataTable( {
+        var projects_table = $('#hack-night-projects').dataTable( {
             "aaSorting": [ [0,'asc'] ],
             "aoColumns": [
                 null,
@@ -200,6 +201,16 @@
             "bInfo": false,
             "bPaginate": false
         } );
+
+        // allows linking directly to searches
+        if ($.address.parameter('search') != undefined) {
+          console.log( 'filtering on ' + $.address.parameter('search') );
+          projects_table.fnFilter( $.address.parameter('search') );
+        }
+
+        $('#hack-night-projects_filter input').keyup(function(e){
+          $.address.parameter('search', $('#hack-night-projects_filter input').val());
+        });
       });
     </script>
   </body>
