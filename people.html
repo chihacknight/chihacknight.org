@@ -45,6 +45,7 @@
           <thead>
             <tr>
               <th>Name</th>
+              <th>Location</th>
               <th>Civic projects</th>
               <th>Contributions</th>
             </tr>
@@ -82,9 +83,10 @@
           <td>\
             <a href='{{html_url}}'>\
               <img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' />\
-              {{login}}\
+              {{name}}\
             </a>\
           </td>\
+          <td>{{location}}</td>\
           <td><a href='projects.html#/?search={{login}}'>{{repositories}}</a></td>\
           <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
         </tr>\
@@ -97,13 +99,17 @@
 
         // loop through our json data
         for (var i = 0; i < json.length; i++) {
+          if (json[i]['name'] == null)
+            json[i]['name'] = json[i]['login'];
+          
           $("#hack-night-people tbody").append(Mustache.render(template, json[i]));
         }
 
         // initialize datatables
         $('#hack-night-people').dataTable( {
-            "aaSorting": [ [1,'desc'], [2, 'desc'] ],
+            "aaSorting": [ [2,'desc'], [3, 'desc'] ],
             "aoColumns": [
+                null,
                 null,
                 { "sType": "num-html" },
                 { "sType": "num-html" }
