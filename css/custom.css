@@ -21,6 +21,10 @@ body {
   width: 50px;
 }
 
+.sponsors img {
+  padding: 10px 30px 10px 0;
+}
+
 .label:hover { text-decoration: none; }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
