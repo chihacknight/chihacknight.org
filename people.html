@@ -44,9 +44,9 @@
         <table id='hack-night-people' class='table people'>
           <thead>
             <tr>
-              <td>Name</td>
-              <td>Contributions</td>
-              <td>Repositories</td>
+              <th>Name</th>
+              <th>Civic projects</th>
+              <th>Contributions</th>
             </tr>
           </thead>
           <tbody>
@@ -85,8 +85,8 @@
               {{login}}\
             </a>\
           </td>\
-          <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
           <td><a href='https://github.com/{{login}}?tab=repositories'>{{repositories}}</a></td>\
+          <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
         </tr>\
       ";
 
@@ -102,7 +102,7 @@
 
         // initialize datatables
         $('#hack-night-people').dataTable( {
-            "aaSorting": [ [2,'desc'], [1, 'desc'] ],
+            "aaSorting": [ [1,'desc'], [2, 'desc'] ],
             "aoColumns": [
                 null,
                 { "sType": "num-html" },
