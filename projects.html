@@ -204,10 +204,10 @@
 
         // allows linking directly to searches
         if ($.address.parameter('search') != undefined) {
-          console.log( 'filtering on ' + $.address.parameter('search') );
           projects_table.fnFilter( $.address.parameter('search') );
         }
 
+        // when someone types a search value, it updates the URL
         $('#hack-night-projects_filter input').keyup(function(e){
           $.address.parameter('search', $('#hack-night-projects_filter input').val());
         });
