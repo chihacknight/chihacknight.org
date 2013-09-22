@@ -37,9 +37,11 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>People</h1>
+        <h1>People <span id='people-count'></span></h1>
 
-        <table id='hack-night-people' class='table'>
+        <p>Developers and designers that work on <a href='projects.html'>civic projects</a>.</p>
+
+        <table id='hack-night-people' class='table people'>
           <thead>
             <tr>
               <td>Name</td>
@@ -72,43 +74,44 @@
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/mustache.js"></script>
 
-    <script src="data/hack_night_people.js"></script>
-
     <script>
 
       // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
         <tr>\
           <td>\
-            <h3 class='contributors'>\
-                <a href='{{html_url}}'>\
-                  <img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' />\
-                  {{login}}\
-                </a>\
-            </h3>\
+            <a href='{{html_url}}'>\
+              <img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' />\
+              {{login}}\
+            </a>\
           </td>\
-          <td>{{contributions}}</td>\
-          <td>{{repositories}}</td>\
+          <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
+          <td><a href='https://github.com/{{login}}?tab=repositories'>{{repositories}}</a></td>\
         </tr>\
       ";
 
-      // loop through our json data
-      for (var i = 0; i < hack_night_people.length; i++) {
-        $("#hack-night-people tbody").append(Mustache.render(template, hack_night_people[i]));
-      }
+      $.when( $.getJSON( "https://s3.amazonaws.com/civic-json/people.json" ) ).then(function( json, textStatus, jqXHR ) {
 
-      // initialize datatables
-      $('#hack-night-people').dataTable( {
-          "aaSorting": [ [1,'desc'] ],
-          "aoColumns": [
-              null,
-              { "sType": "numeric" },
-              { "sType": "numeric" }
-          ],
-          "bInfo": false,
-          "bPaginate": false
-      } );
+        // update project count at the top of the page
+        $('#people-count').html("(" + json.length + ")");
 
+        // loop through our json data
+        for (var i = 0; i < json.length; i++) {
+          $("#hack-night-people tbody").append(Mustache.render(template, json[i]));
+        }
+
+        // initialize datatables
+        $('#hack-night-people').dataTable( {
+            "aaSorting": [ [2,'desc'], [1, 'desc'] ],
+            "aoColumns": [
+                null,
+                { "sType": "num-html" },
+                { "sType": "num-html" }
+            ],
+            "bInfo": false,
+            "bPaginate": false
+        });
+      });
     </script>
   </body>
 </html>

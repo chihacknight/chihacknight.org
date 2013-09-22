@@ -13,6 +13,14 @@ body {
   border: 1px solid #428bca;
 }
 
+.people td {
+  font-size: 25px;
+}
+
+.people img {
+  width: 50px;
+}
+
 .label:hover { text-decoration: none; }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
