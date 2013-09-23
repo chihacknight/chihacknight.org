@@ -1,5 +1,12 @@
 var hack_night_events = [
   {
+    "id": "101",
+    "title": "Chicago Works for You",
+    "date": "2013-09-24",
+    "description": "<a href='https://twitter.com/cgansen'>Chris Gansen</a> will demo <a href='http://chicagoworksforyou.com/'>Chicago Works for You</a>, a citywide dashboard by <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago</a> that displays ward-by-ward views of city services in Chicago. <a href='http://www.smartchicagocollaborative.org/the-launch-of-chicago-works-for-you/'>Click here</a> for more info on the app, and <a href='http://www.smartchicagocollaborative.org/building-chicago-works-for-you/'>here</a> for how it was made. The app's github repo is <a href='https://github.com/smartchicago/chicagoworksforyou/'>here</a>.",
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+  },
+  {
     "id": "100",
     "title": "Open Hack Session",
     "date": "2013-09-17",
@@ -17,21 +24,21 @@ var hack_night_events = [
     "id": "98",
     "title": "Go To School!",
     "date": "2013-09-03",
-    "description": "<p>Tom Kompare will discuss his experience building <a href='http://cps.go2school.org/'>Go To School</a>, an app developed built with volunteer labor in partnership with <a href='http://cps.edu/Pages/home.aspx'>Chicago Public Schools</a> to help parents get their kids to school safely and on time.</p><p>We will also discuss the <a href='https://data.cityofchicago.org/browse?q=cps&sortBy=relevance&utf8=%E2%9C%93'>data that CPS makes available</a>, and how it can be used to make other useful apps for Chicagoans.</p>",
+    "description": "<p><a href='https://twitter.com/tomkompare'>Tom Kompare</a> will discuss his experience building <a href='http://cps.go2school.org/'>Go To School</a>, an app developed built with volunteer labor in partnership with <a href='http://cps.edu/Pages/home.aspx'>Chicago Public Schools</a> to help parents get their kids to school safely and on time.</p><p>We will also discuss the <a href='https://data.cityofchicago.org/browse?q=cps&sortBy=relevance&utf8=%E2%9C%93'>data that CPS makes available</a>, and how it can be used to make other useful apps for Chicagoans.</p>",
     "sponsor": "<a href='http://datamade.us'>DataMade</a>"
   },
   {
     "id": "97",
     "title": "Data Science for Social Good Recap",
     "date": "2013-08-27",
-    "description": "<p>Tom Plagge and Juan-Pablo Velez will give a brief retrospective of the <a href=''>Data Science for Social Good</a> summer fellowship program at UChicago where students with CS and statistics backgrounds work on real-world projects with governments and nonprofits.</p><p>The fellowship wrapped up last Friday, and Tom and Juan will share results from projects involving <a href='http://dssg.io/2013/08/02/why-bus-crowding-happens.html'>the CTA</a>, Chicago Streets and Sanitation, the <a href='http://dssg.io/2013/07/11/cook-county-land-bank.html'>Cook County Land Bank</a>, and Northshore Hospital.</p>",
+    "description": "<p><a href='https://twitter.com/tplagge'>Tom Plagge</a> and <a href='https://twitter.com/jpvelez'>Juan-Pablo Velez</a> will give a brief retrospective of the <a href=''>Data Science for Social Good</a> summer fellowship program at UChicago where students with CS and statistics backgrounds work on real-world projects with governments and nonprofits.</p><p>The fellowship wrapped up last Friday, and Tom and Juan will share results from projects involving <a href='http://dssg.io/2013/08/02/why-bus-crowding-happens.html'>the CTA</a>, Chicago Streets and Sanitation, the <a href='http://dssg.io/2013/07/11/cook-county-land-bank.html'>Cook County Land Bank</a>, and Northshore Hospital.</p>",
     "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
   },
   {
     "id": "96",
     "title": "Englewood Codes Recap",
     "date": "2013-08-20",
-    "description": "<p>Demond Drummer of <a href='http://www.teamworkenglewood.org/'>Teamwork Englewood</a> will talk about lessons learned and what's next for <a href='http://www.teamworkenglewood.org/Smart-Communities-Program/Englewood-Codes.html?utm_source=%2fcode&utm_medium=web&utm_campaign=redirect'>Englewood Codes</a>, a <a href='http://www.kickstarter.com/projects/1348602678/englewood-codes'>Kickstarter</a> and <a href='http://www.afterschoolmatters.org/'>After School Matters</a> funded project where 25 teens from the Englewood community spent the summer learning HTML, CSS and JavaScript and hacking around with the <a href='http://www.raspberrypi.org/'>Raspberry Pi</a>.</p>",
+    "description": "<p><a href='https://twitter.com/citizendrummer'>Demond Drummer</a> of <a href='http://www.teamworkenglewood.org/'>Teamwork Englewood</a> will talk about lessons learned and what's next for <a href='http://www.teamworkenglewood.org/Smart-Communities-Program/Englewood-Codes.html?utm_source=%2fcode&utm_medium=web&utm_campaign=redirect'>Englewood Codes</a>, a <a href='http://www.kickstarter.com/projects/1348602678/englewood-codes'>Kickstarter</a> and <a href='http://www.afterschoolmatters.org/'>After School Matters</a> funded project where 25 teens from the Englewood community spent the summer learning HTML, CSS and JavaScript and hacking around with the <a href='http://www.raspberrypi.org/'>Raspberry Pi</a>.</p>",
     "sponsor": "<a href='http://openshift.com/'>OpenShift</a>"
   },
   {

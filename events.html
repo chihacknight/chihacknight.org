@@ -38,6 +38,8 @@
 
         <!-- Begin page content-->
         <h1>Events</h1>
+        <p>Notes on recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
+        <br>
 
         <table id='hack-night-events' class='table'>
           <thead>
@@ -69,29 +71,34 @@
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
+    <script src="js/mustache.js"></script>
 
     <script src="data/hack_night_events.js"></script>
 
     <script>
 
-      for (var i = 0; i < hack_night_events.length; i++) {
-        var date = new moment(hack_night_events[i]['date']);
-        var row = "<tr id='event-" + hack_night_events[i]['id'] + "'>\
+      var template = "\
+        <tr>\
           <td class='nowrap'>\
             <div class='well text-center'>\
-              <time datetime='" + date.format('YYYY-MM-DD') + "'>\
-              " + date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]') + "\
+              <time datetime='{{date}}'>\
+              {{{date_formatted}}}\
               </time>\
             </div>\
           </td>\
           <td>\
-            <h3>" + hack_night_events[i]['title'] + "</h3>\
-            " + hack_night_events[i]['description'] + "\
-            <p class='text-muted'>Sponsor: " + hack_night_events[i]['sponsor'] + "</p>\
+            <h3>{{title}}</h3>\
+            {{{description}}}\
+            <p class='text-muted'>Sponsor: {{{sponsor}}}</p>\
           </td>\
-          </tr>";
+        </tr>\
+      ";
 
-        $("#hack-night-events tbody").append(row);
+      for (var i = 0; i < hack_night_events.length; i++) {
+        var date = new moment(hack_night_events[i]['date']);
+        hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
+        hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
+        $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
       }
 
       // initialize datatables
