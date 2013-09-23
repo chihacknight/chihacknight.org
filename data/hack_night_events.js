@@ -1,5 +1,12 @@
 var hack_night_events = [
   {
+    "id": "101",
+    "title": "Chicago Works for You",
+    "date": "2013-09-24",
+    "description": "<a href='https://twitter.com/cgansen'>Chris Gansen</a> will demo <a href='http://chicagoworksforyou.com/'>Chicago Works for You</a>, an app by <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago</a> that provides a citywide dashboard with ward-by-ward views of service delivery in Chicago.",
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+  },
+  {
     "id": "100",
     "title": "Open Hack Session",
     "date": "2013-09-17",
