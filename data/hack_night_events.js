@@ -11,7 +11,7 @@ var hack_night_events = [
     "title": "Open Hack Session",
     "date": "2013-09-17",
     "description": "No presenters - just come ready to build, chat and learn with other civic hackers, government do-gooders, and curious citizens!",
-    "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
+    "sponsor": "<a href='https://www.openshift.com'>Open Shift</a>"
   },
   {
     "id": "99",
