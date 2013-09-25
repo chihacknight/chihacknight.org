@@ -190,11 +190,12 @@
 
           // check to make sure all our URL's have http:// in front of them
           // otherwise they won't link properly
-          var prefix = 'http://';
+          var prefix_regex = /^https?:\/\/.*/;
           var homepage = json[i]['homepage'];
-          if (homepage != null && homepage.substr(0, prefix.length) !== prefix)
-            json[i]['homepage'] = prefix + homepage;
-
+          if (homepage != null && !prefix_regex.test(homepage)){
+            json[i]['homepage'] = "http://" + homepage;
+          }
+           
           // using the template above, add the project as a new row to our table
           $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
         }
