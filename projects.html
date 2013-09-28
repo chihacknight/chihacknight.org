@@ -112,15 +112,15 @@
         });
         $( "#submit-message" ).fadeIn();
       }
-      
+
       // AJAX form submission to civic-json-worker
       // https://github.com/open-city/civic-json-worker
       $('#submit-project').click(function(){
-         
+
         $.post(
-          'http://civic-json-app.herokuapp.com/add-project/', 
-          data={'project_url': $('#github-url').val()}, 
-          function(resp){ 
+          'http://civic-json.e-vz.com/add-project/',
+          data={'project_url': $('#github-url').val()},
+          function(resp){
             displayMessage( "<strong>Your project has been submitted!</strong> It should display below within 5 minutes.", 'success' );
             $("#github-url").val("");
           }
@@ -130,7 +130,7 @@
 
         return false;
       });
-       
+
       // handle the case where someone hits the 'enter' key insted of the submit button
       $("#github-url").keydown(function(e){
       var key =  e.keyCode ? e.keyCode : e.which;
@@ -187,7 +187,7 @@
         // loop through our json data
         for (var i = 0; i < json.length; i++) {
 
-          // to display text like 'x days ago' we use moment.js's awesome fromNow function 
+          // to display text like 'x days ago' we use moment.js's awesome fromNow function
           // http://momentjs.com/docs/#/displaying/fromnow/
           json[i]['created_at_formatted'] = moment(json[i]['created_at']).fromNow();
           json[i]['updated_at_formatted'] = moment(json[i]['updated_at']).fromNow();
@@ -200,7 +200,7 @@
             json[i]['homepage_formatted'] = "http://" + homepage;
           else
             json[i]['homepage_formatted'] = homepage;
-           
+
           // using the template above, add the project as a new row to our table
           $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
         }
