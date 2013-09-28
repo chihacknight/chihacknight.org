@@ -163,7 +163,9 @@
                 <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}'/></a>\
               {{/owner}}\
               {{#contributors}}\
-                <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
+                {{^owner}}\
+                  <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
+                {{/owner}}\
               {{/contributors}}\
             </p>\
           </td>\
