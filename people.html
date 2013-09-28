@@ -77,6 +77,9 @@
     <script src="js/mustache.js"></script>
 
     <script>
+      // Set this up like this to make it easier to dev this locally -- evz
+      var data_host = 'http://civic-json.e-vz.com'
+      // var data_host = 'http://civic-json.datamade.dev.work'
 
       // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
@@ -93,18 +96,18 @@
         </tr>\
       ";
 
-      $.when( $.getJSON( "https://s3.amazonaws.com/civic-json/people.json" ) ).then(function( json, textStatus, jqXHR ) {
+      $.when( $.getJSON( data_host + "/data/people.json" ) ).then(function( data, textStatus, jqXHR ) {
 
         // update project count at the top of the page
-        $('#people-count').html("(" + json.length + ")");
+        $('#people-count').html("(" + data.length + ")");
 
         // loop through our json data
-        for (var i = 0; i < json.length; i++) {
-          if (json[i]['name'] == null)
-            json[i]['name'] = json[i]['login'];
-          
-          $("#hack-night-people tbody").append(Mustache.render(template, json[i]));
-        }
+        $.each(data, function(i, json){
+          if (json['name'] == null)
+            json['name'] = json['login'];
+
+          $("#hack-night-people tbody").append(Mustache.render(template, json));
+        })
 
         // initialize datatables
         $('#hack-night-people').dataTable( {

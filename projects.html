@@ -103,6 +103,9 @@
     <script src="js/mustache.js"></script>
 
     <script>
+      // Set this up like this to make it easier to dev this locally -- evz
+      var data_host = 'http://civic-json.e-vz.com'
+      // var data_host = 'http://civic-json.datamade.dev.work'
 
       // helper function for displaying messages when submitting projects
       function displayMessage(message, type) {
@@ -118,7 +121,7 @@
       $('#submit-project').click(function(){
 
         $.post(
-          'http://civic-json.e-vz.com/add-project/',
+          data_host + '/add-project/',
           data={'project_url': $('#github-url').val()},
           function(resp){
             displayMessage( "<strong>Your project has been submitted!</strong> It should display below within 5 minutes.", 'success' );
@@ -181,31 +184,31 @@
         </tr>\
       ";
 
-      $.when( $.getJSON( "https://s3.amazonaws.com/civic-json/project_details.json" ) ).then(function( json, textStatus, jqXHR ) {
+      $.when( $.getJSON( data_host + "/data/project_details.json" ) ).then(function( data, textStatus, jqXHR ) {
 
         // update project count at the top of the page
-        $('#project-count').html("(" + json.length + ")");
+        $('#project-count').html("(" + data.length + ")");
 
         // loop through our json data
-        for (var i = 0; i < json.length; i++) {
+        $.each(data, function(i, json){
 
           // to display text like 'x days ago' we use moment.js's awesome fromNow function
           // http://momentjs.com/docs/#/displaying/fromnow/
-          json[i]['created_at_formatted'] = moment(json[i]['created_at']).fromNow();
-          json[i]['updated_at_formatted'] = moment(json[i]['updated_at']).fromNow();
+          json['created_at_formatted'] = moment(json['created_at']).fromNow();
+          json['updated_at_formatted'] = moment(json['updated_at']).fromNow();
 
           // check to make sure all our URL's have http:// in front of them
           // otherwise they won't link properly
           var prefix_regex = /^https?:\/\/.*/;
-          var homepage = json[i]['homepage'];
+          var homepage = json['homepage'];
           if (homepage != null && !prefix_regex.test(homepage))
-            json[i]['homepage_formatted'] = "http://" + homepage;
+            json['homepage_formatted'] = "http://" + homepage;
           else
-            json[i]['homepage_formatted'] = homepage;
+            json['homepage_formatted'] = homepage;
 
           // using the template above, add the project as a new row to our table
-          $("#hack-night-projects tbody").append(Mustache.render(template, json[i]));
-        }
+          $("#hack-night-projects tbody").append(Mustache.render(template, json));
+        })
 
         // initialize datatables for sorting and searching
         // http://datatables.net/
