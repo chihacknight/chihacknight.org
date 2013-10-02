@@ -37,12 +37,11 @@
         </div>
 
         <div class="jumbotron">
-          <p class="lead"><a href='http://opencityapps.org'>Open City</a> presents</h3>
+          <p><a href='http://opencityapps.org'>Open City</a> presents</p>
           <h1>Open Gov Hack Night</h1>
-          <p class="lead">Chicago's place to build, share, and learn about civic tech.</p>
-          <p>
-            <a class="btn btn-lg btn-success" href="http://opengovhacknight.eventbrite.com/">Join us next Tuesday!</a>
-          </p>
+          <p>Chicago's place to build, share, and learn about civic tech.</p>
+          <a class="btn btn-lg btn-success" href="http://opengovhacknight.eventbrite.com/">Join us next Tuesday!</a>
+          <p id='recent-event'></p>
         </div>
 
         <div id='about' class='row'>
@@ -216,5 +215,17 @@
     <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/analytics_lib.js"></script>
+
+    <script src="js/moment.min.js"></script>
+    <script src="data/hack_night_events.js"></script>
+
+    <script>
+      if (hack_night_events.length > 0) {
+        var date = new moment(hack_night_events[0]['date']);
+
+        $("#recent-event").html("Recently: " + date.format('M/DD') + " - <a href='events.html'>" + hack_night_events[0]['title'] + "</a>");
+      }
+    </script>
+
   </body>
 </html>
