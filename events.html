@@ -89,7 +89,16 @@
           <td>\
             <h3>{{title}}</h3>\
             {{{description}}}\
-            <p class='text-muted'>Sponsor: {{{sponsor}}}</p>\
+            <ul class='list-inline link-list'>\
+              {{#links_present}}<li><span class='text-muted'>Links</span></li>{{/links_present}}\
+              {{#links}}\
+                <li><a href='{{url}}'>{{name}}</a></li>\
+              {{/links}}\
+            </ul>\
+            <ul class='list-inline'>\
+              <li><span class='text-muted'>Sponsor</span></li>\
+              <li>{{{sponsor}}}</li>\
+            </ul>\
           </td>\
         </tr>\
       ";
@@ -100,6 +109,7 @@
         var date = new moment(hack_night_events[i]['date']);
         hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
         hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
+        hack_night_events[i]['links_present'] = "links" in hack_night_events[i];
         $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
       }
 
