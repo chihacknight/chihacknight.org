@@ -37,35 +37,34 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>Share your civic tech project</h1>
-
-        <div class='well'>
-
-          <p>Add a project for us to track. We <a href='https://github.com/open-city/civic-json-worker'>automatically update</a> this list based on your <a href='https://github.com/'>Github</a> activity.</p>
-
-          <form class="form-horizontal" role="form">
-            <div class="form-group">
-              <label for="github-url" class="col-lg-2 control-label">Github URL</label>
-              <div class="col-lg-10">
-                <input type="text" class="form-control" id="github-url" placeholder="https://github.com/my-name/my-project">
-              </div>
-            </div>
-            <div class="form-group">
-              <div class="col-lg-offset-2 col-lg-10">
-                <button  id='submit-project' type="submit" class="btn btn-success">Submit</button>
-              </div>
-            </div>
-          </form>
-        </div>
-        <br>
-        <br>
-
-        <div id='submit-message' class="alert" style="display: none;"></div>
-
-        <h1>Projects <span id='project-count'></span></h1>
+        <h1>Projects <small id='project-count'></small></h1>
         <p>Open source civic tech projects from Chicago's open gov community. Most were built using <a href="http://data.cityofchicago.org">open data</a>.</p>
-        <br>
+        <h4><a id='share-toggle' href='#'>Share your civic tech project &raquo;</a></h4>
 
+        <div id='share-project' style='display:none;'>
+          <div class='well'>
+
+            <p>Add a project for us to track. We <a href='https://github.com/open-city/civic-json-worker'>automatically update</a> this list based on your <a href='https://github.com/'>Github</a> activity.</p>
+
+            <form class="form-horizontal" role="form">
+              <div class="form-group">
+                <label for="github-url" class="col-lg-2 control-label">Github URL</label>
+                <div class="col-lg-10">
+                  <input type="text" class="form-control" id="github-url" placeholder="https://github.com/my-name/my-project">
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-lg-offset-2 col-lg-10">
+                  <button  id='submit-project' type="submit" class="btn btn-success">Submit</button>
+                </div>
+              </div>
+            </form>
+          </div>
+
+          <div id='submit-message' class="alert" style="display: none;"></div>
+        </div>
+
+        <hr />
         <table id='hack-night-projects' class='table'>
           <thead>
             <tr>
@@ -116,6 +115,11 @@
         $( "#submit-message" ).fadeIn();
       }
 
+      $('#share-toggle').click(function(){
+        $('#share-project').slideToggle();
+        return false;
+      });
+
       // AJAX form submission to civic-json-worker
       // https://github.com/open-city/civic-json-worker
       $('#submit-project').click(function(){
@@ -142,6 +146,8 @@
           return false;
         }
       });
+
+      var projects_table;
 
       // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
@@ -187,7 +193,7 @@
       $.when( $.getJSON( data_host + "/data/project_details.json" ) ).then(function( data, textStatus, jqXHR ) {
 
         // update project count at the top of the page
-        $('#project-count').html("(" + data.length + ")");
+        $('#project-count').html(data.length);
 
         // loop through our json data
         $.each(data, function(i, json){
@@ -212,7 +218,7 @@
 
         // initialize datatables for sorting and searching
         // http://datatables.net/
-        var projects_table = $('#hack-night-projects').dataTable( {
+        projects_table = $('#hack-night-projects').dataTable( {
             "aaSorting": [ [2,'desc'], [3, 'desc'] ],
             "aoColumns": [
                 null,
@@ -228,6 +234,7 @@
         // allows linking directly to searches
         if ($.address.parameter('search') != undefined) {
           projects_table.fnFilter( $.address.parameter('search') );
+          // $('#project-count').html(projects_table.fnSettings().fnRecordsDisplay());
         }
 
         // when someone types a search value, it updates the URL

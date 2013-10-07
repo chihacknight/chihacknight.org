@@ -37,7 +37,7 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>Events</h1>
+        <h1>Events <small id='event-count'></small></h1>
         <p>Notes on recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
         <br>
 
@@ -93,6 +93,8 @@
           </td>\
         </tr>\
       ";
+
+      $('#event-count').html(hack_night_events.length);
 
       for (var i = 0; i < hack_night_events.length; i++) {
         var date = new moment(hack_night_events[i]['date']);
