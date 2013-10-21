@@ -1,5 +1,16 @@
 var hack_night_events = [
   {
+    "id": "103",
+    "title": "The Bike Index",
+    "date": "2013-10-22",
+    "description": "<p>Seth Herr will be talking about <a href='https://www.bikeindex.org/'>the Bike Index</a>, an <a href='https://github.com/bikeindex/webapp'>open source</a> bike registry to fight bike theft. Herr & co just had super successful <a href='http://www.kickstarter.com/projects/1073266317/the-bike-index-lets-stop-bike-theft-together'>Kickstarter campaign</a>.</p>",
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
+    "links": [
+      {"name": "The Bike Index", "url": "https://www.bikeindex.org/"},
+      {"name": "Github repo", "url": "https://github.com/bikeindex/webapp"}
+    ]
+  },
+  {
     "id": "102",
     "title": "Center for Neighborhood Technology Hackathon",
     "date": "2013-10-08",
