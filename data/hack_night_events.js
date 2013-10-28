@@ -1,5 +1,17 @@
 var hack_night_events = [
   {
+    "id": "104",
+    "title": "The City of Chicago Data Dictionary",
+    "date": "2013-10-22",
+    "description": "<p><a href='https://twitter.com/tomschenkjr'>Tom Schenk</a> will discuss the recently launched <a href='http://datadictionary.cityofchicago.org/'>Chicago Data Dictionary</a>, a website that serves as a single, comprehensive database catalog for the City of Chicago and City of Chicago sister agencies. The City has released the underlying code for this dictionary as open source, titled <a href='https://github.com/chicago/metalicious'>Metalicious</a>.</p>",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+    "links": [
+      {"name": "City of Chicago Data Dictionary", "url": "http://datadictionary.cityofchicago.org/"},
+      {"name": "Metalicious Github repo", "url": "https://github.com/chicago/metalicious"},
+      {"name": "City of Chicago Launches the First Comprehensive, Public Data Dictionary - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/city-of-chicago-launches-the-first-comprehensive-public-municipal-data-dictionary/"}
+    ]
+  },
+  {
     "id": "103",
     "title": "The Bike Index",
     "date": "2013-10-22",
@@ -24,7 +36,7 @@ var hack_night_events = [
     "description": "<p><a href='https://twitter.com/cgansen'>Chris Gansen</a> will demo <a href='http://chicagoworksforyou.com/'>Chicago Works for You</a>, a citywide dashboard by <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago</a> that displays ward-by-ward views of city services in Chicago. <a href='http://www.smartchicagocollaborative.org/the-launch-of-chicago-works-for-you/'>Click here</a> for more info on the app, and <a href='http://www.smartchicagocollaborative.org/building-chicago-works-for-you/'>here</a> for how it was made. The app's github repo is <a href='https://github.com/smartchicago/chicagoworksforyou/'>here</a>.</p>",
     "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
     "links": [
-      {"name": "Smart Chicago blog", "url": "http://www.smartchicagocollaborative.org/hack-night-live-chicago-works-for-you/"},
+      {"name": "Hack Night Live: Chicago Works for You - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/hack-night-live-chicago-works-for-you/"},
       {"name": "Chicago Works for You", "url": "http://chicagoworksforyou.com/"},
       {"name": "Github repo", "url": "https://github.com/smartchicago/chicagoworksforyou"}
     ]
@@ -43,7 +55,7 @@ var hack_night_events = [
     "description": "<p>Matthew Shaxted will share recent projects that investigate smart cities using data analysis, webGL visualization and agent-based simulation.</p>",
     "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>",
     "links": [
-      {"name": "Smart Chicago blog", "url": "http://www.smartchicagocollaborative.org/opengov-hack-night-smarter-cities-using-data-visualization/"}
+      {"name": "OpenGov Hack Night: Smarter Cities using Data Visualization - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/opengov-hack-night-smarter-cities-using-data-visualization/"}
     ]
   },
   {
@@ -53,9 +65,9 @@ var hack_night_events = [
     "description": "<p><a href='https://twitter.com/tomkompare'>Tom Kompare</a> will discuss his experience building <a href='http://cps.go2school.org/'>Go To School</a>, an app developed built with volunteer labor in partnership with <a href='http://cps.edu/Pages/home.aspx'>Chicago Public Schools</a> to help parents get their kids to school safely and on time.</p><p>We will also discuss the <a href='https://data.cityofchicago.org/browse?q=cps&sortBy=relevance&utf8=%E2%9C%93'>data that CPS makes available</a>, and how it can be used to make other useful apps for Chicagoans.</p>",
     "sponsor": "<a href='http://datamade.us'>DataMade</a>",
     "links": [
-      {"name": "Smart Chicago blog", "url": "http://www.smartchicagocollaborative.org/hack-night-live-go-to-school-and-cps-data/"},
       {"name": "Go To School!", "url": "http://cps.go2school.org/"},
-      {"name": "Github repo", "url": "https://github.com/tkompare/go2school-cps-en"}
+      {"name": "Github repo", "url": "https://github.com/tkompare/go2school-cps-en"},
+      {"name": "Hack Night Live: Go To School and CPS Data - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/hack-night-live-go-to-school-and-cps-data/"}
     ]
   },
   {
@@ -65,8 +77,8 @@ var hack_night_events = [
     "description": "<p><a href='https://twitter.com/tplagge'>Tom Plagge</a> and <a href='https://twitter.com/jpvelez'>Juan-Pablo Velez</a> will give a brief retrospective of the <a href=''>Data Science for Social Good</a> summer fellowship program at UChicago where students with CS and statistics backgrounds work on real-world projects with governments and nonprofits.</p><p>The fellowship wrapped up last Friday, and Tom and Juan will share results from projects involving <a href='http://dssg.io/2013/08/02/why-bus-crowding-happens.html'>the CTA</a>, Chicago Streets and Sanitation, the <a href='http://dssg.io/2013/07/11/cook-county-land-bank.html'>Cook County Land Bank</a>, and Northshore Hospital.</p>",
     "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
     "links": [
-      {"name": "Smart Chicago blog", "url": "http://www.smartchicagocollaborative.org/data-science-fellowship-for-social-good-demos/"},
-      {"name": "Data Science for Social Good", "url": "http://dssg.io/"}
+      {"name": "Data Science for Social Good", "url": "http://dssg.io/"},
+      {"name": "Data Science Fellowship for Social Good Demos - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/data-science-fellowship-for-social-good-demos/"}
     ]
   },
   {
@@ -76,8 +88,8 @@ var hack_night_events = [
     "description": "<p><a href='https://twitter.com/citizendrummer'>Demond Drummer</a> of <a href='http://www.teamworkenglewood.org/'>Teamwork Englewood</a> will talk about lessons learned and what's next for <a href='http://www.teamworkenglewood.org/Smart-Communities-Program/Englewood-Codes.html?utm_source=%2fcode&utm_medium=web&utm_campaign=redirect'>Englewood Codes</a>, a <a href='http://www.kickstarter.com/projects/1348602678/englewood-codes'>Kickstarter</a> and <a href='http://www.afterschoolmatters.org/'>After School Matters</a> funded project where 25 teens from the Englewood community spent the summer learning HTML, CSS and JavaScript and hacking around with the <a href='http://www.raspberrypi.org/'>Raspberry Pi</a>.</p>",
     "sponsor": "<a href='http://openshift.com/'>OpenShift</a>",
     "links": [
-      {"name": "Smart Chicago blog", "url": "http://www.smartchicagocollaborative.org/congrats-englewood-codes/"},
-      {"name": "Englewood Codes", "url": "http://www.teamworkenglewood.org/news/6225"}
+      {"name": "Englewood Codes", "url": "http://www.teamworkenglewood.org/news/6225"},
+      {"name": "Englewood Codes Demo Day is Tonight - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/congrats-englewood-codes/"}
     ]
   },
   {
@@ -92,7 +104,11 @@ var hack_night_events = [
     "title": "DataMandering",
     "date": "2013-08-06",
     "description": "<p>John Fahrenbach will talk about his <a href='http://datamandering.org/'>Datamandering</a> project, an online tool for demystifying the <a href='http://en.wikipedia.org/wiki/Gerrymandering'>gerrymandering</a> process with open data.</p>",
-    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
+    "links": [
+      {"name": "Datamandering", "url": "http://datamandering.org/"},
+      {"name": "Github repo", "url": "https://github.com/jpfahrenbach/datamandering"}
+    ]
   },
     
 ]
