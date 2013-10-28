@@ -75,6 +75,8 @@
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/mustache.js"></script>
+    <script src="js/spin.min.js"></script>
+    <script src="js/jquery.spin.js"></script>
 
     <script>
       // Set this up like this to make it easier to dev this locally -- evz
@@ -95,6 +97,8 @@
           <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
         </tr>\
       ";
+
+      $('#hack-night-people tbody').spin({top: '40px'}); //show a spinner while loading data
 
       $.when( $.getJSON( data_host + "/data/people.json" ) ).then(function( data, textStatus, jqXHR ) {
 
