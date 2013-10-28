@@ -2,7 +2,7 @@ var hack_night_events = [
   {
     "id": "104",
     "title": "The City of Chicago Data Dictionary",
-    "date": "2013-10-22",
+    "date": "2013-10-29",
     "description": "<p><a href='https://twitter.com/tomschenkjr'>Tom Schenk</a> will discuss the recently launched <a href='http://datadictionary.cityofchicago.org/'>Chicago Data Dictionary</a>, a website that serves as a single, comprehensive database catalog for the City of Chicago and City of Chicago sister agencies. The City has released the underlying code for this dictionary as open source, titled <a href='https://github.com/chicago/metalicious'>Metalicious</a>.</p>",
     "sponsor": "<a href='http://datamade.us'>DataMade</a>",
     "links": [
@@ -110,5 +110,64 @@ var hack_night_events = [
       {"name": "Github repo", "url": "https://github.com/jpfahrenbach/datamandering"}
     ]
   },
-    
+  {
+    "id": "93",
+    "title": "Food Inspection App by Hoy",
+    "date": "2013-07-30",
+    "description": "<p><a href='http://www.linkedin.com/in/fdiazreporting'>Fernando Diaz</a> and <a href='https://github.com/wilbertom'>Wilberto Morales</a> from Hoy will demo their new food inspection app: <a href='http://www.eatsafe.co'>Eat Safe</a>. Come ready to talk about food safety data!</p>",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+    "links": [
+      {"name": "Eat Safe - Chicago Food Inspections", "url": "http://www.eatsafe.co"},
+      {"name": "Github repo", "url": "https://github.com/vivelohoy/foodinspections"}
+    ]
+  },
+  {
+    "id": "92",
+    "title": "Mining 311 Calls",
+    "date": "2013-07-23",
+    "description": "<p>One of the <a href='http://dssg.io'>Data Science for Social Good</a> teams will talk their work <a href='http://dssg.io/projects/#city'>data mining 311 calls</a> and what they're learning about Chicago's neighborhoods.</p>",
+    "sponsor": "<a href='http://www.robparal.com/'>Rob Paral Associates</a>",
+    "links": [
+      {"name": "Data Science for Social Good", "url": "http://dssg.io"}
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Divvy Trip Planner",
+    "date": "2013-07-16",
+    "description": "<p>Following up from the Hack Night on July 2nd, Adam and Andrew from <a href='http://bglconsulting.com/'>BGL Consulting</a> will talk about their <a href='http://www.stevencanplan.com/2013/new-ios-app-offers-most-advanced-divvy-route-directions/'>Divvy trip planner for iOS</a>, as well as an <a href='https://github.com/AdamGluck/DivvyAPI'>open source DivvyAPI wrapper</a> for creating iPhone apps with Divvy data.</p><p>We'll also get a follow-up on the <a href='http://hackchitown-eorg.eventbrite.com/'>AT&T Hackathon</a> from this weekend and discuss the projects that came out of it.</p>",
+    "sponsor": "<a href='http://codeforamerica.org/'>Code for America</a>",
+    "links": [
+      {"name": "DivvyAPI wrapper", "url": "https://github.com/AdamGluck/DivvyAPI"},
+      {"name": "New iOS app offers most advanced Divvy route directions - Steven Can Plan", "url": "http://www.stevencanplan.com/2013/new-ios-app-offers-most-advanced-divvy-route-directions/"},
+      {"name": "Divvy Trip Planner App - YouTube", "url": "http://www.youtube.com/watch?v=XxqbzNWPXbo"},
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Open Hack Session",
+    "date": "2013-07-09",
+    "description": "<p>No presenters - just come ready to build, chat and learn with other civic hackers, government do-gooders, and curious citizens!</p>",
+    "sponsor": "<a href='https://thoughtworks.com'>Thoughtworks</a>"
+  },
+  {
+    "id": "89",
+    "title": "Divvy Data!",
+    "date": "2013-07-02",
+    "description": "<p><a href='https://twitter.com/stevevance'>Steven Vance</a> of <a href='http://chi.streetsblog.org/'>Streetsblog Chicago</a> will give an overview of <a href='http://divvybikes.com/'>Divvy</a>, Chicago's new bike share program. We'll look in to the open data that is <a href='http://divvybikes.com/stations/json'>currently available</a>, and the apps that are possible with it. Let's hack some bike share data!</p>",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+    "links": [
+      {"name": "Divvy Bikes", "url": "http://divvybikes.com/"},
+      {"name": "Divvy JSON feed", "url": "http://divvybikes.com/stations/json"},
+      {"name": "4 days after Divvy launch, an app prototype and an API presented at OpenGov Hack Night - Smart Chicago", "url": "http://www.smartchicagocollaborative.org/4-days-after-divvy-launch-an-app-prototype-and-an-api-presented-at-opengov-hack-night/"},
+      {"name": "Divvy Data From the First Weekend and Beyond - Streetsblog Chicago", "url": "http://chi.streetsblog.org/2013/07/03/divvy-data-for-the-first-weekend/#more-84745"},
+    ]
+  },
+  {
+    "id": "90",
+    "title": "The First Hack Night",
+    "date": "2012-03-22",
+    "description": "<p>The first Open Gov Hack Night was hosted at <a href='http://www.webitects.com/'>Webitects</a> and attended by <a href='https://twitter.com/derekeder'>Derek Eder</a>, <a href='https://twitter.com/jpvelez'>Juan-Pablo Velez</a>, <a href='https://twitter.com/srobbin'>Scott Robbin</a> and <a href='https://twitter.com/tomkompare'>Tom Kompare</a>.</p>",
+    "sponsor": "None"
+  },
 ]
