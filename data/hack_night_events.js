@@ -64,7 +64,7 @@ var hack_night_events = [
     ]
   },
   {
-    "title": "Data Science for Social Good Recap",
+    "title": "Data Science for Social Good",
     "date": "2013-08-27",
     "description": "<p><a href='https://twitter.com/tplagge'>Tom Plagge</a> and <a href='https://twitter.com/jpvelez'>Juan-Pablo Velez</a> will give a brief retrospective of the <a href=''>Data Science for Social Good</a> summer fellowship program at UChicago where students with CS and statistics backgrounds work on real-world projects with governments and nonprofits.</p><p>The fellowship wrapped up last Friday, and Tom and Juan will share results from projects involving <a href='http://dssg.io/2013/08/02/why-bus-crowding-happens.html'>the CTA</a>, Chicago Streets and Sanitation, the <a href='http://dssg.io/2013/07/11/cook-county-land-bank.html'>Cook County Land Bank</a>, and Northshore Hospital.</p>",
     "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
@@ -74,7 +74,7 @@ var hack_night_events = [
     ]
   },
   {
-    "title": "Englewood Codes Recap",
+    "title": "Englewood Codes",
     "date": "2013-08-20",
     "description": "<p><a href='https://twitter.com/citizendrummer'>Demond Drummer</a> of <a href='http://www.teamworkenglewood.org/'>Teamwork Englewood</a> will talk about lessons learned and what's next for <a href='http://www.teamworkenglewood.org/Smart-Communities-Program/Englewood-Codes.html?utm_source=%2fcode&utm_medium=web&utm_campaign=redirect'>Englewood Codes</a>, a <a href='http://www.kickstarter.com/projects/1348602678/englewood-codes'>Kickstarter</a> and <a href='http://www.afterschoolmatters.org/'>After School Matters</a> funded project where 25 teens from the Englewood community spent the summer learning HTML, CSS and JavaScript and hacking around with the <a href='http://www.raspberrypi.org/'>Raspberry Pi</a>.</p>",
     "sponsor": "<a href='http://openshift.com/'>OpenShift</a>",
@@ -177,6 +177,354 @@ var hack_night_events = [
     "links": [
       {"name": "Github 101 - YouTube", "url": "http://www.youtube.com/watch?v=ZxabbwjcuIE"},
     ]
+  },
+  {
+    "title": "Followup from the National Day of Civic Hacking",
+    "date": "2013-06-04",
+    "description": "",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>"
+  },
+  {
+    "title": "Gearing up for the National Day of Civic Hacking",
+    "date": "2013-05-28",
+    "description": "",
+    "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
+  },
+  {
+    "title": "Open Source Licenses, Transparency Camp '13 Takaways",
+    "date": "2013-05-21",
+    "description": "",
+    "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>"
+  },
+  {
+    "title": "School Cuts Team",
+    "date": "2013-05-14",
+    "description": "",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>"
+  },
+  {
+    "title": "Energy & Sustainability Hackathon Winners",
+    "date": "2013-05-07",
+    "description": "",
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+  },
+  {
+    "title": "Design-Thinking for Civic Hacking",
+    "date": "2013-04-30",
+    "description": "",
+    "sponsor": "<a href='http://purplebinder.com'>Purple Binder</a>"
+  },
+  {
+    "title": "PublicStuff",
+    "date": "2013-04-23",
+    "description": "",
+    "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>"
+  },
+  {
+    "title": "Opengov Hack Night 1 Year Anniversary",
+    "date": "2013-04-16",
+    "description": "",
+    "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
+  },
+  {
+    "title": "Majuro.js, Englewood Codes",
+    "date": "2013-04-09",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "CTA planners",
+    "date": "2013-04-02",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #8",
+    "date": "2013-03-26",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Mote-0-bike and Physical Computing",
+    "date": "2013-03-19",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "GoToSchool Preview",
+    "date": "2013-03-12",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Sunlight Foundation, Illinois Department of Employment Security",
+    "date": "2013-03-05",
+    "description": "",
+    "sponsor": "<a href='http://sunlightfoundation.com/'>Sunlight Foundation</a>"
+  },
+  {
+    "title": "GravityTank's Electronic Medical Record Redesign",
+    "date": "2013-02-19",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2013-02-12",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Getting Started with Open Street Maps",
+    "date": "2013-02-05",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #7",
+    "date": "2013-01-29",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2013-01-22",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2013-01-15",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2013-01-08",
+    "description": "",
+    "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>"
+  },
+  {
+    "title": "Chicago Architecture Foundation Big Data Exhibit, LocalData",
+    "date": "2012-12-18",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #6",
+    "date": "2012-12-11",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-12-04",
+    "description": "",
+    "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>"
+  },
+  {
+    "title": "Sunlight Foundation, Cook County Jail Scraper",
+    "date": "2012-11-27",
+    "description": "",
+    "sponsor": "<a href='http://sunlightfoundation.com/'>Sunlight Foundation</a>"
+  },
+  {
+    "title": "Adopt a Sidewalk",
+    "date": "2013-11-20",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "State CIO Visit, CPS Tiers Update",
+    "date": "2013-11-13",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #5",
+    "date": "2012-10-30",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Open 311 and Service Tracker",
+    "date": "2013-10-23",
+    "description": "",
+    "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-10-16",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-10-09",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #4",
+    "date": "2012-10-02",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "How's Business?",
+    "date": "2012-09-25",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-09-18",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Google Places API Contest",
+    "date": "2012-09-11",
+    "description": "",
+    "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-09-04",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #3",
+    "date": "2012-08-28",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-08-21",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-08-14",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Intro to Programming with R",
+    "date": "2012-08-07",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Data Potluck #2",
+    "date": "2012-07-31",
+    "description": "",
+    "sponsor": "<a href='http://www.meetup.com/DataPotluck/'>Data Potluck</a>"
+  },
+  {
+    "title": "Chicago Public Schools Locator Demo",
+    "date": "2012-07-24",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Mi Parque, Designing Chicago",
+    "date": "2012-07-17",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-07-10",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-06-26",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Deploying Websites with Heroku",
+    "date": "2012-06-19",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-06-12",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-06-05",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-05-29",
+    "description": "<p>First Tuesday session.</p>",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-05-24",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-05-17",
+    "description": "<p>First Event at 1871.</p>",
+    "sponsor": "None"
+  },
+  {
+    "title": "Fusion Tables Workshop",
+    "date": "2012-05-10",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Demo Session",
+    "date": "2012-05-03",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Chicago Crash Browser",
+    "date": "2012-04-26",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-04-19",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-04-12",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-04-05",
+    "description": "",
+    "sponsor": "None"
+  },
+  {
+    "title": "Open Hack Session",
+    "date": "2012-03-29",
+    "description": "",
+    "sponsor": "None"
   },
   {
     "title": "The First Hack Night",
