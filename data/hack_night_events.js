@@ -330,13 +330,13 @@ var hack_night_events = [
   },
   {
     "title": "Adopt a Sidewalk",
-    "date": "2013-11-20",
+    "date": "2012-11-20",
     "description": "",
     "sponsor": "None"
   },
   {
     "title": "State CIO Visit, CPS Tiers Update",
-    "date": "2013-11-13",
+    "date": "2012-11-13",
     "description": "",
     "sponsor": "None"
   },
@@ -348,7 +348,7 @@ var hack_night_events = [
   },
   {
     "title": "Open 311 and Service Tracker",
-    "date": "2013-10-23",
+    "date": "2012-10-23",
     "description": "",
     "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
   },
