@@ -1,5 +1,16 @@
 var hack_night_events = [
   {
+    "title": "Tarbell by Chicago Tribune News Apps",
+    "date": "2013-11-05",
+    "description": "<p><a href='https://twitter.com/eads'>David Eads</a> from the <a>Chicago Tribune News Apps</a> team will walk us through <a href='http://tarbell.tribapps.com/'>Tarbell</a>, a tool that makes it easy for developers to make lightweight and beautiful websites.",
+    "sponsor": "<a href='http://codeforamerica.com'>Code for America</a>",
+    "links": [
+      {"name": "Tarbell website", "url": "http://tarbell.tribapps.com"},
+      {"name": "Tarbell docs", "url": "http://tarbell.readthedocs.org"},
+      {"name": "Tarbell Github repo", "url": "https://github.com/newsapps/flask-tarbell"}
+    ]
+  },
+  {
     "title": "The City of Chicago Data Dictionary",
     "date": "2013-10-29",
     "description": "<p><a href='https://twitter.com/tomschenkjr'>Tom Schenk</a> will discuss the recently launched <a href='http://datadictionary.cityofchicago.org/'>Chicago Data Dictionary</a>, a website that serves as a single, comprehensive database catalog for the City of Chicago and City of Chicago sister agencies. The City has released the underlying code for this dictionary as open source, titled <a href='https://github.com/chicago/metalicious'>Metalicious</a>.</p>",
