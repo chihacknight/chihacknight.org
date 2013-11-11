@@ -1,5 +1,10 @@
 var hack_night_events = [
   {
+    "title": "Open Hack Session",
+    "date": "2013-10-12",
+    "description": "<p>No presenters - just come ready to build, chat and learn with other civic hackers, government do-gooders, and curious citizens!</p>",
+  },
+  {
     "title": "Tarbell",
     "date": "2013-11-06",
     "description": "<p><a href='https://twitter.com/eads'>David Eads</a> from the <a href='http://blog.apps.chicagotribune.com/'>Chicago Tribune News Apps</a> team will walk us through <a href='http://tarbell.tribapps.com/'>Tarbell</a>, a tool that makes it easy for developers to make lightweight and beautiful websites powered by <a href='http://docs.google.com'>Google Docs</a>.",
