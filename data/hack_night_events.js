@@ -1,7 +1,7 @@
 var hack_night_events = [
   {
     "title": "Open Hack Session",
-    "date": "2013-10-12",
+    "date": "2013-11-11",
     "description": "<p>No presenters - just come ready to build, chat and learn with other civic hackers, government do-gooders, and curious citizens!</p>",
   },
   {
