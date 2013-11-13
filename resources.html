@@ -51,6 +51,7 @@
           <thead>
             <tr>
               <th class='api-title'>Title</th>
+              <th>Category</th>
               <th>Description</th>
             </tr>
           </thead>
@@ -88,10 +89,10 @@
           <td>\
             <h4><a href='{{url}}'>{{title}}</a></h4>\
           </td>\
+          <td>{{category}}</td>\
           <td>\
             <p>{{description}}</p>\
             <ul class='list-inline link-list'>\
-              {{#links_present}}<li><span class='text-muted'>Links</span></li>{{/links_present}}\
               {{#links}}\
                 <li><a href='{{url}}'>{{name}}</a></li>\
               {{/links}}\
@@ -103,14 +104,14 @@
       $('#data-count').html(hack_night_data.length);
 
       for (var i = 0; i < hack_night_data.length; i++) {
-        hack_night_data[i]['links_present'] = "links" in hack_night_data[i];
         $("#hack-night-data tbody").append(Mustache.render(template, hack_night_data[i]));
       }
 
       // initialize datatables
       $('#hack-night-data').dataTable( {
-          "aaSorting": [ [0,'asc'] ],
+          "aaSorting": [ [1,'asc'] ],
           "aoColumns": [
+              null,
               null,
               null
           ],
