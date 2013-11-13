@@ -38,9 +38,14 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>Resources <small id='data-count'></small></h1>
-        <p>Open data portals and APIs available in Chicago.</p>
+        <h1>Resources</h1>
+        <p>Data, tools and tutorials for making civic apps in Chicago.</p>
+
+        <p>This page is still a work in progress. If you'd like to help out, <a href='https://github.com/open-city/open-gov-hack-night/issues/28'>join the discussion on Github</a>.</p>
         <br>
+
+        <h3>Open data and APIs <small id='data-count'></small></h3>
+        <p>Open data portals and APIs available in Chicago. Are we missing any? <a href='https://github.com/open-city/open-gov-hack-night/blob/master/data/hack_night_data.js'>Add them to our list!</a></p>
 
         <table id='hack-night-data' class='table'>
           <thead>
@@ -81,7 +86,7 @@
       var template = "\
         <tr>\
           <td>\
-            <h3><a href='{{url}}'>{{title}}</a></h3>\
+            <h4><a href='{{url}}'>{{title}}</a></h4>\
           </td>\
           <td>\
             <p>{{description}}</p>\
