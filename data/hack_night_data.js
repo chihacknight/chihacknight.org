@@ -156,5 +156,37 @@ var hack_night_data = [
     "links": [
       {"name": "Chicago Works for You", "url": "http://chicagoworksforyou.com/"}
     ]
+  },
+  {
+    "title": "Center for Neighborhood Technology",
+    "category": "Sustainability",
+    "url": "http://apps.cnt.org/hackathon/",
+    "description": "Housing + Transportation Affordability Index, nearby public transit station locations, and selected sustainability-related demographics from the 2000 and 2010 census.",
+    "links": [
+      {"name": "CNT Apps", "url": "http://apps.cnt.org/"},
+      {"name": "Reinventing Chicago Hackathon", "url": "http://www.cnt.org/calendar/reinventing-chicago/hackathon/"}
+    ]
+  },
+  {
+    "title": "Chicago Public Schools",
+    "category": "Schools",
+    "url": "http://www.cps.edu/schooldata/Pages/SchoolData.aspx",
+    "description": "Data aggregates by school as well as for the district as a whole including Accountability Reports, Assessment Reports, Demographics, Metrics and Surveys.",
+    "links": [
+      {"name": "School Locator", "url": "http://cps.edu/Schools/Find_a_school/Pages/SchoolLocator.aspx"},
+      {"name": "Research requests", "url": "http://www.cps.edu/Research/Pages/Research.aspx"}
+    ]
+  },
+  {
+    "title": "WBEZ",
+    "category": "Schools, crime, municipal",
+    "url": "https://opendata.socrata.com/profile/WBEZ/p6ex-wt2f",
+    "description": "Data sets collected from WBEZ investigative reports. Includes data from the CPD (crime) and CPS (schools)."
+  },
+  {
+    "title": "Socrata Open Data",
+    "category": "Municipal",
+    "url": "https://opendata.socrata.com/browse?q=chicago&sortBy=relevance&utf8=%E2%9C%93",
+    "description": "One-off datasets uploaded by different groups to Socrata's catch-all data portal. Who knows what juicy data you'll find here!"
   }
 ]
