@@ -46,5 +46,5 @@ var hack_night_data = [
     "links": [
       {"name": "Tutorials", "url": "http://blog.cookcountygov.com/opencc/tutorials-how-to-use-open-data/"}
     ]
-  },
+  }
 ]
