@@ -20,14 +20,17 @@ var hack_night_data = [
     ]
   },
   {
-    "title": "Divvy API",
+    "title": "Divvy Stations",
     "category": "Transit",
     "url": "http://divvybikes.com/stations/json",
-    "description": "List of stations and available bikes for Chicago's bike share system."
+    "description": "List of stations and available bikes for Divvy, Chicago's bike share system.",
+    "links": [
+      {"name": "Divvy Data Document", "url": "http://j.mp/DivvyData"}
+    ]
   },
   {
     "title": "Open 311 API",
-    "category": "Municipal",
+    "category": "Municipal service requests",
     "url": "http://dev.cityofchicago.org/docs/api",
     "description": "Open311 is a form of technology that provides open channels of communication for issues that concern public space and public services. Primarily, Open311 refers to a standardized protocol for location-based collaborative issue-tracking.",
     "links": [
@@ -102,7 +105,7 @@ var hack_night_data = [
     "title": "Chicago Tribune Boundary Service",
     "category": "Municipal geography",
     "url": "http://boundaries.tribapps.com/api/",
-    "description": "The Boundary Service API provides a restful interface to a wealth of data about official geographic boundaries within Illinois. Data is retrieved from the API as JSON (optionally JSONP) with nested GeoJSON for describing the boundary shapes.",
+    "description": "Restful interface to data about official geographic boundaries within Illinois. Data is retrieved from the API as JSON (optionally JSONP) with nested GeoJSON for describing the boundary shapes.",
     "links": [
       {"name": "Demo: You are here", "url": "http://boundaries.tribapps.com/"},
       {"name": "Steal this code: The Newsapps Boundary Service API!", "url": "http://blog.apps.chicagotribune.com/2011/01/28/steal-this-code-the-newsapps-boundary-service-api/"}
@@ -112,7 +115,7 @@ var hack_night_data = [
     "title": "Chicago Tribune Crime API",
     "category": "Crime",
     "url": "https://github.com/newsapps/chicagocrime/blob/master/docs/api_docs.md",
-    "description": "The Boundary Service API provides a restful interface to a wealth of data about official geographic boundaries within Illinois. Data is retrieved from the API as JSON (optionally JSONP) with nested GeoJSON for describing the boundary shapes.",
+    "description": "Every crime reported by the Chicago Police Department since 2001. Provides daily summaries, incident-level and community area reports and classifications. Based on data published by the City of Chiacago.",
     "links": [
       {"name": "Crime in Chicago", "url": "http://crime.chicagotribune.com/"},
       {"name": "News: Announcing the Chicago Crime API", "url": "http://blog.apps.chicagotribune.com/2013/03/22/announcing-the-chicago-crime-api/"}
@@ -122,7 +125,7 @@ var hack_night_data = [
     "title": "CTA 'Unofficial' API",
     "category": "Transit",
     "url": "http://harperreed.github.io/transitapi/",
-    "description": "In 2009, the Chicago's Transit Authority released a couple webapps that allowed people to track bus locations and routes. Harper Reed created this unofficial API documentation based on how those webapps worked.",
+    "description": "In 2009, the Chicago Transit Authority released a couple webapps that allowed people to track bus locations and routes. Harper Reed created this unofficial API documentation based on them.",
     "links": [
       {"name": "Github repo", "url": "https://github.com/harperreed/transitapi/"}
     ]
@@ -143,6 +146,15 @@ var hack_night_data = [
     "description": "Every law, ordinance and resolution passed or proposed by Chicago City Council since Jan 1st, 2010. Used to power Chicago Councilmatic by Open City.",
     "links": [
       {"name": "Chicago Councilmatic", "url": "http://chicagocouncilmatic.org/"}
+    ]
+  },
+  {
+    "title": "Chicago Works for You API",
+    "category": "Municipal service requests",
+    "url": "https://github.com/smartchicago/chicagoworksforyou/blob/development/doc/API.md",
+    "description": "Ward-by-ward views of service delivery in Chicago. Used to power Chicago Works for You by Smart Chicago.",
+    "links": [
+      {"name": "Chicago Works for You", "url": "http://chicagoworksforyou.com/"}
     ]
   }
 ]
