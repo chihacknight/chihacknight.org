@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Events - Open Gov Hack Night</title>
+    <title>Resources - Open Gov Hack Night</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -29,24 +29,24 @@
         <div class="header">
           <ul class="nav nav-pills pull-right">
             <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="events.html">Events</a></li>
+            <li><a href="events.html">Events</a></li>
             <li><a href="projects.html">Projects</a></li>
             <li><a href="people.html">People</a></li>
-            <li><a href="resources.html">Resources</a></li>
+            <li class="active"><a href="resources.html">Resources</a></li>
           </ul>
           <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
         </div>
 
         <!-- Begin page content-->
-        <h1>Events <small id='event-count'></small></h1>
-        <p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
+        <h1>Resources <small id='data-count'></small></h1>
+        <p>Open data portals and APIs available in Chicago.</p>
         <br>
 
-        <table id='hack-night-events' class='table'>
+        <table id='hack-night-data' class='table'>
           <thead>
             <tr>
-              <th>Date</th>
-              <th>Event</th>
+              <th>Title</th>
+              <th>Description</th>
             </tr>
           </thead>
           <tbody>
@@ -74,51 +74,39 @@
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/mustache.js"></script>
 
-    <script src="data/hack_night_events.js"></script>
+    <script src="data/hack_night_data.js"></script>
 
     <script>
 
       var template = "\
         <tr>\
-          <td class='nowrap'>\
-            <div class='well text-center'>\
-              <time datetime='{{date}}'>\
-              {{{date_formatted}}}\
-              </time>\
-            </div>\
+          <td>\
+            <h3><a href='{{url}}'>{{title}}</a></h3>\
           </td>\
           <td>\
-            <h3>{{title}}</h3>\
-            {{{description}}}\
+            <p>{{description}}</p>\
             <ul class='list-inline link-list'>\
               {{#links_present}}<li><span class='text-muted'>Links</span></li>{{/links_present}}\
               {{#links}}\
                 <li><a href='{{url}}'>{{name}}</a></li>\
               {{/links}}\
             </ul>\
-            <ul class='list-inline'>\
-              <li><span class='text-muted'>Sponsor</span></li>\
-              <li>{{{sponsor}}}</li>\
-            </ul>\
           </td>\
         </tr>\
       ";
 
-      $('#event-count').html(hack_night_events.length);
+      $('#data-count').html(hack_night_data.length);
 
-      for (var i = 0; i < hack_night_events.length; i++) {
-        var date = new moment(hack_night_events[i]['date']);
-        hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
-        hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
-        hack_night_events[i]['links_present'] = "links" in hack_night_events[i];
-        $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
+      for (var i = 0; i < hack_night_data.length; i++) {
+        hack_night_data[i]['links_present'] = "links" in hack_night_data[i];
+        $("#hack-night-data tbody").append(Mustache.render(template, hack_night_data[i]));
       }
 
       // initialize datatables
-      $('#hack-night-events').dataTable( {
+      $('#hack-night-data').dataTable( {
           "aaSorting": [ [0,'desc'] ],
           "aoColumns": [
-              { "sType": "datetime" },
+              null,
               null
           ],
           "bInfo": false,
