@@ -40,6 +40,16 @@ var hack_night_data = [
     ]
   },
   {
+    "title": "OpenStreetMap",
+    "url": "http://openstreetmap.org",
+    "description": "A wiki map, built on data submitted by volunteers and public data sources. The data is available and free to use through the OpenStreetMap API and bulk downloads.",
+    "links": [
+      {"name": "Homepage", "url": "http://openstreetmap.org"},
+      {"name": "Chicagoland Download", "url": "http://metro.teczno.com/#chicago"},
+      {"name": "OpenStreetMap API", "url": "http://wiki.openstreetmap.org/wiki/API_v0.6"}
+    ]
+  },
+  {
     "title": "Cook County Data Portal",
     "url": "http://data.cookcountyil.gov/",
     "description": "Open data portal for Cook County government.",
