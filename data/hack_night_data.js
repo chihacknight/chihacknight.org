@@ -48,7 +48,7 @@ var hack_night_data = [
       {"name": "Chicagoland Download", "url": "http://metro.teczno.com/#chicago"},
       {"name": "OpenStreetMap API", "url": "http://wiki.openstreetmap.org/wiki/API_v0.6"}
     ]
-  }
+  },
   {
     "title": "Cook County Data Portal",
     "url": "http://data.cookcountyil.gov/",
