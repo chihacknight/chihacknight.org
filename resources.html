@@ -45,7 +45,7 @@
         <table id='hack-night-data' class='table'>
           <thead>
             <tr>
-              <th>Title</th>
+              <th class='api-title'>Title</th>
               <th>Description</th>
             </tr>
           </thead>
@@ -104,7 +104,7 @@
 
       // initialize datatables
       $('#hack-night-data').dataTable( {
-          "aaSorting": [ [0,'desc'] ],
+          "aaSorting": [ [0,'asc'] ],
           "aoColumns": [
               null,
               null

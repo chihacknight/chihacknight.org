@@ -99,3 +99,5 @@ body {
 .nowrap { white-space:nowrap; }
 
 #recent-event { margin: 10px 0 0 0; }
+
+.api-title { width: 35%; }
