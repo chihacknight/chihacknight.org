@@ -188,5 +188,35 @@ var hack_night_data = [
     "category": "Municipal",
     "url": "https://opendata.socrata.com/browse?q=chicago&sortBy=relevance&utf8=%E2%9C%93",
     "description": "One-off datasets uploaded by different groups to Socrata's catch-all data portal. Who knows what juicy data you'll find here!"
-  }
+  },
 ]
+ {
+    "title": "Civic Web Hosting",
+    "category": "Smart Chicago, Support, Infrastructure",
+    "url": "http://www.smartchicagocollaborative.org/projects/hosted-web-space/",
+    "description": "Smart Chicago Collaborative has limited space on an Amazon Web Services account and a Heroku account for developers to host projects that make lives better in Chicago through technology.",
+    "links": [
+      {"name": "Current Hosted Apps", "url": "http://www.smartchicagoapps.org/"},
+    ]
+  },
+ {
+    "title": "Civic User Testing",
+    "category": "Smart Chicago, Support, User Testing",
+    "url": "http://cutgroup.smartchicagoapps.org/developers.html",
+    "description": "We will work with you to design a usability test, choose a group for testing, and help run the session at a public computer center or community technology center in a Chicago neighborhood. There is no cost to developers for this service, and we all get to get out of our studios & meetup rooms and directly engage with the people we seek to serve.",
+    "links": [
+      {"name": "Sign-up form", "url": "http://cutgroup.smartchicagoapps.org/developers.html"},
+    ]
+  },
+ {
+    "title": "Google Apps for Business",
+    "category": "Smart Chicago, Support, Infrastructure",
+    "url": "http://www.smartchicagocollaborative.org/projects/developer-resources/",
+    "description": "SCC manages a Google Apps account through Google Apps for Nonprofits. This includes access to the Google Maps for Business API, which allows for very large daily geocoding limits, real-time transit information, larger static map images, and more",
+  },
+ {
+    "title": "smartchicagoapps.org wildcard SSL",
+    "category": "Smart Chicago, Support, Infrastructure, Security",
+    "url": "http://www.smartchicagocollaborative.org/projects/developer-resources/",
+    "description": "SCC owns a wildcard SSL certificate, which means that any application hosted using a *.smartchicagoapps.org subdomain can implement industry-standard SSL support free of cost.",
+  },
