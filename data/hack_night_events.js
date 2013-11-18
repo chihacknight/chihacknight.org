@@ -1,5 +1,16 @@
 var hack_night_events = [
   {
+    "title": "RedEye Homicide Data",
+    "date": "2013-11-19",
+    "description": "<p><a href='https://twitter.com/tracyswartz'>Tracy Swartz</a> will talk about her work at RedEye <a href='http://homicides.redeyechicago.com/'>Tracking homicides in Chicago</a> as well as the <a href='https://spreadsheets.google.com/pub?key=0Ak3IIavLYTovdHYxbDItQ255eWh1NzBiQXp5cmxRdmc&output=html'>underlying data</a> they collect and release.</p>",
+    "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
+    "links": [
+      {"name": "Tracking homicides in Chicago", "url": "http://homicides.redeyechicago.com/"},
+      {"name": "Chicago Homicide Data - 2013", "url": "https://spreadsheets.google.com/pub?key=0Ak3IIavLYTovdHYxbDItQ255eWh1NzBiQXp5cmxRdmc&output=html"},
+      {"name": "News Apps tutorial on mapping with Fusion Tables", "url": "http://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/"}
+    ]
+  },
+  {
     "title": "Open Hack Session",
     "date": "2013-11-12",
     "description": "<p>No presenters - just come ready to build, chat and learn with other civic hackers, government do-gooders, and curious citizens!</p>",
