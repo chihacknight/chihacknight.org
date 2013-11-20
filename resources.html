@@ -79,11 +79,9 @@
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/mustache.js"></script>
-
-    <script src="data/hack_night_data.js"></script>
+    <script src="js/jquery.csv-0.71.min.js"></script>
 
     <script>
-
       var template = "\
         <tr>\
           <td>\
@@ -93,31 +91,40 @@
           <td>\
             <p>{{description}}</p>\
             <ul class='list-inline link-list'>\
-              {{#links}}\
-                <li><a href='{{url}}'>{{name}}</a></li>\
-              {{/links}}\
+              <li><a href='{{link_url_1}}'>{{link_name_1}}</a></li>\
+              <li><a href='{{link_url_2}}'>{{link_name_2}}</a></li>\
+              <li><a href='{{link_url_3}}'>{{link_name_3}}</a></li>\
             </ul>\
           </td>\
         </tr>\
-      ";
-
-      $('#data-count').html(hack_night_data.length);
-
-      for (var i = 0; i < hack_night_data.length; i++) {
-        $("#hack-night-data tbody").append(Mustache.render(template, hack_night_data[i]));
+        ";
+      function get_data(){
+        var doc_url = "https://docs.google.com/spreadsheet/pub?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE&output=csv";
+        return $.ajax({
+            url: doc_url
+        });
       }
-
-      // initialize datatables
-      $('#hack-night-data').dataTable( {
-          "aaSorting": [ [1,'asc'] ],
-          "aoColumns": [
-              null,
-              null,
-              null
-          ],
-          "bInfo": false,
-          "bPaginate": false
-      } );
+      $.when(get_data()).then(
+        function(csv){
+          var json = $.csv.toObjects(csv);
+          $.each(json, function(i, obj){
+              if(obj.title != ""){
+                $("#hack-night-data tbody").append(Mustache.render(template, obj));
+              }
+          });
+          // initialize datatables
+          $('#hack-night-data').dataTable( {
+              "aaSorting": [ [1,'asc'] ],
+              "aoColumns": [
+                  null,
+                  null,
+                  null
+              ],
+              "bInfo": false,
+              "bPaginate": false
+            } );
+        }
+      )
 
     </script>
   </body>
