@@ -107,11 +107,16 @@
       $.when(get_data()).then(
         function(csv){
           var json = $.csv.toObjects(csv);
+          var data_count = 0;
           $.each(json, function(i, obj){
               if(obj.title != ""){
+                data_count = data_count + 1;
                 $("#hack-night-data tbody").append(Mustache.render(template, obj));
               }
           });
+
+          $('#data-count').html(data_count);
+
           // initialize datatables
           $('#hack-night-data').dataTable( {
               "aaSorting": [ [1,'asc'] ],
