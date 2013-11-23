@@ -38,27 +38,103 @@
         </div>
 
         <!-- Begin page content-->
-        <h1>Resources</h1>
-        <p>Data, tools and tutorials for making civic apps in Chicago.</p>
+        <div class='row'>
+          <div class='col-md-12'>
+            <h1>Resources</h1>
+          </div>
+          <div class='col-md-7'>
+            <p>Data portals, APIs, tools, tutorials and free developer infrastructure for making civic apps in Chicago.</p>
 
-        <p>This page is still a work in progress. If you'd like to help out, <a href='https://github.com/open-city/open-gov-hack-night/issues/28'>join the discussion on Github</a>.</p>
-        <br>
+            <p>This page is still a work in progress. If you'd like to help out, <a href='https://github.com/open-city/open-gov-hack-night/issues/28'>join the discussion on <i class='icon-github'></i> Github</a>.</p>
+          </div>
 
-        <h3>Open data and APIs <small id='data-count'></small></h3>
-        <p>Open data portals and APIs available in Chicago. Are we missing any? <a href='https://github.com/open-city/open-gov-hack-night/blob/master/data/hack_night_data.js'>Add them to our list!</a></p>
+          <div class='col-md-5'>
+            <div class='well'>
+              <h4>Sections</h4>
+              <ul>
+                <li><a href='#data-portals'>Data portals</a></li>
+                <li><a href='#other-open-data-sources'>Other open data sources</a></li>
+                <li><a href='#free-developer-infrastructure'>Free developer infrastructure</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
 
-        <table id='hack-night-data' class='table'>
-          <thead>
-            <tr>
-              <th class='api-title'>Title</th>
-              <th>Category</th>
-              <th>Description</th>
-            </tr>
-          </thead>
-          <tbody>
-          </tbody>
-        </table>
+        <div class='row'>
+          <div class='col-md-12'>
+            <hr />
+            <h2 id='data-portals'><i class='icon-cloud-download'></i> Data portals</h2>
+            <p>One of the best places to get open government data is from their official data portal. <a href='https://data.cityofchicago.org'>Chicago</a>, <a href='https://data.cookcountyil.gov'>Cook County</a>, <a href='https://data.illinois.gov/'>Illinois</a> and the <a href='http://www.data.gov/'>US Federal Government</a> post their data on these portals for anyone to access for free.</p>
+            <div class='col-md-3 text-center'>
+              <a href='https://data.cityofchicago.org'>
+                <img src='images/chicago_city_seal.png' title='City of Chicago' />
+                <br />City of Chicago
+              </a>
+            </div>
 
+            <div class='col-md-3 text-center'>
+              <a href='https://data.cookcountyil.gov'>
+                <img src='images/cook_county_seal.gif' title='Cook County' />
+                <br />Cook County
+              </a>
+            </div>
+
+            <div class='col-md-3 text-center'>
+              <a href='https://data.illinois.gov/'>
+                <img src='images/illinois_state_seal.gif' title='State of Illinois' />
+                <br />State of Illinois
+              </a>
+            </div>
+
+            <div class='col-md-3 text-center'>
+              <a href='http://www.data.gov/'>
+                <img src='images/usa_federal_seal.png' title='US Federal Government' />
+                <br />US Federal Government
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class='row'>
+          <div class='col-md-12'>
+            <hr />
+            <h2 id='other-open-data-sources'><i class='icon-download'></i> Other open data sources <small id='data-count'></small></h2>
+            <p>Open data portals and APIs available in Chicago. Are we missing any? <a href='https://docs.google.com/spreadsheet/ccc?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE#gid=0'>Add them to our list!</a></p>
+
+            <table id='hack-night-data' class='table'>
+              <thead>
+                <tr>
+                  <th class='api-title'>Title</th>
+                  <th>Category</th>
+                  <th>Description</th>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class='row'>
+          <div class='col-md-12'>
+            <hr />
+            <h2 id='free-developer-infrastructure'><i class='icon-cogs'></i> Free developer infrastructure</h2>
+            <p>Free services and computing infrastructure for civic app developers.</p>
+
+            <h3><a href='http://www.smartchicagocollaborative.org/projects/hosted-web-space/'>Civic web hosting</a></h3>
+            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> has limited space on an Amazon Web Services account and a Heroku account for developers to <a href='http://www.smartchicagoapps.org/'>host projects</a> that make lives better in Chicago through technology.</p>
+
+            <h3><a href='http://cutgroup.smartchicagoapps.org/developers.html'>Civic User Testing</a></h3>
+            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> will work with you to design a usability test, choose a group for testing, and help run the session at a public computer center or community technology center in a Chicago neighborhood. There is no cost to developers for this service, and we all get to get out of our studios & meetup rooms and directly engage with the people we seek to serve.</p>
+
+            <h3><a href='http://www.smartchicagocollaborative.org/projects/developer-resources/'>Google Apps for Business</a></h3>
+            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> manages a Google Apps account through Google Apps for Nonprofits. This includes access to the Google Maps for Business API, which allows for very large daily geocoding limits, real-time transit information, larger static map images, and more.</p>
+
+            <h3><a href='http://www.smartchicagocollaborative.org/projects/developer-resources/'>Wildcard SSL</a></h3>
+            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> owns a wildcard SSL certificate, which means that any application hosted using a *.smartchicagoapps.org subdomain can implement industry-standard SSL support free of cost.</p>
+
+          </div>
+        </div>
         <!-- End page content-->
 
         <div class="footer">
