@@ -173,10 +173,12 @@
             <p class='contributors'>\
               {{#owner}}\
                 <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}'/></a>\
+                <span style='display: none;'>{{login}}</span>\
               {{/owner}}\
               {{#contributors}}\
                 {{^owner}}\
                   <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
+                  <span style='display: none;'>{{login}}</span>\
                 {{/owner}}\
               {{/contributors}}\
             </p>\
