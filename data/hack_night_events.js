@@ -1,5 +1,14 @@
 var hack_night_events = [
   {
+    "title": "Geeks Getting Involved in Disaster Response",
+    "date": "2013-11-26",
+    "description": "<p><a href='https://twitter.com/lishevita'>Lisha Sterling</a> from <a href='http://gwob.org/'>Geeks Without Bounds</a> will talk about organizations and projects that exist to help out in crisis situations, and show us ways that developers can help out when disaster strikes.</p>",
+    "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+    "links": [
+      {"name": "Geeks Without Bounds", "url": "http://gwob.org/"}
+    ]
+  },
+  {
     "title": "RedEye Homicide Data",
     "date": "2013-11-19",
     "description": "<p><a href='https://twitter.com/tracyswartz'>Tracy Swartz</a> will talk about her work at RedEye <a href='http://homicides.redeyechicago.com/'>Tracking homicides in Chicago</a> as well as the <a href='https://spreadsheets.google.com/pub?key=0Ak3IIavLYTovdHYxbDItQ255eWh1NzBiQXp5cmxRdmc&output=html'>underlying data</a> they collect and release.</p>",
