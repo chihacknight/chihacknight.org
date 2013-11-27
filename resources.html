@@ -98,10 +98,13 @@
         <div class='row'>
           <div class='col-md-12'>
             <hr />
-            <h2 id='other-open-data-sources'><i class='icon-download'></i> Other open data sources <small id='data-count'></small></h2>
+            <h2 id='other-open-data-sources'>
+              <i class='icon-download'></i> Other open data sources 
+              <small id='data-count'></small>
+            </h2>
             <p>Open data portals and APIs available in Chicago. Are we missing any? <a href='https://docs.google.com/spreadsheet/ccc?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE#gid=0'>Add them to our list!</a></p>
 
-            <table id='hack-night-data' class='table'>
+            <table id='open-data-table' class='table table-striped'>
               <thead>
                 <tr>
                   <th class='api-title'>Title</th>
@@ -117,22 +120,27 @@
 
         <div class='row'>
           <div class='col-md-12'>
+            <div class=''>
             <hr />
-            <h2 id='free-developer-infrastructure'><i class='icon-cogs'></i> Free developer infrastructure</h2>
-            <p>Free services and computing infrastructure for civic app developers.</p>
+            <h2 id='free-developer-infrastructure'>
+              <i class='icon-cogs'></i> 
+              Free developer infrastructure
+              <small id='infrastructure-count'></small>
+            </h2>
+            <p>Free services and computing infrastructure for civic app developers. Are we missing any? <a href='https://docs.google.com/spreadsheet/ccc?key=0AtbqcVh3dkAqdEw1NTNzZ0JuTGVrRkFYUWFhWG1ma2c#gid=0'>Add them to our list!</a></p>
 
-            <h3><a href='http://www.smartchicagocollaborative.org/projects/hosted-web-space/'>Civic web hosting</a></h3>
-            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> has limited space on an Amazon Web Services account and a Heroku account for developers to <a href='http://www.smartchicagoapps.org/'>host projects</a> that make lives better in Chicago through technology.</p>
-
-            <h3><a href='http://cutgroup.smartchicagoapps.org/developers.html'>Civic User Testing</a></h3>
-            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> will work with you to design a usability test, choose a group for testing, and help run the session at a public computer center or community technology center in a Chicago neighborhood. There is no cost to developers for this service, and we all get to get out of our studios & meetup rooms and directly engage with the people we seek to serve.</p>
-
-            <h3><a href='http://www.smartchicagocollaborative.org/projects/developer-resources/'>Google Apps for Business</a></h3>
-            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> manages a Google Apps account through Google Apps for Nonprofits. This includes access to the Google Maps for Business API, which allows for very large daily geocoding limits, real-time transit information, larger static map images, and more.</p>
-
-            <h3><a href='http://www.smartchicagocollaborative.org/projects/developer-resources/'>Wildcard SSL</a></h3>
-            <p><a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> owns a wildcard SSL certificate, which means that any application hosted using a *.smartchicagoapps.org subdomain can implement industry-standard SSL support free of cost.</p>
-
+            <table id='developer-infrastructure-table' class='table table-striped'>
+              <thead>
+                <tr>
+                  <th class='api-title'>Title</th>
+                  <th>Provider</th>
+                  <th>Description</th>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>
+          </div>
           </div>
         </div>
         <!-- End page content-->
@@ -158,7 +166,41 @@
     <script src="js/jquery.csv-0.71.min.js"></script>
 
     <script>
-      var template = "\
+
+      function get_google_doc_data(doc_id){
+        var doc_url = "https://docs.google.com/spreadsheet/pub?key=" + doc_id + "&output=csv";
+        return $.ajax({
+            url: doc_url
+        });
+      }
+
+      function populate_table(doc_id, table_el, cout_el, template, dt_sorting, dt_columns){
+        $.when(get_google_doc_data(doc_id)).then(
+          function(csv){
+            var json = $.csv.toObjects(csv);
+            var data_count = 0;
+            $.each(json, function(i, obj){
+                if(obj.title != ""){
+                  data_count++;
+                  $("#" + table_el + " tbody").append(Mustache.render(template, obj));
+                }
+            });
+
+            $(cout_el).html(data_count);
+
+            // initialize datatables
+            $('#' + table_el).dataTable( {
+                "aaSorting": dt_sorting,
+                "aoColumns": dt_columns,
+                "bInfo": false,
+                "bPaginate": false
+              } );
+          }
+        )
+      }
+
+      // populate other open data list
+      var data_template = "\
         <tr>\
           <td>\
             <h4><a href='{{url}}'>{{title}}</a></h4>\
@@ -174,38 +216,23 @@
           </td>\
         </tr>\
         ";
-      function get_data(){
-        var doc_url = "https://docs.google.com/spreadsheet/pub?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE&output=csv";
-        return $.ajax({
-            url: doc_url
-        });
-      }
-      $.when(get_data()).then(
-        function(csv){
-          var json = $.csv.toObjects(csv);
-          var data_count = 0;
-          $.each(json, function(i, obj){
-              if(obj.title != ""){
-                data_count = data_count + 1;
-                $("#hack-night-data tbody").append(Mustache.render(template, obj));
-              }
-          });
 
-          $('#data-count').html(data_count);
+      populate_table("0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE", "open-data-table", "data-count", data_template, [ [1,'asc'] ], [ null, null, null ]);
 
-          // initialize datatables
-          $('#hack-night-data').dataTable( {
-              "aaSorting": [ [1,'asc'] ],
-              "aoColumns": [
-                  null,
-                  null,
-                  null
-              ],
-              "bInfo": false,
-              "bPaginate": false
-            } );
-        }
-      )
+      // populate free developer infrastructure
+      var infrastructure_template = "\
+        <tr>\
+          <td>\
+            <h4><a href='{{url}}'>{{title}}</a></h4>\
+          </td>\
+          <td>{{provider}}</td>\
+          <td>\
+            <p>{{description}}</p>\
+          </td>\
+        </tr>\
+        ";
+
+      populate_table("0AtbqcVh3dkAqdEw1NTNzZ0JuTGVrRkFYUWFhWG1ma2c", "developer-infrastructure-table", "infrastructure-count", infrastructure_template, [ [1,'asc'] ], [ null, null, null ]);
 
     </script>
   </body>
