@@ -174,7 +174,7 @@
         });
       }
 
-      function populate_table(doc_id, table_el, cout_el, template, dt_sorting, dt_columns){
+      function populate_table(doc_id, table_el, count_el, template, dt_sorting, dt_columns){
         $.when(get_google_doc_data(doc_id)).then(
           function(csv){
             var json = $.csv.toObjects(csv);
@@ -186,7 +186,7 @@
                 }
             });
 
-            $(cout_el).html(data_count);
+            $('#' + count_el).html(data_count);
 
             // initialize datatables
             $('#' + table_el).dataTable( {
