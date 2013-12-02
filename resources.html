@@ -166,6 +166,7 @@
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
+    <script src="js/jquery.address.js"></script>
     <script src="js/mustache.js"></script>
     <script src="js/jquery.csv-0.71.min.js"></script>
 
@@ -178,7 +179,7 @@
         });
       }
 
-      function populate_table(doc_id, table_el, count_el, template, dt_sorting, dt_columns){
+      function populate_table(doc_id, table_el, count_el, template, dt_sorting, dt_columns, search_qs){
         $.when(get_google_doc_data(doc_id)).then(
           function(csv){
             var json = $.csv.toObjects(csv);
@@ -193,12 +194,22 @@
             $('#' + count_el).html(data_count);
 
             // initialize datatables
-            $('#' + table_el).dataTable( {
-                "aaSorting": dt_sorting,
-                "aoColumns": dt_columns,
-                "bInfo": false,
-                "bPaginate": false
-              } );
+            var data_table = $('#' + table_el).dataTable( {
+              "aaSorting": dt_sorting,
+              "aoColumns": dt_columns,
+              "bInfo": false,
+              "bPaginate": false
+            });
+
+            // allows linking directly to searches
+            if ($.address.parameter(search_qs) != undefined)
+              data_table.fnFilter( $.address.parameter(search_qs) );
+
+            // when someone types a search value, it updates the URL
+            $('#' + table_el + '_filter input').keyup(function(e){
+              $.address.parameter(search_qs, $('#' + table_el + '_filter input').val());
+              return false;
+            });
           }
         )
       }
@@ -221,7 +232,7 @@
         </tr>\
         ";
 
-      populate_table("0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE", "open-data-table", "data-count", data_template, [ [1,'asc'] ], [ null, null, null ]);
+      populate_table("0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE", "open-data-table", "data-count", data_template, [ [1,'asc'] ], [ null, null, null ], 'data-search');
 
       // populate free developer infrastructure
       var infrastructure_template = "\
@@ -236,7 +247,7 @@
         </tr>\
         ";
 
-      populate_table("0AtbqcVh3dkAqdEw1NTNzZ0JuTGVrRkFYUWFhWG1ma2c", "developer-infrastructure-table", "infrastructure-count", infrastructure_template, [ [0,'asc'] ], [ null, null, null ]);
+      populate_table("0AtbqcVh3dkAqdEw1NTNzZ0JuTGVrRkFYUWFhWG1ma2c", "developer-infrastructure-table", "infrastructure-count", infrastructure_template, [ [0,'asc'] ], [ null, null, null ], 'tools-search');
 
     </script>
   </body>

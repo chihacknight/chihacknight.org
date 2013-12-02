@@ -239,10 +239,8 @@
         } );
 
         // allows linking directly to searches
-        if ($.address.parameter('search') != undefined) {
+        if ($.address.parameter('search') != undefined)
           projects_table.fnFilter( $.address.parameter('search') );
-          // $('#project-count').html(projects_table.fnSettings().fnRecordsDisplay());
-        }
 
         // when someone types a search value, it updates the URL
         $('#hack-night-projects_filter input').keyup(function(e){

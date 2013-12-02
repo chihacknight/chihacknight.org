@@ -75,6 +75,7 @@
     <script src="js/moment.min.js"></script>
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
+    <script src="js/jquery.address.js"></script>
     <script src="js/mustache.js"></script>
     <script src="js/spin.min.js"></script>
     <script src="js/jquery.spin.js"></script>
@@ -83,6 +84,8 @@
       // Set this up like this to make it easier to dev this locally -- evz
       var data_host = 'http://civic-json.e-vz.com'
       // var data_host = 'http://civic-json.datamade.dev.work'
+
+      var people_table;
 
       // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
@@ -115,7 +118,7 @@
         })
 
         // initialize datatables
-        $('#hack-night-people').dataTable( {
+        people_table = $('#hack-night-people').dataTable( {
             "aaSorting": [ [2,'desc'], [3, 'desc'] ],
             "aoColumns": [
                 null,
@@ -125,6 +128,15 @@
             ],
             "bInfo": false,
             "bPaginate": false
+        });
+
+        // allows linking directly to searches
+        if ($.address.parameter('search') != undefined)
+          people_table.fnFilter( $.address.parameter('search') );
+
+        // when someone types a search value, it updates the URL
+        $('#hack-night-people_filter input').keyup(function(e){
+          $.address.parameter('search', $('#hack-night-people_filter input').val());
         });
       });
     </script>
