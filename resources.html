@@ -167,6 +167,7 @@
     <script src="js/jquery.dataTables.min.js"></script>
     <script src="js/jquery.dataTables.sorting.js"></script>
     <script src="js/jquery.address.js"></script>
+    <script src="js/jquery.scrollto.js"></script>
     <script src="js/mustache.js"></script>
     <script src="js/jquery.csv-0.71.min.js"></script>
 
@@ -202,8 +203,10 @@
             });
 
             // allows linking directly to searches
-            if ($.address.parameter(search_qs) != undefined)
+            if ($.address.parameter(search_qs) != undefined) {
               data_table.fnFilter( $.address.parameter(search_qs) );
+              $('#' + table_el + '_filter input').ScrollTo();
+            }
 
             // when someone types a search value, it updates the URL
             $('#' + table_el + '_filter input').keyup(function(e){
