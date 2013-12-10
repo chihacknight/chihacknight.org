@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Chicago Park District Data",
+        "date": "2013-12-10",
+        "description": "<p>Ed Rynearson and Patrick Callahan from the <a href='http://www.chicagoparkdistrict.com/'>Chicago Park District</a> will talk about <a href='https://data.cityofchicago.org/browse?q=parks&sortBy=relevance&utf8=%E2%9C%93'>open data on Chicago parks</a>, as well as some app ideas they'd like some feedback an help on.</p>",
+        "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+        "links": [
+            {
+                "name": "Open data on Chicago parks",
+                "url": "https://data.cityofchicago.org/browse?q=parks&sortBy=relevance&utf8=%E2%9C%93"
+            }
+        ]
+    },
+    {
         "title": "Chicago Open Data Hidden in Plain Sight",
         "date": "2013-12-03",
         "description": "<p>While our local governments continue to do an amazing job of publishing to their <a href='https://data.cityofchicago.org/'>open</a> <a href='http://data.cookcountyil.gov/'>data</a> <a href='https://data.illinois.gov/'>portals</a>, many datasets still exist solely on obscure websites most of us don't know about.</p><p>Forest Gregg will talk about some of these lesser known, but highly useful, open data sources available in Chicago including <a href='http://opengovhacknight.org/resources.html#/?data-search=river'>river pollution</a>, <a href='http://opengovhacknight.org/resources.html#/?data-search=statements of interest'>financial interest statements</a>, <a href='http://opengovhacknight.org/resources.html#/?data-search=school'>schools</a> and more.</p></p>This is part of an ongoing hack night exercise to <a href='https://docs.google.com/spreadsheet/ccc?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE#gid=0'>publicly document Chicago's open data</a>.</p>",
