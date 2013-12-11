@@ -8,6 +8,22 @@ var hack_night_events = [
             {
                 "name": "Open data on Chicago parks",
                 "url": "https://data.cityofchicago.org/browse?q=parks&sortBy=relevance&utf8=%E2%9C%93"
+            },
+            {
+                "name": "Ed Rynearson's slides",
+                "url": "https://docs.google.com/presentation/d/1QEkyTq9JojG_ayvpdRqIfYb2sos9a2BzvlZkYoKr8Rk/edit"
+            },
+            {
+                "name": "ChiParks.com - prototype website",
+                "url": "https://chiparks.com"
+            },
+            {
+                "name": "Chicago Parks MindMixer",
+                "url": "http://chicagoparkdistrict.mindmixer.com/"
+            },
+            {
+                "name": "HackDash - hackathon organization tool",
+                "url": "http://hackdash.org"
             }
         ]
     },
