@@ -1,5 +1,11 @@
 var hack_night_events = [
     {
+        "title": "2013 Year in Review",
+        "date": "2013-12-17",
+        "description": "<p>For the last hack night of 2013, <a href='https://twitter.com/civicwhitaker'>Christopher Whitaker</a> and <a href='https://twitter.com/derekeder'>Derek Eder</a> will showcase some open gov highlights from the past year. </p>",
+        "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+    },
+    {
         "title": "Chicago Park District Data",
         "date": "2013-12-10",
         "description": "<p>Ed Rynearson and Patrick Callahan from the <a href='http://www.chicagoparkdistrict.com/'>Chicago Park District</a> will talk about <a href='https://data.cityofchicago.org/browse?q=parks&sortBy=relevance&utf8=%E2%9C%93'>open data on Chicago parks</a>, as well as some app ideas they'd like some feedback an help on.</p>",
