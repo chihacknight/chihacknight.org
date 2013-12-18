@@ -3,7 +3,21 @@ var hack_night_events = [
         "title": "2013 Year in Review",
         "date": "2013-12-17",
         "description": "<p>For the last hack night of 2013, <a href='https://twitter.com/civicwhitaker'>Christopher Whitaker</a> and <a href='https://twitter.com/derekeder'>Derek Eder</a> will showcase some open gov highlights from the past year. </p>",
-        "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>"
+        "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
+        "links": [
+            {
+                "name": "Presentation slides",
+                "url": "https://docs.google.com/presentation/d/1gLzKiVXjVZHOCiqy0sDmIJNp2BFNgBcOxviox1lSIUk/edit"
+            },
+            {
+                "name": "Hack night livestream",
+                "url": "https://www.youtube.com/watch?v=Y0WnWNkw6pY"
+            },
+            {
+                "name": "HackDash - project organization tool",
+                "url": "http://hacknight.hackdash.org"
+            }
+        ]
     },
     {
         "title": "Chicago Park District Data",
@@ -46,6 +60,10 @@ var hack_night_events = [
             {
                 "name": "Hack Night resources",
                 "url": "http://opengovhacknight.org/resources.html"
+            },
+            {
+                "name": "Smart Chicago blog post",
+                "url": "http://www.smartchicagocollaborative.org/chicagos-hidden-opendata/"
             }
         ]
     },
