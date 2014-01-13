@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "CivicLab",
+        "date": "2014-01-14",
+        "description": "<p><a href='https://twitter.com/skilfullycurled'>Benjamin Sugar</a> will introduce us to <a href='http://www.civiclab.us/'>CivicLab</a>, a new space that has opened up in Chicago to encourage 'civic making.' He'll also touch on the intersection of civic media and it's relationship to activism and community organizing.</p>",
+        "sponsor": "<a href='http://codeforamerica.com'>Code for America</a>",
+        "links": [
+            {
+                "name": "CivicLab",
+                "url": "http://www.civiclab.us/"
+            }
+        ]
+    },
+    {
         "title": "2013 Year in Review",
         "date": "2013-12-17",
         "description": "<p>For the last hack night of 2013, <a href='https://twitter.com/civicwhitaker'>Christopher Whitaker</a> and <a href='https://twitter.com/derekeder'>Derek Eder</a> will showcase some open gov highlights from the past year. </p>",
