@@ -176,12 +176,12 @@
             <h4>Contributors</h4>\
             <p class='contributors'>\
               {{#owner}}\
-                <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}'/></a>\
+                <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}' title='Owner: {{login}}'/></a>\
                 <span style='display: none;'>{{login}}</span>\
               {{/owner}}\
               {{#contributors}}\
                 {{^owner}}\
-                  <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' /></a>\
+                  <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' title='{{login}}'/></a>\
                   <span style='display: none;'>{{login}}</span>\
                 {{/owner}}\
               {{/contributors}}\

@@ -109,7 +109,7 @@ body {
   position: relative;
   width: 4px;
   height: 50px;
-  margin: 0 1px;
+  margin: 10px 1px 0 1px;
   float: left;
 }
 .bar span {
