@@ -166,6 +166,10 @@
               <br /><strong>Language</strong>\
               {{language}}\
             {{/language}}\
+            <div class='clearfix'></div>\
+            {{#participation_percent}}\
+              <div class='bar'><span style='height: {{.}}%;'>{{.}}%</span></div>\
+            {{/participation_percent}}\
           </td>\
           <td>\
             <p>{{description}}</p>\
@@ -204,6 +208,17 @@
 
         // loop through our json data
         $.each(data, function(i, json){
+          var participation = [];
+          var max_participation = 50;
+
+          if (json['participation']) {
+            for (var i = 0; i < json['participation'].length; i++) {
+              var val = ((json['participation'][i] + 1) / parseFloat(max_participation)) * 100;
+              if (val > 100) val = 100;
+              participation.push(val)
+            }
+            json['participation_percent'] = participation;
+          }
 
           // to display text like 'x days ago' we use moment.js's awesome fromNow function
           // http://momentjs.com/docs/#/displaying/fromnow/

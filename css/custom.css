@@ -103,3 +103,24 @@ body {
 .api-title { width: 30%; }
 
 .thumbnail {margin-bottom: 5px;}
+
+/* Bars */
+.bar {
+  position: relative;
+  width: 4px;
+  height: 50px;
+  margin: 0 1px;
+  float: left;
+}
+.bar span {
+    border-style: solid;
+    border-width: 0 2px;
+    display: block;
+    width: 1px;
+    margin: 0 1px;
+    text-indent: -5000px;
+    background: none repeat scroll 0 0 #95A5A6;
+    border-color: #95A5A6;
+    position: absolute;
+    bottom: 0;
+}
