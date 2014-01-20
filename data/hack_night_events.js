@@ -1,5 +1,21 @@
 var hack_night_events = [
     {
+        "title": "GeoGit",
+        "date": "2014-01-21",
+        "description": "<p><a href='https://twitter.com/mapmeld'>Nick Doiron</a> will present <a href='http://geogit.org/'>GeoGit</a>, a way for cities and civic hackers to publish their data and make maps that change over time, like this one of <a href='http://geoginger.com/divvy'>Chicago's Divvy stations</a>.</p>",
+        "sponsor": "<a href='http://www.civisanalytics.com/'>Civis Analytics</a>",
+        "links": [
+            {
+                "name": "GeoGit",
+                "url": "http://geogit.org/"
+            },
+            {
+                "name": "GeoGinger",
+                "url": "http://geoginger.com/"
+            }
+        ]
+    },
+    {
         "title": "CivicLab",
         "date": "2014-01-14",
         "description": "<p><a href='https://twitter.com/skilfullycurled'>Benjamin Sugar</a> will introduce us to <a href='http://www.civiclab.us/'>CivicLab</a>, a new space that has opened up in Chicago to encourage 'civic making.' He'll also touch on the intersection of civic media and it's relationship to activism and community organizing.</p>",
@@ -8,6 +24,10 @@ var hack_night_events = [
             {
                 "name": "CivicLab",
                 "url": "http://www.civiclab.us/"
+            },
+            {
+                "name": "CivicLab at OpenGovHack Night",
+                "url": "http://www.smartchicagocollaborative.org/civiclab-at-opengovhack-night/"
             }
         ]
     },
