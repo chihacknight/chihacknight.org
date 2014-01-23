@@ -40,7 +40,12 @@
         <!-- Begin page content-->
         <h1>Projects <small id='project-count'></small></h1>
         <p>Open source civic tech projects from Chicago's open gov community. <a href='http://civic-json.e-vz.com/data/project_details.json'>View the data powering this page</a>.</p>
-        <p><a class='btn btn-success' id='share-toggle' href='#'>Share your civic tech project</a> or <a class='btn btn-danger' href='http://hacknight.hackdash.org/'>Start collaborating on a new one</a></p>
+        <p>
+          <a class='btn btn-success' id='share-toggle' href='#'>Share your project</a> 
+          or 
+          <a class='btn btn-danger' href='http://hacknight.hackdash.org/'>Start a new one</a>
+          or 
+          <a class='btn btn-warning' id='project-needs' href='#'>Join an existing team</a></p>
 
         <div id='share-project' style='display:none;'>
           <div class='well'>
@@ -71,6 +76,7 @@
             <tr>
               <th>Project</th>
               <th>Description</th>
+              <th>Recent commits</th>
               <th>Stars</th>
               <th>Forks</th>
               <th>Issues</th>
@@ -120,6 +126,12 @@
 
       $('#share-toggle').click(function(){
         $('#share-project').slideToggle();
+        return false;
+      });
+
+      $('#project-needs').click(function(){
+        projects_table.fnFilter( 'project needs' );
+        $.address.parameter('search', 'project needs');
         return false;
       });
 
@@ -173,6 +185,12 @@
           </td>\
           <td>\
             <p>{{description}}</p>\
+            {{#has_project_needs}}\
+              <strong>Project needs</strong>\
+              {{#project_needs}}\
+                <a href='{{issue_url}}'><span class='label label-success'>{{title}}</span></a>\
+              {{/project_needs}}\
+            {{/has_project_needs}}\
             <h4>Contributors</h4>\
             <p class='contributors'>\
               {{#owner}}\
@@ -186,6 +204,9 @@
                 {{/owner}}\
               {{/contributors}}\
             </p>\
+          </td>\
+          <td>\
+            <a class='btn btn-default' href='{{html_url}}/commits/master'>{{recent_commits}} <i class='icon-check-sign'></i></a>\
           </td>\
           <td>\
             <a class='btn btn-default' href='{{html_url}}/stargazers'>{{watchers_count}} <i class='icon-star'></i></a>\
@@ -218,12 +239,21 @@
               participation.push(val)
             }
             json['participation_percent'] = participation;
+
+            var recent_commits = 0;
+            var recent_commits_arr = json['participation'].splice(48,4); // get the last 4 weeks
+            $.each(recent_commits_arr, function() {
+                recent_commits += this;
+            });
+
+            json['recent_commits'] = recent_commits;
           }
 
           // to display text like 'x days ago' we use moment.js's awesome fromNow function
           // http://momentjs.com/docs/#/displaying/fromnow/
           json['created_at_formatted'] = moment(json['created_at']).fromNow();
           json['updated_at_formatted'] = moment(json['updated_at']).fromNow();
+          json['has_project_needs'] = (json['project_needs'].length > 0);
 
           // check to make sure all our URL's have http:// in front of them
           // otherwise they won't link properly
@@ -245,6 +275,7 @@
             "aoColumns": [
                 null,
                 null,
+                { "sType": "num-html" },
                 { "sType": "num-html" },
                 { "sType": "num-html" },
                 { "sType": "num-html" }
