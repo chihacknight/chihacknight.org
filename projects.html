@@ -39,13 +39,19 @@
 
         <!-- Begin page content-->
         <h1>Projects <small id='project-count'></small></h1>
-        <p>Open source civic tech projects from Chicago's open gov community. <a href='http://civic-json.e-vz.com/data/project_details.json'>View the data powering this page</a>.</p>
-        <p>
-          <a class='btn btn-success' id='share-toggle' href='#'>Share your project</a> 
-          or 
-          <a class='btn btn-danger' href='http://hacknight.hackdash.org/'>Start a new one</a>
-          or 
-          <a class='btn btn-warning' id='project-needs' href='#'>Join an existing team</a></p>
+        <p>Open source civic tech projects from Chicago's open gov community. You can participate in three ways:</p>
+        
+        <ol>
+          <li>
+            <strong><a href='http://hacknight.hackdash.org/'>Start a new project</a></strong> - Collaborate and brainstorm your project on our <a href='http://hacknight.hackdash.org/'>Hack Dash page</a>.
+          </li>
+          <li>
+            <strong><a id='project-needs' href='#'>Join a team</a></strong> - Contribute to an existing team by finding open issues tagged with the <strong>project-needs</strong> label.
+          </li>
+          <li>
+            <strong><a id='share-toggle' href='#'>Share your existing project</a></strong> - If you have a civic app and it's open sourced on <a href='github.com'>Github</a>, share it with us and we will keep track of it below.
+          </li>
+        </ol>
 
         <div id='share-project' style='display:none;'>
           <div class='well'>
@@ -109,8 +115,10 @@
     <script src="js/mustache.js"></script>
     <script src="js/spin.min.js"></script>
     <script src="js/jquery.spin.js"></script>
+    <script src="js/jquery.scrollto.js"></script>
 
     <script>
+      var projects_table;
       // Set this up like this to make it easier to dev this locally -- evz
       var data_host = 'http://worker.opengovhacknight.org'
       // var data_host = 'http://civic-json.datamade.dev.work'
@@ -132,6 +140,7 @@
       $('#project-needs').click(function(){
         projects_table.fnFilter( 'project needs' );
         $.address.parameter('search', 'project needs');
+        $('#hack-night-projects').ScrollTo();
         return false;
       });
 
@@ -161,8 +170,6 @@
           return false;
         }
       });
-
-      var projects_table;
 
       // this is a template used for mustache.js. Each one represents a table row.
       var template = "\
@@ -206,7 +213,7 @@
             </p>\
           </td>\
           <td>\
-            <a class='btn btn-default' href='{{html_url}}/commits/master'>{{recent_commits}} <i class='icon-check-sign'></i></a>\
+            <a class='btn btn-default' href='{{html_url}}/commits/master'>{{recent_commits}} <i class='icon-plus-sign'></i></a>\
           </td>\
           <td>\
             <a class='btn btn-default' href='{{html_url}}/stargazers'>{{watchers_count}} <i class='icon-star'></i></a>\
