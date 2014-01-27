@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Get Covered Illinois",
+        "date": "2014-01-28",
+        "description": "<p><a href='http://www.linkedin.com/in/charleswendellwatkins'>Charles Watkins</a> from <a href='http://getcoveredillinois.gov/'>Get Covered Illinois</a> will discuss the <a href='http://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act'>Affordable Care Act</a> and its implementation here in Illinois.</p>",
+        "sponsor": "<a href='http://www.thoughtworks.com/'>Thoughtworks</a>",
+        "links": [
+            {
+                "name": "Get Covered Illinois",
+                "url": "http://geogit.org/"
+            }
+        ]
+    },
+    {
         "title": "GeoGit",
         "date": "2014-01-21",
         "description": "<p><a href='https://twitter.com/mapmeld'>Nick Doiron</a> will present <a href='http://geogit.org/'>GeoGit</a>, a way for cities and civic hackers to publish their data and make maps that change over time, like this one of <a href='http://geoginger.com/divvy'>Chicago's Divvy stations</a>.</p>",
@@ -12,6 +24,10 @@ var hack_night_events = [
             {
                 "name": "GeoGinger",
                 "url": "http://geoginger.com/"
+            },
+            {
+                "name": "GeoGit & GeoGinger: GitHub for Catrographers",
+                "url": "http://www.smartchicagocollaborative.org/geogit-geoginger-github-for-catrographers/"
             }
         ]
     },
