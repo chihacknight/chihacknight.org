@@ -1,6 +1,22 @@
 var hack_night_events = [
     {
         "title": "Get Covered Illinois",
+        "date": "2014-02-04",
+        "description": "<p><a href='https://twitter.com/nzorach'>Nat Zorach</a> from <a href='http://handbuiltcity.org/'>The Handbuilt City</a> will discuss how they use <a href='https://fundrise.com/'>Fundrise</a> to spur the development of affordable housing in Gary, IN and St Louis, MO..</p>",
+        "sponsor": "<a href='http://datamade.us/'>DataMade</a>",
+        "links": [
+            {
+                "name": "The Handbuilt City",
+                "url": "http://handbuiltcity.org/"
+            },
+            {
+                "name": "Fundrise",
+                "url": "http://fundrise.com/"
+            }
+        ]
+    },
+    {
+        "title": "Get Covered Illinois",
         "date": "2014-01-28",
         "description": "<p><a href='http://www.linkedin.com/in/charleswendellwatkins'>Charles Watkins</a> from <a href='http://getcoveredillinois.gov/'>Get Covered Illinois</a> will discuss the <a href='http://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act'>Affordable Care Act</a> and its implementation here in Illinois.</p>",
         "sponsor": "<a href='http://www.thoughtworks.com/'>Thoughtworks</a>",
@@ -8,6 +24,10 @@ var hack_night_events = [
             {
                 "name": "Get Covered Illinois",
                 "url": "http://geogit.org/"
+            },
+            {
+                "name": "Get Covered Illinois at OpenGov Hack Night",
+                "url": "http://www.smartchicagocollaborative.org/get-covered-illinois-at-opengov-hack-night/"
             }
         ]
     },
