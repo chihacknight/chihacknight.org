@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Resources - Open Gov Hack Night</title>
+    <title>Resources - Code 4 Puerto Rico</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,11 +30,11 @@
           <ul class="nav nav-pills pull-right">
             <li><a href="index.html">Home</a></li>
             <li><a href="events.html">Events</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="people.html">People</a></li>
+            <!--<li><a href="projects.html">Projects</a></li>
+            <li><a href="people.html">People</a></li>-->
             <li class="active"><a href="resources.html">Resources</a></li>
           </ul>
-          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
+          <h3 class="text-muted"><a href="index.html" >Code 4 Puerto Rico</a></h3>
         </div>
 
         <!-- Begin page content-->
@@ -43,9 +43,9 @@
             <h1>Resources</h1>
           </div>
           <div class='col-md-7'>
-            <p>Data portals, APIs, tools, tutorials and free developer infrastructure for making civic apps in Chicago.</p>
+            <p>Data portals, APIs, tools, tutorials and free developer infrastructure for making civic apps in Puerto Rico.</p>
 
-            <p>This page is still a work in progress. If you'd like to help out, <a href='https://github.com/open-city/open-gov-hack-night/issues/28'>join the discussion on <i class='icon-github'></i> Github</a>.</p>
+            <p>This page is still a work in progress. If you'd like to help out, <a href='#'>join the discussion on <i class='icon-github'></i> Github</a>.</p>
           </div>
 
           <div class='col-md-5'>
@@ -64,10 +64,17 @@
           <div class='col-md-12'>
             <hr />
             <h2 id='data-portals'>
-              <i class='icon-cloud-download'></i> 
+              <i class='icon-cloud-download'></i>
               Data portals
             </h2>
-            <p>One of the best places to get open government data is from their official data portal. <a href='https://data.cityofchicago.org'>Chicago</a>, <a href='http://data.cookcountyil.gov'>Cook County</a>, <a href='https://data.illinois.gov/'>Illinois</a> and the <a href='http://www.data.gov/'>US Federal Government</a> post their data on these portals for anyone to access for free.</p>
+            <div class='col-md-3 text-center'>
+              <a href='http://gis.pr.gov'>
+                <img src='images/pr-gis.png' title='Puerto Rico GIS' />
+                <br /> Puerto Rico GIS
+              </a>
+            </div>
+
+<!--<p>One of the best places to get open government data is from their official data portal. <a href='https://data.cityofchicago.org'>Chicago</a>, <a href='http://data.cookcountyil.gov'>Cook County</a>, <a href='https://data.illinois.gov/'>Illinois</a> and the <a href='http://www.data.gov/'>US Federal Government</a> post their data on these portals for anyone to access for free.</p>
             <div class='col-md-3 text-center'>
               <a href='https://data.cityofchicago.org'>
                 <img src='images/chicago_city_seal.png' title='City of Chicago' />
@@ -94,7 +101,7 @@
                 <img src='images/usa_federal_seal.png' title='US Federal Government' />
                 <br />US Federal Government
               </a>
-            </div>
+          </div>-->
           </div>
         </div>
 
@@ -102,11 +109,11 @@
           <div class='col-md-12'>
             <hr />
             <h2 id='other-open-data-sources'>
-              <i class='icon-download'></i> 
-              Other open data sources 
+              <i class='icon-download'></i>
+              Other open data sources
               <small id='data-count'></small>
             </h2>
-            <p>Open data portals and APIs available in Chicago. Are we missing any? <a href='https://docs.google.com/spreadsheet/ccc?key=0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE#gid=0'>Add them to our list!</a></p>
+            <p>Open data portals and APIs available in Puerto Rico. Are we missing any? <a href='https://docs.google.com/a/codeforamerica.org/spreadsheet/ccc?key=0AqtUHHjfPDomdGlyR2NoZnlydmZCdi02SUtQb252bXc#gid=0'>Add them to our list!</a></p>
 
             <table id='open-data-table' class='table table-striped'>
               <thead>
@@ -127,7 +134,7 @@
             <div class=''>
             <hr />
             <h2 id='free-developer-infrastructure'>
-              <i class='icon-cogs'></i> 
+              <i class='icon-cogs'></i>
               Free developer infrastructure
               <small id='infrastructure-count'></small>
             </h2>
@@ -235,7 +242,7 @@
         </tr>\
         ";
 
-      populate_table("0AtbqcVh3dkAqdDZFaTlwRlBDczVGbUtJUnNwVnZ2ZVE", "open-data-table", "data-count", data_template, [ [1,'asc'] ], [ null, null, null ], 'data-search');
+      populate_table("0AqtUHHjfPDomdGlyR2NoZnlydmZCdi02SUtQb252bXc", "open-data-table", "data-count", data_template, [ [1,'asc'] ], [ null, null, null ], 'data-search');
 
       // populate free developer infrastructure
       var infrastructure_template = "\
