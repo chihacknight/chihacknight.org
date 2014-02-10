@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Divvy Data II",
+        "date": "2014-02-11",
+        "description": "<p>Following up on the successful <a href='http://chi.streetsblog.org/2013/07/03/divvy-data-for-the-first-weekend/'>Divvy Data hack night</a> last summer, <a href='https://twitter.com/stevevance'>Steven Vance</a> and other developers will <a href='http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/'>share what they have created</a> to analyze station locations, track rides, and use hardware to know bike/station availability.</p><p><a href='https://twitter.com/elliotg'>Elliot Greenberger</a> from <a href='http://divvybikes.com/'>Divvy</a> will also be making a special announcement.</p>",
+        "sponsor": "<a href='http://codeforamerica.com'>Code for America</a>",
+        "links": [
+            {
+                "name": "Capital Bikeshare Hackers Pedal Their Wares at Mobility Lab",
+                "url": "http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/"
+            }
+        ]
+    },
+    {
         "title": "Get Covered Illinois",
         "date": "2014-02-04",
         "description": "<p><a href='https://twitter.com/nzorach'>Nat Zorach</a> from <a href='http://handbuiltcity.org/'>The Handbuilt City</a> will discuss how they use <a href='https://fundrise.com/'>Fundrise</a> to spur the development of affordable housing in Gary, IN and St Louis, MO.</p>",
