@@ -20,7 +20,7 @@ var hack_night_events = [
         ]
     },
     {
-        "title": "Get Covered Illinois",
+        "title": "The Handbuilt City",
         "date": "2014-02-04",
         "description": "<p><a href='https://twitter.com/nzorach'>Nat Zorach</a> from <a href='http://handbuiltcity.org/'>The Handbuilt City</a> will discuss how they use <a href='https://fundrise.com/'>Fundrise</a> to spur the development of affordable housing in Gary, IN and St Louis, MO.</p>",
         "sponsor": "<a href='http://datamade.us/'>DataMade</a>",
