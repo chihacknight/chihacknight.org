@@ -6,6 +6,10 @@ var hack_night_events = [
         "sponsor": "<a href='http://codeforamerica.com'>Code for America</a>",
         "links": [
             {
+                "name": "Bike Sharing Data Hackpad (official resource)",
+                "url": "https://bikesharingdata.hackpad.com"
+            },
+            {
                 "name": "Capital Bikeshare Hackers Pedal Their Wares at Mobility Lab",
                 "url": "http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/"
             }
