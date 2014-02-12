@@ -1,6 +1,6 @@
 # Open Gov Hack Night
 
-Website for Chicago's weekly Open Gov Hack Night
+Website for Puerto Rico's weekly Open Gov Hack Night
 
 Built in plain HTML, Javascript and CSS
 
