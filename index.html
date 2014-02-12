@@ -14,12 +14,17 @@
 
     <!-- Custom styles for this template -->
     <link href="css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
+  <style>
+    #map { height: 250px; }
+
+  </style>
   </head>
 
   <body>
@@ -34,7 +39,7 @@
            <li><a href="people.html">People</a></li>-->
             <li><a href="resources.html">Resources</a></li>
           </ul>
-          <h3 class="text-muted"><a href="index.html" >Code 4 Puerto Rico</a></h3>
+          <a href="#"><img class="brand-logo" src="images/logo.png" alt="logo brand"></a>
         </div>
 
         <div class="jumbotron">
@@ -89,11 +94,11 @@
                 <i class='icon-calendar'></i>
                   Code 4 PR Hack Night
               </h4>
-              <p><img class='img-thumbnail' src='images/1871_map.png'></p>
+              <div id="map"></div>
               <p>
                 6pm every Tuesday<br />
-                <a href='www.piloto151.com'>Piloto 151</a><br />
-                <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>PILOTO's Address</a><br />
+                <a href='http://www.piloto151.com/'>Piloto 151</a><br />
+                <a href='https://maps.google.com.pr/maps?oe=utf-8&client=firefox-a&channel=fflb&ie=UTF-8&q=Piloto+151&fb=1&gl=pr&hq=151+San+Francisco+Street.+Old+San+Juan,+PR+00901&cid=8260056925349798347&ei=hK_6Ut_LGKvL0gGlzoDQAQ&ved=0CJABEPwSMAo'>PILOTO's Address</a><br />
               </p>
               <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
             </div>
@@ -102,8 +107,8 @@
               <h4>
                 Join the discussion
               </h4>
-              <p><i class='icon-envelope'></i> <a href='https://groups.google.com/forum/#!forum/chihacknight'>Join our Google Group</a> to discuss new and ongoing projects</p>
-
+              <p><i class='icon-envelope'></i> <a href='https://www.facebook.com/groups/code4puertorico/'>Join our Google Group</a> to discuss new and ongoing projects</p>
+              <p><i class='icon-facebook'></i> <a href='https://www.facebook.com/groups/code4puertorico/'>Join our Facebook Group</a> and post cool stuff</p>
               <p><i class='icon-twitter'></i> Keep up with hack night events and projects on Twitter with the <a href='https://twitter.com/search?q=%23chihacknight'>#Code4PR</a> hashtag</p>
 
             </div>
@@ -246,14 +251,39 @@
         </div>
       </div>
     </div> <!-- /container -->
-
-
+    
+   
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/analytics_lib.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+    <script type="text/javascript">
+      
+      // create a map in the "map" div, set the view to a given place and zoom
+        var map = L.map('map').setView([18.46551, -66.11685], 15);
+
+        var marker = L.marker([18.46551, -66.11685]).addTo(map);
+          
+        var popup = L.popup();
+
+        marker.bindPopup('Hola hackers,<br> Estamos en Piloto151').openPopup();
+        
+
+
+
+
+
+        // add an OpenStreetMap tile layer
+        L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+
+
+    </script>
 
   </body>
 </html>

@@ -5,6 +5,10 @@ body {
   font-size: 17px;
 }
 
+.brand-logo {
+  width: 300px;
+}
+
 .contributors img {
   width: 50px;
 }
@@ -35,10 +39,6 @@ body {
   padding-right: 15px;
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-}
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
