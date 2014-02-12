@@ -10,6 +10,10 @@ var hack_night_events = [
                 "url": "https://bikesharingdata.hackpad.com"
             },
             {
+                "name": "Divvy Data Challenge",
+                "url": "http://divvybikes.com/datachallenge"
+            },
+            {
                 "name": "Capital Bikeshare Hackers Pedal Their Wares at Mobility Lab",
                 "url": "http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/"
             }
