@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Cartografika",
+        "date": "2014-02-18",
+        "description": "<p>Adam Jentleson, Jose Alarcon, and Taylor McKinley from <a href-'http://www.cartografika.net/'>Cartografika</a> will tell us about their use of <a href='https://data.cityofchicago.org/Buildings/Building-Footprints/qv97-3bvb'>open data</a> to <a href='http://logansquarist.com/2013/06/04/cartografika-founders-mapping-the-square/'>craft</a> <a href='http://www.dailycandy.com/chicago/article/148634/City-Maps-by-Cartografika'>stunning</a> <a href='http://www.etsy.com/shop/Cartografika?page=1'>maps</a> of Chicago's urban fabric - and those of cities around the world.</p>",
+        "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+        "links": [
+            {
+                "name": "Cartografika",
+                "url": "http://www.cartografika.net/"
+            }
+        ]
+    },
+    {
         "title": "Divvy Data II",
         "date": "2014-02-11",
         "description": "<p>Following up on the successful <a href='http://chi.streetsblog.org/2013/07/03/divvy-data-for-the-first-weekend/'>Divvy Data hack night</a> last summer, <a href='https://twitter.com/stevevance'>Steven Vance</a> and other developers will <a href='http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/'>share what they have created</a> to analyze station locations, track rides, and use hardware to know bike/station availability.</p><p><a href='https://twitter.com/elliotg'>Elliot Greenberger</a> from <a href='http://divvybikes.com/'>Divvy</a> will also be making a special announcement.</p>",
