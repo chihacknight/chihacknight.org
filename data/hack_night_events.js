@@ -1,5 +1,21 @@
 var hack_night_events = [
     {
+        "title": "Expunge.io",
+        "date": "2014-02-25",
+        "description": "<p><a href='https://twitter.com/cthydng'>Kathy Deng</a> will talk about <a href='http://www.expunge.io/'>Expunge.io</a>, a guide to help youth in Cook County erase their juvenile arrest and/or court records through the legal process of <a href='http://www.wbez.org/news/why-it-so-hard-expunge-juvenile-records-cook-county-105257'>juvenile expungement</a>.</p>",
+        "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+        "links": [
+            {
+                "name": "Expunge.io",
+                "url": "http://Expunge.io"
+            },
+            {
+                "name": "On the Launch of Expunge.io",
+                "url": "http://www.smartchicagocollaborative.org/on-the-launch-of-expunge-io/"
+            }
+        ]
+    },
+    {
         "title": "Cartografika",
         "date": "2014-02-18",
         "description": "<p>Adam Jentleson, Jose Alarcon, and Taylor McKinley from <a href-'http://www.cartografika.net/'>Cartografika</a> will tell us about their use of <a href='https://data.cityofchicago.org/Buildings/Building-Footprints/qv97-3bvb'>open data</a> to <a href='http://logansquarist.com/2013/06/04/cartografika-founders-mapping-the-square/'>craft</a> <a href='http://www.dailycandy.com/chicago/article/148634/City-Maps-by-Cartografika'>stunning</a> <a href='http://www.etsy.com/shop/Cartografika?page=1'>maps</a> of Chicago's urban fabric - and those of cities around the world.</p>",
@@ -8,6 +24,10 @@ var hack_night_events = [
             {
                 "name": "Cartografika",
                 "url": "http://www.cartografika.net/"
+            },
+            {
+                "name": "Hack Night Live: Cartografika",
+                "url": "http://www.smartchicagocollaborative.org/hack-night-live-cartografika/"
             }
         ]
     },
