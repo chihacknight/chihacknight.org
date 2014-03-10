@@ -1,5 +1,33 @@
 var hack_night_events = [
     {
+        "title": "Chicago CIO Brenna Berman on Procurement",
+        "date": "2014-03-11",
+        "description": "<p>City of Chicago CIO <a href='http://www.cityofchicago.org/city/en/depts/doit/auto_generated/doit_leadership.html'>Brenna Berman</a> will host a Q&A session on technology procurement, similar to <a href='http://www.smartchicagocollaborative.org/liveprocurement/'>last month's OpenGov Chicago meetup</a> (here's the <a href='https://docs.google.com/document/d/14_v3qaTznXtr-KV33ikaWgRUgVB6pgcl3dttmXRiSoc/edit'>meeting notes</a>).</p><p>The City is looking for ways to improve the procurement process and lower barriers to entry for small and medium businesses. If you have questions, feedback or suggestions on how Chicago buys technology, this is your chance speak up!</p>",
+        "sponsor": "<a href='http://thoughtworks.com'>Thoughtworks</a>",
+        "links": [
+            {
+                "name": "OpenGov Chicago Live: IT Procurement & The City of Chicago",
+                "url": "http://www.smartchicagocollaborative.org/liveprocurement/"
+            },
+            {
+                "name": "OIT Procurement & The City of Chicago Meeting Notes",
+                "url": "https://docs.google.com/document/d/14_v3qaTznXtr-KV33ikaWgRUgVB6pgcl3dttmXRiSoc/edit"
+            },
+            {
+                "name": "DataMade: Procurement and Civic Innovation",
+                "url": "http://datamade.us/blog/procurement-and-civic-innovation/"
+            },
+            {
+                "name": "Daniel X. O'Neil: Some Thoughts Toward the Maturation of the Civic Innovation Sector of the Technology Industry",
+                "url": "http://www.derivativeworks.com/2014/02/some-thoughts-toward-the-maturation-of-the-civic-innovation-sector-of-the-technology-industry.html"
+            },
+            {
+                "name": "WBEZ Tech Shift: Open data and government websites",
+                "url": "https://soundcloud.com/afternoonshiftwbez/tech-shift-open-data-and"
+            }
+        ]
+    },
+    {
         "title": "FWD.us",
         "date": "2014-03-04",
         "description": "<p><a href='https://twitter.com/francuzb'>Bojan Francuz</a> from <a href=''http://FWD.us>FWD.us</a> will talk about the data, tools and processes they use to advocate for policies like <a href='http://en.wikipedia.org/wiki/Immigration_reform'>immigration reform</a>.</p>",
@@ -8,6 +36,14 @@ var hack_night_events = [
             {
                 "name": "FWD.us",
                 "url": "http://FWD.us"
+            },
+            {
+                "name": "Hack Night Live: FWD.us",
+                "url": "http://www.smartchicagocollaborative.org/hack-night-live/"
+            },
+            {
+                "name": "OpenGov Hack Night: Apps that Advocate",
+                "url": "http://www.smartchicagocollaborative.org/appsthatadvocate/"
             }
         ]
     },
@@ -24,6 +60,10 @@ var hack_night_events = [
             {
                 "name": "On the Launch of Expunge.io",
                 "url": "http://www.smartchicagocollaborative.org/on-the-launch-of-expunge-io/"
+            },
+            {
+                "name": "Expunge.io at OpenGov Hack Night",
+                "url": "http://www.smartchicagocollaborative.org/expunge-io-at-opengov-hack-night/"
             }
         ]
     },
