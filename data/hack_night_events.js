@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Daniel Hertz - Zoning in Chicago",
+        "date": "2014-03-18",
+        "description": "<p>Urban policy blogger <a href='https://twitter.com/DanielKayHertz'>Daniel Hertz</a> will talk about the <a href='http://danielhertz.wordpress.com/2014/01/27/zoning-its-just-insane/'>downsides of low-density zoning in Chicago</a>, and how he uses open zoning data to understand the built environment.</p>",
+        "sponsor": "<a href='http://codeforamerica.org'>Code for America</a>",
+        "links": [
+            {
+                "name": "City Notes by Daniel Hertz",
+                "url": "http://danielhertz.wordpress.com/"
+            }
+        ]
+    },
+    {
         "title": "Chicago CIO Brenna Berman on Procurement",
         "date": "2014-03-11",
         "description": "<p>City of Chicago CIO <a href='http://www.cityofchicago.org/city/en/depts/doit/auto_generated/doit_leadership.html'>Brenna Berman</a> will host a Q&A session on technology procurement, similar to <a href='http://www.smartchicagocollaborative.org/liveprocurement/'>last month's OpenGov Chicago meetup</a> (here's the <a href='https://docs.google.com/document/d/14_v3qaTznXtr-KV33ikaWgRUgVB6pgcl3dttmXRiSoc/edit'>meeting notes</a>).</p><p>The City is looking for ways to improve the procurement process and lower barriers to entry for small and medium businesses. If you have questions, feedback or suggestions on how Chicago buys technology, this is your chance speak up!</p>",
@@ -24,6 +36,10 @@ var hack_night_events = [
             {
                 "name": "WBEZ Tech Shift: Open data and government websites",
                 "url": "https://soundcloud.com/afternoonshiftwbez/tech-shift-open-data-and"
+            },
+            {
+                "name": "Hack Night Live: CIO Brenna Berman talks Procurement",
+                "url": "http://www.smartchicagocollaborative.org/hack-night-live-cio-brenna-berman-talks-procurement/"
             }
         ]
     },
