@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Divvy Data Winners",
+        "date": "2014-03-25",
+        "description": "<p>The 5 winners of the <a href='http://divvybikes.com/datachallenge'>Divvy Data Challenge</a> will be announced with demos to follow.</p>",
+        "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+        "links": [
+            {
+                "name": "Divvy Data Challenge",
+                "url": "http://divvybikes.com/datachallenge"
+            }
+        ]
+    },
+    {
         "title": "Daniel Hertz - Zoning in Chicago",
         "date": "2014-03-18",
         "description": "<p>Urban policy blogger <a href='https://twitter.com/DanielKayHertz'>Daniel Hertz</a> will talk about the <a href='http://danielhertz.wordpress.com/2014/01/27/zoning-its-just-insane/'>downsides of low-density zoning in Chicago</a>, and how he uses open zoning data to understand the built environment.</p>",
