@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "The Chicago Tribune Elections Website",
+        "date": "2014-04-01",
+        "description": "<p><a href='https://twitter.com/eads'>David Eads</a> returns to the hack night to talk about his work on the <a href='http://elections.chicagotribune.com/'>Chicago Tribune Elections Website</a>. He'll go over their use of the new <a href='http://specialevents.reuters.com/us-election-service/'>Reuters election data service</a> and how they integrated the content in to print.</p>",
+        "sponsor": "<a href='http://thoughtworks.com'>ThoughtWorks</a>",
+        "links": [
+            {
+                "name": "Chicago Tribune Election Center",
+                "url": "http://elections.chicagotribune.com/"
+            }
+        ]
+    },
+    {
         "title": "Divvy Data Winners",
         "date": "2014-03-25",
         "description": "<p>The 5 winners of the <a href='http://divvybikes.com/datachallenge'>Divvy Data Challenge</a> will be announced with demos to follow.</p>",
