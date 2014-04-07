@@ -1,5 +1,21 @@
 var hack_night_events = [
     {
+        "title": "Transit Future and Large Lots",
+        "date": "2014-04-08",
+        "description": "<p>For our 100th Hack Night, we will have two presentations:</p><p><a href='http://www.linkedin.com/pub/edward-oser/34/83b/552'>Ed Oser</a> and Nick Doiron (https://twitter.com/mapmeld) will present <a href='http://transitfuture.org/'>Transit Future</a>, a vision of an expanded Chicago public transportation system led by the <a href='http://www.cnt.org/'>Center for Neighborhood Technology</a> and <a href='http://www.activetrans.org/'>Active Transportation Alliance</a> with a <a href='http://vision.transitfuture.org/'>visualization</a> by <a href='http://opencityapps.org/'>Open City</a>.</p><p>AND</p><p><a href='https://twitter.com/citizendrummer'>Demond Drummer</a> from <a href='http://www.teamworkenglewood.org/index.html'>Teamwork Englewood</a> will talk about <a href='http://largelots.org'>LargeLots.org</a>, an app built by <a href='http://datamade.us/'>DataMade</a> and <a href='http://www.lisc-chicago.org/index.html'>LISC Chicago</a> for navigating the <a href='http://www.cityofchicago.org/city/en/depts/dcd/supp_info/large-lot-program.html'>City's program</a> for selling vacant lots on the South Side for $1.</p>",
+        "sponsor": "<a href='http://datamade.us'>DataMade</a>",
+        "links": [
+            {
+                "name": "Transit Future Vision",
+                "url": "http://vision.transitfuture.org/"
+            },
+            {
+                "name": "Large Lots",
+                "url": "http://largelots.org"
+            }
+        ]
+    },
+    {
         "title": "The Chicago Tribune Elections Website",
         "date": "2014-04-01",
         "description": "<p><a href='https://twitter.com/eads'>David Eads</a> returns to the hack night to talk about his work on the <a href='http://elections.chicagotribune.com/'>Chicago Tribune Elections Website</a>. He'll go over their use of the new <a href='http://specialevents.reuters.com/us-election-service/'>Reuters election data service</a> and how they integrated the content in to print.</p>",
