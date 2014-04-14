@@ -1,5 +1,21 @@
 var hack_night_events = [
     {
+        "title": "Affordable Care Act Outreach App",
+        "date": "2014-04-15",
+        "description": "<p><a href='https://www.linkedin.com/in/dominiquerwilliams'>Dominique Williams</a>, <a href='https://twitter.com/shua123'>Josh Kalov</a> and <a href='https://twitter.com/civicwhitaker'>Christopher Whitaker</a> will present on the <a href='http://www.smartchicagocollaborative.org/projects/civic-innovation-in-chicago/affordable-care-act-outreach-app/'>Affordable Care Act Outreach App</a> they built in partnership with the <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> and <a href='http://www.lisc-chicago.org/index.html'>LISC-Chicago</a>.</p><p>Through their efforts, LISC helped to enroll 2,975 Chicagoans for health insurance under the Affordable Care Act.</p>",
+        "sponsor": "<a href='http://www.socrata.com'>Socrata</a>",
+        "links": [
+            {
+                "name": "Affordable Care Act Outreach App",
+                "url": "http://www.smartchicagocollaborative.org/projects/civic-innovation-in-chicago/affordable-care-act-outreach-app/"
+            },
+            {
+                "name": "Wufoo-to-Twilio-SMS",
+                "url": "https://github.com/smartchicago/Wufoo-to-Twilio-SMS"
+            }
+        ]
+    },
+    {
         "title": "Transit Future and Large Lots",
         "date": "2014-04-08",
         "description": "<p>For our 100th Hack Night, we will have two presentations:</p><p><a href='http://www.linkedin.com/pub/edward-oser/34/83b/552'>Ed Oser</a> and Nick Doiron (https://twitter.com/mapmeld) will present <a href='http://transitfuture.org/'>Transit Future</a>, a vision of an expanded Chicago public transportation system led by the <a href='http://www.cnt.org/'>Center for Neighborhood Technology</a> and <a href='http://www.activetrans.org/'>Active Transportation Alliance</a> with a <a href='http://vision.transitfuture.org/'>visualization</a> by <a href='http://opencityapps.org/'>Open City</a>.</p><p>AND</p><p><a href='https://twitter.com/citizendrummer'>Demond Drummer</a> from <a href='http://www.teamworkenglewood.org/index.html'>Teamwork Englewood</a> will talk about <a href='http://largelots.org'>LargeLots.org</a>, an app built by <a href='http://datamade.us/'>DataMade</a> and <a href='http://www.lisc-chicago.org/index.html'>LISC Chicago</a> for navigating the <a href='http://www.cityofchicago.org/city/en/depts/dcd/supp_info/large-lot-program.html'>City's program</a> for selling vacant lots on the South Side for $1.</p>",
@@ -12,6 +28,10 @@ var hack_night_events = [
             {
                 "name": "Large Lots",
                 "url": "http://largelots.org"
+            },
+            {
+                "name": "Hack Night Live: Transit Future and LargeLots.org",
+                "url": "http://www.smartchicagocollaborative.org/hack-night-large-lots/"
             }
         ]
     },
