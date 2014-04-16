@@ -1,0 +1,24 @@
+[
+{
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/inaki", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/6eaf2c0c28b99586e8828d4cc1975b94?d=https%3A%2F%2Fidenticons.github.com%2F7e94ff16909822465b1ce26caa8c04b7.png&r=x", 
+        "location": null, 
+        "login": "35thLair", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Adam Gluck", 
+        "company": "Sterling", 
+        "repositories": 1, 
+        "html_url": "https://github.com/AdamGluck", 
+        "blog": "adamgluck.me", 
+        "avatar_url": "https://gravatar.com/avatar/7346d1cc6ea5f85ec6f846e0ee9624df?d=https%3A%2F%2Fidenticons.github.com%2F5cf45fd04fda4f5c80582c8280626987.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "AdamGluck", 
+        "contributions": 5
+    }
+]

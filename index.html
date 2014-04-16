@@ -23,7 +23,8 @@
     <![endif]-->
   <style>
     #map { height: 250px; }
-
+    #hackimg {width: 100%;}
+    .sponsors img {max-width: 250px;}
   </style>
   </head>
 
@@ -35,8 +36,8 @@
           <ul class="nav nav-pills pull-right">
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="events.html">Events</a></li>
-           <!-- <li><a href="projects.html">Projects</a></li>
-           <li><a href="people.html">People</a></li>-->
+          <!--  <li><a href="projects.html">Projects</a></li> -->
+           <!-- <li><a href="people.html">People</a></li> -->
             <li><a href="resources.html">Resources</a></li>
           </ul>
           <a href="#"><img class="brand-logo" src="images/logo.png" alt="logo brand"></a>
@@ -50,13 +51,13 @@
 
         <div id='about' class='row'>
           <div class='col-md-7'>
-            <img src="images/codeacross.jpg" alt="">
-            <h3><a href="http://www.eventbrite.com/e/codeacross-america-2014-version-puerto-rico-tickets-10562816669">Code Across America</a></h3>
-            <p>Come and join us, for the first time in history, to do civic hacking in the Capitol Hill building</p>
+            <img id="hackimg" src="images/flag.png" alt="">
+            <h3><a href="http://www.eventbrite.com/e/codeacross-america-2014-version-puerto-rico-tickets-10562816669">San Juan / San Francisco Civic Unhackathon for Puerto Rico</a></h3>
+            <p>This one of a kind hackathon will happen simultaneously in both cities. We are expecting representatives from the San Francisco tech community, the civic tech sphere, advocates, programmers and designers, marketing experts, writers/storytellers, and citizens of any kind of background from both cities. The purpose of the event is to connect both communities and learn from each other. Participants will brainstorm ideas and create prototypes that build on Puerto Rico’s Open Data portal as well as other data sets, encourage local economic development in Puerto Rico, and build a stronger connection between the mainland and the island.</p>
+            <a class='btn btn-success' href='https://www.eventbrite.com/e/san-juan-civic-unhackathon-for-puerto-rico-tickets-11292727853'>Register 4 San Juan &raquo;</a>
+            <a class='btn btn-success' href='https://www.eventbrite.com/e/san-francisco-civic-unhackathon-for-puerto-rico-tickets-11292739889'>Register 4 San Francisco &raquo;</a>
             <hr>
-          </div>
-
-          <div class='col-md-7'>
+          
             <p>Come join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech hacking, learning, and hanging.</p>
             <br>
             <p>The <strong>Code For Puerto Rico Hack Night</strong> is for those who want to:</p>
@@ -149,9 +150,10 @@
           <h2 id='sponsors'>Sponsors</h2>
           <p>Our awesome sponsors keep us going: </p>
           <p>
-            <a href='http://piloto151.com'><img src='images/pilotoslide.png' alt='Code for America' /></a>           
+            <a href='http://piloto151.com'><img src='images/pilotoslide.png' alt='Code for America' /></a>
             <a href='http://codeforamerica.com'><img src='images/sponsors/code-for-america.jpg' alt='Code for America' /></a>
-           
+            <a href='http://i-commtech.com'><img src='images/sponsors/icomm.png' alt='Code for America' /></a>
+
           </p>
         </div>
 
@@ -187,12 +189,12 @@
         </div> -->
         </div>
 
-        <div class='row'>
+      <!--   <div class='row'>
           <hr />
           <h2 id='bring-it'>Bring the hack night to your city</h2>
           <p>Hack nights anchor and grow volunteer civic hacking communities while avoiding 'hackathon fatigue'. To learn how to organize one in your city, see the <a href="http://www.codeforamerica.org/2013/07/24/brigade-101-how-to-hack-night/">Code for America blog</a>.</p>
 
-          <!--<p>Friends have forked the hack night in many cities: </p>
+          <p>Friends have forked the hack night in many cities: </p>
 
           <div class='col-md-4'>
             <ul>
@@ -215,9 +217,9 @@
               <li><a href='http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/'>San Francisco, CA</a></li>
               <li><a href='http://www.meetup.com/Code-for-DC/'>Washington, DC</a></li>
             </ul>
-        </div> -->
+        </div> 
         </div>
-
+ -->
         <div class='row'>
           <hr />
           <h2 id='leadership'>Leadership &amp; contact</h2>
@@ -254,8 +256,8 @@
         </div>
       </div>
     </div> <!-- /container -->
-    
-   
+
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -264,16 +266,16 @@
     <script src="js/analytics_lib.js"></script>
     <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
     <script type="text/javascript">
-      
+
       // create a map in the "map" div, set the view to a given place and zoom
         var map = L.map('map').setView([18.46551, -66.11685], 15);
 
         var marker = L.marker([18.46551, -66.11685]).addTo(map);
-          
+
         var popup = L.popup();
 
         marker.bindPopup('Every Tuesday,<br> in Piloto151').openPopup();
-        
+
 
 
 
