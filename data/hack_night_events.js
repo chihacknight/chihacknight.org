@@ -1,5 +1,17 @@
 var hack_night_events = [
     {
+        "title": "Experimental Station",
+        "date": "2014-04-29",
+        "description": "<p>Danny Burke from <a href='http://experimentalstation.org/'>Experimental Station</a> will talk about the <a href='http://experimentalstation.org/farmers-market'>61st Street Farmers Market</a> including their food access programs around food stamps, value incentives, table counts and consumer behavior within the context of food justice on the south and west sides of Chicago.</p>",
+        "sponsor": "<a href='http://www.thoughtworks.com'>ThoughtWorks</a>",
+        "links": [
+            {
+                "name": "Experimental Station",
+                "url": "http://experimentalstation.org/"
+            }
+        ]
+    },
+    {
         "title": "Open Hack Session",
         "date": "2014-04-22",
         "description": "<p>No presentations this week - just come to build, share, and learn about civic tech!</p>",
