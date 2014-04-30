@@ -1,3 +1,0 @@
-Sitemap: http://opengovhacknight.org/sitemap.xml
-User-agent: *
-Disallow:
