@@ -1,8 +1,90 @@
----
-layout: default
----
-        
-<h1>Projects <small id='project-count'></small></h1>
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>
+      
+      Open Gov Hack Night
+    </title>
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+    <meta content='Chicago's place to build, share, and learn about civic tech.' name='description' />
+    <meta content='Open Gov Hack Night' name='author' />
+
+    <!-- Facebook metadata -->
+    <meta content="" property="og:site_name">
+    
+      <meta content="" property="og:title">
+    
+    
+      <meta content="website" property="og:type">
+    
+    <!-- 
+      <meta content="Chicago's place to build, share, and learn about civic tech." property="og:description">
+     -->
+    
+      <meta content="http://opengovhacknight.org/projects.html" property="og:url">
+    
+    
+    
+      <meta content="http://opengovhacknight.org/images/logo.png" property="og:image">
+    
+    
+    
+
+    <!-- Twitter metadata -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@DataMadeCo">
+    <meta name="twitter:creator" content="@DataMadeCo">
+    
+      <meta name="twitter:title" content="">
+    
+    
+      <meta name="twitter:url" content="http://opengovhacknight.org/projects.html">
+    
+<!--     
+      <meta name="twitter:description" content="Chicago's place to build, share, and learn about civic tech.">
+     -->
+    
+      <meta name="twitter:image:src" content="http://opengovhacknight.org/images/logo.png">
+    
+
+    <link href='/favicon.ico' rel='shortcut icon' />
+    
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/analytics_lib.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class='col-md-10 col-md-offset-1'>
+        <div class="header">
+          <ul class="nav nav-pills pull-right">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="people.html">People</a></li>
+            <li><a href="resources.html">Resources</a></li>
+          </ul>
+          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
+        </div>
+      
+        <h1>Projects <small id='project-count'></small></h1>
 <p>Open source civic tech projects from Chicago's open gov community. You can participate in three ways:</p>
 
 <ol>
@@ -123,54 +205,54 @@ if(key == 13) {
 var template = "\
 <tr>\
   <td>\
-    <h3><a href='{{html_url}}'>{{name}}</a></h3>\
-    {{#homepage}}\
-      <a href='{{homepage_formatted}}'>Website</a>\
-    {{/homepage}}\
+    <h3><a href=''></a></h3>\
+    \
+      <a href=''>Website</a>\
+    \
     <br /><strong>Created</strong>\
-    {{created_at_formatted}}\
-    {{#language}}\
+    \
+    \
       <br /><strong>Language</strong>\
-      {{language}}\
-    {{/language}}\
+      \
+    \
     <div class='clearfix'></div>\
-    {{#participation_percent}}\
-      <div class='bar'><span style='height: {{.}}%;'>{{.}}%</span></div>\
-    {{/participation_percent}}\
+    \
+      <div class='bar'><span style='height: %;'>%</span></div>\
+    \
   </td>\
   <td>\
-    <p>{{description}}</p>\
+    <p></p>\
     <h4>Contributors</h4>\
     <p class='contributors'>\
-      {{#owner}}\
-        <a href='{{html_url}}' class='contributor-owner'><img class='img-thumbnail' src='{{avatar_url}}' alt='Owner: {{login}}' title='Owner: {{login}}'/></a>\
-        <span style='display: none;'>{{login}}</span>\
-      {{/owner}}\
-      {{#contributors}}\
-        {{^owner}}\
-          <a href='{{html_url}}'><img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' title='{{login}}'/></a>\
-          <span style='display: none;'>{{login}}</span>\
-        {{/owner}}\
-      {{/contributors}}\
+      \
+        <a href='' class='contributor-owner'><img class='img-thumbnail' src='' alt='Owner: ' title='Owner: '/></a>\
+        <span style='display: none;'></span>\
+      \
+      \
+        \
+          <a href=''><img class='img-thumbnail' src='' alt='' title=''/></a>\
+          <span style='display: none;'></span>\
+        \
+      \
     </p>\
-    {{#has_project_needs}}\
+    \
       <h4 class='project-needs'>Project needs</h4>\
-      {{#project_needs}}\
-        <a href='{{issue_url}}'><span class='label label-success'>{{title}}</span></a>\
-      {{/project_needs}}\
-    {{/has_project_needs}}\
+      \
+        <a href=''><span class='label label-success'></span></a>\
+      \
+    \
   </td>\
   <td>\
-    <a class='btn btn-default' href='{{html_url}}/commits/master'>{{recent_commits}} <i class='icon-plus-sign'></i></a>\
+    <a class='btn btn-default' href='/commits/master'> <i class='icon-plus-sign'></i></a>\
   </td>\
   <td>\
-    <a class='btn btn-default' href='{{html_url}}/stargazers'>{{watchers_count}} <i class='icon-star'></i></a>\
+    <a class='btn btn-default' href='/stargazers'> <i class='icon-star'></i></a>\
   </td>\
   <td>\
-    <a class='btn btn-default' href='{{html_url}}/network'>{{forks_count}} <i class='icon-code-fork'></i></a>\
+    <a class='btn btn-default' href='/network'> <i class='icon-code-fork'></i></a>\
   </td>\
   <td>\
-    <a class='btn btn-default' href='{{html_url}}/issues'>{{open_issues}} <i class='icon-exclamation-sign'></i></a>\
+    <a class='btn btn-default' href='/issues'> <i class='icon-exclamation-sign'></i></a>\
   </td>\
 </tr>\
 ";
@@ -249,3 +331,11 @@ $('#hack-night-projects_filter input').keyup(function(e){
 });
 });
 </script>
+
+        <div class="footer">
+          <p class='pull-right'>&copy; Open City 2014 | <a href='https://github.com/open-city/open-gov-hack-night'><i class='icon-github'></i> Pull requests welcome!</a></p>
+        </div>
+      </div>
+    </div> <!-- /container -->
+  </body>
+</html>

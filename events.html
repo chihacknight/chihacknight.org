@@ -1,144 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+---
+layout: default
+---
 
-    <title>Events - Open Gov Hack Night</title>
+<!-- Begin page content-->
+<h1>Events <small id='event-count'></small></h1>
+<p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
+<p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP for our next event</a></p>
+<br>
 
-    <!-- Custom styles for this template -->
-    <link href="css/custom.css" rel="stylesheet">
+<table id='hack-night-events' class='table'>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
-  </head>
+<script src="js/moment.min.js"></script>
+<script src="js/jquery.dataTables.min.js"></script>
+<script src="js/jquery.dataTables.sorting.js"></script>
+<script src="js/jquery.address.js"></script>
+<script src="js/mustache.js"></script>
 
-  <body>
+<script src="data/hack_night_events.js"></script>
 
-    <div class="container">
-      <div class='col-md-10 col-md-offset-1'>
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="events.html">Events</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="people.html">People</a></li>
-            <li><a href="resources.html">Resources</a></li>
-          </ul>
-          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
-        </div>
+<script>
+  var events_table;
 
-        <!-- Begin page content-->
-        <h1>Events <small id='event-count'></small></h1>
-        <p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
+  var template = "\
+    <tr>\
+      <td class='nowrap'>\
+        <div class='well text-center'>\
+          <time datetime='{{date}}'>\
+          {{{date_formatted}}}\
+          </time>\
+        </div>\
+      </td>\
+      <td>\
+        <h3>{{title}}</h3>\
+        {{{description}}}\
+        <ul class='list-inline link-list'>\
+          {{#links_present}}<li><span class='text-muted'>Links</span></li>{{/links_present}}\
+          {{#links}}\
+            <li><a href='{{url}}'>{{name}}</a></li>\
+          {{/links}}\
+        </ul>\
+        <ul class='list-inline'>\
+          <li><span class='text-muted'>Sponsor</span></li>\
+          <li>{{{sponsor}}}</li>\
+        </ul>\
+      </td>\
+    </tr>\
+  ";
 
-        <p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP for our next event</a></p>
-        <br>
+  $('#event-count').html(hack_night_events.length);
 
-        <table id='hack-night-events' class='table'>
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Event</th>
-            </tr>
-          </thead>
-          <tbody>
-          </tbody>
-        </table>
+  for (var i = 0; i < hack_night_events.length; i++) {
+    var date = new moment(hack_night_events[i]['date']);
+    hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
+    hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
+    hack_night_events[i]['links_present'] = "links" in hack_night_events[i];
+    $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
+  }
 
-        <!-- End page content-->
+  // initialize datatables
+  events_table = $('#hack-night-events').dataTable( {
+      "aaSorting": [ [0,'desc'] ],
+      "aoColumns": [
+          { "sType": "datetime" },
+          null
+      ],
+      "bInfo": false,
+      "bPaginate": false
+  });
 
-        <div class="footer">
-          <p class='pull-right'>&copy; Open City 2013 | <a href='https://github.com/open-city/open-gov-hack-night'><i class='icon-github'></i> Pull requests welcome!</a></p>
-        </div>
-      </div>
-    </div> <!-- /container -->
+  // allows linking directly to searches
+  if ($.address.parameter('search') != undefined)
+    events_table.fnFilter( $.address.parameter('search') );
 
+  // when someone types a search value, it updates the URL
+  $('#hack-night-events_filter input').keyup(function(e){
+    $.address.parameter('search', $('#hack-night-events_filter input').val());
+  });
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/analytics_lib.js"></script>
-
-    <script src="js/moment.min.js"></script>
-    <script src="js/jquery.dataTables.min.js"></script>
-    <script src="js/jquery.dataTables.sorting.js"></script>
-    <script src="js/jquery.address.js"></script>
-    <script src="js/mustache.js"></script>
-
-    <script src="data/hack_night_events.js"></script>
-
-    <script>
-
-      var events_table;
-
-      var template = "\
-        <tr>\
-          <td class='nowrap'>\
-            <div class='well text-center'>\
-              <time datetime='{{date}}'>\
-              {{{date_formatted}}}\
-              </time>\
-            </div>\
-          </td>\
-          <td>\
-            <h3>{{title}}</h3>\
-            {{{description}}}\
-            <ul class='list-inline link-list'>\
-              {{#links_present}}<li><span class='text-muted'>Links</span></li>{{/links_present}}\
-              {{#links}}\
-                <li><a href='{{url}}'>{{name}}</a></li>\
-              {{/links}}\
-            </ul>\
-            <ul class='list-inline'>\
-              <li><span class='text-muted'>Sponsor</span></li>\
-              <li>{{{sponsor}}}</li>\
-            </ul>\
-          </td>\
-        </tr>\
-      ";
-
-      $('#event-count').html(hack_night_events.length);
-
-      for (var i = 0; i < hack_night_events.length; i++) {
-        var date = new moment(hack_night_events[i]['date']);
-        hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
-        hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
-        hack_night_events[i]['links_present'] = "links" in hack_night_events[i];
-        $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
-      }
-
-      // initialize datatables
-      events_table = $('#hack-night-events').dataTable( {
-          "aaSorting": [ [0,'desc'] ],
-          "aoColumns": [
-              { "sType": "datetime" },
-              null
-          ],
-          "bInfo": false,
-          "bPaginate": false
-      });
-
-      // allows linking directly to searches
-      if ($.address.parameter('search') != undefined)
-        events_table.fnFilter( $.address.parameter('search') );
-
-      // when someone types a search value, it updates the URL
-      $('#hack-night-events_filter input').keyup(function(e){
-        $.address.parameter('search', $('#hack-night-events_filter input').val());
-      });
-
-    </script>
-  </body>
-</html>
+</script>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>
+      
+      Open Gov Hack Night
+    </title>
+    <meta charset='utf-8' />
+    <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+    <meta content='Chicago's place to build, share, and learn about civic tech.' name='description' />
+    <meta content='Open Gov Hack Night' name='author' />
+
+    <!-- Facebook metadata -->
+    <meta content="" property="og:site_name">
+    
+      <meta content="" property="og:title">
+    
+    
+      <meta content="website" property="og:type">
+    
+    <!-- 
+      <meta content="Chicago's place to build, share, and learn about civic tech." property="og:description">
+     -->
+    
+      <meta content="http://opengovhacknight.org/events.html" property="og:url">
+    
+    
+    
+      <meta content="http://opengovhacknight.org/images/logo.png" property="og:image">
+    
+    
+    
+
+    <!-- Twitter metadata -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@DataMadeCo">
+    <meta name="twitter:creator" content="@DataMadeCo">
+    
+      <meta name="twitter:title" content="">
+    
+    
+      <meta name="twitter:url" content="http://opengovhacknight.org/events.html">
+    
+<!--     
+      <meta name="twitter:description" content="Chicago's place to build, share, and learn about civic tech.">
+     -->
+    
+      <meta name="twitter:image:src" content="http://opengovhacknight.org/images/logo.png">
+    
+
+    <link href='/favicon.ico' rel='shortcut icon' />
+    
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/analytics_lib.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class='col-md-10 col-md-offset-1'>
+        <div class="header">
+          <ul class="nav nav-pills pull-right">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="people.html">People</a></li>
+            <li><a href="resources.html">Resources</a></li>
+          </ul>
+          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
+        </div>
+      
+        <!-- Begin page content-->
+<h1>Events <small id='event-count'></small></h1>
+<p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
+
+<p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP for our next event</a></p>
+<br>
+
+<table id='hack-night-events' class='table'>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<script src="js/moment.min.js"></script>
+<script src="js/jquery.dataTables.min.js"></script>
+<script src="js/jquery.dataTables.sorting.js"></script>
+<script src="js/jquery.address.js"></script>
+<script src="js/mustache.js"></script>
+
+<script src="data/hack_night_events.js"></script>
+
+<script>
+  var events_table;
+
+  var template = "\
+    <tr>\
+      <td class='nowrap'>\
+        <div class='well text-center'>\
+          <time datetime=''>\
+          }\
+          </time>\
+        </div>\
+      </td>\
+      <td>\
+        <h3></h3>\
+        }\
+        <ul class='list-inline link-list'>\
+          <li><span class='text-muted'>Links</span></li>\
+          \
+            <li><a href=''></a></li>\
+          \
+        </ul>\
+        <ul class='list-inline'>\
+          <li><span class='text-muted'>Sponsor</span></li>\
+          <li>}</li>\
+        </ul>\
+      </td>\
+    </tr>\
+  ";
+
+  $('#event-count').html(hack_night_events.length);
+
+  for (var i = 0; i < hack_night_events.length; i++) {
+    var date = new moment(hack_night_events[i]['date']);
+    hack_night_events[i]['date'] = date.format('YYYY-MM-DD');
+    hack_night_events[i]['date_formatted'] = date.format('[<h3>]MMM Do[</h3><h4>]YYYY[</h4>]');
+    hack_night_events[i]['links_present'] = "links" in hack_night_events[i];
+    $("#hack-night-events tbody").append(Mustache.render(template, hack_night_events[i]));
+  }
+
+  // initialize datatables
+  events_table = $('#hack-night-events').dataTable( {
+      "aaSorting": [ [0,'desc'] ],
+      "aoColumns": [
+          { "sType": "datetime" },
+          null
+      ],
+      "bInfo": false,
+      "bPaginate": false
+  });
+
+  // allows linking directly to searches
+  if ($.address.parameter('search') != undefined)
+    events_table.fnFilter( $.address.parameter('search') );
+
+  // when someone types a search value, it updates the URL
+  $('#hack-night-events_filter input').keyup(function(e){
+    $.address.parameter('search', $('#hack-night-events_filter input').val());
+  });
+
+</script>
+
+        <div class="footer">
+          <p class='pull-right'>&copy; Open City 2014 | <a href='https://github.com/open-city/open-gov-hack-night'><i class='icon-github'></i> Pull requests welcome!</a></p>
+        </div>
+      </div>
+    </div> <!-- /container -->
+  </body>
+</html>
