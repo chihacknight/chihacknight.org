@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<!-- Begin page content-->
+<h1>Events <small id='event-count'></small></h1>
+<p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
+
+<p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP for our next event</a></p>
+<br>
+
+<table id='hack-night-events' class='table'>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.categories['events'] %}
+      <tr>
+        <td class='nowrap'>
+          <div class='well text-center'>
+            <time datetime='{{post.date | date: "%Y-%m-%d" }}'>
+              <h3>{{post.date | date: "%b %d" }}</h3>
+              <h4>{{post.date | date: "%Y" }}</h4>
+            </time>
+          </div>
+        </td>
+        <td>
+          <h3><a href='{{post.url}}'>{{post.title}}</a></h3>
+          {{post.content}}
+          <ul class='list-inline'>
+            <li><span class='text-muted'>Sponsor</span></li>
+            <li><a href='{{post.sponsor_url}}'>{{post.sponsor}}</a></li>
+          </ul>
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="/lib/events.js"></script>

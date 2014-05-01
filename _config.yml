@@ -3,12 +3,11 @@ markdown: kramdown
 name: Open Gov Hack Night
 url: http://opengovhacknight.org
 description: "Chicago's place to build, share, and learn about civic tech."
-permalink: /:categories/:title
 navigation:
 - text: Home
   url: /index.html
 - text: Events
-  url: /events.html
+  url: /events/index.html
 - text: Projects
   url: /projects.html
 - text: People
