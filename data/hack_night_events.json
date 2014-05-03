@@ -1,4 +1,4 @@
-var hack_night_events = [
+[
     {
         "title": "Experimental Station",
         "date": "2014-04-29",
@@ -24,7 +24,7 @@ var hack_night_events = [
         "sponsor": "<a href='http://www.socrata.com'>Socrata</a>",
         "links": [
             {
-                "name": "Hack Night Live: Civic Works Project’s ACA Outreach App",
+                "name": "Hack Night Live: Civic Works Project's ACA Outreach App",
                 "url": "http://www.smartchicagocollaborative.org/hack-night-live-civic-works-projects-aca-outreach-app/"
             },
             {
@@ -541,7 +541,7 @@ var hack_night_events = [
     {
         "title": "Department of Labor App Challenge",
         "date": "2013-08-13",
-        "description": "<p>Matt Bruce with the <a href=''>Chicago Community Trust</a> and <a href='http://rocunited.org/'>Restaurant Opportunities Centers United</a> will talk about the US Labor Department's <a href='http://fairlabor.challengepost.com/'>app challenge</a> for creating a smartphone app that integrates the department’s publicly available enforcement data with consumer ratings, geo-positioning, and other relevant data sets. <a href='http://www.smartchicagocollaborative.org/chicago-developers-us-department-of-labor-launches-smartphone-app-contest-around-fair-labor/'>More details here</a>.</p>",
+        "description": "<p>Matt Bruce with the <a href='http://cct.org'>Chicago Community Trust</a> and <a href='http://rocunited.org/'>Restaurant Opportunities Centers United</a> will talk about the US Labor Department's <a href='http://fairlabor.challengepost.com/'>app challenge</a> for creating a smartphone app that integrates the department's publicly available enforcement data with consumer ratings, geo-positioning, and other relevant data sets. <a href='http://www.smartchicagocollaborative.org/chicago-developers-us-department-of-labor-launches-smartphone-app-contest-around-fair-labor/'>More details here</a>.</p>",
         "sponsor": "<a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>"
     },
     {

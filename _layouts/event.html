@@ -3,7 +3,38 @@ layout: default
 ---
 
 <h4>{{ page.date | date: "%b %d, %Y" }}</h4>
-<h1>{{page.title}}</h1>
+<h1><small>#{{page.event_id}}</small> {{page.title}}</h1>
 <hr />
 
-{{content}}
+<div class='row'>
+  <div class='col-md-7'>
+
+    {{content}}
+
+    {% if page.links %}
+      <h4>Links</h4>
+      <ul>
+      {% for link in page.links %}
+        <li>{{link}}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+
+    <h4>Sponsor</h4>
+    {{page.sponsor}}
+  </div>
+  <div class='col-md-5'>
+    <div class='well'>
+      <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+      <p>
+        6pm<br />
+        {{ page.date | date: "%b %d, %Y" }}<br />
+        <a href='http://www.1871.com/'>1871</a> (in the IMSA room)<br />
+        <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>222 W Merchandise Mart Plz #1212</a><br />
+      </p>
+      {% if site.time <= page.date %}
+        <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
