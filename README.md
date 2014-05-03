@@ -2,10 +2,19 @@
 
 Website for Chicago's weekly Open Gov Hack Night
 
-Built in plain HTML, Javascript and CSS
+## Running locally
 
-## Javascript libraries
+```console
+git clone https://github.com/open-city/open-gov-hack-night.git
+cd open-gov-hack-night
+gem install jekyll
+jekyll serve
+```console
 
+
+## Dependencies
+
+* [Jekyll](http://jekyllrb.com/) - Static site generator built in Ruby
 * [Bootstrap 3](http://getbootstrap.com) - HTML and CSS layouts
 * [DataTables](http://datatables.net) - for searching and sorting talbes
 * [Mustache](http://github.com/janl/mustache.js) - templating library for javascript (used on projects page)

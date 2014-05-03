@@ -1,144 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+---
+layout: default
+---
+        
+<h1>People <small id='people-count'></small></h1>
 
-    <title>People - Open Gov Hack Night</title>
+<p>Developers, designers, and data scientists that work on <a href='projects.html'>civic tech projects</a> in Chicago. <a href='http://civic-json.e-vz.com/data/people.json'>View the data powering this page</a>.</p>
+<br>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
+<table id='hack-night-people' class='table people'>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Location</th>
+      <th>Civic projects</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
-    <!-- Custom styles for this template -->
-    <link href="css/custom.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
-
-    <div class="container">
-      <div class='col-md-10 col-md-offset-1'>
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="events.html">Events</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li class="active"><a href="people.html">People</a></li>
-            <li><a href="resources.html">Resources</a></li>
-          </ul>
-          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
-        </div>
-
-        <!-- Begin page content-->
-        <h1>People <small id='people-count'></small></h1>
-
-        <p>Developers, designers, and data scientists that work on <a href='projects.html'>civic tech projects</a> in Chicago. <a href='http://civic-json.e-vz.com/data/people.json'>View the data powering this page</a>.</p>
-        <br>
-
-        <table id='hack-night-people' class='table people'>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Location</th>
-              <th>Civic projects</th>
-              <th>Contributions</th>
-            </tr>
-          </thead>
-          <tbody>
-          </tbody>
-        </table>
-
-        <!-- End page content-->
-
-        <div class="footer">
-          <p class='pull-right'>&copy; Open City 2013 | <a href='https://github.com/open-city/open-gov-hack-night'><i class='icon-github'></i> Pull requests welcome!</a></p>
-        </div>
-      </div>
-    </div> <!-- /container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/analytics_lib.js"></script>
-
-    <script src="js/moment.min.js"></script>
-    <script src="js/jquery.dataTables.min.js"></script>
-    <script src="js/jquery.dataTables.sorting.js"></script>
-    <script src="js/jquery.address.js"></script>
-    <script src="js/mustache.js"></script>
-    <script src="js/spin.min.js"></script>
-    <script src="js/jquery.spin.js"></script>
-
-    <script>
-      // Set this up like this to make it easier to dev this locally -- evz
-      var data_host = 'http://worker.opengovhacknight.org'
-      // var data_host = 'http://civic-json.datamade.dev.work'
-
-      var people_table;
-
-      // this is a template used for mustache.js. Each one represents a table row.
-      var template = "\
-        <tr>\
-          <td>\
-            <a href='{{html_url}}'>\
-              <img class='img-thumbnail' src='{{avatar_url}}' alt='{{login}}' />\
-              {{name}}\
-            </a>\
-          </td>\
-          <td>{{location}}</td>\
-          <td><a href='projects.html#/?search={{login}}'>{{repositories}}</a></td>\
-          <td><a href='https://github.com/{{login}}?tab=activity'>{{contributions}}</a></td>\
-        </tr>\
-      ";
-
-      $('#hack-night-people tbody').spin({top: '40px'}); //show a spinner while loading data
-
-      $.when( $.getJSON( data_host + "/data/people.json" ) ).then(function( data, textStatus, jqXHR ) {
-
-        // update project count at the top of the page
-        $('#people-count').html(data.length);
-
-        // loop through our json data
-        $.each(data, function(i, json){
-          if (json['name'] == null)
-            json['name'] = json['login'];
-
-          $("#hack-night-people tbody").append(Mustache.render(template, json));
-        })
-
-        // initialize datatables
-        people_table = $('#hack-night-people').dataTable( {
-            "aaSorting": [ [2,'desc'], [3, 'desc'] ],
-            "aoColumns": [
-                null,
-                null,
-                { "sType": "num-html" },
-                { "sType": "num-html" }
-            ],
-            "bInfo": false,
-            "bPaginate": false
-        });
-
-        // allows linking directly to searches
-        if ($.address.parameter('search') != undefined)
-          people_table.fnFilter( $.address.parameter('search') );
-
-        // when someone types a search value, it updates the URL
-        $('#hack-night-people_filter input').keyup(function(e){
-          $.address.parameter('search', $('#hack-night-people_filter input').val());
-        });
-      });
-    </script>
-  </body>
-</html>
+<script src="/lib/people.js"></script>
