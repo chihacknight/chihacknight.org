@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-civic-works-projects-aca-outreach-app/'>Hack Night Live Civic Works Project's ACA Outreach App</a>
+  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-civic-works-projects-aca-outreach-app/'>Hack Night Live&#58; Civic Works Project's ACA Outreach App</a>
   - <a href='http://www.smartchicagocollaborative.org/projects/civic-innovation-in-chicago/affordable-care-act-outreach-app/'>Affordable Care Act Outreach App</a>
   - <a href='https://github.com/smartchicago/Wufoo-to-Twilio-SMS'>Wufoo-to-Twilio-SMS</a>
 title: Affordable Care Act Outreach App

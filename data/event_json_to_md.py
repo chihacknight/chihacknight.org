@@ -16,7 +16,7 @@ categories:
   if 'links' in e:
     md = md + "links:\n"
     for link in e['links']:
-      md = md + "  - <a href='" + link['url'] + "'>" + link['name'] + "</a>\n"
+      md = md + "  - <a href='" + link['url'] + "'>" + link['name'].replace(":", "&#58;") + "</a>\n"
 
   md = md + "title: " + e['title'] + "\n"
   md = md + "date: " + e['date'] + "\n"
@@ -30,7 +30,7 @@ categories:
   md_title = e['date'] + "-" + slugify(e['title']) + ".md"
   print "writing to " + md_title
   
-  with open(md_title, 'w') as f:
+  with open("../_posts/events/" + md_title, 'w') as f:
     f.write(md)
 
   cnt = cnt - 1

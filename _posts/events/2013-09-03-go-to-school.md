@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://cps.go2school.org/'>Go To School!</a>
   - <a href='https://github.com/tkompare/go2school-cps-en'>Github repo</a>
-  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-go-to-school-and-cps-data/'>Hack Night Live: Go To School and CPS Data - Smart Chicago</a>
+  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-go-to-school-and-cps-data/'>Hack Night Live&#58; Go To School and CPS Data - Smart Chicago</a>
 title: Go To School!
 date: 2013-09-03
 event_id: 72

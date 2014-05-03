@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://vision.transitfuture.org/'>Transit Future Vision</a>
   - <a href='http://largelots.org'>Large Lots</a>
-  - <a href='http://www.smartchicagocollaborative.org/hack-night-large-lots/'>Hack Night Live: Transit Future and LargeLots.org</a>
+  - <a href='http://www.smartchicagocollaborative.org/hack-night-large-lots/'>Hack Night Live&#58; Transit Future and LargeLots.org</a>
 title: Transit Future and Large Lots
 date: 2014-04-08
 event_id: 100

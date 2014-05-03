@@ -2,7 +2,15 @@
 layout: default
 ---
 
-<h4>{{ page.date | date: "%b %d, %Y" }}</h4>
+<h3>
+  {% if page.previous.url %}
+    <a href='{{page.previous.url}}'><i class='icon-chevron-sign-left'></i></a>
+  {% endif %}
+  {{ page.date | date: "%b %d, %Y" }} 
+  {% if page.next.url %}
+    <a href='{{page.next.url}}'><i class='icon-chevron-sign-right'></i></a>
+  {% endif %}
+</h3>
 <h1><small>#{{page.event_id}}</small> {{page.title}}</h1>
 <hr />
 
@@ -63,9 +71,6 @@ layout: default
         <a href='http://www.1871.com/'>1871</a> (in the IMSA room)<br />
         <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>222 W Merchandise Mart Plz #1212</a><br />
       </p>
-      {% if site.time <= page.date %}
-        <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
-      {% endif %}
 
       <p><strong>Sponsor</strong> {{page.sponsor}}</p>
     </div>

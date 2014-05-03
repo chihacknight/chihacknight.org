@@ -8,6 +8,7 @@ navigation:
   url: /index.html
 - text: Events
   url: /events/index.html
+  category: events
 - text: Projects
   url: /projects.html
 - text: People

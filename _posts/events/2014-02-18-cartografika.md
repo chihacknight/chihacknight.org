@@ -4,7 +4,7 @@ categories:
   - events
 links:
   - <a href='http://www.cartografika.net/'>Cartografika</a>
-  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-cartografika/'>Hack Night Live: Cartografika</a>
+  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-cartografika/'>Hack Night Live&#58; Cartografika</a>
 title: Cartografika
 date: 2014-02-18
 event_id: 93

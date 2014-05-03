@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-  - <a href='http://www.smartchicagocollaborative.org/opengov-hack-night-smarter-cities-using-data-visualization/'>OpenGov Hack Night: Smarter Cities using Data Visualization - Smart Chicago</a>
+  - <a href='http://www.smartchicagocollaborative.org/opengov-hack-night-smarter-cities-using-data-visualization/'>OpenGov Hack Night&#58; Smarter Cities using Data Visualization - Smart Chicago</a>
 title: Smart Cities and Simulation
 date: 2013-09-10
 event_id: 73

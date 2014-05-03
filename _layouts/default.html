@@ -113,7 +113,7 @@
           <ul class="nav nav-pills pull-right">
             {% for link in site.navigation %}
               {% assign current = nil %}
-              {% if page.url == link.url or page.layout == link.layout %}
+              {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
                 {% assign current = 'active' %}
               {% endif %}
 
@@ -122,7 +122,7 @@
               </li>
             {% endfor %}
           </ul>
-          <h3 class="text-muted"><a href="index.html" >Open Gov Hack Night</a></h3>
+          <h3 class="text-muted"><a href="/index.html" >Open Gov Hack Night</a></h3>
         </div>
       
         {{content}}

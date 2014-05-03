@@ -6,9 +6,6 @@ layout: default
 <h1>Events <small id='event-count'>{{site.categories['events'].size }}</small></h1>
 <p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data.</p>
 
-<p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP for our next event</a></p>
-<br>
-
 <table id='hack-night-events' class='table'>
   <thead>
     <tr>
@@ -25,6 +22,9 @@ layout: default
               <h3>{{post.date | date: "%b %d" }}</h3>
               <h4>{{post.date | date: "%Y" }}</h4>
             </time>
+            {% if site.time <= post.date %}
+              <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+            {% endif %}
           </div>
         </td>
         <td>

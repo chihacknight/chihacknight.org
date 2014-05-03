@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-chicago-works-for-you/'>Hack Night Live: Chicago Works for You - Smart Chicago</a>
+  - <a href='http://www.smartchicagocollaborative.org/hack-night-live-chicago-works-for-you/'>Hack Night Live&#58; Chicago Works for You - Smart Chicago</a>
   - <a href='http://chicagoworksforyou.com/'>Chicago Works for You</a>
   - <a href='https://github.com/smartchicago/chicagoworksforyou'>Github repo</a>
 title: Chicago Works for You
