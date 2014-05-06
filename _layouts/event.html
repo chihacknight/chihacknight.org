@@ -43,7 +43,6 @@ layout: default
     <script>
       var flickr = new Galleria.Flickr();
         flickr.tags('chihacknight-{{page.event_id}}', function(data) {
-            console.log(data)
             // Should we show or hide the slideshow?
             var $slideshow = $(".slideshow");
             if (data.length) {
