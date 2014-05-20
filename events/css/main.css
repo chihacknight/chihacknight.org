@@ -19,7 +19,7 @@
 }
 
 @media screen and (min-width: 320px) {
-	
+
 	ul {
 		padding-left: 20px;
 	}
@@ -92,12 +92,12 @@
 	}
 
 	#inspiration h1 {
-	  background: url(../img/red-overlay-light.png), 
+	  background: url(../img/red-overlay-light.png),
 	              url(../img/roper.jpg) center center;
 	}
 
 	#participation h1 {
-	    background: url(../img/blue-overlay-light.png), 
+	    background: url(../img/blue-overlay-light.png),
 	           	   	url(../img/dominion.jpg) center center;
 	}
 
@@ -118,13 +118,13 @@
 		font-family: Helvetica, Arial, sans-serif;
 		color: #6D6E71;
 	}
-	
+
 	/********************
 	Challenges
 	********************/
 
 	#challenges {
-		background: #cf1b41;
+		background: #16A085;
 		color: white;
 	}
 
@@ -155,7 +155,7 @@
 	********************/
 
 	#activities {
-		background: #B3EEF5;
+		background: #D7DBDE;
 	}
 
 	#activities div {
@@ -205,13 +205,13 @@
 		margin: 0 1em 1em;
 		max-width: 125px;
 	}
-	
+
 	/*******************
 	FAQ
 	*******************/
 
 	#faq {
-		background: #cf1b41;
+		background: #16A085;
 		color: white;
 	}
 
@@ -252,9 +252,9 @@
 	#preamble p {
 		width: 75%;
 	}
-	
+
 	/********************
-	Events 
+	Events
 	********************/
 
 	.event h1 {
@@ -293,7 +293,7 @@
 	********************/
 
 	#challenges h1 {
-	}	
+	}
 	#challenges h2 {
 		margin-top: 8px;
 	}
@@ -324,7 +324,7 @@
 	#activities h1 {
 		text-align: center;
 		color: black;
-	}	
+	}
 
 	#activities h2 {
 		text-align: center;
@@ -358,23 +358,10 @@
 	/*******************
 	Contact
 	*******************/
-	
+
 
 	#contact h2, #contact h3 {
 		text-align: center;
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
