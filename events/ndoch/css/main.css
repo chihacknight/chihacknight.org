@@ -1,0 +1,367 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+@font-face {
+    font-family: 'oswaldbook';
+    src: url('../fonts/oswald/oswald-regular-webfont.eot');
+    src: url('../fonts/oswald/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald/oswald-regular-webfont.woff') format('woff'),
+         url('../fonts/oswald/oswald-regular-webfont.ttf') format('truetype'),
+         url('../fonts/oswald/oswald-regular-webfont.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (min-width: 320px) {
+
+	ul {
+		padding-left: 20px;
+	}
+
+	h1, h2, h3 {
+		text-align: center;
+		line-height: 1.25em;
+	}
+
+	h1 {
+		text-transform: uppercase;
+		color: white;
+		line-height: 1.25em;
+	}
+
+	a {
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	section {
+		padding: 2em 0;
+	}
+
+	section img {
+		width: 100%;
+		margin-bottom: 1em;
+	}
+
+	/***************
+	Header
+	***************/
+
+	.jumbotron {
+		padding: 30px 10px;
+	}
+
+	.jumbotron h1 {
+		text-transform: uppercase;
+		margin-bottom: 0;
+	}
+
+	.jumbotron .btn {
+		margin-top: 160px;
+	}
+
+
+	/******************
+	Preamble
+	******************/
+
+	#preamble p {
+		font-size: 1.25em;
+		margin: 1em auto;
+		text-align: center;
+	}
+
+	/******************
+	Events
+	******************/
+
+	#events {
+		padding-top: 0;
+	}
+
+	.event h1 {
+	  background-size: contain;
+	  line-height: 150px;
+	  color: white;
+	}
+
+	#inspiration h1 {
+	  background: url(../img/red-overlay-light.png),
+	              url(../img/roper.jpg) center center;
+	}
+
+	#participation h1 {
+	    background: url(../img/blue-overlay-light.png),
+	           	   	url(../img/dominion.jpg) center center;
+	}
+
+	.event h2 {
+		font-size: 21px;
+	}
+
+	.event h3 {
+		margin-top: 0;
+		color: #6D6E71;
+		font-size: 1.25em;
+		margin-bottom: .25em;
+		padding: 0;
+	}
+
+	.event h4 {
+		text-align: center;
+		font-family: Helvetica, Arial, sans-serif;
+		color: #6D6E71;
+	}
+
+	/********************
+	Challenges
+	********************/
+
+	#challenges {
+		background: #FA5C4F;
+		color: white;
+	}
+
+	#challenges div {
+		margin-bottom: 1em;
+	}
+
+	#challenges img {
+		display: block;
+		max-width: 400px;
+		margin: .5em auto;
+		margin-bottom: 1em;
+	}
+
+	#challenges h1 {
+	}
+
+	#challenges h2 {
+		margin-top: 10px;
+	}
+
+	#challenges p {
+		text-align: center;
+	}
+
+	/********************
+	Activities
+	********************/
+
+	#activities {
+		background: #D7DBDE;
+	}
+
+	#activities div {
+		margin-bottom: 1em;
+	}
+
+	#activities img {
+		display: block;
+		max-width: 75px;
+		margin: .5em auto;
+		margin-bottom: 0;
+	}
+
+	#activities h1 {
+		color: inherit;
+	}
+
+	#activities h2 {
+		margin-top: 10px;
+	}
+
+	#activities p {
+		text-align: center;
+	}
+
+	#activities div p:last-child {
+		font-size: 12px;
+		background: #D4ECF7;
+		border-radius: 6px;
+		padding: .5em 1em;
+	}
+
+	/********************
+	Donors
+	********************/
+
+	#donors {
+		display: none;
+	}
+
+	#donors h1 {
+		color: inherit;
+	}
+
+	#donors img {
+		display: inline-block;
+		margin: 0 1em 1em;
+		max-width: 125px;
+	}
+
+	/*******************
+	FAQ
+	*******************/
+
+	#faq {
+		background: #FA5C4F;
+		color: white;
+	}
+
+	/*******************
+	Contact
+	*******************/
+
+	#contact h1 {
+		color: inherit;
+	}
+
+	#contact {
+		text-align: center;
+	}
+
+	/*******************
+	attribution
+	*******************/
+
+	footer p {
+		font-size: 12px;
+	}
+
+}
+
+@media screen and (min-width: 768px) {
+
+	h1 {
+		margin-bottom: 1em;
+	}
+
+
+
+	/********************
+	Preamble
+	********************/
+
+	#preamble p {
+		width: 75%;
+	}
+
+	/********************
+	Events
+	********************/
+
+	.event h1 {
+		line-height: 200px;
+	}
+
+	.event h2 {
+		text-align: left;
+		padding: 0;
+		margin: 0;
+	}
+
+	.event h3 {
+		text-align: right;
+	}
+
+	.event h4 {
+		margin-top: 0;
+		text-align: left;
+	}
+
+	.event p {
+		margin-top: 8px;
+	}
+
+	/******************
+	Preamble
+	******************/
+
+	#preamble p {
+
+	}
+
+	/********************
+	Challenges
+	********************/
+
+	#challenges h1 {
+	}
+	#challenges h2 {
+		margin-top: 8px;
+	}
+
+	#challenges img {
+		float: top;
+		text-align: left;
+		max-width: 400px;
+		max-height: 300px;
+		margin-right: .5em;
+		margin-bottom:15px;
+	}
+
+	#challenges p {
+		text-align: center;
+		color: white;
+	}
+
+	#challenges div p:last-child {
+		text-align: right;
+		display: inline-block;
+	}
+
+	/********************
+	Activities
+	********************/
+
+	#activities h1 {
+		text-align: center;
+		color: black;
+	}
+
+	#activities h2 {
+		text-align: center;
+		margin-top: 8px;
+	}
+
+	#activities img {
+		float: top;
+		text-align: center;
+		max-width: 75px;
+        margin: .5em auto;
+        margin-bottom: 0;
+	}
+
+	#activities p {
+		text-align: center;
+	}
+
+	/*******************
+	FAQ
+	*******************/
+
+	#faq h2 {
+		font-size: 21px;
+	}
+
+	#faq h3 {
+		font-size: 18px;
+	}
+
+	/*******************
+	Contact
+	*******************/
+
+
+	#contact h2, #contact h3 {
+		text-align: center;
+	}
+
+}
