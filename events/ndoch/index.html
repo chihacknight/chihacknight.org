@@ -11,6 +11,7 @@
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
+         <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
         <style>
            #logo {
               max-width: 800px;
@@ -34,6 +35,9 @@
                color: #FA5C4F;
            }
 
+          #map{
+            height: 500px;
+          }
 
         </style>
         <link rel="stylesheet" href="css/bootstrap.css">
@@ -152,6 +156,12 @@
 
     </section>
 
+
+    <section id="map">
+
+    </section>
+
+
     <section id="sponsors">
 
       <div class="container">
@@ -252,12 +262,33 @@
         <script src="js/vendor/bootstrap.min.js"></script>
 
         <script src="js/main.js"></script>
+         <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 
-        // <script>
-        //     var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-        //     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        //     g.src='//www.google-analytics.com/ga.js';
-        //     s.parentNode.insertBefore(g,s)}(document,'script'));
-        // </script>
+        <script type="text/javascript">
+
+          // create a map in the "map" div, set the view to a given place and zoom
+            var map = L.map('map').setView([18.46551, -66.11685], 15);
+
+            var marker = L.marker([18.22872, -66.03599]).addTo(map);
+
+            var popup = L.popup();
+
+            marker.bindPopup('Centro Criollo de Ciencia <br>y Tecnología del Caribe').openPopup();
+
+
+
+
+
+
+            // add an OpenStreetMap tile layer
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                
+            }).addTo(map);
+
+
+
+
+    </script>
+
     </body>
 </html>
