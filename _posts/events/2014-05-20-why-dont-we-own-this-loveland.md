@@ -4,6 +4,7 @@ categories:
   - events
 links:
   - <a href='http://www.makeloveland.com/'>Loveland</a>
+  - <a href='http://www.smartchicagocollaborative.org/loveland-helps-map-out-detroits-vacant-properties/'>LoveLand helps map out Detroit’s vacant properties</a>
 title: Why Don't We Own This / Loveland!
 date: 2014-05-20
 event_id: 106

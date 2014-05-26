@@ -4,6 +4,7 @@ categories:
   - events
 links:
   - <a href='http://www.civicartworks.com/'>Civic Artworks</a>
+  - <a href='http://www.smartchicagocollaborative.org/civicartworks-helps-city-planners-get-community-feedback-through-software/'>CivicArtworks Helps City Planners Get Community Feedback Through Software</a>
 title: Civic Artworks
 date: 2014-05-13
 event_id: 105
