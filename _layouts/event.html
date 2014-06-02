@@ -34,9 +34,9 @@ layout: default
     {% endif %}
 
     <hr />
-    <h4 id='slideshow-header' style='display: none;'>Photos from Open Gov Hack Night #{{page.event_id}}</h4>
+    <h4 id='slideshow-header' style='display: none;'>Flickr photos from Open Gov Hack Night #{{page.event_id}}</h4>
     <div class='slideshow'></div>
-    <p id='slideshow-text' style='display: none;'>Have a photo of this event? Upload it to <a href='http://flickr.com'>Flickr</a> and tag it with <strong>chihacknight-{{page.event_id}}</strong></p>
+    <p>Have a photo of this event? Upload it to <a href='http://flickr.com'>Flickr</a> and tag it with <strong><a href='https://www.flickr.com/search/?tags=chihacknight-{{page.event_id}}'>chihacknight-{{page.event_id}}</a></strong></p>
 
     <script src="/js/galleria/galleria-1.3.5.min.js"></script>
     <script src="/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
@@ -48,7 +48,6 @@ layout: default
             if (data.length) {
               $slideshow.css({height: 400, marginBottom: 20});
               $('#slideshow-header').show()
-              $('#slideshow-text').show()
             } else {
               $slideshow.hide();
             }
