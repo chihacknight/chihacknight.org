@@ -19,10 +19,6 @@ layout: default
 
     {{content}}
 
-    {% if site.time <= page.date %}
-      <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
-    {% endif %}
-
     {% if page.links %}
       <hr />
       <h4>Links</h4>
@@ -71,6 +67,10 @@ layout: default
       </p>
 
       <p><strong>Sponsor</strong> {{page.sponsor}}</p>
+
+      {% if site.time <= page.date %}
+        <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+      {% endif %}
     </div>
   </div>
 </div>
