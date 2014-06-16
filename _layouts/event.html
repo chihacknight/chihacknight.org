@@ -5,11 +5,11 @@ layout: default
 <div itemscope itemtype="http://schema.org/Event">
   <h3>
     {% if page.previous.url %}
-      <a href='{{page.previous.url}}'><i class='icon-chevron-sign-left'></i></a>
+      <a href='{{page.previous.url}}'><i class='fa fa-chevron-circle-left'></i></a>
     {% endif %}
     <span itemprop="startDate">{{ page.date | date: "%b %d, %Y" }}</span>
     {% if page.next.url %}
-      <a href='{{page.next.url}}'><i class='icon-chevron-sign-right'></i></a>
+      <a href='{{page.next.url}}'><i class='fa fa-chevron-circle-right'></i></a>
     {% endif %}
   </h3>
   <h1><small>#{{page.event_id}}</small> <span itemprop="name">{{page.title}}</span></h1>
