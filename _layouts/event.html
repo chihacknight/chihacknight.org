@@ -2,75 +2,85 @@
 layout: default
 ---
 
-<h3>
-  {% if page.previous.url %}
-    <a href='{{page.previous.url}}'><i class='icon-chevron-sign-left'></i></a>
-  {% endif %}
-  {{ page.date | date: "%b %d, %Y" }} 
-  {% if page.next.url %}
-    <a href='{{page.next.url}}'><i class='icon-chevron-sign-right'></i></a>
-  {% endif %}
-</h3>
-<h1><small>#{{page.event_id}}</small> {{page.title}}</h1>
-<hr />
-
-<div class='row'>
-  <div class='col-md-7'>
-
-    {{content}}
-
-    {% if page.links %}
-      <hr />
-      <h4>Links</h4>
-      <ul>
-      {% for link in page.links %}
-        <li>{{link}}</li>
-      {% endfor %}
-      </ul>
+<div itemscope itemtype="http://schema.org/Event">
+  <h3>
+    {% if page.previous.url %}
+      <a href='{{page.previous.url}}'><i class='icon-chevron-sign-left'></i></a>
     {% endif %}
+    <span itemprop="startDate">{{ page.date | date: "%b %d, %Y" }}</span>
+    {% if page.next.url %}
+      <a href='{{page.next.url}}'><i class='icon-chevron-sign-right'></i></a>
+    {% endif %}
+  </h3>
+  <h1><small>#{{page.event_id}}</small> <span itemprop="name">{{page.title}}</span></h1>
+  <hr />
 
-    <hr />
-    <h4 id='slideshow-header' style='display: none;'>Flickr photos from Open Gov Hack Night #{{page.event_id}}</h4>
-    <div class='slideshow'></div>
-    <p>Have a photo of this event? Upload it to <a href='http://flickr.com'>Flickr</a> and tag it with <strong><a href='https://www.flickr.com/search/?tags=chihacknight-{{page.event_id}}'>chihacknight-{{page.event_id}}</a></strong></p>
+  <div class='row'>
+    <div class='col-md-7'>
 
-    <script src="/js/galleria/galleria-1.3.5.min.js"></script>
-    <script src="/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
-    <script>
-      var flickr = new Galleria.Flickr();
-        flickr.tags('chihacknight-{{page.event_id}}', function(data) {
-            // Should we show or hide the slideshow?
-            var $slideshow = $(".slideshow");
-            if (data.length) {
-              $slideshow.css({height: 400, marginBottom: 20});
-              $('#slideshow-header').show()
-            } else {
-              $slideshow.hide();
-            }
+      <span itemprop="description">{{content}}</span>
 
-            Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.min.js');
-            Galleria.run('.slideshow', {
-                dataSource: data
-            });
-        });
-    </script>
-
-  </div>
-  <div class='col-md-5'>
-    <div class='well'>
-      <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-      <p>
-        6pm<br />
-        {{ page.date | date: "%b %d, %Y" }}<br />
-        <a href='http://www.1871.com/'>1871</a> (in the IMSA room)<br />
-        <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>222 W Merchandise Mart Plz #1212</a><br />
-      </p>
-
-      <p><strong>Sponsor</strong> {{page.sponsor}}</p>
-
-      {% if site.time <= page.date %}
-        <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+      {% if page.links %}
+        <hr />
+        <h4>Links</h4>
+        <ul>
+        {% for link in page.links %}
+          <li>{{link}}</li>
+        {% endfor %}
+        </ul>
       {% endif %}
+
+      <hr />
+      <h4 id='slideshow-header' style='display: none;'>Flickr photos from Open Gov Hack Night #{{page.event_id}}</h4>
+      <div class='slideshow'></div>
+      <p>Have a photo of this event? Upload it to <a href='http://flickr.com'>Flickr</a> and tag it with <strong><a href='https://www.flickr.com/search/?tags=chihacknight-{{page.event_id}}'>chihacknight-{{page.event_id}}</a></strong></p>
+
+      <script src="/js/galleria/galleria-1.3.5.min.js"></script>
+      <script src="/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+      <script>
+        var flickr = new Galleria.Flickr();
+          flickr.tags('chihacknight-{{page.event_id}}', function(data) {
+              // Should we show or hide the slideshow?
+              var $slideshow = $(".slideshow");
+              if (data.length) {
+                $slideshow.css({height: 400, marginBottom: 20});
+                $('#slideshow-header').show()
+              } else {
+                $slideshow.hide();
+              }
+
+              Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.min.js');
+              Galleria.run('.slideshow', {
+                  dataSource: data
+              });
+          });
+      </script>
+
+    </div>
+    <div class='col-md-5'>
+      <div class='well'>
+        <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+        <p>
+          6pm<br />
+          {{ page.date | date: "%b %d, %Y" }}<br />
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <a itemprop="url" href='http://www.1871.com/'><span itemprop="name">1871</span></a> (in the IMSA room)<br />
+            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                222 W Merchandise Mart Plz #1212<br />
+                <span itemprop="addressLocality">Chicago</span>,
+                <span itemprop="addressRegion">IL</span>
+              </div>
+            </a><br />
+          </div>
+        </p>
+
+        <p><strong>Sponsor</strong> {{page.sponsor}}</p>
+
+        {% if site.time <= page.date %}
+          <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>
