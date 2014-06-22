@@ -13,7 +13,7 @@ layout: default
 
 <table id='hack-night-events' class='table'>
   <thead>
-    <tr>
+    <tr itemscope itemtype='http://schema.org/Event'>
       <th>Date</th>
       <th>Event</th>
     </tr>
@@ -23,18 +23,19 @@ layout: default
       <tr>
         <td class='nowrap'>
           <div class='well text-center'>
-            <time datetime='{{post.date | date: "%Y-%m-%d" }}'>
-              <h3>{{post.date | date: "%b %d" }}</h3>
-              <h4>{{post.date | date: "%Y" }}</h4>
-            </time>
+            <meta itemprop='startDate' content='{{ post.date | date: "%Y-%m-%d" }}'>
+            <h3>{{ post.date | date: "%b %d" }}</h3>
+            <h4>{{ post.date | date: "%Y" }}</h4>
             {% if site.time <= post.date %}
-              <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+              <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/' itemprop='url'>RSVP &raquo;</a>
             {% endif %}
           </div>
         </td>
         <td>
-          <h3><small>#{{post.event_id}}</small> <a href='{{post.url}}'>{{post.title}}</a></h3>
+          <h3><small>#{{post.event_id}}</small> <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a></h3>
+          <div itemprop='description'>
           {{post.content}}
+          </div>
           <ul class='list-inline'>
             <li><span class='text-muted'>Sponsor</span></li>
             <li><a href='{{post.sponsor_url}}'>{{post.sponsor}}</a></li>

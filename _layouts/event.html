@@ -7,7 +7,7 @@ layout: default
     {% if page.previous.url %}
       <a href='{{page.previous.url}}'><i class='fa fa-chevron-circle-left'></i></a>
     {% endif %}
-    <span itemprop="startDate">{{ page.date | date: "%b %d, %Y" }}</span>
+    <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%b %d, %Y" }}</time>
     {% if page.next.url %}
       <a href='{{page.next.url}}'><i class='fa fa-chevron-circle-right'></i></a>
     {% endif %}
