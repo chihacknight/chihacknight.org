@@ -6,7 +6,7 @@ links:
   - <a href='http://dssg.io/'>Data Science for Social Good</a>
   - <a href='http://www.smartchicagocollaborative.org/data-science-fellowship-for-social-good-demos/'>Data Science Fellowship for Social Good Demos - Smart Chicago</a>
 title: Data Science for Social Good
-date: 2013-08-27
+date: 2013-08-27T18:00:00-05:00
 event_id: 71
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
 ---

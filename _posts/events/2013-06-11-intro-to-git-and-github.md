@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://www.youtube.com/watch?v=ZxabbwjcuIE'>Github 101 - YouTube</a>
 title: Intro to Git and Github
-date: 2013-06-11
+date: 2013-06-11T18:00:00-05:00
 event_id: 60
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
 ---

@@ -7,7 +7,7 @@ links:
   - <a href='http://largelots.org'>Large Lots</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-large-lots/'>Hack Night Live&#58; Transit Future and LargeLots.org</a>
 title: Transit Future and Large Lots
-date: 2014-04-08
+date: 2014-04-08T18:00:00-05:00
 event_id: 100
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---

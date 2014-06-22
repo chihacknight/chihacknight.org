@@ -6,7 +6,7 @@ links:
   - <a href='http://www.eatsafe.co'>Eat Safe - Chicago Food Inspections</a>
   - <a href='https://github.com/vivelohoy/foodinspections'>Github repo</a>
 title: Food Inspection App by Hoy
-date: 2013-07-30
+date: 2013-07-30T18:00:00-05:00
 event_id: 67
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---

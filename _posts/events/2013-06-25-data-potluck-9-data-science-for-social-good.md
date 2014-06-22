@@ -7,7 +7,7 @@ links:
   - <a href='http://www.meetup.com/DataPotluck/events/125444002/'>Data Potluck #9</a>
   - <a href='http://www.youtube.com/watch?v=5C0haCUjeQM'>Livestream on YouTube</a>
 title: Data Potluck #9: Data Science for Social Good
-date: 2013-06-25
+date: 2013-06-25T18:00:00-05:00
 event_id: 62
 sponsor: <a href='http://dssg.io'>Data Science for Social Good</a>
 ---
