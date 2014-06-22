@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 title: Open Hack Session
-date: 2013-07-09
+date: 2013-07-09T18:00:00-05:00
 event_id: 64
 sponsor: <a href='https://thoughtworks.com'>Thoughtworks</a>
 ---

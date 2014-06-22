@@ -6,7 +6,7 @@ links:
   - <a href='http://www.teamworkenglewood.org/news/6225'>Englewood Codes</a>
   - <a href='http://www.smartchicagocollaborative.org/congrats-englewood-codes/'>Englewood Codes Demo Day is Tonight - Smart Chicago</a>
 title: Englewood Codes
-date: 2013-08-20
+date: 2013-08-20T18:00:00-05:00
 event_id: 70
 sponsor: <a href='http://openshift.com/'>OpenShift</a>
 ---

@@ -9,7 +9,7 @@ links:
   - <a href='http://chicagoparkdistrict.mindmixer.com/'>Chicago Parks MindMixer</a>
   - <a href='http://hackdash.org'>HackDash - hackathon organization tool</a>
 title: Chicago Park District Data
-date: 2013-12-10
+date: 2013-12-10T18:00:00-05:00
 event_id: 86
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---

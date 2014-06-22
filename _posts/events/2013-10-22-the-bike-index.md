@@ -6,7 +6,7 @@ links:
   - <a href='https://www.bikeindex.org/'>The Bike Index</a>
   - <a href='https://github.com/bikeindex/webapp'>Github repo</a>
 title: The Bike Index
-date: 2013-10-22
+date: 2013-10-22T18:00:00-05:00
 event_id: 79
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
 ---

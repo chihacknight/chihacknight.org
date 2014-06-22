@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://danielhertz.wordpress.com/'>City Notes by Daniel Hertz</a>
 title: Daniel Hertz - Zoning in Chicago
-date: 2014-03-18
+date: 2014-03-18T18:00:00-05:00
 event_id: 97
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 ---

@@ -126,3 +126,8 @@ body {
 }
 
 .project-needs { margin-top: 20px;}
+
+.sponsor-details a span {
+  position: absolute;
+  left: -999em;
+}

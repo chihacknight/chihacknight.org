@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://divvybikes.com/datachallenge'>Divvy Data Challenge</a>
 title: Divvy Data Winners
-date: 2014-03-25
+date: 2014-03-25T18:00:00-05:00
 event_id: 98
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---

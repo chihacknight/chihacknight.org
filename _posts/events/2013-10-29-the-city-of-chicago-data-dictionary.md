@@ -7,7 +7,7 @@ links:
   - <a href='https://github.com/chicago/metalicious'>Metalicious Github repo</a>
   - <a href='http://www.smartchicagocollaborative.org/city-of-chicago-launches-the-first-comprehensive-public-municipal-data-dictionary/'>City of Chicago Launches the First Comprehensive, Public Data Dictionary - Smart Chicago</a>
 title: The City of Chicago Data Dictionary
-date: 2013-10-29
+date: 2013-10-29T18:00:00-05:00
 event_id: 80
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---
