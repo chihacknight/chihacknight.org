@@ -4,6 +4,7 @@ name: Open Gov Hack Night
 url: http://opengovhacknight.org
 description: "Chicago's place to build, share, and learn about civic tech."
 encoding: utf-8
+timezone: America/Chicago
 navigation:
 - text: Home
   url: /index.html
