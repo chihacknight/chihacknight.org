@@ -7,7 +7,7 @@ links:
   - <a href='http://opengovhacknight.org/resources.html'>Hack Night resources</a>
   - <a href='http://www.smartchicagocollaborative.org/chicagos-hidden-opendata/'>Smart Chicago blog post</a>
 title: Chicago Open Data Hidden in Plain Sight
-date: 2013-12-03
+date: 2013-12-03T18:00:00-05:00
 event_id: 85
 sponsor: <a href='http://codeforamerica.com'>Code for America</a>
 ---

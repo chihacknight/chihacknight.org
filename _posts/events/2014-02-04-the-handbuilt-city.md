@@ -6,7 +6,7 @@ links:
   - <a href='http://handbuiltcity.org/'>The Handbuilt City</a>
   - <a href='http://fundrise.com/'>Fundrise</a>
 title: The Handbuilt City
-date: 2014-02-04
+date: 2014-02-04T18:00:00-05:00
 event_id: 91
 sponsor: <a href='http://datamade.us/'>DataMade</a>
 ---

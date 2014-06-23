@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://elections.chicagotribune.com/'>Chicago Tribune Election Center</a>
 title: The Chicago Tribune Elections Website
-date: 2014-04-01
+date: 2014-04-01T18:00:00-05:00
 event_id: 99
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 ---

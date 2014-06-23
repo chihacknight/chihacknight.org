@@ -6,7 +6,7 @@ links:
   - <a href='http://www.cartografika.net/'>Cartografika</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-live-cartografika/'>Hack Night Live&#58; Cartografika</a>
 title: Cartografika
-date: 2014-02-18
+date: 2014-02-18T18:00:00-05:00
 event_id: 93
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---

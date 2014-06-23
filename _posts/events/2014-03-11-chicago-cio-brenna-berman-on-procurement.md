@@ -10,7 +10,7 @@ links:
   - <a href='https://soundcloud.com/afternoonshiftwbez/tech-shift-open-data-and'>WBEZ Tech Shift&#58; Open data and government websites</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-live-cio-brenna-berman-talks-procurement/'>Hack Night Live&#58; CIO Brenna Berman talks Procurement</a>
 title: Chicago CIO Brenna Berman on Procurement
-date: 2014-03-11
+date: 2014-03-11T18:00:00-05:00
 event_id: 96
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
 ---

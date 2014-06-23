@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://www.licensedchicagocontractors.com/'>Licensed Chicago Contractors</a>
 title: Tracking the Built Environment with Building Permits
-date: 2014-06-10
+date: 2014-06-10T18:00:00-05:00
 event_id: 109
 sponsor: <a href='http://socrata.com'>Socrata</a>
 published: true

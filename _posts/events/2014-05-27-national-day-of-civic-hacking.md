@@ -7,7 +7,7 @@ links:
   - <a href='http://www.smartchicagocollaborative.org/more-events-for-national-day-of-civic-hacking-in-chicago/'>More events for National Day of Civic Hacking in Chicago</a>
   - <a href='http://www.whitehouse.gov/blog/2014/04/17/celebrating-second-annual-national-day-civic-hacking'>Celebrating the Second Annual National Day of Civic Hacking</a>
 title: National Day of Civic Hacking
-date: 2014-05-27
+date: 2014-05-27T18:00:00-05:00
 event_id: 107
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true

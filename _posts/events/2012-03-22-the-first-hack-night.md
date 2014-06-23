@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 title: The First Hack Night
-date: 2012-03-22
+date: 2012-03-22T18:00:00-05:00
 event_id: 1
 sponsor: None
 ---

@@ -6,7 +6,7 @@ links:
   - <a href='https://urbanccd.org/'>Urban Center for Computation and Data</a>
   - <a href='http://gcn.com/articles/2014/05/30/chicago-big-data-open.aspx'>Chicago readies the next-generation big data network</a>
 title: The Array of Things
-date: 2014-06-17
+date: 2014-06-17T18:00:00-05:00
 event_id: 110
 sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
 published: true

@@ -7,7 +7,7 @@ layout: default
     {% if page.previous.url %}
       <a href='{{page.previous.url}}'><i class='fa fa-chevron-circle-left'></i></a>
     {% endif %}
-    <span itemprop="startDate">{{ page.date | date: "%b %d, %Y" }}</span>
+    <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%b %d, %Y" }}</time>
     {% if page.next.url %}
       <a href='{{page.next.url}}'><i class='fa fa-chevron-circle-right'></i></a>
     {% endif %}
@@ -61,7 +61,11 @@ layout: default
       <div class='well'>
         <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
         <p>
+          {% if page.date %}
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="doorTime">{{ page.date | date: "%-I:%M %p" }}</time><br />
+          {% else %}
           6pm<br />
+          {% endif %}
           {{ page.date | date: "%b %d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <a itemprop="url" href='http://www.1871.com/'><span itemprop="name">1871</span></a> (in the IMSA room)<br />

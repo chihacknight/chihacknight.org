@@ -5,7 +5,7 @@ categories:
 links:
   - <a href='http://experimentalstation.org/'>Experimental Station</a>
 title: Experimental Station
-date: 2014-04-29
+date: 2014-04-29T18:00:00-05:00
 event_id: 103
 sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
 ---
