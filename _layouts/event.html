@@ -62,7 +62,7 @@ layout: default
         <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
         <p>
           {% if page.date %}
-          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="doorTime">{{ page.date | date: "%I:%M %p" }}</time><br />
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="doorTime">{{ page.date | date: "%-I:%M %p" }}</time><br />
           {% else %}
           6pm<br />
           {% endif %}
