@@ -17,3 +17,5 @@ navigation:
   url: /people.html
 - text: Resources
   url: /resources.html
+- text: Discussion
+  url: /discussion.html

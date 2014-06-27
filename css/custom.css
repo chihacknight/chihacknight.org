@@ -5,6 +5,24 @@ body {
   font-size: 17px;
 }
 
+a, a:hover {
+  color: #1478bc;
+}
+
+.table a {
+  text-decoration: none;
+}
+
+.btn-success {
+  background-color: #1478bc;
+  border-color: #1478bc;
+}
+
+.btn-success:hover {
+  background-color: #0C4871;
+  border-color: #0C4871;
+}
+
 .contributors img {
   width: 50px;
 }

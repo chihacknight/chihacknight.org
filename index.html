@@ -4,11 +4,13 @@ layout: default
 
 <div class="jumbotron">
   <p><a class='img-thumbnail' href='http://opencityapps.org'><img src='images/sponsors/open-city-sm.jpg' alt='Open City' /></a><br />presents</p>
-  
+
   <h1>Open Gov Hack Night</h1>
   <p>Chicago's weekly event to build, share, and learn about civic tech.</p>
-  <a class="btn btn-lg btn-success" href="/events/">&laquo; Past events</a>
-  <a class="btn btn-lg btn-success" href="http://opengovhacknight.eventbrite.com/">RSVP for next Tuesday &raquo;</a>
+
+  {% for post in site.posts limit:1 %}
+    <p><a class='btn btn-success btn-lg' href="{{post.url}}">{{ post.date | date: "%b %d" }}: {{post.title}}</a></p>
+  {% endfor %}
 </div>
 
 <div id='about' class='row'>
@@ -60,12 +62,13 @@ layout: default
         <i class='fa fa-calendar'></i>
         Open Gov Hack Night
       </h4>
-      <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+      <p><img class='img-img-thumbnail img-responsive' src='/images/1871_map.png'></p>
       <p>
         6pm every Tuesday<br />
         <a href='http://www.1871.com/'>1871</a> (in the IMSA room)<br />
         <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>222 W Merchandise Mart Plz #1212</a><br />
       </p>
+      <a class='btn btn-success' href='/events/index.html'>Past events</a>
       <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
     </div>
 
@@ -74,7 +77,7 @@ layout: default
         <i class='fa fa-bullhorn'></i>
         Subscribe to event updates
       </h4>
-      <p>Every Monday, we send out an email and update this site to preview that week's hack night.</p>
+      <p>Every week, we send out an email and update this site to preview the next hack night.</p>
       <a class='btn btn-success' href='http://eepurl.com/z65hn'>
         <i class='fa fa-envelope'></i>
         Email list
@@ -89,11 +92,15 @@ layout: default
       <h4>
         Join the discussion
       </h4>
-      <p><i class='fa fa-envelope'></i> <a href='https://groups.google.com/forum/#!forum/chihacknight'>Join our Google Group</a> to discuss new and ongoing projects</p>
+      <p>Between hack nights, we use the internets for coordinating and collaborating on civic technology projects in Chicago.</p>
 
-      <p><i class='fa fa-twitter'></i> Keep up with hack night events and projects on Twitter with the <a href='https://twitter.com/search?q=%23chihacknight'>#ChiHackNight</a> hashtag</p>
+      <p><i class='fa fa-envelope'></i> Our primary mode of online communication is the <a href='https://groups.google.com/forum/#!forum/chihacknight'>chihacknight Google Group</a>.</p>
 
-      <p><i class='fa fa-comments'></i> Computer nerds: chat with us any time on the <strong>#ChiHackNight</strong> IRC channel on irc.freenode.net</p>
+      <p><i class='fa fa-twitter'></i> On Twitter, we use the <a href='https://twitter.com/search?q=%23chihacknight'>#chihacknight</a> hashtag</p>
+
+      <p><i class='fa fa-terminal'></i> On IRC, we use the <strong>#chihacknight</strong> channel on irc.freenode.net</p>
+
+      
     </div>
 
   </div>
@@ -101,59 +108,97 @@ layout: default
 
 <div class='row'>
   <hr />
-  <h2 id='sessions'>Sessions</h2>
+  <h2 id='sessions'>Breakout groups</h2>
   <div class='col-md-6'>
-    <h4>Civic Hacking 101</h4>
+    <h4>Orientation / Civic Hacking 101</h4>
     <p>New to civic hacking? Don't even know what that means? Every week, <a href="http://www.twitter.com/civicwhitaker">Christopher Whitaker</a> leads quick workshop to get you up to speed. Or you can <a href='https://www.youtube.com/watch?v=wH6LnW_qjeI'>watch it online</a>.</p>
   </div>
   <div class='col-md-6'>
-    <h4>Intro to Programming</h4>
-    <p>Many of our attendees are new to programming and want to learn. Every week <a href='http://www.twitter.com/jpvelez'>Juan-Pablo Velez</a> leads an informal session on how to use the command line and some basic principles of programming.</p>
+    <h4>New Coders</h4>
+    <p>Led by <a href='http://www.red-bean.com/kfogel/'>Karl Fogel</a>. New to programming but want to learn? Want to figure out what this whole open-source thing is all about? If you want to plug in to a technical project, but don't know how you can help, start here.</p>
   </div>
+  <div class='col-md-6'>
+    <h4>Transportation</h4>
+    <p>Led by <a href='https://twitter.com/stevevance'>Steven Vance</a>. Sub-topics include public transit, bicycling and urban planning.</p>
+  </div>
+  <div class='col-md-6'>
+    <h4>Education</h4>
+    <p>Led by <a href='https://twitter.com/shua123'>Josh Kalov</a> and <a href='https://twitter.com/elnazem'>Elnaz Moshfeghian</a>, this group focuses mainly on Chicago Public Schools.</p>
+  </div>
+  <div class='col-md-6'>
+    <h4>Education</h4>
+    <p>Led by <a href='https://twitter.com/sbeslow'>Scott Beslow</a>. Sub-topics include recycling, water and air quality.</p>
+  </div>
+  <div class='col-md-6'>
+    <h4>City Data</h4>
+    <p>Led by <a href='https://twitter.com/Geneorama'>Gene Leynes</a> and <a href='https://twitter.com/tomschenkjr'>Tom Schenk</a> from the City of Chicago. If you have questions on data published by the City, this is for you.</p>
+  </div>
+
+  <div class='col-md-12'>
+    <p>Want to start your own topic? Mention it at the next hack night and we’ll get you set up! Please note that becoming a facilitator will require committing to coming to hack nights on a regular basis and/or finding a backup to come when you can’t.</p>
+  </div>
+  
 </div>
 
 <div class='row sponsors'>
   <hr />
   <h2 id='sponsors'>Sponsors</h2>
   <p>Our awesome sponsors keep us going: </p>
-  <p>
+    
+  <div class='row'>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://opencityapps.org' itemprop='url'>
-            <img src='images/sponsors/open-city.jpg' alt='Open City' itemprop='logo' />
+            <img src='images/sponsors/open-city.jpg' alt='Open City' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Open City</span>
         </a>
     </div>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://datamade.us' itemprop='url'>
-            <img src='images/sponsors/datamade.jpg' alt='DataMade' itemprop='logo' />
+            <img src='images/sponsors/datamade.jpg' alt='DataMade' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>DataMade</span>
         </a>
     </div>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://1871.com' itemprop='url'>
-            <img src='images/sponsors/1871.jpg' alt='1871' itemprop='url' />
+            <img src='images/sponsors/1871.jpg' alt='1871' itemprop='url' class='img-responsive' />
             <span itemprop='name'>1871</span>
         </a>
     </div>
+  </div>
+  <div class='row'>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://codeforamerica.com' itemprop='url'>
-            <img src='images/sponsors/code-for-america.jpg' alt='Code for America' itemprop='logo' />
+            <img src='images/sponsors/code-for-america.jpg' alt='Code for America' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Code for America</span>
         </a>
     </div>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://smartchicagocollaborative.org' itemprop='url'>
-            <img src='images/sponsors/smart-chicago.jpg' alt='Smart Chicago Collaborative' itemprop='logo' />
+            <img src='images/sponsors/smart-chicago.jpg' alt='Smart Chicago Collaborative' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Smart Chicago Collaborative</span>
         </a>
     </div>
     <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
         <a href='http://thoughtworks.com' itemprop='url'>
-            <img src='images/sponsors/thoughtworks.jpg' alt='ThoughtWorks' itemprop='logo' />
+            <img src='images/sponsors/thoughtworks.jpg' alt='ThoughtWorks' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>ThoughtWorks</span>
         </a>
     </div>
-  </p>
+  </div>
+  <div class='row'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
+        <a href='http://socrata.com' itemprop='url'>
+            <img src='images/sponsors/socrata.jpg' alt='Socrata' itemprop='logo' class='img-responsive' />
+            <span itemprop='name'>Socrata</span>
+        </a>
+    </div>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
+        <a href='http://github.com' itemprop='url'>
+            <img src='images/sponsors/github.png' alt='GitHub' itemprop='logo' class='img-responsive' />
+            <span itemprop='name'>GitHub</span>
+        </a>
+    </div>
+  </div>
 </div>
 
 <div class='row'>
@@ -161,28 +206,28 @@ layout: default
   <h2>Press</h2>
   <div class='col-md-3 text-center'>
     <a href='http://online.wsj.com/article/SB10001424127887324263404578613850076916028.html'>
-      <img class='thumbnail' src='images/eder.jpg' title='Hackers Called Into Civic Duty' alt='Hackers Called Into Civic Duty' />
+      <img class='img-thumbnail img-responsive' src='images/eder.jpg' title='Hackers Called Into Civic Duty' alt='Hackers Called Into Civic Duty' />
       The Wall Street Journal
     </a>
   </div>
 
   <div class='col-md-3 text-center'>
     <a href='http://www.timeoutchicago.com/things-to-do/this-week-in-chicago/15996451/open-government-hack-night'>
-      <img class='thumbnail' src='images/hack-night.jpg' title='Open Government Hack Night' alt='Open Government Hack Night' />
+      <img class='img-thumbnail img-responsive' src='images/hack-night.jpg' title='Open Government Hack Night' alt='Open Government Hack Night' />
       TimeOut Chicago
     </a>
   </div>
 
   <div class='col-md-3 text-center'>
     <a href='http://www.redeyechicago.com/news/local/ct-red-young-chicago-hackers-20130920,0,5305032.story'>
-      <img class='thumbnail' src='images/redeye-hack-night.jpg' title='Can you hack it?' alt='Can you hack it?' />
+      <img class='img-thumbnail img-responsive' src='images/redeye-hack-night.jpg' title='Can you hack it?' alt='Can you hack it?' />
       RedEye Chicago
     </a>
   </div>
 
   <div class='col-md-3 text-center'>
     <a href='http://www.wbez.org/news/%E2%80%98hoodies%E2%80%99-%E2%80%98suits%E2%80%99-and-others-behind-chicago-government-20-106458'>
-      <img class='thumbnail' src='images/schenk.jpg' title='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' alt='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' />
+      <img class='img-thumbnail img-responsive' src='images/schenk.jpg' title='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' alt='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' />
       WBEZ
     </a>
   </div>
@@ -226,21 +271,21 @@ layout: default
     <div class='row'>
       <div class='col-md-4 text-center'>
         <a href='https://twitter.com/derekeder'>
-          <img class='thumbnail' src='images/derek_eder.jpg' title='Derek Eder' alt='Derek Eder' />
+          <img class='img-thumbnail img-responsive' src='images/derek_eder.jpg' title='Derek Eder' alt='Derek Eder' />
           Derek Eder
         </a>
       </div>
       <div class='col-md-4 text-center'>
-        <a href='https://twitter.com/jpvelez'>
-          <img class='thumbnail' src='images/juan_pablo_velez.jpg' title='Juan-Pablo Velez' alt='Juan-Pablo Velez' />
-          Juan-Pablo Velez
+        <a href='https://twitter.com/civicwhitaker'>
+          <img class='img-thumbnail img-responsive' src='images/christopher_whitaker.jpg' title='Christopher Whitaker' alt='Christopher Whitaker' />
+          Christopher Whitaker
         </a>
       </div>
       <div class='col-md-4 text-center'>
-        <a href='https://twitter.com/civicwhitaker'>
-          <img class='thumbnail' src='images/christopher_whitaker.jpg' title='Christopher Whitaker' alt='Christopher Whitaker' />
-          Christopher Whitaker
-        </a>
+        <a href='https://twitter.com/jpvelez'>
+          <img class='img-thumbnail img-responsive' src='images/juan_pablo_velez.jpg' title='Juan-Pablo Velez' alt='Juan-Pablo Velez' />
+          Juan-Pablo Velez
+        </a> (emeritus)
       </div>
     </div>
   </div>
