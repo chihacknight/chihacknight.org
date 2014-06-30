@@ -9,7 +9,7 @@ layout: default
   <p>Chicago's weekly event to build, share, and learn about civic tech.</p>
 
   {% for post in site.posts limit:1 %}
-    <p><a class='btn btn-success btn-lg' href="{{post.url}}">{{ post.date | date: "%b %d" }}: {{post.title}}</a></p>
+    <p><a class='btn btn-success btn-lg' href="{{post.url}}">{{ post.date | date: "%b %-d" }}: {{post.title}}</a></p>
   {% endfor %}
 </div>
 
