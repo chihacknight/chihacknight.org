@@ -1,5 +1,5 @@
 /**
- * Galleria v 1.3.5 2014-01-25
+ * Galleria v 1.3.6 2014-06-23
  * http://galleria.io
  *
  * Licensed under the MIT license
@@ -20,7 +20,7 @@ var doc    = window.document,
     protoArray = Array.prototype,
 
 // internal constants
-    VERSION = 1.35,
+    VERSION = 1.36,
     DEBUG = true,
     TIMEOUT = 30000,
     DUMMY = false,
@@ -228,7 +228,7 @@ var doc    = window.document,
 
         support: (function() {
             var html = DOM().html;
-            return !IFRAME && ( html.requestFullscreen || html.mozRequestFullScreen || html.webkitRequestFullScreen );
+            return !IFRAME && ( html.requestFullscreen || html.msRequestFullscreen || html.mozRequestFullScreen || html.webkitRequestFullScreen );
         }()),
 
         callback: F,
@@ -242,6 +242,9 @@ var doc    = window.document,
             elem = elem || DOM().html;
             if ( elem.requestFullscreen ) {
                 elem.requestFullscreen();
+            }
+            else if ( elem.msRequestFullscreen ) {
+                elem.msRequestFullscreen();
             }
             else if ( elem.mozRequestFullScreen ) {
                 elem.mozRequestFullScreen();
@@ -257,6 +260,9 @@ var doc    = window.document,
 
             if ( doc.exitFullscreen ) {
                 doc.exitFullscreen();
+            }
+            else if ( doc.msExitFullscreen ) {
+                doc.msExitFullscreen();
             }
             else if ( doc.mozCancelFullScreen ) {
                 doc.mozCancelFullScreen();
@@ -281,13 +287,14 @@ var doc    = window.document,
                 }
                 var fs = _nativeFullscreen.instance._fullscreen;
 
-                if ( doc.fullscreen || doc.mozFullScreen || doc.webkitIsFullScreen ) {
+                if ( doc.fullscreen || doc.mozFullScreen || doc.webkitIsFullScreen || ( doc.msFullscreenElement && doc.msFullscreenElement !== null ) ) {
                     fs._enter( _nativeFullscreen.callback );
                 } else {
                     fs._exit( _nativeFullscreen.callback );
                 }
             };
             doc.addEventListener( 'fullscreenchange', handler, false );
+            doc.addEventListener( 'MSFullscreenChange', handler, false );
             doc.addEventListener( 'mozfullscreenchange', handler, false );
             doc.addEventListener( 'webkitfullscreenchange', handler, false );
         }
@@ -1056,7 +1063,72 @@ _nativeFullscreen.listen();
 $.event.special['click:fast'] = {
     propagate: true,
     add: function(handleObj) {
-        var prop = this.propagate;
+
+        var getCoords = function(e) {
+            if ( e.touches && e.touches.length ) {
+                var touch = e.touches[0];
+                return {
+                    x: touch.pageX,
+                    y: touch.pageY
+                };
+            }
+        };
+
+        var def = {
+            touched: false,
+            touchdown: false,
+            coords: { x:0, y:0 },
+            evObj: {}
+        };
+
+        $(this).data({
+            clickstate: def,
+            timer: 0
+        }).on('touchstart.fast', function(e) {
+            window.clearTimeout($(this).data('timer'));
+            $(this).data('clickstate', {
+                touched: true, 
+                touchdown: true,
+                coords: getCoords(e.originalEvent),
+                evObj: e
+            });
+        }).on('touchmove.fast', function(e) {
+            var coords = getCoords(e.originalEvent),
+                state = $(this).data('clickstate'),
+                distance = Math.max( 
+                    Math.abs(state.coords.x - coords.x), 
+                    Math.abs(state.coords.y - coords.y) 
+                );
+            if ( distance > 6 ) {
+                $(this).data('clickstate', $.extend(state, {
+                    touchdown: false
+                }));
+            }
+        }).on('touchend.fast', function(e) {
+            var $this = $(this),
+                state = $this.data('clickstate');
+            if(state.touchdown) {
+              handleObj.handler.call(this, e);
+            }
+            $this.data('timer', window.setTimeout(function() {
+                $this.data('clickstate', def);
+            }, 400));
+        }).on('click.fast', function(e) {
+            var state = $(this).data('clickstate');
+            if ( state.touched ) {
+                return false;
+            }
+            $(this).data('clickstate', def);
+            handleObj.handler.call(this, e);
+        });
+    },
+    remove: function() {
+        $(this).off('touchstart.fast touchmove.fast touchend.fast click.fast');
+    }
+};
+
+        /*
+
         if ( Galleria.TOUCH ) {
             $(this).on('touchstart.fast', function start(e) {
                 var ev = e.originalEvent,
@@ -1094,6 +1166,8 @@ $.event.special['click:fast'] = {
         }
     }
 };
+
+*/
 
 // trigger resize on orientationchange (IOS7)
 $win.on( 'orientationchange', function() {
@@ -2910,8 +2984,8 @@ Galleria.prototype = {
                        return;
                     }
 
-                    self.$( 'images' ).find( 'iframe' ).remove();
-                    self.$( 'images' ).find( '.galleria-frame' ).css('opacity', 0).hide();
+                    // remove video iframes
+                    self.$( 'images' ).find( '.galleria-frame' ).css('opacity', 0).hide().find( 'iframe' ).remove();
 
                     if ( self._options.carousel && self._options.carouselFollow ) {
                         self._carousel.follow( index );
@@ -4851,6 +4925,7 @@ this.prependChild( 'info', 'myElement' );
                         image.isIframe = true;
                     }
                     image.load(src, function(image) {
+                        evObj.imageTarget = image.image;
                         self._scaleImage(image, complete).trigger($.extend(evObj, {
                             type: Galleria.IMAGE
                         }));
@@ -6624,7 +6699,7 @@ Galleria.Finger = (function() {
                 style.left = self.pos+'px';
                 return;
             }
-            style.MozTransform = style.webkitTransform = 'translate3d(' + self.pos + 'px,0,0)';
+            style.MozTransform = style.webkitTransform = style.transform = 'translate3d(' + self.pos + 'px,0,0)';
             return;
         };
 
