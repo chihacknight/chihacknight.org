@@ -7,7 +7,7 @@ links:
   - <a href='http://chicagocouncilmatic.org/search/?q=&topics=Honorifics'>Honorifics passed by Chicago City Council</a>
 title: Honorary Chicago
 date: 2014-08-05T18:00:00-05:00
-event_id: 116
+event_id: 117
 sponsor: <a href='http://datamade.us/'>DataMade</a>
 published: true
 ---
