@@ -12,13 +12,13 @@ sponsor: <a href='http://datamade.us/'>DataMade</a>
 published: true
 ---
 
-What are all these brown honorary signs around the city; and who are these people, places and things being honored? 
+What are all these brown honorary signs around the city and who are these people, places and things being honored? 
 
 Why was July 28, 2013 Chaka Khan Day in Chicago? 
 
 Who was Abraham Lincoln Marovitz?
 
-[Linda Zabors](https://www.linkedin.com/in/lindazabors) will talk about her work mpapping and app-ing Chicago's brown honorary street signs with [Honorary Chicago](http://honorarychicago.com/). We'll learn about location based biographies and the stories they tell.
+[Linda Zabors](https://www.linkedin.com/in/lindazabors) will talk about her work mapping and app-ing Chicago's brown honorary street signs with [Honorary Chicago](http://honorarychicago.com/). We'll learn about location based biographies and the stories they tell.
 
 ---
 
