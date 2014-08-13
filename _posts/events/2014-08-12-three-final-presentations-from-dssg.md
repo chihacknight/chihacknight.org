@@ -6,7 +6,7 @@ links:
 title: Three Final Presentations from DSSG
 date: 2014-08-12T18:00:00-05:00
 event_id: 118
-sponsor: <a href='http://datamade.us/'>ThoughWorks</a>
+sponsor: <a href='http://datamade.us/'>ThoughtWorks</a>
 published: true
 ---
 
@@ -25,5 +25,5 @@ As usual, we will have topic specific working groups to help guide conversations
 * __Transportation__: [Steve Vance](https://twitter.com/stevevance)
 * __Education__: [Elnaz Moshfeghian](https://twitter.com/elnazem), [Josh Kalov](https://twitter.com/shua123)
 * __Environment__: [Scott Beslow](https://twitter.com/sbeslow)
-* __Vacant Buildings__ (formerly City data): [Gene Lynes](https://twitter.com/Geneorama)
+* __Vacant Buildings__ (formerly City data): [Gene Leynes](https://twitter.com/Geneorama)
 * __Social Service Delivery__: [Sharla Chamberlain](https://twitter.com/sharlalikesyou)

@@ -8,7 +8,7 @@ links:
 title: Why Don't We Own This / Loveland!
 date: 2014-05-20T18:00:00-05:00
 event_id: 106
-sponsor: <a href='http://www.thoughtworks.com'>ThoughWorks</a>
+sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---
 

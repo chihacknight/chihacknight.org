@@ -20,7 +20,7 @@ For everyone else, we will also have topic specific working groups to help guide
 * __Transportation__: [Steve Vance](https://twitter.com/stevevance)
 * __Education__: [Elnaz Moshfeghian](https://twitter.com/elnazem), [Josh Kalov](https://twitter.com/shua123)
 * __Environment__: [Scott Beslow](https://twitter.com/sbeslow)
-* __City data__: [Gene Lynes](https://twitter.com/Geneorama), [Tom Schenk](https://twitter.com/tomschenkjr)
+* __City data__: [Gene Leynes](https://twitter.com/Geneorama), [Tom Schenk](https://twitter.com/tomschenkjr)
 * __Orientation__: [Christopher Whitaker](https://twitter.com/CivicWhitaker)
 
 ---
