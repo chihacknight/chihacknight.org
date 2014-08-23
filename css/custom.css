@@ -1,13 +1,24 @@
 /* Space out content a bit */
 body {
+  background-image: url("../images/bg.png");
+  background-repeat: repeat-x;
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 17px;
 }
 
 .brand-logo {
-  width: 300px;
+  width: 200px;
 }
+
+.nav {
+  margin-top: 50px;
+}
+
+.nav >li > a {
+  color: #ffffff;
+}
+
 
 .contributors img {
   width: 50px;
