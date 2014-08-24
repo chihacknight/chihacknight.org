@@ -16,11 +16,6 @@
     <link href="css/custom.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
   <style>
     #map { height: 250px; }
     #hackimg {width: 100%;}
@@ -30,235 +25,154 @@
 
   <body>
 
-    <div class="container">
-      <div class='col-md-10 col-md-offset-1'>
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="events.html">Events</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="people.html">People</a></li>
-            <li><a href="resources.html">Resources</a></li>
-          </ul>
-          <a href="#"><img class="brand-logo" src="images/logo.svg" alt="logo brand"></a>
-        </div>
 
-        <div class="jumbotron">
-          <h1>Code 4 Puerto Rico</h1>
-          <p>Puerto Rico's place to build, share, and learn about civic tech.</p>
-          <!--<a class="btn btn-lg btn-success" href="http://opengovhacknight.eventbrite.com/">Join us next Tuesday!</a>-->
-        </div>
-
-        <div id='about' class='row'>
-          <div class='col-md-7'>
-
-
-            <img id="hackimg" src="images/caguasCivic.png" alt="">
-            <h3><a href="https://www.eventbrite.com/e/dia-nacional-de-accion-civica-tickets-11629260431">Día Nacional de la Acción Cívica</a></h3>
-            <p>El Día Nacional del 'Hacking' Civíco es un día de acción ciudadana donde los ciudadanos tienen la oportunidad de reunirse para trabajar en conjunto en iniciativas para mejorar nuestra sociedad. Ofrecemos un espacio de discuón pública para nombrar los problemas que afectan nuestra ciudad y juntos hallar nuevas soluciones.</p>
-            <a class='btn btn-success' href='https://www.eventbrite.com/e/dia-nacional-de-accion-civica-tickets-11629260431'>Registrate &raquo;</a>
-            <hr>
-
-
-            <p>Come join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech hacking, learning, and hanging.</p>
-            <br>
-            <p>The <strong>Code For Puerto Rico Hack Night</strong> is for those who want to:</p>
-
-            <ul>
-              <li>get work done on <a href='#'>civic projects</a></li>
-              <li>start a new project, or find one to join (non-coders very welcome!)</li>
-              <li>bounce ideas and get help from <a href='#'>tech and gov experts</a></li>
-              <li><a href='events.html'>learn</a> about open data, smart cities, and open government</li>
+      <div class="container">
+        <div class='col-md-12'>
+          <div class="header">
+            <ul class="nav nav-pills pull-right">
+              <li class="active"><a href="index.html">Home</a></li>
+              <li><a href="events.html">Events</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="people.html">People</a></li>
+              <li><a href="resources.html">Resources</a></li>
             </ul>
-            <br>
-            <p>There's always food, too!</p>
-
-            <hr />
-            <h2 id='agenda'>Agenda</h2>
-            <dl class='dl-horizontal'>
-              <dt>6:00 pm</dt>
-              <dd>Eating and socializing</dd>
-              <dt>6:15 pm</dt>
-              <dd>Welcome, introductions</dd>
-              <dt>6:30 pm</dt>
-              <dd>Announcements</dd>
-              <dt>6:40 pm</dt>
-              <dd>Weekly presentation</dd>
-              <dt>7:15 pm</dt>
-              <dd>Highlight current civic tech projects</dd>
-              <dt>7:30 pm</dt>
-              <dd>Break into groups and hack</dd>
-            </dl>
-
-            <hr />
-            <h2 id='non-techies'>From people you respect!</h2>
-
-            <iframe width="100%" height="315" src="http://www.youtube.com/embed/qkceyKlYrJo" frameborder="0" allowfullscreen></iframe>
-
-            <p><strong>Remember</strong>, there's more to making a great app than just coding.</p>
+            <a href="#"><img class="brand-logo" src="images/logo.svg" alt="logo brand"></a>
           </div>
-
-          <div class='col-md-5'>
-            <div class='well'>
-              <h4>
-                <i class='icon-calendar'></i>
-                  Code 4 PR Hack Night
-              </h4>
-              <div id="map"></div>
-              <p>
-                6pm every Tuesday<br />
-                <a href='http://www.piloto151.com/'>Piloto 151</a><br />
-                <a href='https://maps.google.com.pr/maps?oe=utf-8&client=firefox-a&channel=fflb&ie=UTF-8&q=Piloto+151&fb=1&gl=pr&hq=151+San+Francisco+Street.+Old+San+Juan,+PR+00901&cid=8260056925349798347&ei=hK_6Ut_LGKvL0gGlzoDQAQ&ved=0CJABEPwSMAo'>PILOTO's Address</a><br />
-              </p>
-              <!-- <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a> -->
-            </div>
-
-            <div class='well'>
-              <h4>
-                Join the discussion
-              </h4>
-              <p><i class='icon-envelope'></i> <a href='https://groups.google.com/forum/#!forum/code4puertorico'>Join our Google Group</a> to discuss new and ongoing projects</p>
-              <p><i class='icon-facebook'></i> Join our Facebook <a href='https://www.facebook.com/groups/code4puertorico/'>Group</a> or <a href="https://www.facebook.com/code4puertorico">Fan Page</a> and post cool stuff</p>
-              <p><i class='icon-twitter'></i> Keep up with hack night events and projects on Twitter with the <a href='https://twitter.com/Code4PuertoRico'>#Code4PuertoRico</a> hashtag</p>
-
-            </div>
-
-            <div class='well'>
-              <h4>
-                <i class='glyphicon glyphicon-bullhorn'></i>
-                Email updates
-              </h4>
-              <p>Every Monday, we send out an email to preview that week's hack night.</p>
-              <a class='btn btn-success' href='http://eepurl.com/z65hn'>Subscribe &raquo;</a>
-            </div>
-          </div>
-        </div>
-
-        <!--<div class='row'>
-          <hr />
-          <h2 id='sessions'>Sessions</h2>
-          <div class='col-md-6'>
-            <h4>Civic Hacking 101</h4>
-            <p>New to civic hacking? Don't even know what that means? Every week, <a href="http://www.twitter.com/civicwhitaker">Christopher Whitaker</a> leads quick workshop to get you up to speed. Or you can <a href='https://www.youtube.com/watch?v=wH6LnW_qjeI'>watch it online</a>.</p>
-          </div>
-          <div class='col-md-6'>
-            <h4>Intro to Programming</h4>
-            <p>Many of our attendees are new to programming and want to learn. Every week <a href='http://www.twitter.com/jpvelez'>Juan-Pablo Velez</a> leads an informal session on how to use the command line and some basic principals of programming.</p>
-          </div>
-      </div> -->
-
-        <div class='row sponsors'>
-          <hr />
-          <h2 id='sponsors'>Sponsors</h2>
-          <p>Our awesome sponsors keep us going: </p>
-          <p>
-            <a href='http://piloto151.com'><img src='images/pilotoslide.png' alt='Code for America' /></a>
-            <a href='http://codeforamerica.com'><img src='images/sponsors/code-for-america.jpg' alt='Code for America' /></a>
-            <a href='http://i-commtech.com'><img src='images/sponsors/icomm.png' alt='Code for America' /></a>
-
-          </p>
-        </div>
-
-        <!-- <div class='row'>
-          <hr />
-          <h2>Press</h2>
-          <div class='col-md-3 text-center'>
-            <a href='http://online.wsj.com/article/SB10001424127887324263404578613850076916028.html'>
-              <img class='thumbnail' src='images/eder.jpg' title='Hackers Called Into Civic Duty' alt='Hackers Called Into Civic Duty' />
-              The Wall Street Journal
-            </a>
-          </div>
-
-          <div class='col-md-3 text-center'>
-            <a href='http://www.timeoutchicago.com/things-to-do/this-week-in-chicago/15996451/open-government-hack-night'>
-              <img class='thumbnail' src='images/hack-night.jpg' title='Open Government Hack Night' alt='Open Government Hack Night' />
-              TimeOut Chicago
-            </a>
-          </div>
-
-          <div class='col-md-3 text-center'>
-            <a href='http://www.redeyechicago.com/news/local/ct-red-young-chicago-hackers-20130920,0,5305032.story'>
-              <img class='thumbnail' src='images/redeye-hack-night.jpg' title='Can you hack it?' alt='Can you hack it?' />
-              RedEye Chicago
-            </a>
-          </div>
-
-          <div class='col-md-3 text-center'>
-            <a href='http://www.wbez.org/news/%E2%80%98hoodies%E2%80%99-%E2%80%98suits%E2%80%99-and-others-behind-chicago-government-20-106458'>
-              <img class='thumbnail' src='images/schenk.jpg' title='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' alt='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' />
-              WBEZ
-            </a>
-        </div>
-        </div> -->
-
-      <!--   <div class='row'>
-          <hr />
-          <h2 id='bring-it'>Bring the hack night to your city</h2>
-          <p>Hack nights anchor and grow volunteer civic hacking communities while avoiding 'hackathon fatigue'. To learn how to organize one in your city, see the <a href="http://www.codeforamerica.org/2013/07/24/brigade-101-how-to-hack-night/">Code for America blog</a>.</p>
-
-          <p>Friends have forked the hack night in many cities: </p>
-
-          <div class='col-md-4'>
-            <ul>
-              <li><a href='http://www.meetup.com/Code-for-Boston/'>Boston, MA</a></li>
-              <li><a href='http://www.meetup.com/Code-for-Hampton-Roads/'>Hampton Roads, VA</a></li>
-              <li><a href='http://lanyrd.com/profile/mysociety/'>London, UK</a></li>
-              <li><a href='http://www.meetup.com/Code-for-Miami/'>Miami, FL</a></li>
-            </ul>
-          </div>
-          <div class='col-md-4'>
-            <ul>
-              <li><a href='http://www.meetup.com/betanyc/'>New York, NY</a></li>
-              <li><a href='http://www.meetup.com/OpenOakland/'>Oakland, CA</a></li>
-              <li><a href='http://www.meetup.com/Code-for-America-Philly/'>Philadelphia, PA</a></li>
-              <li><a href='http://www.meetup.com/Triangle-Code-for-America/'>Raleigh / Durham, NC</a></li>
-            </ul>
-          </div>
-          <div class='col-md-4'>
-            <ul>
-              <li><a href='http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/'>San Francisco, CA</a></li>
-              <li><a href='http://www.meetup.com/Code-for-DC/'>Washington, DC</a></li>
-            </ul>
-        </div>
-        </div>
- -->
-        <div class='row'>
-          <hr />
-          <h2 id='leadership'>Leadership &amp; contact</h2>
-          <!-- <div class='col-md-6'>
-            <div class='row'>
-              <div class='col-md-4 text-center'>
-                <a href='https://twitter.com/iaranzadi' target="_blank">
-                  <img class='img-circle' width="100px" height="100px" src='images/me.png' title='Imanol Aranzadi' alt='Imanol Aranzadi' />
-                 Imanol <br> Aranzadi
-                </a>
-              </div>
-              <div class='col-md-4 text-center'>
-                <a href='https://twitter.com/skruger74'>
-                  <img class='img-circle' width="100px" height="100px" src='images/stef.jpg' title='Stephanie Kruger' alt='Stephanie Kruger' />
-                   Stephanie Kruger
-                </a>
-              </div>
-              <div class='col-md-4 text-center'>
-                <a href='https://twitter.com/alberti_co'>
-                  <img class='img-circle' width="100px" height="100px" src='images/alberto.png' title='Alberto Col&oacute;n Viera' alt='Alberto Col&oacute;n Viera' />
-                 Alberto Col&oacute;n Viera
-                </a>
-              </div>
-            </div>
-          </div> -->
-          <div class='col-md-6'>
-            <p>The <strong>Code 4 Puerto Rico Hack Night</strong> is organized and run by Imanol Aranzadi, Stephanie Kruger, and Alberto Col&oacute;n Viera.</p>
-            <p>Got questions about the event or have a project to present? <a href='mailto:iiaranzadi@gmail.com'>Email us!</a>.</p>
-          </div>
-        </div>
-
-        <div class="footer">
-          <p class='pull-right'>&copy; Code 4 Puerto Rico 2014 | <a href='https://github.com/Code4PuertoRico' target="_blank"><i class='icon-github'></i> Pull requests welcome!</a></p>
         </div>
       </div>
-    </div> <!-- /container -->
 
+      <div id="wrap-intro">
+        <div class="container">
+          <div id='intro' class="row">
+              <div class="col-md-6 left-col">
+                <!-- <p>Come join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech hacking, learning, and hanging.</p> -->
+                <br>
+                <p>The <strong>Code 4 Puerto Rico Hack Night</strong> is for those who want to:</p>
+
+                <ul>
+                  <li>get work done on <a href='#'>civic projects</a></li>
+                  <li>start a new project, or find one to join (non-coders very welcome!)</li>
+                  <li>bounce ideas and get help from <a href='#'>tech and gov experts</a></li>
+                  <li><a href='events.html'>learn</a> about open data, smart cities, and open government</li>
+                </ul>
+                <br>
+                <p>There's always food, too!</p>
+
+              </div>
+              <div class="col-md-6 right-col">
+                <div class="video"><iframe width="100%" height="315" src="http://www.youtube.com/embed/qkceyKlYrJo" frameborder="0" allowfullscreen></iframe></div>
+              </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="wrap">
+        <div class="container">
+          <div id='about' class='row'>
+            <div class='col-md-7'>
+
+
+              <img id="hackimg" src="images/caguasCivic.png" alt="">
+              <h3><a href="https://www.eventbrite.com/e/dia-nacional-de-accion-civica-tickets-11629260431">Día Nacional de la Acción Cívica</a></h3>
+              <p>El Día Nacional del 'Hacking' Civíco es un día de acción ciudadana donde los ciudadanos tienen la oportunidad de reunirse para trabajar en conjunto en iniciativas para mejorar nuestra sociedad. Ofrecemos un espacio de discuón pública para nombrar los problemas que afectan nuestra ciudad y juntos hallar nuevas soluciones.</p>
+              <a class='btn btn-success' href='https://www.eventbrite.com/e/dia-nacional-de-accion-civica-tickets-11629260431'>Registrate &raquo;</a>
+              <hr>
+
+            </div>
+
+            <div class='col-md-5'>
+              <div class='well'>
+                <h4>
+                  <i class='icon-calendar'></i>
+                    Code 4 PR Hack Night
+                </h4>
+                <div id="map"></div>
+                <p>
+                  6pm every Tuesday<br />
+                  <a href='http://www.piloto151.com/'>Piloto 151</a><br />
+                  <a href='https://maps.google.com.pr/maps?oe=utf-8&client=firefox-a&channel=fflb&ie=UTF-8&q=Piloto+151&fb=1&gl=pr&hq=151+San+Francisco+Street.+Old+San+Juan,+PR+00901&cid=8260056925349798347&ei=hK_6Ut_LGKvL0gGlzoDQAQ&ved=0CJABEPwSMAo'>PILOTO's Address</a><br />
+                </p>
+                <!-- <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a> -->
+              </div>
+
+              <div class='well'>
+                <h4>
+                  Join the discussion
+                </h4>
+                <p><i class='icon-envelope'></i> <a href='https://groups.google.com/forum/#!forum/code4puertorico'>Join our Google Group</a> to discuss new and ongoing projects</p>
+                <p><i class='icon-facebook'></i> Join our Facebook <a href='https://www.facebook.com/groups/code4puertorico/'>Group</a> or <a href="https://www.facebook.com/code4puertorico">Fan Page</a> and post cool stuff</p>
+                <p><i class='icon-twitter'></i> Keep up with hack night events and projects on Twitter with the <a href='https://twitter.com/Code4PuertoRico'>#Code4PuertoRico</a> hashtag</p>
+
+              </div>
+
+              <div class="well">
+                <h2 id='agenda'>Agenda</h2>
+                <dl class='dl-horizontal'>
+                  <dt>6:00 pm</dt>
+                  <dd>Eating and socializing</dd>
+                  <dt>6:15 pm</dt>
+                  <dd>Welcome, introductions</dd>
+                  <dt>6:30 pm</dt>
+                  <dd>Announcements</dd>
+                  <dt>6:40 pm</dt>
+                  <dd>Weekly presentation</dd>
+                  <dt>7:15 pm</dt>
+                  <dd>Highlight current civic tech projects</dd>
+                  <dt>7:30 pm</dt>
+                  <dd>Break into groups and hack</dd>
+                </dl>
+
+              </div>
+
+              <div class='well'>
+                <h4>
+                  <i class='glyphicon glyphicon-bullhorn'></i>
+                  Email updates
+                </h4>
+                <p>Every Monday, we send out an email to preview that week's hack night.</p>
+                <a class='btn btn-success' href='https://www.facebook.com/groups/code4puertorico/'>Subscribe &raquo;</a>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class='row sponsors'>
+            <hr />
+            <h2 id='sponsors'>Sponsors</h2>
+            <p>Our awesome sponsors keep us going: </p>
+            <p>
+              <a href='http://piloto151.com'><img src='images/pilotoslide.png' alt='Code for America' /></a>
+              <a href='http://codeforamerica.com'><img src='images/sponsors/code-for-america.jpg' alt='Code for America' /></a>
+              <a href='http://i-commtech.com'><img src='images/sponsors/icomm.png' alt='Code for America' /></a>
+
+            </p>
+          </div>
+
+
+          <div class='row'>
+            <hr />
+            <h2 id='leadership'>Contact</h2>
+            <div class='col-md-6'>
+              <p>The <strong>Code 4 Puerto Rico Hack Night</strong> is organized and run by Imanol Aranzadi, Stephanie Kruger, and Alberto Col&oacute;n Viera.</p>
+              <p><a href="https://github.com/codeforamerica/codeofconduct"> Code of Conduct and Anti-Harassment Policy</a></p>
+              <p>Got questions about the event or have a project to present? <a href='mailto:iiaranzadi@gmail.com'>Email us!</a>.</p>
+            </div>
+          </div>
+
+
+        </div>
+      </div> <!-- /container -->
+      <div id="push"></div>
+    </div>
+
+
+
+    <div id="footer">
+      <div class="container">
+        <p>&copy; Code 4 Puerto Rico 2014 | <a href='https://github.com/Code4PuertoRico' target="_blank"><i class='icon-github'></i> Pull requests welcome!</a></p>
+      </div>
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

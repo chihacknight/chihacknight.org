@@ -1,10 +1,42 @@
-/* Space out content a bit */
+html, body {
+  height: 100%;
+}
 body {
   background-image: url("../images/bg.png");
   background-repeat: repeat-x;
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 17px;
+
+}
+
+.container {
+  max-width: 960px;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  margin: 0 auto -60px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+  height: 100px;
+}
+
+#footer {
+  padding-top: 25px;
+  color: #fff;
+  background-color: #34495E;
+  height: 250px;
+}
+
+#footer a {
+  color: #4AA3DF;
 }
 
 .brand-logo {
@@ -42,12 +74,12 @@ body {
 
 .label:hover { text-decoration: none; }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
-  padding-left: 15px;
-  padding-right: 15px;
+.dl-horizontal dt{
+  max-width: 100px;
+}
+
+.dl-horizontal dd {
+    margin-left: 122px;
 }
 
 /* Make the masthead heading the same height as the navigation */
@@ -68,16 +100,6 @@ body {
 /* Customize container */
 .container-narrow > hr {
   margin: 30px 0;
-}
-
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-}
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
 }
 
 /* Supporting marketing content */
@@ -137,3 +159,35 @@ body {
 }
 
 .project-needs { margin-top: 20px;}
+
+#wrap-intro {
+  min-width: 100%;
+  background-color: #E1F3FB;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+}
+
+#intro .left-col, #intro .right-col {
+  height: 360px;
+
+}
+
+#intro .video {
+  margin-top: 25px;
+  background-color: black;
+  height: 250px;
+  width: 100%;
+}
+
+
+
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+}
