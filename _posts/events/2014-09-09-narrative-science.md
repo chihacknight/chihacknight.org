@@ -14,6 +14,8 @@ published: true
 
 They'll touch on the data analytics used to produce stories and how the same method could be applied to other types of civic data to find interesting insights.
 
+You can find a live video of this event on the [Smart Chicago YouTube Channel](http://youtu.be/DNiLma9UykU).  
+
 ---
 
 As usual, we will have topic specific working groups to help guide conversations and potential apps:
