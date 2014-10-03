@@ -20,6 +20,24 @@ layout: default
 
       <span itemprop="description">{{content}}</span>
 
+      {% if page.event_id > 111 %}
+        <hr />
+        <h4>Breakout groups</h4>
+
+        <p>As usual, we will have topic specific working groups to help guide conversations and potential apps:</p>
+
+        <ul>
+          <li><strong>Orientation/Civic Hacking 101</strong>: <a href="https://twitter.com/CivicWhitaker">Christopher Whitaker</a></li>
+          <li><strong>Code 101</strong>: <a href="https://github.com/renemarcelo/">René M. Paccha</a>, <a href="https://twitter.com/citizendrummer">Demond Drummer</a></li>
+          <li><strong>Transportation</strong>: <a href="https://twitter.com/stevevance">Steve Vance</a></li>
+          <li><strong>Education</strong>: <a href="https://twitter.com/elnazem">Elnaz Moshfeghian</a>, <a href="https://twitter.com/shua123">Josh Kalov</a></li>
+          <li><strong>Environment</strong>: <a href="https://twitter.com/sbeslow">Scott Beslow</a></li>
+          <li><strong>Social Service Delivery</strong>: <a href="https://twitter.com/RoseSerwah">Rose Afriyie</a></li>
+          <li><strong>Modelling Pension Reform in Illinois</strong>: <a href="https://www.linkedin.com/pub/denis-roarty/30/b0/394">Denis Roarty</a>, <a href="https://www.linkedin.com/in/bengalewsky">Ben Galewsky</a></li>
+        </ul>
+
+      {% endif %}
+
       {% if page.links %}
         <hr />
         <h4>Links</h4>

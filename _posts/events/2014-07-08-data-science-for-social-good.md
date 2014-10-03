@@ -15,14 +15,3 @@ published: true
 * Targeting Proactive Public Health Inspections with the [Chicago Department of Public Health](http://www.cityofchicago.org/city/en/depts/cdph.html)
 * Student Enrollment Prediction for Budget Allocation with [Chicago Public Schools](http://www.cps.edu/)
 * Effectiveness of Intervention Strategies on the Homeless with [Chicago Alliance to End Homelessness](http://www.thechicagoalliance.org/)
-
----
-
-As usual, we will have topic specific working groups to help guide conversations and potential apps:
-
-* __Orientation/Civic Hacking 101__: [Christopher Whitaker](https://twitter.com/CivicWhitaker)
-* __New Coders__: [Karl Fogel](https://twitter.com/kfogel), [Demond Drummer](https://twitter.com/citizendrummer)
-* __Transportation__: [Steve Vance](https://twitter.com/stevevance)
-* __Education__: [Elnaz Moshfeghian](https://twitter.com/elnazem), [Josh Kalov](https://twitter.com/shua123)
-* __Environment__: [Scott Beslow](https://twitter.com/sbeslow)
-* __City data__: [Gene Leynes](https://twitter.com/Geneorama), [Tom Schenk](https://twitter.com/tomschenkjr)
