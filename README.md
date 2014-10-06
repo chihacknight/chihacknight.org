@@ -9,7 +9,7 @@ git clone https://github.com/open-city/open-gov-hack-night.git
 cd open-gov-hack-night
 gem install jekyll
 jekyll serve
-```console
+```
 
 
 ## Dependencies
