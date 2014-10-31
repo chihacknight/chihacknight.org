@@ -24,7 +24,7 @@ The project, part of [Chicago's Tech Plan](http://techplan.cityofchicago.org/ini
 
 One of the outcomes of our [first Leadership Council Meeting](https://docs.google.com/document/d/1Q59-f1tEv2mep_GABc5XWy2X_5KA_RTWFm1R75tlAuw/edit) was the idea of having facilitators to help guide conversations and potential apps for specific topics. The facilitators and topics are:
 
-* __Transportation__: [Steve Vance](https://twitter.com/stevevance)
+* __Transportation__: [Steven Vance](https://twitter.com/stevevance)
 * __Education__: [Elnaz Moshfeghian](https://twitter.com/elnazem), [Josh Kalov](https://twitter.com/shua123)
 * __Environment__: [Scott Beslow](https://twitter.com/sbeslow)
 * __City data__: [Gene Leynes](https://twitter.com/Geneorama), [Tom Schenk](https://twitter.com/tomschenkjr)

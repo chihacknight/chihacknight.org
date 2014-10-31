@@ -17,7 +17,7 @@ Using Chicago's [Building Permits data](https://data.cityofchicago.org/Buildings
 
 AND
 
-[Steve Vance](https://twitter.com/stevevance) will talk about [Licensed Chicago Contractors](http://www.licensedchicagocontractors.com/), his project to track and notify people about new construction updates in Chicago.
+[Steven Vance](https://twitter.com/stevevance) will talk about [Licensed Chicago Contractors](http://www.licensedchicagocontractors.com/), his project to track and notify people about new construction updates in Chicago.
 
 ---
 
