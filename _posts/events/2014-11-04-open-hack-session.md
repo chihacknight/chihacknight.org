@@ -10,6 +10,6 @@ sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---
 
-No presentations this week - just come to build, share, and learn about civic tech!
+No presentations this week - just come to build, share, and learn about civic tech! Also, we'll be in the 1871 Auditorium instead of the IMSA room tonight!
 
 Don't forget to [vote in the Midterm Election](http://www.chicagoelections.com/en/your-voter-information.html) on Tuesday!
