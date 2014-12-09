@@ -15,9 +15,9 @@
     <!-- Facebook metadata -->
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
-      <meta content="{{ page.title }}" property="og:title">
+      <meta content="{{ page.title }} - {{ site.title }}" property="og:title">
     {% else %}
-      <meta content="{{ site.title }}" property="og:title">
+      <meta content="{{ site.title }} - {{ site.title }}" property="og:title">
     {% endif %}
     {% if page.title %}
       <meta content="article" property="og:type">
