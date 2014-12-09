@@ -24,11 +24,11 @@
     {% else %}
       <meta content="website" property="og:type">
     {% endif %}
-    <!-- {% if page.description %}
+    {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
-    {% endif %} -->
+    {% endif %}
     {% if page.url %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
