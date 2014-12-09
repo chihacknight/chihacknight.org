@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Code of Conduct
+description: The Open Gov Hack Night community Code of Conduct.
 ---
         
 ## Code of Conduct
