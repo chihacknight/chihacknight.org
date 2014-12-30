@@ -26,6 +26,8 @@
     {% endif %}
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
+    {% else if page.content %}
+      <meta content="{{ page.content | strip_html | truncatewords: 40 }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
@@ -64,11 +66,13 @@
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
-<!--     {% if page.description %}
+    {% if page.description %}
       <meta name="twitter:description" content="{{ page.description }}">
+    {% else if page.content %}
+      <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 40 }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
-    {% endif %} -->
+    {% endif %}
     {% if page.image %}
       <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
     {% else %}
