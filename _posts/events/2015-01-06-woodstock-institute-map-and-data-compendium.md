@@ -22,6 +22,8 @@ Some of their data include:
 * Employment rates
 * The amount of foreclosure filings
 
+---
+
 #### We're moving to Braintree next week!
 
 This will be the last Open Gov Hack Night at 1871. Starting on January 13, 2015 the Open Gov Hack Night will be hosted at the [Braintree](https://www.braintreepayments.com/) office on the **8th floor of the Merchandise mart**.
