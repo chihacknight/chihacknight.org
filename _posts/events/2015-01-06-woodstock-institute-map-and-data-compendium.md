@@ -16,6 +16,7 @@ published: true
 * [Data compendium](http://compendium.woodstockinst.org/) - a [CKAN](http://ckan.org/) site with dozens of datasets assembled by the former Metro Chicago Information Center (MCIC) and Woodstock Institute. 
 
 Some of their data include: 
+
 * Poverty levels
 * Average loan values for mortgages
 * Changes in long-term vacancies
