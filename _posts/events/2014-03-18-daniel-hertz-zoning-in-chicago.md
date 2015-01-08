@@ -7,6 +7,7 @@ links:
 title: Daniel Hertz - Zoning in Chicago
 date: 2014-03-18T18:00:00-05:00
 event_id: 97
+youtube_id: 67LrZzwPlk4
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 ---
 

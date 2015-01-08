@@ -11,6 +11,7 @@ links:
 title: Chicago Park District Data
 date: 2013-12-10T18:00:00-05:00
 event_id: 86
+youtube_id: SOImcOxlspM
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---
 

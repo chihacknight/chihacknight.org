@@ -6,6 +6,7 @@ links:
 title: Narrative Science
 date: 2014-09-09T18:00:00-05:00
 event_id: 122
+youtube_id: 2atK1NfQVgI
 sponsor: <a href='http://www.ThoughtWorks.com/'>ThoughtWorks</a>
 published: true
 ---

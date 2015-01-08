@@ -8,6 +8,7 @@ links:
 title: Cartografika
 date: 2014-02-18T18:00:00-05:00
 event_id: 93
+youtube_id: PLrJW8SSXFU
 sponsor: <a href='http://datamade.us'>DataMade</a>
 ---
 

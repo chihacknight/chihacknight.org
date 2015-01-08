@@ -6,6 +6,7 @@ links:
 title: Chicago Public Schools Website Redesign
 date: 2014-10-07T18:00:00-05:00
 event_id: 126
+youtube_id: wCZV0UzZHkc
 sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---

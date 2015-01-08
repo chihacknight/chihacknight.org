@@ -6,6 +6,7 @@ links:
 title: Civic User Testing Group
 date: 2014-12-9T18:00:00-05:00
 event_id: 135
+youtube_id: 0y3_KbhjjZg
 sponsor: <a href='http://github.com'>GitHub</a>
 published: true
 ---

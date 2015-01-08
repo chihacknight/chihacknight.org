@@ -6,6 +6,7 @@ links:
 title: Red Light Camera Tickets
 date: 2014-08-26T18:00:00-05:00
 event_id: 120
+youtube_id: tg8zpUexrzk
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
 ---

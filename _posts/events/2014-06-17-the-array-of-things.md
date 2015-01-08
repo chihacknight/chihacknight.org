@@ -8,6 +8,7 @@ links:
 title: The Array of Things
 date: 2014-06-17T18:00:00-05:00
 event_id: 110
+youtube_id: c0Tj8xKD458
 sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---

@@ -9,6 +9,7 @@ links:
 title: Chicago Open Data Hidden in Plain Sight
 date: 2013-12-03T18:00:00-05:00
 event_id: 85
+youtube_id: IZW3MDYHk5w
 sponsor: <a href='http://codeforamerica.com'>Code for America</a>
 ---
 

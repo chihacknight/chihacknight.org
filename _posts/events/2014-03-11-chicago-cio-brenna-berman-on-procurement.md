@@ -12,6 +12,7 @@ links:
 title: Chicago CIO Brenna Berman on Procurement
 date: 2014-03-11T18:00:00-05:00
 event_id: 96
+youtube_id: 7HJP2PMo-kM
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
 ---
 

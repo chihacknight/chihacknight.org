@@ -6,6 +6,7 @@ links:
 title: Woodstock Institute Map and Data Compendium
 date: 2015-1-6T18:00:00-05:00
 event_id: 137
+youtube_id: PUOVMGndv3E
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
 ---

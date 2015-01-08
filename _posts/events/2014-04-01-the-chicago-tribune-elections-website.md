@@ -7,6 +7,7 @@ links:
 title: The Chicago Tribune Elections Website
 date: 2014-04-01T18:00:00-05:00
 event_id: 99
+youtube_id: wJwQyvWw-PM
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 ---
 

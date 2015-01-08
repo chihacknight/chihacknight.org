@@ -18,6 +18,11 @@ layout: default
   <div class='row'>
     <div class='col-md-7'>
 
+      {% if page.youtube_id %}
+        <iframe width="500" height="280" src="http://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
+        <hr />
+      {% endif %}
+
       <span itemprop="description">{{content}}</span>
 
       {% if page.event_id > 111 %}
@@ -38,9 +43,6 @@ layout: default
         </ul>
 
       {% endif %}
-
-      <h4><i class='fa fa-youtube-play'></i> Livestream and video archives</h4>
-      Christopher Whitaker from the <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> records and livestreams our presentations. <a href='https://www.youtube.com/user/smartchicago/'>Watch them on YouTube</a>!
 
       {% if page.links %}
         <hr />
@@ -77,6 +79,15 @@ layout: default
 
         {% if site.time <= page.date %}
           <a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
+        {% endif %}
+
+        {% if page.youtube_id %}
+
+        {% else %}
+          <p>
+            <strong><i class='fa fa-youtube-play'></i> Video</strong><br />
+            Christopher Whitaker from the <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> records and livestreams our presentations. <a href='https://www.youtube.com/user/smartchicago/'>Watch them on YouTube</a>!
+          </p>
         {% endif %}
       </div>
     </div>

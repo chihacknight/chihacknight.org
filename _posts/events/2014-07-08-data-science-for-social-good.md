@@ -6,6 +6,7 @@ links:
 title: Data Science for Social Good
 date: 2014-07-08T18:00:00-05:00
 event_id: 113
+youtube_id: HP8BsEcFb5k
 sponsor: <a href='http://opentechstrategies.com/'>Open Tech Strategies</a>
 published: true
 ---

@@ -6,6 +6,7 @@ links:
 title: Hour of Code
 date: 2014-12-2T18:00:00-05:00
 event_id: 134
+youtube_id: r9dV_MOJyRI
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---
