@@ -1,0 +1,26 @@
+---
+layout: event
+categories: 
+  - events
+links:
+title: Translating Data into Cinema
+date: 2015-1-20T18:00:00-05:00
+event_id: 139
+youtube_id:
+sponsor: <a href='http://GitHub.com'>GitHub</a>
+published: true
+---
+
+Documentary filmmakers Ben Kolak and Brian Ashby of [Scrappers Film Group](http://www.scrappersfilmgroup.com/) will talk about the process of directing the PBS DIGITAL STUDIOS / WTTW Channel 11 documentary web series [Central Standard: On Education](http://www.scrappersfilmgroup.com/portfolio/central-standard-on-education/).
+
+Ben and Brian will go over how they used educational and census metrics to help tell the story of five 8th graders across Chicagoland attempting to get into the top selective enrollment high schools as a way to provide a more holistic picture of the many, often unquantifiable factors responsible for disparities in public education.
+
+Some of you may remember Ben and Brian - they did [a short documentary on the Open Gov Hack Night](http://vimeo.com/89886841) for The Grid in 2013.
+
+---
+
+#### Open Gov Hack Night Leadership Council #9
+
+Will have our **9th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
+
+If you'd like to bring up a topic, [add it to the agenda](https://docs.google.com/document/d/1FMsUu3iPppBpeCbLBPdzaP7xXDx7UljhIY8hyFnz8Eg/edit#).
