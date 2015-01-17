@@ -21,6 +21,6 @@ Some of you may remember Ben and Brian - they did [a short documentary on the Op
 
 #### Open Gov Hack Night Leadership Council #9
 
-Will have our **9th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
+We will have our **9th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
 
 If you'd like to bring up a topic, [add it to the agenda](https://docs.google.com/document/d/1FMsUu3iPppBpeCbLBPdzaP7xXDx7UljhIY8hyFnz8Eg/edit#).
