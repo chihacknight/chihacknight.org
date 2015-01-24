@@ -3,13 +3,17 @@
   <head>
     <title>
       {% if page.title %}
-        {{page.title}} - 
+        {{page.title}} - {{site.name}}
       {% endif %}
-      {{site.name}}
+      {{site.name}} - {{site.description}}
     </title>
     <meta charset='utf-8' />
     <meta name="viewport" content="width=device-width, initial-scale=0.5, width=640, minimum-scale=0.5">
-    <meta content='{{ site.description }}' name='description' />
+    {% if page.description %}
+      <meta content="{{ page.description }}" name='description' />
+    {% else %}
+      <meta content="{{ site.description }}" name='description' />
+    {% endif %}
     <meta content='{{ site.name }}' name='author' />
 
     <!-- Facebook metadata -->
