@@ -31,10 +31,10 @@ If a participant engages in harassing behavior, the event organizers may take an
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please tell one of the following organizers what you experienced or witnessed:
 
-* Derek Eder, [derek.eder@gmail.com](derek.eder@gmail.com), (503) 577-0677
-* Rose Afriyie, [sariyie@gmail.com](sariyie@gmail.com), (570) 982-1562
-* Josh Kalov, [jkalov@gmail.com](jkalov@gmail.com), (847) 477-6939
-* Steven Vance, [jamesbondsv@gmail.com](jamesbondsv@gmail.com), (312) 593-4857
+* Derek Eder, [derek.eder@gmail.com](mailto:derek.eder@gmail.com), (503) 577-0677
+* Rose Afriyie, [sariyie@gmail.com](mailto:sariyie@gmail.com), (570) 982-1562
+* Josh Kalov, [jkalov@gmail.com](mailto:jkalov@gmail.com), (847) 477-6939
+* Steven Vance, [jamesbondsv@gmail.com](mailto:jamesbondsv@gmail.com), (312) 593-4857
 
 Created collaboratively by the Open Gov Hack Night community, adapted from the [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct).
 
