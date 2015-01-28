@@ -24,6 +24,8 @@ Some of their data include:
 * Employment rates
 * The amount of foreclosure filings
 
+Read Katie's blog post on this presentation: [How Data Can Advance Economic Justice](http://civictechvoices.tumblr.com/post/109276781677/how-data-can-advance-economic-justice).
+
 ---
 
 #### We're moving to Braintree next week!

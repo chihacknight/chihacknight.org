@@ -6,7 +6,7 @@ links:
 title: Slow Roll Chicago
 date: 2015-1-27T18:00:00-05:00
 event_id: 140
-youtube_id: 
+youtube_id: dfZi4-IWLYo
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
 ---
