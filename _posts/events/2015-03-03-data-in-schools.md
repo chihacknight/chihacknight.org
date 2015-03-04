@@ -6,7 +6,7 @@ links:
 title: "Data in Schools: An Anatomy Lesson"
 date: 2015-03-03T18:00:00-05:00
 event_id: 145
-youtube_id: 
+youtube_id: q7V39da2GIs
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
 ---
