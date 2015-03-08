@@ -11,4 +11,4 @@ sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 published: true
 ---
 
-[Rob Calvey](http://www.linkedin.com/pub/rob-calvey/4a/801/327/en) and [Julian Bongiorno](https://twitter.com/jubongi) from [Design for America](http://designforamerica.com) will discuss their partnership with MIT to [use data and empathy to streamline the process](https://www.youtube.com/watch?v=tAWe8z5WKZA) of connecting homless shelters with excess capacity to those who need a place to stay.
+[Rob Calvey](http://www.linkedin.com/pub/rob-calvey/4a/801/327/en) and [Julian Bongiorno](https://twitter.com/jubongi) from [Design for America](http://designforamerica.com) will discuss their partnership with MIT to [use data and empathy to streamline the process](https://www.youtube.com/watch?v=tAWe8z5WKZA) of connecting homeless shelters with excess capacity to those who need a place to stay.
