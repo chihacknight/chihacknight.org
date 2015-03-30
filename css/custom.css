@@ -5,8 +5,12 @@ body {
   font-size: 17px;
 }
 
-a, a:hover {
-  color: #1478bc;
+.navbar { min-height: 90px; }
+.navbar-brand img { height: 80px; }
+.navbar-nav > li > a { padding-top: 70px; padding-bottom: 10px; }
+
+a, a:hover, a:active {
+  color: #006fa9;
 }
 
 .table a {
@@ -14,13 +18,13 @@ a, a:hover {
 }
 
 .btn-success {
-  background-color: #1478bc;
-  border-color: #1478bc;
+  background-color: #006fa9;
+  border-color: #006fa9;
 }
 
 .btn-success:hover {
-  background-color: #0C4871;
-  border-color: #0C4871;
+  background-color: #007aba;
+  border-color: #007aba;
 }
 
 .contributors img {
@@ -53,18 +57,6 @@ a, a:hover {
   padding-right: 15px;
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-}
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
-  padding-bottom: 19px;
-}
-
 /* Custom page footer */
 .footer {
   padding-top: 19px;
@@ -79,9 +71,13 @@ a, a:hover {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
+  background-color: #E5001C;
+  color: #fff;
+  padding: 30px;
 }
+
+.jumbotron h2 a, .jumbotron h2 small, .jumbotron a { color: #fff;}
+
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;

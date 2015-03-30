@@ -30,8 +30,6 @@
     {% endif %}
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
-    {% else if page.content %}
-      <meta content="{{ page.content | strip_html | truncatewords: 40 }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
@@ -72,8 +70,6 @@
     {% endif %}
     {% if page.description %}
       <meta name="twitter:description" content="{{ page.description }}">
-    {% else if page.content %}
-      <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 40 }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
@@ -117,29 +113,46 @@
     <script src="/js/jquery.scrollto.js"></script>
   </head>
   <body>
-    <div class="container">
-      <div id='primary-content' class='col-md-10 col-md-offset-1'>
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            {% for link in site.navigation %}
-              {% assign current = nil %}
-              {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
-                {% assign current = 'active' %}
-              {% endif %}
 
-              <li class="{{ current }}">
-                <a href="{{ link.url }}">{{ link.text }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-          <h3 class="text-muted"><a href="/index.html" >Open Gov Hack Night</a></h3>
+    <div class="navbar navbar-inverted navbar-static-top" role="navigation">
+      <div class='container'>
+        <div class='col-sm-10 col-sm-offset-1'>
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"><img src='/images/logo/logo.png' alt='Chi Hack Night' title='Chi Hack Night' /></a>
+          </div>
+          <div class="navbar-collapse collapse pull-right">
+            <ul class="nav navbar-nav">
+              {% for link in site.navigation %}
+                {% assign current = nil %}
+                {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
+                  {% assign current = 'active' %}
+                {% endif %}
+
+                <li class="{{ current }}">
+                  <a href="{{ link.url }}">{{ link.text }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div><!--/.nav-collapse -->
         </div>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <div id='primary-content' class='col-sm-10 col-sm-offset-1'>
       
         {{content}}
 
         <div class="footer">
           <p class='pull-right'>
-            &copy; Open City 2014 | 
+            &copy; Chi Hack Night 2015 | 
             <a href='/code-of-conduct.html'>Code of Conduct</a> |
             <a href='https://github.com/open-city/open-gov-hack-night'><i class='fa fa-github'></i> Pull requests welcome!</a>
           </p>

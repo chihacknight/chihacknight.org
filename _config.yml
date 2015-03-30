@@ -1,14 +1,12 @@
 port:  5000
 markdown: kramdown
-name: Open Gov Hack Night
-url: http://opengovhacknight.org
-title: Open Gov Hack Night
+name: Chi Hack Night
+url: http://chihacknight.org
+title: Chi Hack Night
 description: "Chicago's weekly event to build, share, and learn about civic tech."
 encoding: utf-8
 timezone: America/Chicago
 navigation:
-- text: Home
-  url: /index.html
 - text: Events
   url: /events/index.html
   category: events

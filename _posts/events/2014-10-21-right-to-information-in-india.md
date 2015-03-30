@@ -11,7 +11,7 @@ sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
 ---
 
-Open Gov Hack Night - International Edition!
+Chi Hack Night - International Edition!
 
 [Right to Information](http://en.wikipedia.org/wiki/Right_to_Information_Act) (RTI) is legislation in India similar to the [Freedom of Information Act](http://en.wikipedia.org/wiki/Freedom_of_Information_Act_%28United_States%29) (FOIA) in the U.S.
 

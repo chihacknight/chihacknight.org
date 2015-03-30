@@ -3,19 +3,22 @@ layout: default
 ---
 
 <div class="jumbotron">
-  <h1>Open Gov Hack Night</h1>
-  <p>Chicago's weekly event to build, share, and learn about civic tech.</p>
-
   {% for post in site.posts limit:1 %}
-    <p><a class='btn btn-success btn-lg' href="{{post.url}}">{{ post.date | date: "%B %-d" }}: {{post.title}}</a></p>
+    <h2>
+      <small>{{ post.date | date: "%B %-d" }}</small><br />
+      <a href="{{post.url}}">{{post.title}}</a>
+    </h2>
+    <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Register</a>
   {% endfor %}
 </div>
 
 <div id='about' class='row'>
-  <div class='col-md-7'>
-    <p>Come join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech building, sharing, learning and networking.</p>
+  <div class='col-sm-7'>
+    <p><strong>Chi Hack Night</strong> is Chicago's weekly event to build, share, and learn about civic tech.</p>
+
+    <p>Join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech building, sharing, learning and networking.</p>
     <br>
-    <p>The <strong>Open Gov Hack Night</strong> is for those who want to:</p>
+    <p>The <strong>Chi Hack Night</strong> is for those who want to:</p>
 
     <ul>
       <li><a href='/events.html'>learn</a> about civic tech, open data and open government</li>
@@ -56,11 +59,11 @@ layout: default
     <p><iframe src="http://player.vimeo.com/video/89886841" width="100%" height="455" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
   </div>
 
-  <div class='col-md-5'>
+  <div class='col-sm-5'>
     <div class='well'>
       <h4>
         <a href='/events/index.html'>
-          <i class='fa fa-calendar'></i> Open Gov Hack Night
+          <i class='fa fa-calendar'></i> Chi Hack Night
         </a>
       </h4>
       <p><img class='img-img-thumbnail img-responsive' src='/images/1871_map.png'></p>
@@ -119,21 +122,21 @@ layout: default
 <div class='row'>
   <hr />
   <h2 id='leadership'>Leadership &amp; contact</h2>
-  <div class='col-md-6'>
+  <div class='col-sm-6'>
     <div class='row'>
-      <div class='col-md-4 text-center'>
+      <div class='col-sm-4 text-center'>
         <a href='https://twitter.com/derekeder'>
           <img class='img-thumbnail img-responsive' src='images/derek_eder.jpg' title='Derek Eder' alt='Derek Eder' />
           Derek Eder
         </a>
       </div>
-      <div class='col-md-4 text-center'>
+      <div class='col-sm-4 text-center'>
         <a href='https://twitter.com/civicwhitaker'>
           <img class='img-thumbnail img-responsive' src='images/christopher_whitaker.jpg' title='Christopher Whitaker' alt='Christopher Whitaker' />
           Christopher Whitaker
         </a>
       </div>
-      <div class='col-md-4 text-center'>
+      <div class='col-sm-4 text-center'>
         <a href='https://twitter.com/jpvelez'>
           <img class='img-thumbnail img-responsive' src='images/juan_pablo_velez.jpg' title='Juan-Pablo Velez' alt='Juan-Pablo Velez' />
           Juan-Pablo Velez
@@ -141,8 +144,8 @@ layout: default
       </div>
     </div>
   </div>
-  <div class='col-md-6'>
-    <p>The <strong>Open Gov Hack Night</strong> is organized by Derek Eder, Christopher Whitaker and (formerly) Juan-Pablo Velez.</p> 
+  <div class='col-sm-6'>
+    <p>The <strong>Chi Hack Night</strong> is organized by Derek Eder, Christopher Whitaker and (formerly) Juan-Pablo Velez.</p> 
     <p>Every 4 weeks, we hold an open <strong>Leadership Council Meeting</strong> to discuss new ideas and ways to make the hack night better.</p>
     <p>Got questions about the event or have a project to present? <a href='mailto:derek.eder+hacknight@gmail.com'>Email Derek</a>!</p>
   </div>
@@ -151,27 +154,27 @@ layout: default
 <div class='row sponsors'>
   <hr />
   <h2 id='partners'>Partners</h2>
-  <p>The Open Gov Hack Night is organized by members of <a href='http://opencityapps.org'>Open City</a> and hosted at <a href='https://www.braintreepayments.com/'>Braintree</a>.</p>
+  <p>The Chi Hack Night is organized by members of <a href='http://opencityapps.org'>Open City</a> and hosted at <a href='https://www.braintreepayments.com/'>Braintree</a>.</p>
   <div class='row'>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-4'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-4'>
         <a href='http://opencityapps.org' itemprop='url'>
             <img src='images/sponsors/open-city.jpg' alt='Open City' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Open City</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='https://www.braintreepayments.com/' itemprop='url'>
             <img src='images/sponsors/braintree.png' alt='Braintree' itemprop='url' class='img-responsive' />
             <span itemprop='name'>Braintree</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='http://smartchicagocollaborative.org' itemprop='url'>
             <img src='images/sponsors/smart-chicago.jpg' alt='Smart Chicago Collaborative' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Smart Chicago Collaborative</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-2'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-2'>
         <a href='http://1871.com' itemprop='url'>
             <img src='images/sponsors/1871.jpg' alt='1871' itemprop='url' class='img-responsive' />
             <span itemprop='name'>1871</span>
@@ -184,25 +187,25 @@ layout: default
   <h2 id='sponsors'>Sponsors</h2>
   <p>Our awesome sponsors provide food every week.</p>
   <div class='row'>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='http://datamade.us' itemprop='url'>
             <img src='images/sponsors/datamade.png' alt='DataMade' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>DataMade</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='http://thoughtworks.com' itemprop='url'>
             <img src='images/sponsors/thoughtworks.jpg' alt='ThoughtWorks' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>ThoughtWorks</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='http://github.com' itemprop='url'>
             <img src='images/sponsors/github.png' alt='GitHub' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>GitHub</span>
         </a>
     </div>
-    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+    <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
         <a href='http://codeforamerica.com' itemprop='url'>
             <img src='images/sponsors/code-for-america.jpg' alt='Code for America' itemprop='logo' class='img-responsive' />
             <span itemprop='name'>Code for America</span>
@@ -214,28 +217,28 @@ layout: default
 <div class='row'>
   <hr />
   <h2>Press</h2>
-  <div class='col-md-3 text-center'>
+  <div class='col-sm-3 text-center'>
     <a href='https://www.youtube.com/watch?v=-ztTMaDjCz4'>
       <img class='img-thumbnail img-responsive' src='images/cityofchicagotv-hacknight.png' title='Open Government Hack Night' alt='Open Government Hack Night' />
       City of Chicago TV
     </a>
   </div>
 
-  <div class='col-md-3 text-center'>
+  <div class='col-sm-3 text-center'>
     <a href='http://www.timeoutchicago.com/things-to-do/this-week-in-chicago/15996451/open-government-hack-night'>
       <img class='img-thumbnail img-responsive' src='images/hack-night.jpg' title='Open Government Hack Night' alt='Open Government Hack Night' />
       TimeOut Chicago
     </a>
   </div>
 
-  <div class='col-md-3 text-center'>
+  <div class='col-sm-3 text-center'>
     <a href='http://www.redeyechicago.com/news/local/ct-red-young-chicago-hackers-20130920,0,5305032.story'>
       <img class='img-thumbnail img-responsive' src='images/redeye-hack-night.jpg' title='Can you hack it?' alt='Can you hack it?' />
       RedEye Chicago
     </a>
   </div>
 
-  <div class='col-md-3 text-center'>
+  <div class='col-sm-3 text-center'>
     <a href='http://www.wbez.org/news/%E2%80%98hoodies%E2%80%99-%E2%80%98suits%E2%80%99-and-others-behind-chicago-government-20-106458'>
       <img class='img-thumbnail img-responsive' src='images/schenk.jpg' title='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' alt='The ‘hoodies’, the ‘suits’ and others behind Chicago Government 2.0' />
       WBEZ
@@ -250,7 +253,7 @@ layout: default
 
   <p>Friends have forked the hack night in many places: </p>
 
-  <div class='col-md-4'>
+  <div class='col-sm-4'>
     <ul>
       <li><a href='http://www.meetup.com/Code-for-Boston/'>Boston, MA</a></li>
       <li><a href='http://www.meetup.com/Code-for-Hampton-Roads/'>Hampton Roads, VA</a></li>
@@ -259,7 +262,7 @@ layout: default
       <li><a href='http://hackingmty.org'>Monterrey, Mexico</a></li>
     </ul>
   </div>
-  <div class='col-md-4'>
+  <div class='col-sm-4'>
     <ul>
       <li><a href='http://www.meetup.com/betanyc/'>New York, NY</a></li>
       <li><a href='http://www.meetup.com/OpenOakland/'>Oakland, CA</a></li>
@@ -268,7 +271,7 @@ layout: default
       <li><a href='http://www.meetup.com/Triangle-Code-for-America/'>Raleigh / Durham, NC</a></li>
     </ul>
   </div>
-  <div class='col-md-4'>
+  <div class='col-sm-4'>
     <ul>
       <li><a href='http://www.meetup.com/code4sac/'>Sacramento, CA</a></li>
       <li><a href='http://opensatx.org'>San Antonio, TX</a></li>

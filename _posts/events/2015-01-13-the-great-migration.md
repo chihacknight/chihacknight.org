@@ -13,4 +13,4 @@ published: true
 
 No presentations this week - just come to build, share, and learn about civic tech!
 
-This will be the **first** Open Gov Hack Night with our new host, [Braintree](https://www.braintreepayments.com/). Come explore the new space and meet our new friends!
+This will be the **first** Chi Hack Night with our new host, [Braintree](https://www.braintreepayments.com/). Come explore the new space and meet our new friends!
