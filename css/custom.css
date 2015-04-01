@@ -14,6 +14,8 @@ a, a:hover, a:active {
   color: #006fa9;
 }
 
+a { text-decoration: none !important; }
+
 .table a {
   text-decoration: none;
 }

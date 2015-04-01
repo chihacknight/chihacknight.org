@@ -12,9 +12,7 @@ navigation:
   category: events
 - text: Breakout groups
   url: /breakouts.html
-- text: Projects
-  url: /projects.html
-- text: Resources
-  url: /resources.html
-- text: Discussion
-  url: /discussion.html
+- text: About
+  url: /about.html
+- text: Contact us
+  url: /contact-us.html
