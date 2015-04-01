@@ -30,8 +30,6 @@
     {% endif %}
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
-    {% else if page.content %}
-      <meta content="{{ page.content | strip_html | truncatewords: 40 }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
@@ -72,8 +70,6 @@
     {% endif %}
     {% if page.description %}
       <meta name="twitter:description" content="{{ page.description }}">
-    {% else if page.content %}
-      <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 40 }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
