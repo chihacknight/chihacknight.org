@@ -82,7 +82,7 @@
     <link href='/favicon.ico' rel='shortcut icon' />
     
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.flatly.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.2/css/jquery.dataTables.css">
@@ -114,11 +114,11 @@
   </head>
   <body>
 
-    <div class="navbar navbar-inverted navbar-static-top" role="navigation">
-      <div class='container'>
+    <nav class="navbar navbar-inverted navbar-static-top">
+      <div class="container">
         <div class='col-sm-10 col-sm-offset-1'>
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
               <span class="sr-only">Toggle navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
@@ -126,8 +126,8 @@
             </button>
             <a class="navbar-brand" href="/"><img src='/images/logo/logo.png' alt='Chi Hack Night' title='Chi Hack Night' /></a>
           </div>
-          <div class="navbar-collapse collapse pull-right">
-            <ul class="nav navbar-nav">
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
               {% for link in site.navigation %}
                 {% assign current = nil %}
                 {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
@@ -142,7 +142,7 @@
           </div><!--/.nav-collapse -->
         </div>
       </div>
-    </div>
+    </nav>
 
 
     <div class="container">
@@ -150,14 +150,41 @@
       
         {{content}}
 
-        <div class="footer">
-          <p class='pull-right'>
-            &copy; Chi Hack Night 2015 | 
-            <a href='/code-of-conduct.html'>Code of Conduct</a> |
-            <a href='https://github.com/open-city/open-gov-hack-night'><i class='fa fa-github'></i> Pull requests welcome!</a>
-          </p>
-        </div>
       </div>
     </div> <!-- /container -->
+    <footer class="footer">
+      <div class="container">
+        <div class='row'>
+          <div class='col-sm-2 col-sm-offset-3'>
+            <small>
+              <a href="/events/index.html">Events</a><br />
+              <a href="/breakouts.html">Breakout groups</a><br />
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <a href="/about.html">About</a><br />
+              <a href="/code-of-conduct.html">Code of conduct</a><br />
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <a href="/projects.html">Projects</a><br />
+              <a href="/resources.html">Resources</a><br />
+              <a href="/discussion.html">Discussion</a>
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <a href='/contact.html'>Contact us</a><br />
+              <i class='fa fa-twitter'></i>
+              <a href='https://twitter.com/search?q=%23chihacknight'>#chihacknight</a>
+              <br />
+              &copy; 2015 Chi Hack Night
+            </small>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
