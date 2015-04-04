@@ -17,6 +17,6 @@ SPAC, a state agency, reviews sentencing policies and practices to examine how c
 
 ---
 
-**April 7th** is Chicago's runoff election for the Mayor and 18 Aldermanic seats. We'll be watching the returns as they come in. **And make sure to vote!**
+**April 7th** is Chicago's runoff election for the Mayor and 18 Aldermanic seats. We'll be watching the returns as they come in. **[Make sure to vote!](http://www.chicagoelections.com/en/home.html)**
 
 We'd also like to welcome [Dev Bootcamp](http://devbootcamp.com) as a recurring sponsor. Check out their next [info session on 4/13](http://www.eventbrite.com/e/dev-bootcamp-chicago-april-info-session-tickets-16083811112?aff=open)!
