@@ -17,4 +17,4 @@ She’ll discuss the ACLU efforts to advocate for transparency through legislati
 
 * [CPD Traffic Stops and Resulting Searches in 2013](http://www.aclu-il.org/cpd-traffic-stops-and-resulting-searches-in-2013/)
 * [Stop and Frisk in Chicago](http://www.aclu-il.org/stop-and-frisk-in-chicago1/)
-* [https://www.aclu.org/criminal-law-reform/war-marijuana-black-and-white-report](The War on Marijuana in Black and White)
+* [The War on Marijuana in Black and White](https://www.aclu.org/criminal-law-reform/war-marijuana-black-and-white-report)
