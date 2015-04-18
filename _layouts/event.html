@@ -31,7 +31,25 @@ layout: default
 
       <span itemprop="description">{{content}}</span>
 
-      {% if page.event_id > 111 %}
+      <hr />
+
+      {% if site.time <= page.date %}
+        <h4>Agenda</h4>
+        <dl class='dl-horizontal'>
+          <dt>6:00 pm</dt> 
+          <dd>Eating and socializing</dd>
+          <dt>6:15 pm</dt> 
+          <dd>Welcome, introductions</dd>
+          <dt>6:30 pm</dt> 
+          <dd>Announcements</dd>
+          <dt>6:40 pm</dt> 
+          <dd>Presentation</dd>
+          <dt>7:15 pm</dt> 
+          <dd>Highlight breakout groups</dd>
+          <dt>7:30 pm</dt> 
+          <dd>Break into groups and hack</dd>
+        </dl>
+
         <hr />
         <h4>Breakout groups</h4>
 
@@ -71,9 +89,9 @@ layout: default
     </div>
     <div class='col-sm-5'>
       <div class='well'>
-        <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-        <p>
-          6pm<br />
+        {% if site.time <= page.date %}
+          <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+          6pm CST<br />
           {{ page.date | date: "%b %d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <a itemprop="url" href='https://www.braintreepayments.com/'><span itemprop="name">Braintree office</span></a><br />
@@ -85,16 +103,16 @@ layout: default
               </div>
             </a><br />
           </div>
-        </p>
+        {% endif %}
 
         <p>
-          <strong>Food provided by</strong> {{page.sponsor}}<br />
+          <strong>Sponsored by</strong> {{page.sponsor}}<br />
           <strong>Read our</strong> <a href='/code-of-conduct.html'>Code of Conduct</a>
         </p>
 
         {% if page.youtube_id %}
 
-        {% else %}
+        {% elsif site.time <= page.date %}
           <p>
             <strong><i class='fa fa-youtube-play'></i> Video</strong><br />
             Christopher Whitaker from the <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> records and livestreams our presentations. <a href='https://www.youtube.com/user/smartchicago/'>Watch them on YouTube</a>!

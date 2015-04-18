@@ -13,36 +13,28 @@ description: Recent and upcoming hack nights, with links to each event's video l
 </h1>
 <p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data. <a href='/feed.xml'><i class='fa fa-rss-square'></i> RSS feed</a></p>
 
-<table id='hack-night-events' class='table'>
+<table id='hack-night-events' class='table table-striped'>
   <thead>
     <tr itemscope itemtype='http://schema.org/Event'>
       <th>Date</th>
-      <th>Event</th>
+      <th style='width=60%;'>Event</th>
+      <th>Sponsor</th>
     </tr>
   </thead>
   <tbody>
     {% for post in site.categories['events'] %}
       <tr>
         <td class='nowrap'>
-          <div class='well text-center'>
-            <meta itemprop='startDate' content='{{ post.date | date: "%Y-%m-%d" }}'>
-            <h3>{{ post.date | date: "%b %d" }}</h3>
-            <h4>{{ post.date | date: "%Y" }}</h4>
+            <meta itemprop='startDate' content='{{ post.date | date: "%Y-%m-%d" }}' />
+            <p>{{ post.date | date: "%b %d, %Y" }}</p>
             {% if site.time <= post.date %}
               <a class='btn btn-success btn-sm' href='http://opengovhacknight.eventbrite.com/' itemprop='url'>RSVP &raquo;</a>
             {% endif %}
-          </div>
         </td>
         <td>
-          <h3><small>#{{post.event_id}}</small> <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a></h3>
-          <div itemprop='description'>
-          {{post.content}}
-          </div>
-          <ul class='list-inline'>
-            <li><span class='text-muted'>Sponsor</span></li>
-            <li><a href='{{post.sponsor_url}}'>{{post.sponsor}}</a></li>
-          </ul>
+          <p><small>#{{post.event_id}}</small> <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a></p>
         </td>
+        <td><p><a class='mute' href='{{post.sponsor_url}}'>{{post.sponsor}}</a></p></td>
       </tr>
     {% endfor %}
   </tbody>
