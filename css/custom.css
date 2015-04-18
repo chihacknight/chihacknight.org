@@ -12,11 +12,11 @@ body {
 .navbar-toggle { border: 1px solid #ccc; }
 .navbar-toggle .icon-bar { background-color: #666;}
 
-a, a:hover, a:active {
+a, a:visited {
   color: #006fa9;
 }
 
-a:hover, a:active {
+a:active, a:hover {
   color: #E7121C;
 }
 
