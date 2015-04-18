@@ -7,6 +7,7 @@ links:
   - <a href='http://www.stevencanplan.com/2013/new-ios-app-offers-most-advanced-divvy-route-directions/'>New iOS app offers most advanced Divvy route directions - Steven Can Plan</a>
   - <a href='http://www.youtube.com/watch?v=XxqbzNWPXbo'>Divvy Trip Planner App - YouTube</a>
 title: Divvy Trip Planner
+speakers: Adam and Andrew, BGL Consulting
 date: 2013-07-16T18:00:00-05:00
 event_id: 65
 sponsor: <a href='http://codeforamerica.org/'>Code for America</a>

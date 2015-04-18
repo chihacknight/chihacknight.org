@@ -16,6 +16,10 @@ a, a:hover, a:active {
   color: #006fa9;
 }
 
+a:hover, a:active {
+  color: #E7121C;
+}
+
 a { text-decoration: none !important; }
 
 .table a {

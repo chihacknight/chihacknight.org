@@ -7,5 +7,3 @@ date: 2012-12-18T18:00:00-05:00
 event_id: 38
 sponsor: None
 ---
-
-

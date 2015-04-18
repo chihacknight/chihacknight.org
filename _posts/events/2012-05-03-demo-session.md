@@ -8,4 +8,4 @@ event_id: 7
 sponsor: None
 ---
 
-
+There will be a short demo session at the beginning for people to share the apps they have been working on.

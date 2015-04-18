@@ -7,6 +7,9 @@ links:
   - <a href='https://github.com/NYCComptroller/Checkbook'>Checkbook NYC Github repo</a>
   - <a href='http://derekeder.com/searchable_map_template/'>Searchable Map Template</a>
 title: Checkbook NYC, Learning Fusion Tables
+speakers: 
+ - Karl Fogel, Open Tech Strategies, LLC
+ - Derek Eder, DataMade
 date: 2013-06-18T18:00:00-05:00
 event_id: 61
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>

@@ -8,6 +8,7 @@ links:
   - <a href='http://www.smartchicagocollaborative.org/4-days-after-divvy-launch-an-app-prototype-and-an-api-presented-at-opengov-hack-night/'>4 days after Divvy launch, an app prototype and an API presented at OpenGov Hack Night - Smart Chicago</a>
   - <a href='http://chi.streetsblog.org/2013/07/03/divvy-data-for-the-first-weekend/#more-84745'>Divvy Data From the First Weekend and Beyond - Streetsblog Chicago</a>
 title: Divvy Data!
+speakers: Steven Vance, Streetsblog Chicago
 date: 2013-07-02T18:00:00-05:00
 event_id: 63
 sponsor: <a href='http://datamade.us'>DataMade</a>
