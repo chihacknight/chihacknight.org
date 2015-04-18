@@ -5,6 +5,7 @@ categories:
 links:
   - <a href='http://appscnt.splashthat.com'>2014 Urban Sustainability Apps Competition</a>
 title: 2014 Urban Sustainability Apps Competition
+speakers: Ed Oser, Center for Neighborhood Technology
 date: 2014-06-24T18:00:00-05:00
 event_id: 111
 sponsor: <a href='http://github.com'>GitHub</a> and <a href='http://www.cnt.org/'>The Center for Neighborhood Technology</a>

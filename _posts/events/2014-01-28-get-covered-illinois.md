@@ -6,6 +6,7 @@ links:
   - <a href='http://geogit.org/'>Get Covered Illinois</a>
   - <a href='http://www.smartchicagocollaborative.org/get-covered-illinois-at-opengov-hack-night/'>Get Covered Illinois at OpenGov Hack Night</a>
 title: Get Covered Illinois
+speakers: Charles Watkins, Get Covered Illinois
 date: 2014-01-28T18:00:00-05:00
 event_id: 90
 youtube_id: li-8EpVHHxk

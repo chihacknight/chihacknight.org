@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: Translating Data into Cinema
+speakers:
+ - Ben Kolak, Scrappers Film Group
+ - Brian Ashby, Scrappers Film Group
 date: 2015-1-20T18:00:00-05:00
 event_id: 139
 youtube_id: LBpGFvnoK1k

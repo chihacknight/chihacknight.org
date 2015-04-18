@@ -6,6 +6,7 @@ links:
   - <a href='http://join.englewood.codes/'>Englewood Codes</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-live-the-return-englewood-codes/'>Hack Night Live: The Return Englewood Codes</a>
 title: Englewood Codes, North Central College &amp; GitHub
+speakers: 
 date: 2014-06-03T18:00:00-05:00
 event_id: 108
 youtube_id: NA99uis2llE

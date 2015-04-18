@@ -7,6 +7,7 @@ links:
   - <a href='http://www.smartchicagocollaborative.org/on-the-launch-of-expunge-io/'>On the Launch of Expunge.io</a>
   - <a href='http://www.smartchicagocollaborative.org/expunge-io-at-opengov-hack-night/'>Expunge.io at OpenGov Hack Night</a>
 title: Expunge.io
+speakers: Cathy Deng
 date: 2014-02-25T18:00:00-05:00
 event_id: 94
 sponsor: <a href='http://datamade.us'>DataMade</a>

@@ -17,8 +17,9 @@ description: Recent and upcoming hack nights, with links to each event's video l
   <thead>
     <tr itemscope itemtype='http://schema.org/Event'>
       <th>Date</th>
-      <th style='width=60%;'>Event</th>
-      <th>Sponsor</th>
+      <th>#</th>
+      <th>Event</th>
+      <th>Speaker(s)</th>
     </tr>
   </thead>
   <tbody>
@@ -27,14 +28,16 @@ description: Recent and upcoming hack nights, with links to each event's video l
         <td class='nowrap'>
             <meta itemprop='startDate' content='{{ post.date | date: "%Y-%m-%d" }}' />
             <p>{{ post.date | date: "%b %d, %Y" }}</p>
-            {% if site.time <= post.date %}
-              <a class='btn btn-success btn-sm' href='http://opengovhacknight.eventbrite.com/' itemprop='url'>RSVP &raquo;</a>
-            {% endif %}
+        </td>
+        <td>#{{post.event_id}}</td>
+        <td>
+          <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a>
         </td>
         <td>
-          <p><small>#{{post.event_id}}</small> <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a></p>
-        </td>
-        <td><p><a class='mute' href='{{post.sponsor_url}}'>{{post.sponsor}}</a></p></td>
+          {% for speaker in post.speakers %}
+            {{speaker}}<br />
+          {% endfor %}
+          </td>
       </tr>
     {% endfor %}
   </tbody>

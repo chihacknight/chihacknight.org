@@ -3,7 +3,9 @@ layout: event
 categories: 
   - events
 links:
-title: "There Are No Innocents: Data Rebroadcasting and Server-Side Responsibility"
+title: "There Are No Innocents: Data Rebroadcasting and Server-Side 
+Responsibility"
+speakers: Karl Fogel, Open Tech Strategies, LLC
 date: 2015-04-14T18:00:00-05:00
 event_id: 151
 youtube_id: 

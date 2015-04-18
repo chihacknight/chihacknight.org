@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: DIY Environmental Monitoring
+speakers: 
+ - Benjamin Sugar, Public Lab
+ - Olga Bautista, Community Organizer
 date: 2015-03-24T18:00:00-05:00
 event_id: 148
 youtube_id: MlFPxeDLKkE

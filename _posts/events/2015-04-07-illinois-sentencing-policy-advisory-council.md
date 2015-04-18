@@ -4,6 +4,7 @@ categories:
   - events
 links:
 title: Illinois Sentencing Policy Advisory Council
+speakers: Nate Inglis Steinfeld, SPAC
 date: 2015-04-07T18:00:00-05:00
 event_id: 150
 youtube_id: rekozZ-82ck

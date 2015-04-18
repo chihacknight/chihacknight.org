@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: Red Light Camera Tickets
+speakers: 
+ - Alex Bordens, Chicago Tribune
+ - Alex Richards, Chicago Tribune
 date: 2014-08-26T18:00:00-05:00
 event_id: 120
 youtube_id: tg8zpUexrzk

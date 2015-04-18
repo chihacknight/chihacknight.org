@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: Narrative Science
+speakers: 
+ - Dan Platt, Narrative Science
+ - Craig Booth, Narrative Science
 date: 2014-09-09T18:00:00-05:00
 event_id: 122
 youtube_id: 2atK1NfQVgI

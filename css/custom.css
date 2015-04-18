@@ -22,6 +22,8 @@ a { text-decoration: none !important; }
   text-decoration: none;
 }
 
+.muted { color: #999; }
+
 .btn-success {
   background-color: #006fa9;
   border-color: #006fa9;

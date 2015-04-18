@@ -7,6 +7,7 @@ links:
   - <a href='https://github.com/tkompare/go2school-cps-en'>Github repo</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-live-go-to-school-and-cps-data/'>Hack Night Live&#58; Go To School and CPS Data - Smart Chicago</a>
 title: Go To School!
+speakers: Tom Kompare
 date: 2013-09-03T18:00:00-05:00
 event_id: 72
 sponsor: <a href='http://datamade.us'>DataMade</a>

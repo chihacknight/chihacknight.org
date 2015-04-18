@@ -7,6 +7,11 @@ links:
   - <a href='http://largelots.org'>Large Lots</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-large-lots/'>Hack Night Live&#58; Transit Future and LargeLots.org</a>
 title: Transit Future and Large Lots
+speakers:
+ - Ed Oser, Center for Neighborhood Technology
+ - Nick Doiron
+ - Demond Drummer, Teamwork Englewood
+ - Derek Eder, DataMade
 date: 2014-04-08T18:00:00-05:00
 event_id: 100
 youtube_id: PHkBoKAsRkA

@@ -6,6 +6,10 @@ links:
   - <a href='http://www.cartografika.net/'>Cartografika</a>
   - <a href='http://www.smartchicagocollaborative.org/hack-night-live-cartografika/'>Hack Night Live&#58; Cartografika</a>
 title: Cartografika
+speakers:
+ - Adam Jentleson, Cartografika
+ - Jose Alarcon, Cartografika
+ - Taylor McKinley, Cartografika
 date: 2014-02-18T18:00:00-05:00
 event_id: 93
 youtube_id: PLrJW8SSXFU

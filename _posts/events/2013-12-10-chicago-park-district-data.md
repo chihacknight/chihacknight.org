@@ -9,6 +9,7 @@ links:
   - <a href='http://chicagoparkdistrict.mindmixer.com/'>Chicago Parks MindMixer</a>
   - <a href='http://hackdash.org'>HackDash - hackathon organization tool</a>
 title: Chicago Park District Data
+speakers: Ed Rynearson, Chicago Park District
 date: 2013-12-10T18:00:00-05:00
 event_id: 86
 youtube_id: SOImcOxlspM
