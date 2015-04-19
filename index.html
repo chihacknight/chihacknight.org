@@ -4,6 +4,7 @@ layout: default
 
 <div class="jumbotron">
   {% for post in site.posts limit:1 %}
+    <p class='pull-right'><img class='img-responsive' src='{{post.image}}' alt='{{post.title}}' /></p>
     <h2>
       <small>{{ post.date | date: "%B %-d" }}</small><br />
       <a href="{{post.url}}">{{post.title}}</a>

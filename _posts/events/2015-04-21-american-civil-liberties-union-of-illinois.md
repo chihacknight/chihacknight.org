@@ -6,6 +6,7 @@ links:
 title: American Civil Liberties Union of Illinois
 speakers: 
  - Karen Sheley, ACLU
+image: /images/events/152-aclu.jpg
 date: 2015-04-21T18:00:00-05:00
 event_id: 152
 youtube_id: 

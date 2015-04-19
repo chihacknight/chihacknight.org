@@ -105,6 +105,16 @@ layout: default
           </div>
         {% endif %}
 
+        {% if page.speakers.size > 1 %}
+          <p><strong>Speakers</strong><br />
+            {% for speaker in post.speakers %}
+              {{speaker}}<br />
+            {% endfor %}
+          </p>
+        {% else %}
+          <p><strong>Speaker:</strong> {{ page.speakers }}</p>
+        {% endif %}
+
         <p>
           <strong>Sponsored by</strong> {{page.sponsor}}<br />
         </p>
