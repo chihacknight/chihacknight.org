@@ -34,23 +34,6 @@ layout: default
       <hr />
 
       {% if site.time <= page.date %}
-        <h4>Agenda</h4>
-        <dl class='dl-horizontal'>
-          <dt>6:00 pm</dt> 
-          <dd>Eating and socializing</dd>
-          <dt>6:15 pm</dt> 
-          <dd>Welcome, introductions</dd>
-          <dt>6:30 pm</dt> 
-          <dd>Announcements</dd>
-          <dt>6:40 pm</dt> 
-          <dd>Presentation</dd>
-          <dt>7:15 pm</dt> 
-          <dd>Highlight breakout groups</dd>
-          <dt>7:30 pm</dt> 
-          <dd>Break into groups and hack</dd>
-        </dl>
-
-        <hr />
         <h4>Breakout groups</h4>
 
         <p>After the presentation, we will split in to breakout groups led by topic facilitators to help guide learning, conversations and work. <a href='http://opengovhacknight.org/breakouts.html'>Read more about them</a>.</p>
@@ -89,22 +72,6 @@ layout: default
     </div>
     <div class='col-sm-5'>
       <div class='well'>
-        {% if site.time <= page.date %}
-          <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-          6pm CST<br />
-          {{ page.date | date: "%b %d, %Y" }}<br />
-          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-            <a itemprop="url" href='https://www.braintreepayments.com/'><span itemprop="name">Braintree office</span></a><br />
-            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
-              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
-                <span itemprop="addressLocality">Chicago</span>,
-                <span itemprop="addressRegion">IL</span>
-              </div>
-            </a><br />
-          </div>
-        {% endif %}
-
         {% if page.speakers.size > 1 %}
           <p><strong>Speakers</strong><br />
             {% for speaker in post.speakers %}
@@ -118,6 +85,22 @@ layout: default
         <p>
           <strong>Sponsored by</strong> {{page.sponsor}}<br />
         </p>
+        
+        {% if site.time <= page.date %}
+          <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+          6pm CST<br />
+          {{ page.date | date: "%b %d, %Y" }}<br />
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="name">Braintree office</span><br />
+            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
+                <span itemprop="addressLocality">Chicago</span>,
+                <span itemprop="addressRegion">IL</span>
+              </div>
+            </a><br />
+          </div>
+        {% endif %}
 
         {% if page.youtube_id %}
 
