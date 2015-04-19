@@ -4,7 +4,8 @@ categories:
   - events
 links:
 title: Data + Design, An Open Source E-book
-speakers: Trina Chiasson, InfoActive
+speakers: 
+ - Trina Chiasson, InfoActive
 date: 2014-09-30T18:00:00-05:00
 event_id: 125
 youtube_id: dKtbIXazS_c

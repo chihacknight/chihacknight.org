@@ -3,7 +3,8 @@ layout: event
 categories: 
   - events
 title: Department of Labor App Challenge
-speakers: Matt Bruce, Chicago Community Trust
+speakers: 
+ - Matt Bruce, Chicago Community Trust
 date: 2013-08-13T18:00:00-05:00
 event_id: 69
 sponsor: <a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>

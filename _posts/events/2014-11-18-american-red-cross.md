@@ -4,7 +4,8 @@ categories:
   - events
 links:
 title: Open Source Tech at the American Red Cross
-speakers: Jim McGowan, American Red Cross
+speakers: 
+ - Jim McGowan, American Red Cross
 date: 2014-11-18T18:00:00-05:00
 event_id: 132
 youtube_id: BahSkOF9qHo

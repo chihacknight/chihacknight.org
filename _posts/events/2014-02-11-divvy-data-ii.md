@@ -7,7 +7,8 @@ links:
   - <a href='http://divvybikes.com/datachallenge'>Divvy Data Challenge</a>
   - <a href='http://mobilitylab.org/2013/12/11/capital-bikeshare-hackers-pedal-their-wares-at-mobility-lab/'>Capital Bikeshare Hackers Pedal Their Wares at Mobility Lab</a>
 title: Divvy Data II
-speakers: Steven Vance
+speakers: 
+ - Steven Vance, Streetsblog Chicago
 date: 2014-02-11T18:00:00-05:00
 event_id: 92
 sponsor: <a href='http://codeforamerica.com'>Code for America</a>

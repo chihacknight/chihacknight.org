@@ -5,7 +5,8 @@ categories:
 links:
   - <a href='http://elections.chicagotribune.com/'>Chicago Tribune Election Center</a>
 title: The Chicago Tribune Elections Website
-speakers: David Eads, Chicago Tribune
+speakers: 
+ - David Eads, Chicago Tribune
 date: 2014-04-01T18:00:00-05:00
 event_id: 99
 youtube_id: wJwQyvWw-PM

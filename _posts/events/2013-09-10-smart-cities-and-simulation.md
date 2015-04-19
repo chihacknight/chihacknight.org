@@ -5,7 +5,8 @@ categories:
 links:
   - <a href='http://www.smartchicagocollaborative.org/opengov-hack-night-smarter-cities-using-data-visualization/'>OpenGov Hack Night&#58; Smarter Cities using Data Visualization - Smart Chicago</a>
 title: Smart Cities and Simulation
-speakers: Matthew Shaxted
+speakers: 
+ - Matthew Shaxted
 date: 2013-09-10T18:00:00-05:00
 event_id: 73
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>

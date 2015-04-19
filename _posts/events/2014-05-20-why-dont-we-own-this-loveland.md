@@ -6,7 +6,8 @@ links:
   - <a href='http://www.makeloveland.com/'>Loveland</a>
   - <a href='http://www.smartchicagocollaborative.org/loveland-helps-map-out-detroits-vacant-properties/'>LoveLand helps map out Detroit’s vacant properties</a>
 title: Why Don't We Own This / Loveland!
-speakers: Jerry Paffendorf, Loveland Technologies
+speakers: 
+ - Jerry Paffendorf, Loveland Technologies
 date: 2014-05-20T18:00:00-05:00
 event_id: 106
 youtube_id: -2ZqIGy9g5k

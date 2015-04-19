@@ -8,6 +8,8 @@ event_id: 52
 sponsor: <a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>
 ---
 
+<p><iframe src="http://player.vimeo.com/video/89886841" width="100%" height="455" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
 This Tuesday marks the 1 year anniversary of the hack night! What started off as 4 nerds sitting around a table has ballooned to 40 nerds sitting around a table - pretty mind blowing.
 
 It's been amazing to see Chicago's open data community grow - not a week goes by that Derek and I don't hear about some exciting scheme or connection hatched at the hack night.

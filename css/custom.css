@@ -12,7 +12,7 @@ body {
 .navbar-toggle { border: 1px solid #ccc; }
 .navbar-toggle .icon-bar { background-color: #666;}
 
-a, a:visited {
+a {
   color: #006fa9;
 }
 

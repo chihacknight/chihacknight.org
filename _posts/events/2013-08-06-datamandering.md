@@ -6,7 +6,8 @@ links:
   - <a href='http://datamandering.org/'>Datamandering</a>
   - <a href='https://github.com/jpfahrenbach/datamandering'>Github repo</a>
 title: DataMandering
-speakers: John Fahrenbach
+speakers: 
+ - John Fahrenbach
 date: 2013-08-06T18:00:00-05:00
 event_id: 68
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>

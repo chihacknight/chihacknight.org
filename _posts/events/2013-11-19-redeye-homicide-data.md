@@ -7,7 +7,8 @@ links:
   - <a href='https://spreadsheets.google.com/pub?key=0Ak3IIavLYTovdHYxbDItQ255eWh1NzBiQXp5cmxRdmc&output=html'>Chicago Homicide Data - 2013</a>
   - <a href='http://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/'>News Apps tutorial on mapping with Fusion Tables</a>
 title: RedEye Homicide Data
-speakers: Tracy Swartz, RedEye Chicago
+speakers: 
+ - Tracy Swartz, RedEye Chicago
 date: 2013-11-19T18:00:00-05:00
 event_id: 83
 youtube_id: IqS97LF3Axw

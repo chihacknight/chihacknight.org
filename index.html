@@ -8,12 +8,21 @@ layout: default
       <small>{{ post.date | date: "%B %-d" }}</small><br />
       <a href="{{post.url}}">{{post.title}}</a>
     </h2>
-    <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Details</a>
+    {% if post.speakers.size > 1 %}
+      <p><strong>Speakers</strong><br />
+        {% for speaker in post.speakers %}
+          {{speaker}}<br />
+        {% endfor %}
+      </p>
+    {% else %}
+      <p><strong>Speaker:</strong> {{ post.speakers }}</p>
+    {% endif %}
+    <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
   {% endfor %}
 </div>
 
 <div class='row'>
-  <div class='col-sm-7'>
+  <div class='col-sm-12'>
     <p id='about'><strong>Chi Hack Night</strong> is Chicago's weekly event to build, share, and learn about civic tech.</p>
 
     <p>Join a group of passionate folks working at the intersection of <a href='http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html'>open government</a>, cities, and technology. This is an evening of civic tech building, sharing, learning and networking.</p>
@@ -29,109 +38,61 @@ layout: default
     <br>
     <p>There's always food, too!</p> 
 
-    <div class='well'>
-      <h4>
-        <a href='/projects.html'><i class='fa fa-rocket'></i> Projects</a>
-      </h4>
-      <p>Keep track of and open source projects from Chicago's civic tech community. Feel free to submit your own!</p>
+    <p>This video from <a href='http://gapersblock.com/thegrid/2014/04/01/open-gov-hack-night/index.php'>The Grid on Gaper's Block</a> will give you a sense of what to expect.</p>
+    <p><iframe src="http://player.vimeo.com/video/89886841" width="100%" height="455" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-      <h4>
-        <a href='/breakouts.html'><i class='fa fa-group'></i> Breakout groups</a>
-      </h4>
-      <p>Every week, we have topic-specific working groups led by facilitators to guide conversations, answer questions, and build teams for civic apps.</p>
+    <div class='sponsors'>
 
-      <h4>
-        <a href='/resources.html'><i class='fa fa-gears'></i> Resources</a>
-      </h4>
-      <p>Browse data portals, APIs, tools, tutorials and free developer infrastructure for making civic apps in Chicago.</p>
+      <h2 id='partners'>Partners</h2>
+      <p>The Chi Hack Night is organized by members of <a href='http://opencityapps.org'>Open City</a>, hosted at <a href='https://www.braintreepayments.com/'>Braintree</a> and documented by <a href='http://smartchicagocollaborative.org'>Smart Chicago Collaborative</a>.</p>
+        
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='http://opencityapps.org' itemprop='url'>
+              <img src='images/sponsors/open-city.jpg' alt='Open City' itemprop='logo' class='img-responsive img-rounded' />
+              <span itemprop='name'>Open City</span>
+          </a>
+      </div>
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='https://www.braintreepayments.com/' itemprop='url'>
+              <img src='images/sponsors/braintree.png' alt='Braintree' itemprop='url' class='img-responsive' />
+              <span itemprop='name'>Braintree</span>
+          </a>
+      </div>
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='http://smartchicagocollaborative.org' itemprop='url'>
+              <img src='images/sponsors/smart-chicago.jpg' alt='Smart Chicago Collaborative' itemprop='logo' class='img-responsive' />
+              <span itemprop='name'>Smart Chicago Collaborative</span>
+          </a>
+      </div>
+      <div class='clearfix'></div>
 
-      <h4>
-        <a href='/discussion.html'><i class='fa fa-comments'></i> Join the discussion</a>
-      </h4>
-      <p>Between hack nights, we use <a href='https://groups.google.com/forum/#!forum/chihacknight'>Google Groups</a> and the <a href='https://twitter.com/search?q=%23chihacknight'>#chihacknight hashtag on Twitter</a> for coordinating and collaborating on civic technology projects in Chicago.</p>
+      <h2 id='sponsors'>Sponsors</h2>
+      <p>Our awesome sponsors provide food every week.</p>
 
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='http://datamade.us' itemprop='url'>
+              <img src='images/sponsors/datamade.png' alt='DataMade' itemprop='logo' class='img-responsive' />
+              <span itemprop='name'>DataMade</span>
+          </a>
+      </div>
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
+            <a href='http://devbootcamp.com' itemprop='url'>
+                <img src='images/sponsors/devbootcamp.png' alt='Dev Bootcamp' itemprop='logo' class='img-responsive' />
+                <span itemprop='name'>Dev Bootcampz</span>
+            </a>
+        </div>
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='http://github.com' itemprop='url'>
+              <img src='images/sponsors/github.png' alt='GitHub' itemprop='logo' class='img-responsive' />
+              <span itemprop='name'>GitHub</span>
+          </a>
+      </div>
+      <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
+          <a href='http://codeforamerica.com' itemprop='url'>
+              <img src='images/sponsors/code-for-america.jpg' alt='Code for America' itemprop='logo' class='img-responsive' />
+              <span itemprop='name'>Code for America</span>
+          </a>
+      </div>
     </div>
-  </div>    
-
-  <div class='col-sm-5'>
-    <div class='well'>
-      <p><a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'><img class='img-img-thumbnail img-responsive' src='/images/1871_map.png'></a></p>
-      <p>
-        6pm every Tuesday<br />
-        <a href='https://www.braintreepayments.com/'>Braintree office</a><br />
-        8th floor<br />
-        <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>222 W Merchandise Mart Plaza, Chicago</a><br />
-      </p>
-    </div>
-    <div class='well'>
-      <h4>
-        <a href='http://eepurl.com/z65hn'>
-          <i class='fa fa-bullhorn'></i>
-          Weekly event updates
-        </a>
-      </h4>
-      <p>Every week, we send out an email and update this site to preview the next hack night.</p>
-      <a class='btn btn-success' href='http://eepurl.com/z65hn'>
-        <i class='fa fa-envelope'></i>
-        Subscribe to our email list
-      </a>
-    </div>
-  </div>
-</div>
-
-<p>This video from <a href='http://gapersblock.com/thegrid/2014/04/01/open-gov-hack-night/index.php'>The Grid on Gaper's Block</a> will give you a sense of what to expect.</p>
-<p><iframe src="http://player.vimeo.com/video/89886841" width="100%" height="455" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
-
-<div class='sponsors'>
-
-  <h2 id='partners'>Partners</h2>
-  <p>The Chi Hack Night is organized by members of <a href='http://opencityapps.org'>Open City</a> and hosted at <a href='https://www.braintreepayments.com/'>Braintree</a>.</p>
-    
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-4'>
-      <a href='http://opencityapps.org' itemprop='url'>
-          <img src='images/sponsors/open-city.jpg' alt='Open City' itemprop='logo' class='img-responsive' />
-          <span itemprop='name'>Open City</span>
-      </a>
-  </div>
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
-      <a href='https://www.braintreepayments.com/' itemprop='url'>
-          <img src='images/sponsors/braintree.png' alt='Braintree' itemprop='url' class='img-responsive' />
-          <span itemprop='name'>Braintree</span>
-      </a>
-  </div>
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
-      <a href='http://smartchicagocollaborative.org' itemprop='url'>
-          <img src='images/sponsors/smart-chicago.jpg' alt='Smart Chicago Collaborative' itemprop='logo' class='img-responsive' />
-          <span itemprop='name'>Smart Chicago Collaborative</span>
-      </a>
-  </div>
-  <div class='clearfix'></div>
-
-  <h2 id='sponsors'>Sponsors</h2>
-  <p>Our awesome sponsors provide food every week.</p>
-
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
-      <a href='http://datamade.us' itemprop='url'>
-          <img src='images/sponsors/datamade.png' alt='DataMade' itemprop='logo' class='img-responsive' />
-          <span itemprop='name'>DataMade</span>
-      </a>
-  </div>
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-md-3'>
-        <a href='http://devbootcamp.com' itemprop='url'>
-            <img src='images/sponsors/devbootcamp.png' alt='Dev Bootcamp' itemprop='logo' class='img-responsive' />
-            <span itemprop='name'>Dev Bootcampz</span>
-        </a>
-    </div>
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
-      <a href='http://github.com' itemprop='url'>
-          <img src='images/sponsors/github.png' alt='GitHub' itemprop='logo' class='img-responsive' />
-          <span itemprop='name'>GitHub</span>
-      </a>
-  </div>
-  <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details col-sm-3'>
-      <a href='http://codeforamerica.com' itemprop='url'>
-          <img src='images/sponsors/code-for-america.jpg' alt='Code for America' itemprop='logo' class='img-responsive' />
-          <span itemprop='name'>Code for America</span>
-      </a>
   </div>
 </div>
