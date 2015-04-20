@@ -22,7 +22,9 @@ layout: default
         <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
       </div>
       <div class='col-sm-4'>
-        <img class='img-responsive img-home-teaser' src='{{post.image}}' alt='{{post.title}}' /></p>
+        {% if post.image %}
+          <img class='img-responsive img-home-teaser' src='{{post.image}}' alt='{{post.title}}' />
+        {% endif %}
       </div>
     </div>
   {% endfor %}

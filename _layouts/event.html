@@ -72,24 +72,26 @@ layout: default
     </div>
     <div class='col-sm-5'>
       <div class='well'>
-        {% if page.speakers.size > 1 %}
-          <p><strong>Speakers</strong><br />
-            {% for speaker in post.speakers %}
-              {{speaker}}<br />
-            {% endfor %}
-          </p>
-        {% else %}
-          <p><strong>Speaker:</strong> {{ page.speakers }}</p>
-        {% endif %}
-
         <p>
-          <strong>Sponsored by</strong> {{page.sponsor}}<br />
+          {% if page.image %}
+            <img class='img-responsive' src='{{page.image}}' alt='{{post.title}}' />
+          {% endif %}
+          {% if page.speakers.size > 1 %}
+            <strong>Speakers</strong><br />
+              {% for speaker in post.speakers %}
+                {{speaker}}<br />
+              {% endfor %}
+          {% else %}
+            <strong>Speaker:</strong> {{ page.speakers }}
+          {% endif %}
+          <br />
+          <strong>Sponsor:</strong> {{page.sponsor}}<br />
+          <a href='/agenda.html'>Full event agenda</a><br />
         </p>
-        
+
         {% if site.time <= page.date %}
           <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-          6pm CST<br />
-          {{ page.date | date: "%b %d, %Y" }}<br />
+          6pm CST {{ page.date | date: "%b %d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <span itemprop="name">Braintree office</span><br />
             <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
@@ -99,16 +101,8 @@ layout: default
                 <span itemprop="addressRegion">IL</span>
               </div>
             </a><br />
+            When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
           </div>
-        {% endif %}
-
-        {% if page.youtube_id %}
-
-        {% elsif site.time <= page.date %}
-          <p>
-            <strong><i class='fa fa-youtube-play'></i> Video</strong><br />
-            Christopher Whitaker from the <a href='http://www.smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> records and livestreams our presentations. <a href='https://www.youtube.com/user/smartchicago/'>Watch them on YouTube</a>!
-          </p>
         {% endif %}
       </div>
     </div>

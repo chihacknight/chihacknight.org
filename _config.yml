@@ -12,8 +12,6 @@ navigation:
   category: events
 - text: Breakout groups
   url: /breakouts.html
-- text: Projects
-  url: /projects.html
 - text: About
   url: /about.html
 - text: Contact

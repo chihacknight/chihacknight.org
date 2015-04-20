@@ -18,7 +18,7 @@ layout: default
       sort: 'date-posted-desc',
       description: true,
       showInfo: true
-  }).tags('chihacknight', function(data) {
+  }).search('chihacknight', function(data) {
     // Should we show or hide the slideshow?
     var $slideshow = $(".slideshow");
     if (data.length) {
