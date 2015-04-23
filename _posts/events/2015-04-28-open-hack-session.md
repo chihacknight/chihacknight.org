@@ -13,6 +13,10 @@ published: true
 
 No presentation this week - just come to build, share, and learn about civic tech!
 
+[Agenda and meeting notes](https://docs.google.com/document/d/1V7J38XFIbZRRKEKBASC0lidkfiYqEmfDmibFU0nKufE/edit#)
+
+---
+
 #### Open Gov Hack Night Leadership Council #12
 
 We will have our **12th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
