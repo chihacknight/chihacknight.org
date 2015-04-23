@@ -6,7 +6,7 @@ links:
 title: American Civil Liberties Union of Illinois
 date: 2015-04-21T18:00:00-05:00
 event_id: 152
-youtube_id: 
+youtube_id: 6kECpjEhKMc
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
 ---
