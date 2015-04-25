@@ -16,7 +16,7 @@ layout: default
               {{speaker}}<br />
             {% endfor %}
           </p>
-        {% else %}
+        {% elsif post.speakers.size == 1 %}
           <p><strong>Speaker:</strong> {{ post.speakers }}</p>
         {% endif %}
         <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
@@ -32,15 +32,53 @@ layout: default
 
 <div class='row'>
   <div class='col-sm-12'>
-    <p class='lead'>Chicago's weekly event to build, share and learn about civic tech and <a href='https://en.wikipedia.org/wiki/Open_Data'>open data</a>.</p> 
+    <p class='lead'>Chicago's weekly event to build, share and learn about civic tech.</p> 
 
-    <p>We are a group of hundreds of web developers, designers, academic researchers, data journalists, activists, policy wonks and curious citizens who want to make our city more just, equitable, transparent and delightful to live in by using data and technology.</p>
+    <p>We are a group of thousands of web developers, designers, academic researchers, data journalists, activists, policy wonks and curious citizens who want to make our city more just, equitable, transparent and delightful to live in by using data and technology. <a href='/about.html'>Read more about us &raquo;</a></p>
 
-    <p><strong>Every week</strong>, we have a <a href='/events/index.html'>10-15 minute presentation</a> by a government agency, non-profit, company or group who've made use of open data or built a civic technology application.</p>
+    <div class='row'>
+      <div class='col-sm-4'>
+        <div class='well'>
+          <h4>
+            <a href='http://eepurl.com/z65hn'>
+              <i class='fa fa-bullhorn'></i>
+              Event updates
+            </a>
+          </h4>
+          <p>Every week, we send out an email and update this site to preview the next hack night.</p>
+          <a class='btn btn-success' href='http://eepurl.com/z65hn'>
+            <i class='fa fa-envelope'></i>
+            Subscribe
+          </a>
+        </div>
+      </div>
+      <div class='col-sm-4'>
+        <div class='well'>
+          <h4>
+            <a href='https://groups.google.com/forum/#!forum/chihacknight'><i class='fa fa-comments'></i> Join the discussion</a>
+          </h4>
+          <p>Join the our Google Group for coordinating and collaborating on civic tech projects in Chicago.</p>
+          <a class='btn btn-success' href='https://groups.google.com/forum/#!forum/chihacknight'>
+            <i class='fa fa-envelope'></i>
+            Google Group
+          </a>
+        </div>
+      </div>
+      <div class='col-sm-4'>
+        <div class='well'>
+          <h4>
+            <a href='/breakouts.html'><i class='fa fa-group'></i> Breakout groups</a>
+          </h4>
+          <p>See our topic-specific working groups that guide conversations and build teams for civic apps.</p>
+          <a class='btn btn-success' href='/breakouts.html'>
+            <i class='fa fa-group'></i>
+            Breakout groups
+          </a>
+        </div>
+      </div>
+    </div>
 
-    <p>After the presentation, we split in to <a href='http://opengovhacknight.org/breakouts.html'>breakout groups</a> to work on civic apps, discuss policies and their implications, learn technical skills and network with a welcoming and diverse community at the intersection of technology and government.</p>
-
-    <p><a href='/about.html'>Read more &raquo;</a></p>
+    <p><img src='images/chihacknight_room.png' alt='Chi Hack Night' class='img-responsive img-rounded' /></p>
 
     <div class='sponsors'>
 

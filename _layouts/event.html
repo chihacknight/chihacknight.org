@@ -81,12 +81,11 @@ layout: default
               {% for speaker in post.speakers %}
                 {{speaker}}<br />
               {% endfor %}
-          {% else %}
+          {% elsif post.speakers.size == 1 %}
             <strong>Speaker:</strong> {{ page.speakers }}
           {% endif %}
           <br />
-          <strong>Sponsor:</strong> {{page.sponsor}}<br />
-          <a href='/agenda.html'>Full event agenda</a><br />
+          <strong>Sponsor:</strong> {{page.sponsor}}
         </p>
 
         {% if site.time <= page.date %}

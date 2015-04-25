@@ -73,14 +73,14 @@ a { text-decoration: none !important; }
 }
 
 /* Main marketing message and sign up button */
-.jumbotron {
+/*.jumbotron {
   background-color: #E5001C;
   color: #fff;
   padding: 30px;
 }
 
 .jumbotron h2 a, .jumbotron h2 small, .jumbotron a { color: #fff;}
-
+*/
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
