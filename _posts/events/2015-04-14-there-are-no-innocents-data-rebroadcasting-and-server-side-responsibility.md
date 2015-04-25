@@ -9,7 +9,7 @@ speakers:
  - Karl Fogel, Open Tech Strategies, LLC
 date: 2015-04-14T18:00:00-05:00
 event_id: 151
-youtube_id: 
+youtube_id: phyx2FtfNd0
 sponsor: <a href='http://github.com'>GitHub</a>
 published: true
 ---
