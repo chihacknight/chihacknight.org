@@ -7,7 +7,7 @@ layout: default
     <div class='row'>
       <div class='col-sm-8'>
         <h2>
-          <small>{{ post.date | date: "%B %-d" }}</small><br />
+          <small>Tuesday, {{ post.date | date: "%B %-d" }}</small><br />
           <a href="{{post.url}}">{{post.title}}</a>
         </h2>
         {% if post.speakers.size > 1 %}
@@ -32,7 +32,7 @@ layout: default
 
 <div class='row'>
   <div class='col-sm-12'>
-    <p class='lead'>Welcome to Chicago's weekly event to build, share and learn about civic tech.</p> 
+    <p class='lead'>Chicago's weekly event to build, share and learn about civic tech.</p> 
 
     <p>We are a group of thousands of web developers, designers, academic researchers, data journalists, activists, policy wonks and curious citizens who want to make our city more just, equitable, transparent and delightful to live in by using data and technology. <a href='/about.html'>Read more about us &raquo;</a></p>
 

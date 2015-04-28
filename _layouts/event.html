@@ -22,43 +22,27 @@ layout: default
   <hr />
 
   <div class='row'>
-    <div class='col-sm-7'>
+    {% if site.time <= page.date %}
+      <div class='col-sm-7'>
+    {% else %}
+      <div class='col-sm-12'> 
+    {% endif %}
 
       {% if page.youtube_id %}
-        <iframe width="500" height="280" src="http://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="580" src="http://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
         <hr />
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
 
       <hr />
-
-      {% if site.time <= page.date %}
-        <h4>Breakout groups</h4>
-
-        <p>After the presentation, we will split in to breakout groups led by topic facilitators to help guide learning, conversations and work. <a href='http://opengovhacknight.org/breakouts.html'>Read more about them</a>.</p>
-
-        <p>Learning groups</p>
-        <ul>
-          <li><strong>Orientation/Civic Hacking 101</strong>: <a href="https://twitter.com/CivicWhitaker">Christopher Whitaker</a></li>
-          <li><strong>Code Clinic</strong>: <a href='https://github.com/renemarcelo/'>René M. Paccha</a>, <a href='https://twitter.com/citizendrummer' >Demond Drummer</a>, <a href="http://red-bean.com/kfogel" >Karl Fogel</a></a></li>
-          <li><strong>Machine Learning Study Group</strong>: <a href='http://www.linkedin.com/pub/james-salvatore/81/2b1/485'>James Salvatore</a></li>
-          <li><strong>Mob Programming in R</strong>: <a href='https://twitter.com/nickymader'>Nick Mader</a></li>
-        </ul>
-
-        <p>Working groups</p>
-        <ul>
-          <li><strong>Transportation</strong>: <a href="https://twitter.com/stevevance">Steven Vance</a></li>
-          <li><strong>Education</strong>: <a href="https://twitter.com/shua123">Josh Kalov</a></li>
-          <li><strong>Environment</strong>: <a href="https://twitter.com/sbeslow">Scott Beslow</a></li>
-          <li><strong>Social Service Delivery</strong>: <a href="https://twitter.com/RoseSerwah">Rose Afriyie</a></li>
-          <li><strong>Modelling Pension Reform in Illinois</strong>: <a href="https://www.linkedin.com/pub/denis-roarty/30/b0/394">Denis Roarty</a>, <a href="https://www.linkedin.com/in/bengalewsky">Ben Galewsky</a></li>
-          <li><strong>Access to Justice</strong>: <a href='https://www.linkedin.com/pub/kulsum-ameji/44/400/163'>Kulsum Ameji</a></li>
-          <li><strong>Map the demand for better transit</strong>: <a href='https://www.linkedin.com/pub/john-krause/6/8a9/90b'>John Krause</a></li>
-          <li><strong>Petcoke in the Tenth Ward</strong>: <a href='http://benwilhelm.com/'>Ben Wilhelm</a></li>
-        </ul>
-
+      <strong>Food sponsored by</strong> {{page.sponsor}}<br />
+      <i class='fa fa-smile-o fa-fw'></i> <a href='/code-of-conduct.html'> Code of conduct</a><br />
+      <i class='fa fa-group fa-fw'></i> <a href='/breakouts.html'> Breakout groups</a><br />
+      {% if page.agenda %}
+        <i class='fa fa-file-text-o fa-fw'></i> <a href='{{page.agenda}}'>Agenda and meeting notes</a><br />
       {% endif %}
+
 
       {% if page.links %}
         <hr />
@@ -70,41 +54,41 @@ layout: default
         </ul>
       {% endif %}
     </div>
-    <div class='col-sm-5'>
-      <div class='well'>
-        <p>
-          {% if page.image %}
-            <img class='img-responsive' src='{{page.image}}' alt='{{post.title}}' />
-          {% endif %}
-          {% if page.speakers.size > 1 %}
-            <strong>Speakers</strong><br />
-              {% for speaker in post.speakers %}
-                {{speaker}}<br />
-              {% endfor %}
-          {% elsif post.speakers.size == 1 %}
-            <strong>Speaker:</strong> {{ page.speakers }}
-          {% endif %}
-          <br />
-          <strong>Sponsor:</strong> {{page.sponsor}}
-        </p>
+    {% if site.time <= page.date %}
+      <div class='col-sm-5'>
+        <div class='well'>
+          <p>
+            {% if page.image %}
+              <img class='img-responsive' src='{{page.image}}' alt='{{post.title}}' />
+            {% endif %}
+            {% if page.speakers.size > 1 %}
+              <strong>Speakers</strong><br />
+                {% for speaker in post.speakers %}
+                  {{speaker}}<br />
+                {% endfor %}
+            {% elsif post.speakers.size == 1 %}
+              <strong>Speaker:</strong> {{ page.speakers }}
+            {% endif %}
+          </p>
 
-        {% if site.time <= page.date %}
-          <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-          6pm CST {{ page.date | date: "%b %d, %Y" }}<br />
-          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-            <span itemprop="name">Braintree office</span><br />
-            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
-              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
-                <span itemprop="addressLocality">Chicago</span>,
-                <span itemprop="addressRegion">IL</span>
-              </div>
-            </a><br />
-            When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
-          </div>
-        {% endif %}
+          
+            <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
+            6pm<br />{{ page.date | date: "%b %d, %Y" }}<br />
+            <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+              <span itemprop="name">Braintree office</span><br />
+              <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
+                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                  <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
+                  <span itemprop="addressLocality">Chicago</span>,
+                  <span itemprop="addressRegion">IL</span>
+                </div>
+              </a><br />
+              When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
+            </div>
+          
+        </div>
       </div>
-    </div>
+    {% endif %}
   </div>
 </div>
 
@@ -136,21 +120,5 @@ layout: default
             });
         });
     </script>
-
-    <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-            var disqus_shortname = 'chihacknight'; // required: replace example with your forum shortname
-
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-        
   </div>
 </div>

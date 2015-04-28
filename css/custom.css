@@ -81,6 +81,7 @@ a { text-decoration: none !important; }
 
 .jumbotron h2 a, .jumbotron h2 small, .jumbotron a { color: #fff;}
 */
+.jumbotron h2 { margin-top: 0;}
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
