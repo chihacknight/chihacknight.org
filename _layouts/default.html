@@ -128,16 +128,33 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              {% for link in site.navigation %}
-                {% assign current = nil %}
-                {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
-                  {% assign current = 'active' %}
-                {% endif %}
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="/events/index.html">Event calendar</a></li>
+                  <li><a href="/breakouts.html">Breakout groups</a></li>
+                  <li><a href="/photos.html">Photos</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="/projects.html">Open source projects</a></li>
+                  <li><a href="/people.html">Open source people</a></li>
+                  <li><a href="/resources.html">Data and resources</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="/about.html">About</a></li>
+                  <li><a href="/leadership-council.html">Leadership Council</a></li>
+                  <li><a href="/code-of-conduct.html">Code of Conduct</a></li>
+                </ul>
+              </li>
+              <li><a href='/discussion.html'>Discussion</a></li>
+              <li><a href='/contact.html'>Contact</a></li>
 
-                <li class="{{ current }}">
-                  <a href="{{ link.url }}">{{ link.text }}</a>
-                </li>
-              {% endfor %}
             </ul>
           </div><!--/.nav-collapse -->
         </div>

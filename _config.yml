@@ -6,15 +6,5 @@ title: Chi Hack Night
 description: "Chicago's weekly event to build, share, and learn about civic tech."
 encoding: utf-8
 timezone: America/Chicago
-navigation:
-- text: Events
-  url: /events/index.html
-  category: events
-- text: Breakout groups
-  url: /breakouts.html
-- text: About
-  url: /about.html
-- text: Contact
-  url: /contact.html
 gems:
   - jekyll-redirect-from
