@@ -16,7 +16,7 @@ a {
   color: #006fa9;
 }
 
-a:active, a:hover {
+a:active, a:hover, a:focus {
   color: #E7121C;
 }
 

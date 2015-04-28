@@ -11,7 +11,7 @@ description: Recent and upcoming hack nights, with links to each event's video l
   </small>
   Events
 </h1>
-<p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data. <a href='/feed.xml'><i class='fa fa-rss-square'></i> RSS feed</a></p>
+<p>Recent and upcoming hack nights, with links to each event's video livestream, projects, people, and data. <a href='/feed.xml'><i class='fa fa-rss-square'></i> RSS feed</a></p><br />
 
 <table id='hack-night-events' class='table table-striped'>
   <thead>
@@ -26,10 +26,10 @@ description: Recent and upcoming hack nights, with links to each event's video l
     {% for post in site.categories['events'] %}
       <tr>
         <td class='nowrap'>
-            <meta itemprop='startDate' content='{{ post.date | date: "%Y-%m-%d" }}' />
+            <meta itemprop='startDate' datetime='{{ post.date | date: "%Y-%m-%d" }}' content='{{ post.date | date: "%Y-%m-%d" }}' />
             <p>{{ post.date | date: "%b %d, %Y" }}</p>
         </td>
-        <td>#{{post.event_id}}</td>
+        <td>{{post.event_id}}</td>
         <td>
           <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a>
         </td>
