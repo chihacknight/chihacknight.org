@@ -4,6 +4,7 @@ categories:
   - events
 links:
 title: Open Hack Session
+image: /images/braintree_map.png
 date: 2015-04-28T18:00:00-05:00
 event_id: 153
 youtube_id: 

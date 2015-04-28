@@ -5,9 +5,9 @@ layout: default
 <div class="jumbotron">
   {% for post in site.posts limit:1 %}
     <div class='row'>
-      <div class='col-sm-8'>
+      <div class='col-sm-7'>
         <h2>
-          <small>Tuesday, {{ post.date | date: "%B %-d" }}</small><br />
+          <small>6pm Tuesday, {{ post.date | date: "%B %-d" }}</small><br />
           <a href="{{post.url}}">{{post.title}}</a>
         </h2>
         {% if post.speakers.size > 1 %}
@@ -21,9 +21,9 @@ layout: default
         {% endif %}
         <br /><a class='btn btn-success btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
       </div>
-      <div class='col-sm-4'>
+      <div class='col-sm-5'>
         {% if post.image %}
-          <img class='img-responsive img-rounded' src='{{post.image}}' alt='{{post.title}}' />
+          <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
         {% endif %}
       </div>
     </div>
@@ -70,7 +70,7 @@ layout: default
           <h4>
             <a href='/breakouts.html'><i class='fa fa-group'></i> Breakout groups</a>
           </h4>
-          <p>Find your learning or working groups.</p>
+          <p>Find your learning or working group.</p>
           <a class='btn btn-success' href='/breakouts.html'>
             <i class='fa fa-group'></i>
             Breakout groups

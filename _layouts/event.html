@@ -58,9 +58,6 @@ layout: default
       <div class='col-sm-5'>
         <div class='well'>
           <p>
-            {% if page.image %}
-              <img class='img-responsive' src='{{page.image}}' alt='{{post.title}}' />
-            {% endif %}
             {% if page.speakers.size > 1 %}
               <strong>Speakers</strong><br />
                 {% for speaker in post.speakers %}
@@ -71,20 +68,19 @@ layout: default
             {% endif %}
           </p>
 
-          
-            <p><img class='img-thumbnail' src='/images/1871_map.png'></p>
-            6pm<br />{{ page.date | date: "%b %d, %Y" }}<br />
-            <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-              <span itemprop="name">Braintree office</span><br />
-              <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
-                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                  <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
-                  <span itemprop="addressLocality">Chicago</span>,
-                  <span itemprop="addressRegion">IL</span>
-                </div>
-              </a><br />
-              When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
-            </div>
+          <p><img class='img-thumbnail' src='/images/braintree_map.png'></p>
+          6pm<br />Tuesday, {{ page.date | date: "%b %d, %Y" }}<br />
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="name">Braintree office</span><br />
+            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
+                <span itemprop="addressLocality">Chicago</span>,
+                <span itemprop="addressRegion">IL</span>
+              </div>
+            </a><br />
+            When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
+          </div>
           
         </div>
       </div>

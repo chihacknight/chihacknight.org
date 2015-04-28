@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class='row'>
+  <div class='col-sm-2'>
+    <p><a href='/blog'>&laquo; back to blog</a></p>
+
+    {% if page.author_url %}
+      <a href='{{page.author_url}}'>
+        <img class='img-circle author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
+      </a>
+      <h4>
+        <a href='{{page.author_url}}'>{{page.author}}</a>
+      </h4>
+    {% else %}
+      <img class='img-circle author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
+      <h4>{{page.author}}</h4>
+    {% endif %}
+
+    {% if page.author2 %}
+      {% if page.author2_url %}
+        <a href='{{page.author2_url}}'>
+          <img class='img-circle author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
+        </a>
+        <h4>
+          <a href='{{page.author2_url}}'>{{page.author2}}</a>
+        </h4>
+      {% else %}
+        <img class='img-circle author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
+        <h4>{{page.author2}}</h4>
+      {% endif %}
+    {% endif %}
+
+  </div>
+
+  <div class="col-sm-10 post">
+    <h1>
+      {{ page.title }}
+    </h1>
+    <p class='muted'>Published on {{ page.date | date: "%b %d, %Y" }}</p>
+
+    {{ content }}
+  </div>
+  
+</div>

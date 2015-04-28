@@ -39,6 +39,11 @@ a { text-decoration: none !important; }
   border-color: #007aba;
 }
 
+.author-headshot {
+  width: 100px;
+  margin-top: 18px;
+}
+
 .contributors img {
   width: 50px;
 }
