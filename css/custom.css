@@ -44,6 +44,10 @@ a { text-decoration: none !important; }
   margin-top: 18px;
 }
 
+.breakout-headshot {
+  width: 80px;
+}
+
 .contributors img {
   width: 50px;
 }

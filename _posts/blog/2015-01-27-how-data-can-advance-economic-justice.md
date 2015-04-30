@@ -7,7 +7,7 @@ description: "At Woodstock Institute, our mission is to advance economic justice
 date: 2015-01-27
 author: Katie Buitrago
 author_url: https://twitter.com/katiebuitrago
-author_image: /images/blog/authors/katie_buitrago.jpg
+author_image: /images/people/katie_buitrago.jpg
 author2:
 author2_url:
 author2_image:

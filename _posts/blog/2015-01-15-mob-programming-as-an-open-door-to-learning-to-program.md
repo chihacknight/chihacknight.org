@@ -7,7 +7,7 @@ description: "The flourishing of the Civic Tech movement has brought techies and
 date: 2015-01-15
 author: Nick Mader
 author_url: https://twitter.com/nickymader
-author_image: /images/blog/authors/nick_mader.jpg
+author_image: /images/people/nick_mader.jpg
 author2:
 author2_url:
 author2_image:
