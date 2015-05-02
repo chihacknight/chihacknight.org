@@ -2,11 +2,25 @@
 layout: default
 ---
 
-<div class="jumbotron">
-  {% for post in site.posts limit:1 %}
+<div class='row'>
+  <div class='col-sm-12'>
+    <p class='h2'>Chicago's weekly event to build, share & learn about civic tech.</p> 
+
+    <p>We are a group of thousands of designers, academic researchers, data journalists, activists, policy wonks, web developers and curious citizens who want to make our city more just, equitable, transparent and delightful to live in through data, design and technology. <a href='/about.html'>More about us &raquo;</a></p>
+    <p>We meet every Tuesday to hear from <a href='/events/index.html'>interesting speakers</a>, <a href='/breakouts.html#learning'>learn from each other</a> and <a href='/breakouts.html#working'>work on civic projects</a>.</p>
+    <p><i class='fa fa-calendar fa-fw'></i> <a href='/events/index.html'>See our full event calendar &raquo;</a></p><br>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><b>NEXT #CHIHACKNIGHT EVENT</b></h3>
+  </div>
+  <div class="panel-body">
+    {% for post in site.posts limit:1 %}
     <div class='row'>
       <div class='col-sm-7'>
-        <h2>
+        <h2 class='no-margin-top'>
           <small>6pm Tuesday, {{ post.date | date: "%B %-d" }}</small><br />
           <a href="{{post.url}}">{{post.title}}</a>
         </h2>
@@ -27,15 +41,12 @@ layout: default
         {% endif %}
       </div>
     </div>
+  </div>
   {% endfor %}
 </div>
 
 <div class='row'>
   <div class='col-sm-12'>
-    <p class='lead'>Chicago's weekly event to build, share and learn about civic tech.</p> 
-
-    <p>We are a group of thousands of designers, academic researchers, data journalists, activists, policy wonks, web developers and curious citizens who want to make our city more just, equitable, transparent and delightful to live in through data, design and technology. <a href='/about.html'>More about us &raquo;</a></p>
-    <br />
 
     <div class='row'>
       <div class='col-sm-4'>

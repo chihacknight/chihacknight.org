@@ -26,6 +26,10 @@ a { text-decoration: none !important; }
   text-decoration: none;
 }
 
+.no-margin-top{
+  margin-top: 0px;
+}
+
 .muted { color: #999; }
 .img-home-teaser { margin-top: 60px;}
 
