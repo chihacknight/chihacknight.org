@@ -14,6 +14,7 @@ author2_image:
 published: true
 ---
 
+<p><img alt="One shared exercise" class='img-thumbnail' src="/images/blog/2015-01-15-mob-programming-as-an-open-door-to-learning-to-program/tumblr_inline_niw8lyLo3Q1t5bjwt.jpg"></p>
 <hr><p><strong>The Civic Tech Movement, and Learning to Program</strong></p>
 <p>The flourishing of the Civic Tech movement has brought techies and citizens together, using technology to make cities more transparent and better coordinated. The movement&rsquo;s strength and joy is its diversity - Chicago&rsquo;s <a href="http://opengovhacknight.org/">Open Gov Hack Night</a> attracts a wide range of talents and interests each week, from web designers to database managers, data scientists, designers, business intelligence professionals, journalists, government representatives, social science researchers, non-profits and community organizers.</p>
 <p><span>Not everyone is - or needs to be - a programmer/data person, since Hack Night enables cross-pollination between the ideas and abilities of the full range of backgrounds within its community. However, some technical familiarity is relevant and useful in many fields and can help develop a common language across domains.</span></p>
@@ -25,7 +26,7 @@ published: true
 <ul><li><span>A single screen, keyboard and mouse</span></li>
 <li><span>A timer used to rotate control of the keyboard and mouse among participants</span></li>
 <li><span>One shared exercise</span></li>
-</ul><p><img alt="image" src="http://38.media.tumblr.com/917bb24f56a56bcabdb0526beeff1891/tumblr_inline_niw8lyLo3Q1t5bjwt.jpg"></p>
+</ul>
 <p><span>The group starts the session by choosing the exercise they are interested in. At the hack night we usually crack open the </span><a href="http://data.cityofchicago.org/"><span>City of Chicago Data Portal</span></a><span> to download a data set that the group is interested in, and work towards answering questions with that data using the programming tool that we&rsquo;re learning.</span></p>
 <p><span>For example, how can we use a programming language to calculate and visualize how types of crimes vary across months of the year, or across community areas? Which businesses and zip codes have the most food inspections? How do the best (or worst) charter schools compare to the best (or worst) public schools?</span></p>
 <p><span>Unlike other training sessions that you may have attended - where everyone is on their own computer despite being in the same room - the secret sauce here is having everyone&rsquo;s attention, <em>together</em>. Instead of falling behind in a large group, beginners are able to ask questions of any of their neighbors or of the whole group. When they get to the keyboard to try their hand at coding, they have the guidance of the whole group for what to try. Working together, mobbing builds community, and over time everyone buoys up to each other&rsquo;s level of knowledge and comfort.</span></p>
