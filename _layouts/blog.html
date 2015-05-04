@@ -8,20 +8,20 @@ layout: default
 
     {% if page.author_url %}
       <a href='{{page.author_url}}'>
-        <img class='img-circle author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
+        <img class='img-rounded author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
       </a>
       <h4>
         <a href='{{page.author_url}}'>{{page.author}}</a>
       </h4>
     {% else %}
-      <img class='img-circle author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
+      <img class='img-rounded author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
       <h4>{{page.author}}</h4>
     {% endif %}
 
     {% if page.author2 %}
       {% if page.author2_url %}
         <a href='{{page.author2_url}}'>
-          <img class='img-circle author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
+          <img class='img-rounded author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
         </a>
         <h4>
           <a href='{{page.author2_url}}'>{{page.author2}}</a>
