@@ -15,9 +15,6 @@ layout: default
   <h1>
     <small>#{{page.event_id}}</small>
     <span itemprop="name">{{page.title}}</span>
-    {% if site.time <= page.date %}
-      <a class='btn btn-success btn-sm' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a>
-    {% endif %}
   </h1>
   <hr />
 
@@ -31,6 +28,10 @@ layout: default
       {% if page.youtube_id %}
         <iframe width="100%" height="580" src="http://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
         <hr />
+      {% endif %}
+
+      {% if site.time <= page.date %}
+        <p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP</a></p>
       {% endif %}
 
       <span itemprop="description">{{content}}</span>

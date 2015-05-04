@@ -33,6 +33,14 @@ a { text-decoration: none !important; }
 .muted { color: #999; }
 .img-home-teaser { margin-top: 60px;}
 
+.btn-link {
+  color: #E7121C;
+}
+
+.btn-link:hover {
+  color: #980c12;
+}
+
 .btn-success {
   background-color: #E7121C;
   border-color: #E7121C;
