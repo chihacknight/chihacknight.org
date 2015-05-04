@@ -34,13 +34,13 @@ a { text-decoration: none !important; }
 .img-home-teaser { margin-top: 60px;}
 
 .btn-success {
-  background-color: #006fa9;
-  border-color: #006fa9;
+  background-color: #E7121C;
+  border-color: #E7121C;
 }
 
 .btn-success:hover {
-  background-color: #007aba;
-  border-color: #007aba;
+  background-color: #980c12;
+  border-color: #980c12;
 }
 
 .author-headshot {
