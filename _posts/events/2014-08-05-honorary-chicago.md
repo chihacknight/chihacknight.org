@@ -6,6 +6,8 @@ links:
   - <a href='http://www.amazon.com/Honorary-Chicago-Chicagos-honorary-designations/dp/149604911X/'>Honorary Chicago - The who, where and why of Chicago's honorary designations</a>
   - <a href='http://chicagocouncilmatic.org/search/?q=&topics=Honorifics'>Honorifics passed by Chicago City Council</a>
 title: Honorary Chicago
+speakers: 
+ - Linda Zabors, Honorary Chicago
 date: 2014-08-05T18:00:00-05:00
 event_id: 117
 youtube_id: 4P_eIx7MNvo

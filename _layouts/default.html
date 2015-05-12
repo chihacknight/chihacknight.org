@@ -3,12 +3,12 @@
   <head>
     <title>
       {% if page.title %}
-        {{page.title}} - {{site.name}}
+        {{page.title}} - 
       {% endif %}
       {{site.name}} - {{site.description}}
     </title>
     <meta charset='utf-8' />
-    <meta name="viewport" content="width=device-width, initial-scale=0.5, width=640, minimum-scale=0.5">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% if page.description %}
       <meta content="{{ page.description }}" name='description' />
     {% else %}
@@ -82,10 +82,10 @@
     <link href='/favicon.ico' rel='shortcut icon' />
     
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.flatly.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.2/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.css">
 
     <!-- Custom styles for this template -->
     <link href="/css/custom.css" rel="stylesheet">
@@ -105,6 +105,7 @@
 
     <script src="/js/moment.min.js"></script>
     <script src="/js/jquery.dataTables.min.js"></script>
+    <script src="/js/dataTables.bootstrap.js"></script>
     <script src="/js/jquery.dataTables.sorting.js"></script>
     <script src="/js/jquery.address.js"></script>
     <script src="/js/mustache.js"></script>
@@ -113,34 +114,73 @@
     <script src="/js/jquery.scrollto.js"></script>
   </head>
   <body>
-    <div class="container">
-      <div id='primary-content' class='col-md-10 col-md-offset-1'>
-        <div class="header">
-          <ul class="nav nav-pills pull-right">
-            {% for link in site.navigation %}
-              {% assign current = nil %}
-              {% if page.url == link.url or (page.categories != nil and page.categories.first == link.category) %}
-                {% assign current = 'active' %}
-              {% endif %}
 
-              <li class="{{ current }}">
-                <a href="{{ link.url }}">{{ link.text }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-          <h3 class="text-muted"><a href="/index.html" >Open Gov Hack Night</a></h3>
+    <nav class="navbar navbar-inverted navbar-static-top">
+      <div class="container">
+        <div class='col-sm-10 col-sm-offset-1'>
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"><img src='/images/logo/logo.png' alt='Chi Hack Night' title='Chi Hack Night' /></a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href='/events/index.html'>Events</a></li>
+              <li><a href='/about.html'>About</a></li>
+              <li><a href='/community.html'>Community</a></li>
+              <li><a href='/blog/index.html'>Blog</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
         </div>
+      </div>
+    </nav>
+
+
+    <div class="container">
+      <div id='primary-content' class='col-sm-10 col-sm-offset-1'>
       
         {{content}}
 
-        <div class="footer">
-          <p class='pull-right'>
-            &copy; Open City 2014 | 
-            <a href='/code-of-conduct.html'>Code of Conduct</a> |
-            <a href='https://github.com/open-city/open-gov-hack-night'><i class='fa fa-github'></i> Pull requests welcome!</a>
-          </p>
-        </div>
       </div>
     </div> <!-- /container -->
+    <footer class="footer">
+      <div class="container">
+        <div class='row'>
+          <div class='col-sm-2 col-sm-offset-3'>
+            <small>
+              <a href="/about.html">About</a><br />
+              <a href="/community.html">Community</a><br />
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <a href="/events/index.html">Events</a><br />
+              <a href="/breakouts.html">Breakout groups</a><br />
+              <a href="/code-of-conduct.html">Code of Conduct</a><br />
+              <a href="/leadership-council.html">Leadership Council</a><br />
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <a href="/open-source-projects.html">Open source projects</a><br />
+              <a href="/open-source-people.html">Open source people</a><br />
+              <a href="/resources.html">Data & Resources</a>
+            </small>
+          </div>
+          <div class='col-sm-3'>
+            <small>
+              <a href='/contact.html'>Contact</a><br />
+              <a href="/blog/index.html">Blog</a><br />
+              <a href="/photos.html">Photos</a><br />
+              &copy; 2015 Chi Hack Night
+            </small>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>

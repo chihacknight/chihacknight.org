@@ -4,6 +4,8 @@ categories:
   - events
 links:
 title: Chicago Cityscape
+speakers: 
+ - Steven Vance, Chicago Cityscape
 date: 2014-09-23T18:00:00-05:00
 event_id: 124
 sponsor: <a href='http://codeforamerica.org/'>Code for America</a>

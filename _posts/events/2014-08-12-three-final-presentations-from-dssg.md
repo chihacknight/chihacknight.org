@@ -4,6 +4,8 @@ categories:
   - events
 links:
 title: Three Final Presentations from DSSG
+speakers: 
+ - Matt Gee, Data Science for Social Good
 date: 2014-08-12T18:00:00-05:00
 event_id: 118
 youtube_id: shBRBWSsBTI

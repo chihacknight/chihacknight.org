@@ -7,6 +7,9 @@ links:
   - <a href='http://www.smartchicagocollaborative.org/projects/civic-innovation-in-chicago/affordable-care-act-outreach-app/'>Affordable Care Act Outreach App</a>
   - <a href='https://github.com/smartchicago/Wufoo-to-Twilio-SMS'>Wufoo-to-Twilio-SMS</a>
 title: Affordable Care Act Outreach App
+speakers:
+ - Dominique Williams, LISC Chicago
+ - Josh Kalov, Kalov Strategies
 date: 2014-04-15T18:00:00-05:00
 event_id: 101
 youtube_id: _bzECqeoBe8

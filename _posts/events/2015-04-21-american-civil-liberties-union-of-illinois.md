@@ -4,9 +4,13 @@ categories:
   - events
 links:
 title: American Civil Liberties Union of Illinois
+speakers: 
+ - Karen Sheley, ACLU
+image: /images/events/152-aclu.jpg
 date: 2015-04-21T18:00:00-05:00
 event_id: 152
 youtube_id: 6kECpjEhKMc
+agenda: https://docs.google.com/document/d/1E-UMMeTSeg7ckaxV5sk7Jkd6BtJDiF6MD3_cYNhBapM/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
 ---
@@ -18,5 +22,3 @@ She’ll discuss the ACLU efforts to advocate for transparency through legislati
 * [CPD Traffic Stops and Resulting Searches in 2013](http://www.aclu-il.org/cpd-traffic-stops-and-resulting-searches-in-2013/)
 * [Stop and Frisk in Chicago](http://www.aclu-il.org/stop-and-frisk-in-chicago1/)
 * [The War on Marijuana in Black and White](https://www.aclu.org/criminal-law-reform/war-marijuana-black-and-white-report)
-
-[Full meeting notes](https://docs.google.com/document/d/1E-UMMeTSeg7ckaxV5sk7Jkd6BtJDiF6MD3_cYNhBapM/edit#heading=h.w6x6nch9h7ds)

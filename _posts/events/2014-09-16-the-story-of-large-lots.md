@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: The Story of Large Lots
+speakers: 
+ - Derek Eder, DataMade
+ - Demond Drummer, Teamwork Englewood
 date: 2014-09-16T18:00:00-05:00
 event_id: 123
 sponsor: <a href='http://GitHub.com/'>GitHub</a>

@@ -4,6 +4,8 @@ categories:
   - events
 links:
 title: The Market for Philanthropic Lemons
+speakers: 
+ - Andrew Means, The Impact Lab
 date: 2015-03-31T18:00:00-05:00
 event_id: 149
 youtube_id: 

@@ -1,6 +1,6 @@
-# Open Gov Hack Night
+# Chi Hack Night
 
-Website for Chicago's weekly Open Gov Hack Night
+Website for Chicago's weekly Chi Hack Night
 
 ## Running locally
 

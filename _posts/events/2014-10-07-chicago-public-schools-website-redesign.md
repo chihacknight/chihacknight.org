@@ -4,6 +4,8 @@ categories:
   - events
 links:
 title: Chicago Public Schools Website Redesign
+speakers: 
+ - Jay Van Patten, Chicago Public Schools
 date: 2014-10-07T18:00:00-05:00
 event_id: 126
 youtube_id: wCZV0UzZHkc
