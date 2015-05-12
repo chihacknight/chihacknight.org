@@ -17,8 +17,8 @@ We'll skip the presentation for this week - just come to build, share, and learn
 
 ---
 
-#### Open Gov Hack Night Leadership Council #10
+#### Chi Hack Night Leadership Council #10
 
-We will have our **10th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
+We will have our **10th** Chi Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
 
 If you'd like to bring up a topic, [add it to the agenda](https://docs.google.com/document/d/1_u2wPSknG5x5eitpg2gelyV2pqOOrd3SvX15ZQE44h4/edit#).

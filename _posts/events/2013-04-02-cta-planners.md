@@ -8,4 +8,4 @@ event_id: 50
 sponsor: None
 ---
 
-
+We'll be hearing from a couple of the CTA's transit planners about the work they do!

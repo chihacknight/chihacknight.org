@@ -1,5 +1,6 @@
 jQuery.extend( jQuery.fn.dataTableExt.oSort, {
     "datetime-pre": function ( a ) {
+        console.log(a)
         return a.match(/datetime="*([0-9\-\.]+)/)[1];
     },
  

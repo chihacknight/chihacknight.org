@@ -4,6 +4,8 @@ categories:
   - events
 links:
 title: Data Science for Social Good
+speakers: 
+ - Matt Gee, Data Science for Social Good
 date: 2014-07-08T18:00:00-05:00
 event_id: 113
 youtube_id: HP8BsEcFb5k

@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: DIY Environmental Monitoring
+speakers: 
+ - Benjamin Sugar, Public Lab
+ - Olga Bautista, Community Organizer
 date: 2015-03-24T18:00:00-05:00
 event_id: 148
 youtube_id: MlFPxeDLKkE
@@ -21,8 +24,8 @@ Next, [Olga Bautista](https://twitter.com/obauti), activist and [10th Ward alder
 
 ---
 
-#### Open Gov Hack Night Leadership Council #11
+#### Chi Hack Night Leadership Council #11
 
-We will have our **11th** Open Gov Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
+We will have our **11th** Chi Hack Night Leadership Council at **8pm** after the group breakouts get started. This meeting is for anyone who is interested in being involved in running the hack night, taking on new projects, or doing training sessions. 
 
 If you'd like to bring up a topic, [add it to the agenda](https://docs.google.com/document/d/1KseXcW1wkxkaL6LjF_7SqXLGT_uDrqj0m6-DBNEkx7c/edit#).

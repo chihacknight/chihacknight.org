@@ -5,6 +5,9 @@ categories:
 links:
   - <a href='http://github.com/'>GitHub for Government</a>
 title: GitHub for Government
+speakers: 
+ - Ben Balter, GitHub
+ - Arfom Smith, GitHub
 date: 2014-05-06T18:00:00-05:00
 event_id: 104
 sponsor: <a href='http://github.com'>GitHub</a>

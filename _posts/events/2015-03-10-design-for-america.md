@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: "Design for America: Data and Empathy"
+speakers: 
+ - Rob Calvey, Design for America
+ - Julian Bongiorno, Design for America
 date: 2015-03-10T18:00:00-05:00
 event_id: 146
 youtube_id: 

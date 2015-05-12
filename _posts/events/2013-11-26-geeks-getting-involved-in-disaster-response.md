@@ -5,6 +5,8 @@ categories:
 links:
   - <a href='http://gwob.org/'>Geeks Without Bounds</a>
 title: Geeks Getting Involved in Disaster Response
+speakers: 
+ - Lisha Sterling, Geeks Without Bounds
 date: 2013-11-26T18:00:00-05:00
 event_id: 84
 sponsor: <a href='http://datamade.us'>DataMade</a>

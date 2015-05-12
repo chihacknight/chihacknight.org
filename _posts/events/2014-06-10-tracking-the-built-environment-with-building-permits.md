@@ -5,6 +5,9 @@ categories:
 links:
   - <a href='http://www.licensedchicagocontractors.com/'>Licensed Chicago Contractors</a>
 title: Tracking the Built Environment with Building Permits
+speakers: 
+ - Tina Fassett, DePaul Institute for Housing Studies
+ - Steven Vance, Streetsblog Chicago
 date: 2014-06-10T18:00:00-05:00
 event_id: 109
 youtube_id: Kg7nnR8JLhs

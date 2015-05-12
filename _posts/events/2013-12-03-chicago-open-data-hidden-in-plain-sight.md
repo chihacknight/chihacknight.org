@@ -7,6 +7,8 @@ links:
   - <a href='http://opengovhacknight.org/resources.html'>Hack Night resources</a>
   - <a href='http://www.smartchicagocollaborative.org/chicagos-hidden-opendata/'>Smart Chicago blog post</a>
 title: Chicago Open Data Hidden in Plain Sight
+speakers: 
+ - Forest Gregg, DataMade
 date: 2013-12-03T18:00:00-05:00
 event_id: 85
 youtube_id: IZW3MDYHk5w

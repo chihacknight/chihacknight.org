@@ -5,6 +5,9 @@ categories:
 links:
   - <a href='http://experimentalstation.org/'>Experimental Station</a>
 title: Experimental Station
+speakers:
+ - Danny Burke, Experimental Station
+ - Daniel Evans, Experimental Station
 date: 2014-04-29T18:00:00-05:00
 event_id: 103
 youtube_id: h-GKAWD4xa0

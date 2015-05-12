@@ -4,6 +4,9 @@ categories:
   - events
 links:
 title: Improving Social Service Delivery
+speakers: 
+ - Paras Desai, Mayor's Innovation Delivery Team
+ - Daniel Riff, Mayor's Innovation Delivery Team
 date: 2014-07-15T18:00:00-05:00
 event_id: 114
 youtube_id: uRMZ6uUX0BA

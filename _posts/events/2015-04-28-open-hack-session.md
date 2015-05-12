@@ -4,16 +4,16 @@ categories:
   - events
 links:
 title: Open Hack Session
+image: /images/braintree_map.png
 date: 2015-04-28T18:00:00-05:00
-event_id: 153   
+event_id: 153
 youtube_id: 
+agenda: https://docs.google.com/document/d/1V7J38XFIbZRRKEKBASC0lidkfiYqEmfDmibFU0nKufE/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
 ---
 
 No presentation this week - just come to build, share, and learn about civic tech!
-
-[<i class='fa fa-file-text-o'></i> Agenda and meeting notes](https://docs.google.com/document/d/1V7J38XFIbZRRKEKBASC0lidkfiYqEmfDmibFU0nKufE/edit#)
 
 ---
 

@@ -7,6 +7,8 @@ links:
   - <a href='http://chicagoworksforyou.com/'>Chicago Works for You</a>
   - <a href='https://github.com/smartchicago/chicagoworksforyou'>Github repo</a>
 title: Chicago Works for You
+speakers: 
+ - Chris Gansen, Smart Chicago Collaborative
 date: 2013-09-24T18:00:00-05:00
 event_id: 75
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>

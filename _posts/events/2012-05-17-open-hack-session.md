@@ -8,4 +8,4 @@ event_id: 9
 sponsor: None
 ---
 
-<p>First Event at 1871.</p>
+First Event at [1871](http://www.1871.com/).
