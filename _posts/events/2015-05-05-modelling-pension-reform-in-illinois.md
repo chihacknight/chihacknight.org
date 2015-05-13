@@ -13,7 +13,7 @@ speakers:
 image: /images/braintree_map.png
 date: 2015-05-05T18:00:00-05:00
 event_id: 154 
-youtube_id: 
+youtube_id: j0iEbcDUcl0
 agenda: https://docs.google.com/document/d/1IDzwZifHa6ltxDJxUERLObc3ZBqF4PiiS9ekCJtAZHw/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
