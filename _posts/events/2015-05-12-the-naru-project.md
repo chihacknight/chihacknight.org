@@ -4,8 +4,10 @@ categories:
   - events
 links:
 title: The Naru Project
+description: Zachary Damato and Nick Wesley, from The Naru Project will talk about their non-for-profit that focuses on incorporating artificial wetlands into our city’s river systems.
 speakers:
  - Zachary Damato
+ - Nick Wesley
 image: /images/braintree_map.png
 date: 2015-05-12T18:00:00-05:00
 event_id: 155

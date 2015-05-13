@@ -23,17 +23,14 @@ layout: default
           <small>6pm Tuesday, {{ post.date | date: "%B %-d" }}</small><br />
           <a href="{{post.url}}">{{post.title}}</a>
         </h2>
-        {% if post.speakers.size > 1 %}
-          <p><strong>Speakers</strong><br />
-            {% for speaker in post.speakers %}
-              {{speaker}}<br />
-            {% endfor %}
-          </p>
-        {% elsif post.speakers.size == 1 %}
-          <p><strong>Speaker:</strong> {{ post.speakers }}</p>
+        {% if post.description %}
+          {{ post.description }}
         {% endif %}
         <br />
-        <a class='btn btn-success btn-lg' href="http://opengovhacknight.eventbrite.com/">RSVP</a> <a class='btn btn-link btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
+        {% if site.time <= post.date %}
+          <a class='btn btn-success btn-lg' href="http://opengovhacknight.eventbrite.com/">RSVP</a>
+        {% endif %}
+        <a class='btn btn-link btn-lg' href="{{post.url}}">Details <i class='fa fa-chevron-circle-right'></i></a>
       </div>
       <div class='col-sm-5'>
         {% if post.image %}
