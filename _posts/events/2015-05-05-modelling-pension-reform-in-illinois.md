@@ -19,7 +19,7 @@ sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
 ---
 
-We'll be hearing from one of our own [breakout groups](http://opengovhacknight.org/breakouts.html) this week: Modelling Pension Reform in Illinois!
+We'll be hearing from one of our own [breakout groups](http://chihacknight.org/breakouts.html) this week: Modelling Pension Reform in Illinois!
 
 [Ben Galewsky](https://www.linkedin.com/in/bengalewsky), [David Melton](https://www.linkedin.com/pub/david-melton/14/349/1b3), [Nathan Pinger](https://www.linkedin.com/in/nathanpinger), [Denis Roarty](https://www.linkedin.com/pub/denis-roarty/30/b0/394) and [Tim Sharko](https://www.linkedin.com/in/timothysharko) will present their work to educate pensioners and taxpayers on all aspects of the state's pension crisis. 
 

@@ -18,7 +18,7 @@ OR
 
 Instructable: [Banning petcoke with a community united, 2L soda bottle, 10 megapixel camera, and a 5.5ft balloon](http://www.huffingtonpost.com/2015/02/27/chicago-petcoke-koch-brothers_n_6755040.html%0A%0A).
 
-[Benjamin Sugar](http://publiclab.org/profile/bsugar) ([previously at hack night](http://opengovhacknight.org/events/2014/01/14/civiclab.html)) will give brief introduction to the [Public Lab](http://publiclab.org/); an international open source community of civic scientists using inexpensive DIY techniques to democratize the monitoring of environmental impacts.  
+[Benjamin Sugar](http://publiclab.org/profile/bsugar) ([previously at hack night](http://chihacknight.org/events/2014/01/14/civiclab.html)) will give brief introduction to the [Public Lab](http://publiclab.org/); an international open source community of civic scientists using inexpensive DIY techniques to democratize the monitoring of environmental impacts.  
 
 Next, [Olga Bautista](https://twitter.com/obauti), activist and [10th Ward aldermanic candidate](http://olgabautista.com/), will discuss how a coalition of community organizations and area residents employed an aerial [balloon mapping kit](http://publiclab.org/wiki/balloon-mapping) to help them [oust open air petcoke facilities](http://www.huffingtonpost.com/2015/02/27/chicago-petcoke-koch-brothers_n_6755040.html%0A%0A) from of their neighborhood in Chicago's Southeast side.
 

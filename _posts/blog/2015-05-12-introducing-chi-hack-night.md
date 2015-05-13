@@ -20,7 +20,7 @@ I’m happy to announce the new name and logo for our event.
 
 ![Chi Hack Night](/images/logo/logo.png)
 
-Since we started 3 years and 155 events ago, our event has grown into a community all it’s own. We emerged out of the [Open Government movement](http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html) here in Chicago, and have become something much more. 
+Since we started 3 years and 155 events ago, our event has grown into a community all its own. We emerged out of the [Open Government movement](http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html) here in Chicago, and have become something much more. 
 
 We’re not just about Open Gov anymore. We’re about *Chicago.*
 
