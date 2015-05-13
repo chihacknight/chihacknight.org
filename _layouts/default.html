@@ -43,7 +43,7 @@
     {% if page.image %}
       <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="{{ site.url }}/images/logo.png" property="og:image">
+      <meta content="{{ site.url }}/images/datamade_logo.png" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
@@ -76,10 +76,17 @@
     {% if page.image %}
       <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
     {% else %}
-      <meta name="twitter:image:src" content="{{ site.url }}/images/logo.png">
+      <meta name="twitter:image:src" content="{{ site.url }}/images/datamade_logo.png">
     {% endif %}
 
-    <link href='/favicon.ico' rel='shortcut icon' />
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://chihacknight.org/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://chihacknight.org/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="http://chihacknight.org/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="http://chihacknight.org/favicon-16x16.png" sizes="16x16" />
+    <meta name="application-name" content="Chi Hack Night"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="http://chihacknight.org/mstile-144x144.png" />
     
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.flatly.min.css" rel="stylesheet">
