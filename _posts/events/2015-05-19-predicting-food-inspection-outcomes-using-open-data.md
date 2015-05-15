@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Predicting Food Inspection Outcomes Using Open Data
-description: The City of Chicago developed a predictive model to estimate the riskiest locations using data from the open data portal.
+description: Tom Schenk, Gene Leynes, Gerrin Butler, Raed Mansour from Jon Levy the City of Chicago will present on a predictive model they developed to estimate the riskiest food establishments to assist in the City’s food inspection operations.
 speakers:
  - Tom Schenk
  - Gene Leynes
