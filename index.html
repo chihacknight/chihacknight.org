@@ -24,7 +24,7 @@ layout: default
           <a href="{{post.url}}">{{post.title}}</a>
         </h2>
         {% if post.description %}
-          {{ post.description }}
+          <p>{{ post.description }}</p>
         {% endif %}
         <br />
         {% if site.time <= post.date %}
