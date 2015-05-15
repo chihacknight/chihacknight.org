@@ -5,8 +5,8 @@ Website for Chicago's weekly Chi Hack Night
 ## Running locally
 
 ```console
-git clone https://github.com/open-city/open-gov-hack-night.git
-cd open-gov-hack-night
+git clone https://github.com/open-city/chihacknight.org.git
+cd chihacknight.org
 gem install jekyll
 jekyll serve
 ```
