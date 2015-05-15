@@ -57,18 +57,10 @@ layout: default
     {% if site.time <= page.date %}
       <div class='col-sm-5'>
         <div class='well'>
-          <p>
-            {% if page.speakers.size > 1 %}
-              <strong>Speakers</strong><br />
-                {% for speaker in post.speakers %}
-                  {{speaker}}<br />
-                {% endfor %}
-            {% elsif post.speakers.size == 1 %}
-              <strong>Speaker:</strong> {{ page.speakers }}
-            {% endif %}
-          </p>
-
-          <p><img class='img-thumbnail' src='/images/braintree_map.png'></p>
+          {% if page.image %}
+            <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
+          {% endif %}
+         
           6pm<br />Tuesday, {{ page.date | date: "%b %d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <span itemprop="name">Braintree office</span><br />
