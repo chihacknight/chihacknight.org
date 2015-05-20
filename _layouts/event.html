@@ -31,7 +31,7 @@ layout: default
       {% endif %}
 
       {% if site.time <= page.date %}
-        <p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP</a></p>
+        <p><a class='btn btn-success' href='http://opengovhacknight.eventbrite.com/'>RSVP &raquo;</a></p>
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
@@ -42,7 +42,7 @@ layout: default
       {% endif %}
       <i class='fa fa-group fa-fw'></i> <a href='/breakouts.html'> Breakout groups</a><br />
       <i class='fa fa-smile-o fa-fw'></i> <a href='/code-of-conduct.html'> Code of conduct</a><br />
-      <strong>Food sponsored by</strong> {{page.sponsor}}<br />
+      <i class='fa fa-cutlery fa-fw'></i> Sponsor {{page.sponsor}}<br />
 
       {% if page.links %}
         <hr />
