@@ -95,6 +95,15 @@ a { text-decoration: none !important; }
   margin-top: 20px;
 }
 
+.post, .post p, .post li {
+  font-size: 18px;
+  line-height: 1.45em;
+}
+
+.post p {
+  margin-bottom: 20px;
+}
+
 /* Customize container */
 .container-narrow > hr {
   margin: 30px 0;
