@@ -14,7 +14,7 @@ speakers:
 image: /images/events/156-food_inspections.png
 date: 2015-05-19T18:00:00-05:00
 event_id: 156
-youtube_id: 
+youtube_id: 7-AiIE38M1Q
 agenda: https://docs.google.com/document/d/1tnII1U1jIzA-4l05SdFjOMoBw_-fRlbakzQWwI0UPhk/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true
