@@ -4,13 +4,7 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/Event">
   <h3>
-    {% if page.previous.url %}
-      <a href='{{page.previous.url}}'><i class='fa fa-chevron-circle-left'></i></a>
-    {% endif %}
-    <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %d, %Y" }}</time>
-    {% if page.next.url %}
-      <a href='{{page.next.url}}'><i class='fa fa-chevron-circle-right'></i></a>
-    {% endif %}
+    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %d, %Y" }}</time>
   </h3>
   <h1>
     <small>#{{page.event_id}}</small>
