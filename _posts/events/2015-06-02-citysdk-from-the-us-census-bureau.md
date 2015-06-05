@@ -5,7 +5,7 @@ categories:
 links:
 title: CitySDK from the US Census Bureau
 description: Jeff Meisel, Presidential Innovation Fellow at the US Census Bureau and 18F will present CitySDK, a toolbox for civic innovators to connect local and national public data.
-speakers: Jeff Meisel
+speakers: Jeff Meisel, Presidential Innovation Fellow
 image: /images/events/158-citysdk.png
 date: 2015-06-02T18:00:00-05:00
 event_id: 158
