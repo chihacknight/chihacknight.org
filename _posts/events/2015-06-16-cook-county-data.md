@@ -24,7 +24,7 @@ published: true
 
 As such, they have a lot of data, and they're working to open up more of it to the public.
 
-Representatives across several of these agencies will give a quick overview of their data, where it lives and who’s in charge it.
+Representatives across several of these agencies will give a quick overview of their data, where it lives and who’s in charge of it.
 
 We'll be hearing from:
 
