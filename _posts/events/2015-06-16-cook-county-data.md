@@ -4,12 +4,11 @@ categories:
   - events
 links:
 title: Cook County Data
-description: Representatives from the Cook County Performance Management Office, Bureau of Technology, County Clerk, Forest Preserve, Health and Hospitals System, Sheriff’s Office and other Cook County IT Departments will take your questions and hear your open data wish lists. 
+description: Representatives from the Cook County Performance Management Office, Bureau of Technology, County Clerk, Health and Hospitals System, Sheriff’s Office and other Cook County IT Departments will take your questions and hear your open data wish lists. 
 speakers:
  - Andrew Schwarm, Cook County Chief Performance Officer 
  - Derrick Thomas, Director of Application Development and Management for the Cook County Bureau of Technology
  - Poh Png, Director of IT for the Cook County Clerk’s Office
- - Constantine Koulis, Director of IT at the Forest Preserves District of Cook County
  - Donna Hart, Director of Information Systems at the Cook County Health and Hospitals System
 image: /images/events/160-cook-county.png
 date: 2015-06-16T18:00:00-05:00
