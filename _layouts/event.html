@@ -55,12 +55,14 @@ layout: default
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
          
-          6pm<br />Tuesday, {{ page.date | date: "%b %d, %Y" }}<br />
+          6pm<br />Tuesday, {{ page.date | date: "%b %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <br />
             <span itemprop="name">Braintree office</span><br />
             <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
               <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">222 W Merchandise Mart Plz 8th Floor</span><br />
+                <span itemprop="streetAddress">222 W Merchandise Mart Plz
+                 <br />8th Floor</span><br />
                 <span itemprop="addressLocality">Chicago</span>,
                 <span itemprop="addressRegion">IL</span>
               </div>
