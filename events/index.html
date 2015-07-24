@@ -33,6 +33,9 @@ description: Recent and upcoming hack nights, with links to each event's video l
         <td>{{post.event_id}}</td>
         <td>
           <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a>
+          {% if post.youtube_id %}
+            <small><i title='This event has a video' class='fa fa-fw fa-video-camera'></i></small>
+          {% endif %}
         </td>
         <td>
           {% for speaker in post.speakers %}

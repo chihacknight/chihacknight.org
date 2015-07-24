@@ -11,7 +11,7 @@ speakers:
 image: /images/events/165-chicagos-million-dollar-blocks.png
 date: 2015-07-21T18:00:00-05:00
 event_id: 165
-youtube_id: 
+youtube_id: ElCQRIZ4wBs
 agenda: https://docs.google.com/document/d/1ff2SWau4uIMZ2FxQh3mVTK1zgMBIcbawWWLl8yvF7D8/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
