@@ -13,7 +13,7 @@ speakers:
 image: /images/events/168-the-chicago-early-learning-finder.png
 date: 2015-08-11T18:00:00-05:00
 event_id: 168
-youtube_id: 
+youtube_id: cDHl00dQzh8
 agenda: https://docs.google.com/document/d/1ptaMnzkpmLYoEh61-k3ZW6EORRhvqPlPc4_0o4mHq-A/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
 published: true

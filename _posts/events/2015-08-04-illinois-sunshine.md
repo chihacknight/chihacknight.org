@@ -13,7 +13,7 @@ speakers:
 image: /images/events/167-illinois-sunshine.png
 date: 2015-08-04T18:00:00-05:00
 event_id: 167
-youtube_id: 
+youtube_id: HZ7xQ21hQos
 agenda: https://docs.google.com/document/d/1N4piMbQwgkl0giz4gQ3PSERarZyidLnRF6tYVD5qQwQ/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
 published: true
