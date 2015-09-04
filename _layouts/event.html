@@ -4,7 +4,7 @@ layout: default
 
 <div itemscope itemtype="http://schema.org/Event">
   <h3>
-    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %d, %Y" }}</time>
+    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %-d, %Y" }}</time>
   </h3>
   <h1>
     <small>#{{page.event_id}}</small>
@@ -55,7 +55,7 @@ layout: default
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
          
-          6pm<br />Tuesday, {{ page.date | date: "%b %-d, %Y" }}<br />
+          6pm<br />Tuesday, {{ page.date | date: "%B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
             <span itemprop="name">Braintree office</span><br />
