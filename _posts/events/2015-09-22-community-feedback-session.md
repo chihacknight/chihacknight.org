@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Community Feedback Session
-description: Instead of a presentation, for our next Chi Hack Night, we want to give everyone in the community a chance to voice their opinion. We will break out into groups and provide feedback on four topics.
+description: Instead of a presentation, we want to give everyone in the community a chance to voice their opinion. We will break out into groups and provide feedback on four topics.
 speakers:
 image: /images/events/174-community-feedback-session.jpg
 date: 2015-09-22T18:00:00-05:00
@@ -15,7 +15,7 @@ sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
 ---
 
-Instead of a presentation, for our next Chi Hack Night, we want to give everyone in the community a chance to voice their opinion.
+Instead of a presentation, we want to give everyone in the community a chance to voice their opinion.
 
 We will break out into groups and provide feedback on the following topics:
 
