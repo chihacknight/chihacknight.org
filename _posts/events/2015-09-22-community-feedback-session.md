@@ -31,3 +31,9 @@ Afterwards, we’ll read out the different ideas from each category and then dis
 We will have our **17th** [Chi Hack Night Leadership Council](http://chihacknight.org/leadership-council.html) at after the community feedback session. Anyone is welcome to join! 
 
 We'll record everything on the [Leadership Council agenda and notes](https://docs.google.com/document/d/1mlVH4e17v3tBMW5WCrMejKjGr5TPyVrVvpiungpuuQ8/edit#).
+
+---
+
+##Update
+
+[Here's the results of the community feedback](http://chihacknight.org/blog/2015/09/23/results-of-our-community-feedback-session.html)! Thanks again to everyone for participating!
