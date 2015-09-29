@@ -56,23 +56,23 @@ We can’t wait to meet everyone there!
 
 **Why did you join Chi Hack Night?**
 
-Rose joined hack night because I believe in making an ongoing commitment to gather with people who care deeply about making a local impact. I also value that a space exists where people can gather and contribute expertise in data science, computer programming, and other superpowers.
+I joined hack night because I believe in making an ongoing commitment to gather with people who care deeply about making a local impact. I also value that a space exists where people can gather and contribute expertise in data science, computer programming, and other superpowers.
 
 **What are you presenting at the Summit?**
 
-Rose is presenting on [using human centered design to improve social service delivery](https://www.codeforamerica.org/summit/schedule/#breakout_138).
+I'm presenting on [using human centered design to improve social service delivery](https://www.codeforamerica.org/summit/schedule/#breakout_138).
 
 **Who are you interested in meeting?**
 
-Rose is really excited to connect with 18F about Privacy and Civic Technology Projects. She is also thrilled to meet folks at Gov.UK because their screening tools are first rate in the industry.
+I'm really excited to connect with 18F about Privacy and Civic Technology Projects. I'm also thrilled to meet folks at Gov.UK because their screening tools are first rate in the industry.
 
 **What would you like to brag about?**
 
-Rose is also excited to announce that their [mRelief](http://mrelief.com) tool which helps program providers customize screeners for their community has gone into Private Beta. They encourage thought leaders in civic technology to request an invite at [beta.mrelief.com](beta.mrelief.com).
+I'm also excited to announce that their [mRelief](http://mrelief.com) tool which helps program providers customize screeners for their community has gone into Private Beta. They encourage thought leaders in civic technology to request an invite at [beta.mrelief.com](beta.mrelief.com).
 
 **What is your favorite Chicago food?**
  
-Rose’s favorite Chicago food is the Vegan Cocoa Mousse Cake custom made at the Chicago Diner. It is a must-eat if you are ever in the city.
+Vegan Cocoa Mousse Cake custom made at the Chicago Diner. It is a must-eat if you are ever in the city.
 
 ## [Cathy Deng](https://twitter.com/cthydng)
 
@@ -82,23 +82,23 @@ Rose’s favorite Chicago food is the Vegan Cocoa Mousse Cake custom made at the
 
 **Why did you join Chi Hack Night?**
 
-Cathy Deng joined Chi Hack Night because she digs cross-pollination! There are so many interdisciplinary conversations & projects happening at any given time.
+I joined Chi Hack Night because I dig cross-pollination! There are so many interdisciplinary conversations & projects happening at any given time.
 
 **What are you presenting at the Summit?**
 
-Open source tech is great in theory, but Cathy thinks that in reality, open source projects are too-often intimidating & confusing. Her workshop (Wed 2-3pm) will focus on how new folks can make sense of open source projects & how maintainers can be more welcoming to a wider audience.
+Open source tech is great in theory, but I thinks that in reality, open source projects are too-often intimidating & confusing. My workshop (Wed 2-3pm) will focus on how new folks can make sense of open source projects & how maintainers can be more welcoming to a wider audience.
 
 **Who are you interested in meeting?**
 
-Cathy is interested in meeting folks who dig information design, folks who are working on something playful/creative, and folks who want to reflect on civic tech failures. 
+Folks who dig information design, folks who are working on something playful/creative, and folks who want to reflect on civic tech failures. 
 
 **What would you like to brag about?**
 
-This is Cathy’s second year speaking at the summit - last year she talked about [her work on Expunge.io](https://youtu.be/CerCresA9mo).
+This is my second year speaking at the summit - last year I talked about [my work on Expunge.io](https://youtu.be/CerCresA9mo).
 
 **What's your favorite Chicago food?**
 
-Cathy's least favorite Chicago food is deep dish "pizza" & her favorite is Mario's Italian Lemonade.
+My least favorite Chicago food is deep dish "pizza" & my favorite is Mario's Italian Lemonade.
 
 ## [Demond Drummer](https://www.twitter.com/citizendrummer)
 
@@ -108,23 +108,23 @@ Cathy's least favorite Chicago food is deep dish "pizza" & her favorite is Mario
 
 **Why did you join Chi Hack Night?**
 
-Demond Drummer joined Chi Hack Night to connect with civic-minded technologists. Previously, Demond Drummer was an organizer at Englewood Codes where he helped launch the Largelots program. He is now a founder at Coderspace in Chicago. 
+I joined Chi Hack Night to connect with civic-minded technologists. Previously, I was an organizer at Englewood Codes where he helped launch the Large Lots program. I am now a founder at Coderspace in Chicago. 
 
 **What are you presenting at the Summit?**
  
-Demond will be presenting on [Digital literacy and power at Digital Inclusion Meets Civic Tech (Wed 9/30, 3:15pm, Salon C)](https://www.codeforamerica.org/summit/schedule/#breakout_116). 
+I will be presenting on [Digital literacy and power at Digital Inclusion Meets Civic Tech (Wed 9/30, 3:15pm, Salon C)](https://www.codeforamerica.org/summit/schedule/#breakout_116). 
 
 **Who are you interested in meeting?**
 
-Demond would love to meet anyone interested in digital literacy - from basic skills to coding.
+Anyone interested in digital literacy - from basic skills to coding.
 
 **What would you like to brag about?**
 
-Demond is now a founder at [Coderspace](http://coderspace.org/) in Chicago. CoderSpace youth learn how to code and work together to build websites for local businesses and organizations. They operate on a team-based, project-based learning model. Coderspace believes the best learning happens in context and within teams. 
+I am now a founder at [Coderspace](http://coderspace.org/) in Chicago. CoderSpace youth learn how to code and work together to build websites for local businesses and organizations. They operate on a team-based, project-based learning model. Coderspace believes the best learning happens in context and within teams. 
 
 **What's your favorite Chicago food?**
 
-Demond’s favorite food in Chicago is Italian Fiesta.
+Chicago is Italian Fiesta.
 
 ## [Derek Eder](https://www.twitter.com/derekeder)
 
@@ -134,29 +134,29 @@ Demond’s favorite food in Chicago is Italian Fiesta.
 
 **Why did you join Chi Hack Night?**
 
-Derek Eder started the Chi Hack Night because he needed a place to work on civic tech projects outside my 9-5 job. Civic tech is  now his 9-5 job so he go to it to talk to amazing people and scheme about new projects. 
+I started the Chi Hack Night because I needed a place to work on civic tech projects outside my 9-5 job. Now, civic tech **is** my 9-5 job, so I go to talk to amazing people and scheme about new projects. 
 
 **What are you presenting at the Summit?**
 
-Derek will be presenting with Adam and Claire on the panel [Communicating with Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) where he'll be **debuting a new project**.
+I will be presenting with Adam and Claire on the panel [Communicating with Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) where I'll be **debuting a new project**.
 
-Derek will also be presenting on the civic volunteerism model we have pioneered at the Chi Hack Night, how it has evolved over time, and how others can nurture similar communities in their cities at [Lessons from Organizing Chi Hack Night](https://www.codeforamerica.org/summit/schedule/#breakout_157)
+I will also be presenting on the civic volunteerism model we have pioneered at the Chi Hack Night, how it has evolved over time, and how others can nurture similar communities in their cities at [Lessons from Organizing Chi Hack Night](https://www.codeforamerica.org/summit/schedule/#breakout_157)
 
  **Who are you interested in meeting?**
 
-Derek is interested in meeting up with all the wonderful friends he’s gotten to know in the last four years. 
+I am interested in meeting up with all the wonderful friends I've gotten to know in the last four years. 
 
 **What would you like to brag about?**
 
-Derek is the founder of the civic tech web development shop [DataMade](http://datamade.us) where he’s worked on numerous projects including [Large Lots](http://largelots.org) and [Chicagos Million Dollar Blocks](http://chicagosmilliondollarblocks.com/). This is Derek’s second year presenting at the Summit. 
+I'm is the founder of the civic tech shop [DataMade](http://datamade.us), where I've worked on numerous projects including [Large Lots](http://largelots.org) and [Chicagos Million Dollar Blocks](http://chicagosmilliondollarblocks.com/). This is my third year attending and second year presenting at the Summit. 
 
-Here's his presentation last year on Largelots.org with Demond Drummer. 
+Here's my presentation last year on Largelots.org with Demond. 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/ZR5JMxp-ejw" frameborder="0" allowfullscreen></iframe>
 
 **What is your favorite Chicago food?**
 
-Derek’s favorite Chicago food was deep dish pizza, but after years of having deep dish every Tuesday he now favors empanadas. 
+It was deep dish pizza, but after years of having deep dish every Tuesday I now favor empanadas. 
 
 ## [Adam Hecktman](https://twitter.com/AdamHecktman)
 
@@ -166,25 +166,23 @@ Derek’s favorite Chicago food was deep dish pizza, but after years of having d
 
 **Why did you join Chi Hack Night?**
 
-Adam originally joined to meet the people in the civic tech space and learn from them.  Adam quickly discovered that the people, especially the folks that come to ChiHackNight, is what makes civic tech fun and rewarding.  And it is the people that Adam meets that make me want to work even harder and learn increasingly more so that he can contribute more.
+I originally joined to meet the people in the civic tech space and learn from them. I quickly discovered that it's the people, especially the folks that come to Chi Hack Night, that make civic tech fun and rewarding. And it is the people that I meet that make me want to work even harder and so that I can contribute more.
 
 **What are you presenting at the Summit?**
 
-Adam will be hosting a panel entitled [Communicating With Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) on Wednesday at 3:15.   
-
-Here is the description: In this era of exploding data collection, analysis, and mining, data visualization as a way of communicating has never been more important-- especially between governments and the communities they serve. Hear from those who have used visualization to engage citizens around government transparency, transportation issues, urban planning, and environmental resiliency.
+I will be hosting a panel entitled [Communicating With Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) on Wednesday at 3:15.
 
 **Who are you interested in meeting?**
 
-Adam is very interested in meeting everyone, as he thinks we can learn a great deal from our colleagues in this movement that are in other cities.
+Everyone. We can learn a great deal from our colleagues in this movement that are in other cities.
 
 **What would you like to brag about?**
 
-Adam is proud of the true community of thoughtful, intelligent, and interesting people in the civic tech space in Chicago and also about how the city government participates, and how the public sector employees encourage others to join in and create.
+I'm proud of the true community of thoughtful, intelligent, and interesting people in the civic tech space in Chicago and also about how the city government participates, and how the public sector employees encourage others to join in and create.
 
 **What's your favorite Chicago food?**
 
-Adam is a vegetarian, and firmly believes that nothing beats a Veggie Chicago-Style hot dog.
+I'm a vegetarian, and firmly believe that nothing beats a Veggie Chicago-Style hot dog.
 
 ## [Josh Kalov](https://twitter.com/JoshKalov)
 
@@ -194,19 +192,19 @@ Adam is a vegetarian, and firmly believes that nothing beats a Veggie Chicago-St
 
 **Why did you join Chi Hack Night?**
 
-Josh joined hack night because he wanted to work on civic tech projects. Josh was one of the very first members of hack night and now leads the Education Breakout Group. Josh now leads open data efforts at Cook County as part of his work with Smart Chicago. 
+I joined hack night because I wanted to work on civic tech projects. I was one of the very first members of hack night and now lead the Education Breakout Group. I now leads open data efforts at Cook County as part of my work with Smart Chicago. 
 
 **Who are you interested in meeting?**
 
-Josh is interested in meeting people who working in government or with government on Open Data. 
+People working in government or with government on Open Data. 
 
 **What would you like to brag about?**
 
-Josh is also one of the project leads for [schoolcuts.org](http://www.schoolcuts.org) - a site that helped parents understand the data behind the Chicago school closings. 
+I'm also one of the project leads for [schoolcuts.org](http://www.schoolcuts.org) - a site that helped parents understand the data behind the Chicago school closings. 
 
 **What is your favorite Chicago food?**
 
-Josh’s favorite Chicago foodstuff is Portillo’s Italian Beef.
+Portillo’s Italian Beef.
 
 ## [Claire Micklin](https://twitter.com/clairemicklin/) 
 
@@ -216,27 +214,27 @@ Josh’s favorite Chicago foodstuff is Portillo’s Italian Beef.
 
 **Why did you join Chi Hack Night?**
 
-Claire Micklin first discovered Chi Hack Night through Chicago Women Developers, who sent out an invitation to the Divvy Data Challenge presentation. She attended the presentation and was fascinated by all opportunities at Chi Hack Night to make apps that helped citizens and government engage better with their cities and communities.
+I first discovered Chi Hack Night through Chicago Women Developers, who sent out an invitation to the Divvy Data Challenge presentation. I attended the presentation and was fascinated by all opportunities at Chi Hack Night to make apps that helped citizens and government engage better with their cities and communities.
 
 **What are you presenting at the Summit?**
 
-Claire will be speaking twice at the CfA Summit. First, on Wednesday, September 30 (3:15-4:15pm), she’ll be speaking on a panel called [Communicating with Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) which explores how data visualizations can be used to engage citizens around government transparency, transportation issues, urban planning, and environmental resiliency.
+I will be speaking twice at the CfA Summit. First, on Wednesday, September 30 (3:15-4:15pm), I'll be speaking on a panel called [Communicating with Citizens Using Data Visualization](https://www.codeforamerica.org/summit/schedule/#breakout_123) which explores how data visualizations can be used to engage citizens around government transparency, transportation issues, urban planning, and environmental resiliency.
 
-Then, on Thursday, October 1, (4:30-5:30pm) She’ll be co-presenting with Derek Eder at the [Lessons from Organizing Chi Hack Night](https://www.codeforamerica.org/summit/schedule/#breakout_157). Derek will focus on how Chi Hack Night is run and what makes it successful. Claire will present a case study on how she managed the process of creating My Building Doesn’t Recycle, a project that which was brought into existence at Chi Hack Night.
+Then, on Thursday, October 1, (4:30-5:30pm) I'll be co-presenting with Derek at the [Lessons from Organizing Chi Hack Night](https://www.codeforamerica.org/summit/schedule/#breakout_157). Derek will focus on how Chi Hack Night is run and what makes it successful. I will present a case study on how she managed the process of creating My Building Doesn’t Recycle, a project that which was brought into existence at Chi Hack Night.
 
-You can also catch her demo-ing [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) at the Tech Fair, on Thursday, October 1, 12:30-2:30pm. 
+You can also catch me demo-ing [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) at the Tech Fair, on Thursday, October 1, 12:30-2:30pm. 
 
 **Who are you interested in meeting?**
 
-Claire is interesting in meeting people who are interested in how a user-centered design process (ideation to shipping and beyond) and how it can be leveraged to produce civic tech that is engaging and has impact. She is also interested in civic tech that is aimed at affecting policy change. 
+People who are interested in how a user-centered design process (ideation to shipping and beyond) and how it can be leveraged to produce civic tech that is engaging and has impact. I'm also interested in civic tech that is aimed at affecting policy change. 
 
 **What would you like to brag about?**
 
-Claire is the proud parent of a now-thriving formerly stray, toothless, tailless cat named Matias.
+I'm is the proud parent of a now-thriving formerly stray, toothless, tailless cat named Matias.
 
 **What's your favorite Chicago food?**
 
-Her favorite Chicago food is El Milagro Tortillas and tortilla chips. 
+El Milagro Tortillas and tortilla chips. 
 
 ## [Genevieve Nielsen](https://www.twitter.com/GenNielsen)
 
@@ -246,23 +244,23 @@ Her favorite Chicago food is El Milagro Tortillas and tortilla chips.
 
 **Why did you join Chi Hack Night?**
  
-Genevieve Nielsen joined Chi Hack Night when she was first learning how to code because she wanted to apply her new skills to social problems. I had also heard about the fantastic projects that were coming out of the group and wanted to learn more about them!
+I joined Chi Hack Night when I was first learning how to code because I wanted to apply her new skills to social problems. I had also heard about the fantastic projects that were coming out of the group and wanted to learn more about them!
 
 **What are you presenting at the Summit?**
 
-Genevieve will be presenting alongside Rose Afriyie, Brendan Babb, and on ["Using Human Design to Improve Social Services Delivery" on October 1st at 2pm.](https://www.codeforamerica.org/summit/schedule/#breakout_138) They will provide examples from mRelief, a web and text messaging service that helps check their eligibility for public assistance. 
+I'll be presenting alongside Rose Afriyie, Brendan Babb, and on [Using Human Design to Improve Social Services Delivery](https://www.codeforamerica.org/summit/schedule/#breakout_138) on October 1st at 2pm. We will provide examples from mRelief, a web and text messaging service that helps check their eligibility for public assistance. 
 
 **Who are you interested in meeting?**
 
-Genevieve is really interested in meeting more people interested in civic technology, especially people who are working on text messaging solutions!
+People interested in civic technology, especially people who are working on text messaging solutions!
 
 **What would you like to brag about?**
 
-Genevieve is the Chief Technology Officer of mRelief’s text messaging service - which recently started helping people in Chicago find early learning opportunities. 
+I'm the Chief Technology Officer of mRelief’s text messaging service - which recently started helping people in Chicago find early learning opportunities. 
 
 **What is your favorite Chicago food?**
 
-Genevieve’s favorite Chicago food is deep dish pizza.
+Deep dish pizza.
 
 ## [Hunter Owens](https://www.twitter.com/hunter_owens)  
 
@@ -272,23 +270,23 @@ Genevieve’s favorite Chicago food is deep dish pizza.
 
 **Why did you join Chi Hack Night?**
 
-Hunter Owens joined Chi Hack Night because of the community of folks that has sprung up around interesting topics and helping people keeps him coming back.  
+I joined Chi Hack Night because of the community of folks that has sprung up around interesting topics and helping people keeps me coming back.  
 
 **What are you presenting at the Summit?**
 
-Hunter will be facilitating an UnConference session on Student Data, For Students. Come talk to him about open data standards for student information! 
+I'll be facilitating an UnConference session on Student Data, For Students. Come talk to me about open data standards for student information! 
 
 **Who are you interested in meeting?**
 
-Hunter would like to meet folks who are interested in education, data standards and ETL pipelines. Also, the greater civic tech community. 
+Folks who are interested in education, data standards and ETL pipelines. Also, the greater civic tech community. 
 
 **What would you like to brag about?**
 
-Hunter has somehow survived (and enjoyed) 4 winters in Chicago, despite being California born and bred. He’s also a recent graduate from the University of Chicago and currently works at the Impact Lab. 
+I has somehow survived (and enjoyed) 4 winters in Chicago, despite being California born and bred. I'm also a recent graduate from the University of Chicago and currently work at the Impact Lab. 
 
 **What is your favorite Chicago food?**
 
-His favorite Chicago foodstuff is Malort. *(Ed - gross)*
+Malort. *(Ed - gross)*
 
 ## [Eric Sherman](https://www.linkedin.com/in/easherma) 
 
@@ -298,21 +296,21 @@ His favorite Chicago foodstuff is Malort. *(Ed - gross)*
 
 **Why did you join Chi Hack Night?**
 
-Eric Sherman was already active in local politics and was studying public administration when he joined Chi Hack Night. He was and remains very curious about organizational functions in government and how government could operate more effectively. 
+I was already active in local politics and studying public administration when I joined Chi Hack Night. I am and remain very curious about organizational functions in government and how government could operate more effectively. 
 
-Chi Hack Night sucked him in first with interesting presentations related to civic hacking and engagement and effective tools for individuals and agencies. Then, he started getting involved in the various working groups, applying my current skillset and learning new skills.
+Chi Hack Night sucked me in first with interesting presentations related to civic hacking and engagement and effective tools for individuals and agencies. Then, I started getting involved in the various working groups, applying my current skillset and learning new skills.
 
 **Who are you interested in meeting?**
 
-Eric would love to meet any fellow GIS/Geography/Data Science people. 
+I would love to meet any fellow GIS/Geography/Data Science people. 
 
 **What would you like to brag about?**
 
-About two months ago Eric started working full time as a self-employed consultant. Eric’s found it’s been really interesting and he’s learning a ton while doing some interesting work!
+About two months ago I started working full time as a self-employed consultant. I'm learning a ton while doing some interesting work!
 
 **What is your favorite Chicago food?**
 
-Eric’s favorite Chicago dish are the carnitas tacos from Taqueria Moran.
+Carnitas tacos from Taqueria Moran.
 
 ## [Alex Soble](https://twitter.com/alexsoble)  
 
@@ -322,21 +320,21 @@ Eric’s favorite Chicago dish are the carnitas tacos from Taqueria Moran.
 
 **What are you presenting at the Summit?**
  
-Alex Soble is a 2015 Code for America Fellow working with the City of Somerville and will be presenting ["21st Century Tools: How Technology Encodes Practices"](https://www.codeforamerica.org/summit/schedule/#session_106) on the main stage Wednesday at 10:50AM. 
+I am a 2015 Code for America Fellow working with the City of Somerville and will be presenting ["21st Century Tools: How Technology Encodes Practices"](https://www.codeforamerica.org/summit/schedule/#session_106) on the main stage Wednesday at 10:50AM. 
 
 **Why did you join Chi Hack Night?**
 
-Alex joined Hack Night back in the day, when he was a young bureaucrat at the Chicago Public Schools. He noticed on Twitter that a group he had never heard of had produced a lovely map to help parents, students, teachers navigate the school system — way better than the maps CPS offered on their website at the time! He simply had to find out who these Hack Night people were.
+I joined Hack Night back in the day, when I was a young bureaucrat at Chicago Public Schools. I noticed on Twitter that a group he had never heard of had produced a lovely map to help parents, students, teachers navigate the school system — way better than the maps CPS offered on their website at the time! I simply had to find out who these Hack Night people were.
 
 **Who are you interested in meeting?**
 
-Alex is interested in meeting all the new Chi Hack Night folks he hasn’t met since he’s been in the Bay Area!  
+All the new Chi Hack Night folks I haven't met since I've been in the Bay Area!  
 
-Alex has attended hack night with four different Brigades this year: Boston, San Francisco, Chicago, and Oakland and says meeting civic tech people across the country is fun. He also says that learning what everyone is up to is inspiring. 
+I attended hack nights with four different Brigades this year: Boston, San Francisco, Chicago, and Oakland. Meeting civic tech people across the country is fun and learning what everyone is up to is inspiring. 
 
 **What's your favorite Chicago food?**
 
-Alex’s favorite Chicago meal is the one with the endless layers of meat and cheese.
+The one with the endless layers of meat and cheese.
 
 ## [Owen Washburn](https://www.twitter.com/owashb) 
 
@@ -346,19 +344,19 @@ Alex’s favorite Chicago meal is the one with the endless layers of meat and ch
 
 **Why did you join Chi Hack Night?**
 
-Owen joined Chi Hack Night to help bring technology to bear on Chicago's economic and social challenges. Owen is new to Chicago and was previously working with The Brookings Institution. 
+I joined Chi Hack Night to help bring technology to bear on Chicago's economic and social challenges. I'mnew to Chicago and was previously working with The Brookings Institution. 
 
 **Who are you interested in meeting?**
 
-Owen is interested in meeting people tackling economic development as well as Chicagoans he hasn’t met yet. 
+People tackling economic development as well as Chicagoans he hasn’t met yet. 
 
 **What would you like to brag about?**
 
-Owen has also recently got engaged!
+I recently got engaged!
 
 **What is your favorite Chicago food?**
 
-His favorite Chicago dish is Dark Matter coffee. 
+Dark Matter coffee. 
 
 ## [Christopher Whitaker](https://twitter.com/civicwhitaker)
 
@@ -368,20 +366,20 @@ His favorite Chicago dish is Dark Matter coffee.
 
 **Why did you join Chi Hack Night?**
 
-Christopher Whitaker first joined Chi Hack Night while serving in the trenches of government working at the Illinois Department of Employment Security during the recession. Christopher serves as co-host of Chi Hack Night and the Chicago Brigade Captain. 
+I first joined Chi Hack Night while serving in the trenches of government working at the Illinois Department of Employment Security during the recession. I serve as co-host of Chi Hack Night and the Chicago Brigade Captain. 
 
 **What are you presenting at the Summit?**
 
-Christopher will be helping to run the Brigade Pre-Summit - look for the American flag t-shirt and sneakers. 
+I will be helping to run the Brigade Pre-Summit - look for the American flag t-shirt and sneakers. 
 
 **Who are you interested in meeting?**
 
-Christopher would love to meet everyone at the Summit, but is particularly interested in meeting people who are working directly with government to help make things better on the front lines. 
+I would love to meet everyone at the Summit, but I'm particularly interested in meeting people who are working directly with government to help make things better on the front lines. 
 
 **What would you like to brag about?**
 
-Christopher is the author of _The @CivicWhitaker Anthology_, which will come out sometime during Summit. 
+I'm is the author of _The @CivicWhitaker Anthology_, which will come out sometime during Summit. 
 
 **What's your favorite Chicago food?**
 
-Christopher is staunchly team deep dish. 
+Staunchly team deep dish. 
