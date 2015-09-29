@@ -108,7 +108,7 @@ My least favorite Chicago food is deep dish "pizza" & my favorite is Mario's Ita
 
 **Why did you join Chi Hack Night?**
 
-I joined Chi Hack Night to connect with civic-minded technologists. Previously, I was an organizer at Englewood Codes where he helped launch the Large Lots program. I am now a founder at Coderspace in Chicago. 
+I joined Chi Hack Night to connect with civic-minded technologists. Previously, I was an organizer at Englewood Codes where I helped launch the Large Lots program. I am now a founder at Coderspace in Chicago. 
 
 **What are you presenting at the Summit?**
  
@@ -324,7 +324,7 @@ I am a 2015 Code for America Fellow working with the City of Somerville and will
 
 **Why did you join Chi Hack Night?**
 
-I joined Hack Night back in the day, when I was a young bureaucrat at Chicago Public Schools. I noticed on Twitter that a group he had never heard of had produced a lovely map to help parents, students, teachers navigate the school system — way better than the maps CPS offered on their website at the time! I simply had to find out who these Hack Night people were.
+I joined Hack Night back in the day, when I was a young bureaucrat at Chicago Public Schools. I noticed on Twitter that a group I had never heard of had produced a lovely map to help parents, students, teachers navigate the school system — way better than the maps CPS offered on their website at the time! I simply had to find out who these Hack Night people were.
 
 **Who are you interested in meeting?**
 
@@ -348,7 +348,7 @@ I joined Chi Hack Night to help bring technology to bear on Chicago's economic a
 
 **Who are you interested in meeting?**
 
-People tackling economic development as well as Chicagoans he hasn’t met yet. 
+People tackling economic development as well as Chicagoans I haven't met yet. 
 
 **What would you like to brag about?**
 
