@@ -82,11 +82,11 @@ Rose’s favorite Chicago food is the Vegan Cocoa Mousse Cake custom made at the
 
 **Why did you join Chi Hack Night?**
 
-Cathy Deng joined Chi Hack Night because she digs cross-pollination! Unlike most tech meetups, ChiHackNight is defined by a mission rather than by any particular technology or industry - that makes room for lotsa interdisciplinary convos between academics, organizers, data nerds, designers, etc.
+Cathy Deng joined Chi Hack Night because she digs cross-pollination! There are so many interdisciplinary conversations & projects happening at any given time.
 
 **What are you presenting at the Summit?**
 
-Cathy believes that technologists in 'civic tech' laud the virtues of open source tech, but in reality, open source projects are often intimidating & confusing. Her workshop (Wed 2-3pm) will focus on how new folks can make sense of open source projects & how maintainers can make projects more accessible.
+Open source tech is great in theory, but Cathy thinks that in reality, open source projects are too-often intimidating & confusing. Her workshop (Wed 2-3pm) will focus on how new folks can make sense of open source projects & how maintainers can be more welcoming to a wider audience.
 
 **Who are you interested in meeting?**
 
@@ -94,13 +94,11 @@ Cathy is interested in meeting folks who dig information design, folks who are w
 
 **What would you like to brag about?**
 
-Cathy is the developer behind the [Expunge.io](http://www.expunge.io) project - a youth-led project that help people expunge their juvenile record. This is Cathy’s second year as a Summit Speaker. Last year she talked about her work on Expunge.io: 
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/CerCresA9mo" frameborder="0" allowfullscreen></iframe>
+This is Cathy’s second year speaking at the summit - last year she talked about [her work on Expunge.io](https://youtu.be/CerCresA9mo).
 
 **What's your favorite Chicago food?**
 
-Cathy's favorite Chicago dish is Mario's Italian Lemonade!
+Cathy's least favorite Chicago food is deep dish "pizza" & her favorite is Mario's Italian Lemonade.
 
 ## [Demond Drummer](https://www.twitter.com/citizendrummer)
 
