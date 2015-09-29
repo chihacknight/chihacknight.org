@@ -24,7 +24,7 @@ published: true
 
 The Chi Hack Night will be sending 13 members of our community to the [Code for America Summit](http://codeforamerica.org/summit) September 30th - October 2nd, 2015.
 
-While we're there, you can follow the #chihacknight delegation on Twitter at [@ChiHackNight](https://twitter.com/chihacknight) or with the [#chihacknight](https://twitter.com/search?q=%23chihacknight) hashtag.
+While we're there, you can follow the Chi Hack Night delegation on Twitter at [@ChiHackNight](https://twitter.com/chihacknight) or with the [#chihacknight](https://twitter.com/search?q=%23chihacknight) hashtag.
 
 Here’s our delegation roster, in alphabetical order:
 
@@ -42,7 +42,7 @@ Here’s our delegation roster, in alphabetical order:
 * [Owen Washburn](https://www.twitter.com/owashb), Founder at Eno Works
 * [Christopher Whitaker](https://twitter.com/civicwhitaker), Consultant at Code for America
 
-We had everyone who went answer a few questions about themselves and what they're looking forward to at this year's Summit. 
+We had everyone who's going answer a few questions about themselves and what they're looking forward to at this year's Summit. 
 
 We can’t wait to meet everyone there!
 
