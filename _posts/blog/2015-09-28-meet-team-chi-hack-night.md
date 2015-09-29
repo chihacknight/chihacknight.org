@@ -36,7 +36,7 @@ Here’s our delegation roster, in alphabetical order:
 * [Josh Kalov](https://twitter.com/JoshKalov), Open data consultant with Cook County
 * [Claire Micklin](https://twitter.com/clairemicklin/), UX Designer at the University of Chicago
 * [Genevieve Nielsen](https://www.twitter.com/GenNielsen), CTO and Co-founder at mRelief
-* [Hunter Ownens](https://www.twitter.com/hunter_owens), Developer at The Impact Lab
+* [Hunter Owens](https://www.twitter.com/hunter_owens), Developer at The Impact Lab
 * [Eric Sherman](https://www.linkedin.com/in/easherma), Consultant
 * [Alex Soble](https://twitter.com/alexsoble), 2015 Code for America Fellow
 * [Owen Washburn](https://www.twitter.com/owashb), Founder at Eno Works
@@ -82,7 +82,7 @@ Rose’s favorite Chicago food is the Vegan Cocoa Mousse Cake custom made at the
 
 **Why did you join Chi Hack Night?**
 
-Cathy Deng joined Chi Hack Night because she digs because she digs cross-pollination! Unlike most tech meetups, ChiHackNight is defined by a mission rather than by any particular technology or industry - that makes room for lotsa interdisciplinary convos between academics, organizers, data nerds, designers, etc.
+Cathy Deng joined Chi Hack Night because she digs cross-pollination! Unlike most tech meetups, ChiHackNight is defined by a mission rather than by any particular technology or industry - that makes room for lotsa interdisciplinary convos between academics, organizers, data nerds, designers, etc.
 
 **What are you presenting at the Summit?**
 
@@ -96,7 +96,7 @@ Cathy is interested in meeting folks who dig information design, folks who are w
 
 Cathy is the developer behind the [Expunge.io](http://www.expunge.io) project - a youth-led project that help people expunge their juvenile record. This is Cathy’s second year as a Summit Speaker. Last year she talked about her work on Expunge.io: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CerCresA9mo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/CerCresA9mo" frameborder="0" allowfullscreen></iframe>
 
 **What's your favorite Chicago food?**
 
@@ -154,7 +154,7 @@ Derek is the founder of the civic tech web development shop [DataMade](http://da
 
 Here's his presentation last year on Largelots.org with Demond Drummer. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZR5JMxp-ejw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZR5JMxp-ejw" frameborder="0" allowfullscreen></iframe>
 
 **What is your favorite Chicago food?**
 
@@ -266,15 +266,15 @@ Genevieve is the Chief Technology Officer of mRelief’s text messaging service 
 
 Genevieve’s favorite Chicago food is deep dish pizza.
 
-## [Hunter Ownens](https://www.twitter.com/hunter_owens)  
+## [Hunter Owens](https://www.twitter.com/hunter_owens)  
 
 #### Developer at The Impact Lab
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/91210421@N03/21603352450/in/dateposted-public/" title="hunterownes"><img src="https://farm1.staticflickr.com/662/21603352450_bbde023807_q.jpg" width="150" height="150" alt="hunterownes"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/91210421@N03/21603352450/in/dateposted-public/" title="Hunter Owens"><img src="https://farm1.staticflickr.com/662/21603352450_bbde023807_q.jpg" width="150" height="150" alt="Hunter Owens"></a>
 
 **Why did you join Chi Hack Night?**
 
-Hunter Ownens joined Chi Hack Night because of the community of folks that has sprung up around interesting topics and helping people keeps him coming back.  
+Hunter Owens joined Chi Hack Night because of the community of folks that has sprung up around interesting topics and helping people keeps him coming back.  
 
 **What are you presenting at the Summit?**
 
