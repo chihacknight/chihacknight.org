@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Meet Team #ChiHackNight at the Code for America Summit"
-description: abc
+description: The Chi Hack Night will be sending 13 members of our community to the Code for America Summit September 30th - October 2nd, 2015. We had everyone who went answer a few questions about themselves and what they’re looking forward to at this year’s Summit. We can’t wait to meet everyone there!
 date: 2015-09-28
 author: Christopher Whitaker
 author_url: https://twitter.com/civicwhitaker
