@@ -17,7 +17,9 @@ published: true
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <div style='text-align: center;'>
-    <p><img src="/images/blog/chihacknight-crowd.jpg" alt="The Chi Hack Night community" class='img-thumbnail' /></p>
+    <p><img src="/images/blog/chihacknight-swag.jpg" alt="Keep an eye out for the Chi Hack Night shirts!" class='img-thumbnail' /></p>
+
+    <small><em>Keep an eye out for the Chi Hack Night shirts!</em></small><br><br>
 </div>  
 
 The Chi Hack Night will be sending 13 members of our community to the [Code for America Summit](http://codeforamerica.org/summit) September 30th - October 2nd, 2015.
