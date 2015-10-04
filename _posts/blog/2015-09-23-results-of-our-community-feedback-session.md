@@ -50,6 +50,10 @@ At the end, we reported back out the feedback.
     <small><em>What would you like to learn from this community?</em></small><br><br>
 </div>
 
+Here's a video of the group reporting, courtesy of Christopher Whitaker and Smart Chicago:
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/50mSdhhDhBQ" frameborder="0" allowfullscreen></iframe>
+
 The full list of feedback, along with some next steps we plan on taking are recorded in our [Open Leadership Council notes](https://docs.google.com/document/d/1mlVH4e17v3tBMW5WCrMejKjGr5TPyVrVvpiungpuuQ8/edit#). You can also see more [photos of the session on flickr](https://www.flickr.com/search/?tags=chihacknight174&view_all=1).
 
 From that, here’s the ideas that got the most +1’s:
