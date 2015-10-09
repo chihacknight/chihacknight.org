@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: The labor required to keep civic apps alive 
-description: I just updated Chicago Public School Tiers with data for 2016-2017 school enrollment and wanted to share the steps I went through to do it. It involves a government website, extracting data from a PDF document, manipulating spreadsheet data, merging datasets using Google Fusion Tables, and customizing a set of interactive map stiles.
+description: The CPS Tiers map doesn’t update automagically. I volunteer my time to keep it accurate and up to date, and it’s worth doing.
 date: 2015-10-09
 author: Derek Eder
 author_url: https://twitter.com/derekeder
@@ -188,10 +188,10 @@ I've been updating CPS Tiers this way for the past 3 years. I've met and talked 
 
 This app is one way we, as civic technologists, have found to make the lives of some Chicagoans a little bit better. That's why we built it in the first place.
 
-And it's for that exact same reason that I take the time every year to keep it going. If we are truly doing this work to improve the public good, then we need put in the work even if it's not fun and take responsibility for the projects we bring into this world.
+And it's for that exact same reason that I take the time every year to keep it going. If we are truly doing this work to improve the public good, then we need put energy into maintaining, and not just building, civic technology.
 
 <div style='text-align: center;'>
-    <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img11.jpg" alt="Some civic tech puppies turn into civic tech dogs!" class='img-thumbnail' /></p>
+    <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img11.jpg" alt="Some civic tech puppies turn into civic tech dogs!" class='img-thumbnail' style='width: 50%;' /></p>
 
     <small><em>Some civic tech puppies turn into civic tech dogs!</em></small><br><br>
 </div> 
