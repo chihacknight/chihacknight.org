@@ -101,7 +101,7 @@ Thankfully, there’s [Tabula](http://tabula.technology/), a free and open sourc
     <small><em>Using Tabula to extract tables from PDF documents</em></small><br><br>
 </div> 
 
-Just run the Tabula app, select your PDF file to extract, and use their handy interface to select the text you want to extract for each page. Our document is 10 pages, so I select the tables (but no the headers - those get repeated on every page) on each one. 
+Just run the Tabula app, select your PDF file to extract, and use their handy interface to select the text you want to extract for each page. Our document is 10 pages, so I select the tables (but not the headers - those get repeated on every page) on each one. 
 
 Click ‘Preview and Export Data’, copy to the clipboard, and fire up your spreadsheet editor.
 
@@ -188,7 +188,7 @@ I've been updating CPS Tiers this way for the past 3 years. I've met and talked 
 
 This app is one way we, as civic technologists, have found to make the lives of some Chicagoans a little bit better. That's why we built it in the first place.
 
-And it's for that exact same reason that I take the time every year to keep it going. If we are truly doing this work to improve the public good, then we need put energy into maintaining, and not just building, civic technology.
+And it's for that exact same reason that I take the time every year to keep it going. If we are truly doing this work to improve the public good, then we need to put energy into maintaining, and not just building, civic technology.
 
 <div style='text-align: center;'>
     <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img11.jpg" alt="Some civic tech puppies turn into civic tech dogs!" class='img-thumbnail' style='width: 50%;' /></p>
