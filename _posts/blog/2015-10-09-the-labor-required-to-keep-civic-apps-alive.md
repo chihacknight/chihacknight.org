@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: How I update the CPS Tiers map
+title: The labor required to keep civic apps alive 
 description: I just updated Chicago Public School Tiers with data for 2016-2017 school enrollment and wanted to share the steps I went through to do it. It involves a government website, extracting data from a PDF document, manipulating spreadsheet data, merging datasets using Google Fusion Tables, and customizing a set of interactive map stiles.
 date: 2015-10-09
 author: Derek Eder
@@ -14,11 +14,25 @@ author2_image:
 published: true
 ---
 
+The CPS Tiers map doesn't update automagically. I volunteer my time to keep it accurate and up to date, and it's worth doing.
+
 <div style='text-align: center;'>
     <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img1.png" alt="Chicago Public School Tiers, a lookup tool for selective school enrollment by Derek Eder and Forest Gregg of Open City" class='img-thumbnail' /></p>
 
     <small><em>Chicago Public School Tiers, a lookup tool for selective school enrollment by Derek Eder and Forest Gregg of Open City</em></small><br><br>
-</div> 
+</div>
+
+Building new civic apps is a lot of fun! I've been [doing it for a while now](http://derekeder.com/about) and [created](http://www.chicagolobbyists.org/) [quite](http://secondcityzoning.org/) [a](http://istheresewageinthechicagoriver.com/) [few](http://clearstreets.org/).
+
+But once you've built something, it's kind of like getting a puppy. You gotta be a responsible adult and take care of it. 
+
+<div style='text-align: center;'>
+    <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img10.jpg" alt="Civic tech puppy says: please maintain me!" class='img-thumbnail' /></p>
+
+    <small><em>Civic tech puppy says: please maintain me!</em></small><br><br>
+</div>
+
+Unfortunately, apps are rarely maintained in the civic tech world. Just take a look at all the dead projects from the [Apps for Metro Chicago Contest](http://www.smartchicagocollaborative.org/list-of-apps-for-metro-chicago-applicants/), which only happened 3 years ago.
 
 I just updated [Chicago Public School Tiers](http://cpstiers.opencityapps.org/) with data for 2016-2017 school enrollment and wanted to share the steps I went through to do it. 
 
@@ -36,7 +50,7 @@ Chicago Public School Tiers is a tool to help find what CPS tier you are in.
 
 This civic app, created by me, Forest Gregg and Juan-Pablo Velez in March 2012 continues to be one of our most popular projects, netting between 2,000 and 4,000 unique visits a month.
 
-CPS parents really need to know this information, and CPS Tiers is the easiest way to find it.
+CPS parents really need to know this information, and CPS Tiers continues to be the easiest way to find it.
 
 Ok, on to how I update it.
 
@@ -166,3 +180,20 @@ Finally, my maps are done! All that’s left is to swap out my Fusion Table ID, 
 The code for the CPS Tiers website is open source on [GitHub](https://github.com/open-city/cps-tiers), and you can see every change I made [using this handy comparison view](https://github.com/open-city/cps-tiers/compare/0732e4dd83eb57d63f464c5c3f2ce9fe94869f10...f7aa553f520072a4ff537f4e68891e980cd37c25).
 
 And I’m done! Until next year, when the tiers are updated yet again.
+
+
+### Why this matters
+
+I've been updating CPS Tiers this way for the past 3 years. I've met and talked to parents that use it and [heard from some of them](http://cpstiers.opencityapps.org/testimonials.html) just how challenging and unfair the Chicago Public Schools selective enrollment process is. 
+
+This app is one way we, as civic technologists, have found to make the lives of some Chicagoans a little bit better. That's why we built it in the first place.
+
+And it's for that exact same reason that I take the time every year to keep it going. If we are truly doing this work to improve the public good, then we need put in the work even if it's not fun and take responsibility for the projects we bring into this world.
+
+<div style='text-align: center;'>
+    <p><img src="/images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img11.jpg" alt="Some civic tech puppies turn into civic tech dogs!" class='img-thumbnail' /></p>
+
+    <small><em>Some civic tech puppies turn into civic tech dogs!</em></small><br><br>
+</div> 
+
+
