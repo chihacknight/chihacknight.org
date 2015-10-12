@@ -1,6 +1,8 @@
 # Chi Hack Night
 
-Website for Chicago's weekly Chi Hack Night
+Website for [Chi Hack Night](http://chihacknight.org/).
+
+**Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
 
 ## Running locally
 
