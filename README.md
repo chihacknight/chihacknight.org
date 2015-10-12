@@ -14,6 +14,7 @@ cd chihacknight.org
 jekyll serve -w
 ```
 
+Then open your web browser and navigate to http://localhost:4000
 
 ## Dependencies
 
