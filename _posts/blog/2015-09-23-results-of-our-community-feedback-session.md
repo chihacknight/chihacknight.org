@@ -173,3 +173,7 @@ Thank you everyone for participating, and see you next Tuesday!
 <div style='text-align: center;'>
     <p><img src="/images/blog/2015-09-23-results-of-our-community-feedback-session/see-you-tues.png" alt="See you Tuesday!" class='img-thumbnail' /></p>
 </div>
+
+### About the author
+
+Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at [DataMade](http://datamade.us), a company that tells stories and builds tools with data, co-founder of [Open City](http://opencityapps.org), a collective that makes civic apps to to improve transparency and understanding of our government, and lead organizer for the [Chi Hack Night](http://chihacknight.org), Chicago's weekly event for building civic technology with open data.

@@ -53,4 +53,4 @@ Finally, GitHub can store files – any kind, and as many versions. If you need 
 ### About the author
 Steven Vance is a web developer and transportation planner who writes for [Streetsblog Chicago](http://chi.streetsblog.org/).
 
-This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/03/why-the-slow-roll-chicago-working-group-uses-github-to-collaborate/).
+This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/03/why-the-slow-roll-chicago-working-group-uses-github-to-collaborate/) in March 2015.

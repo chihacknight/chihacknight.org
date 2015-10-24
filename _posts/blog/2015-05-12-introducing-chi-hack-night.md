@@ -41,3 +41,7 @@ Here’s a few highlights:
 * [Blog](http://chihacknight.org/blog/index.html) - We’ve merged in [Civic Tech Voices](http://civictechvoices.tumblr.com/), a community blog Cathy Deng set up for all members of the hack night to contribute to. We welcome anyone to [contribute](http://chihacknight.org/blog/index.html)!
 
 As with all of our projects, we’re constantly looking to make the Chi Hack Night website better and more informative for everyone. [Pull Requests are always welcome](https://github.com/open-city/chihacknight.org)!
+
+### About the author
+
+Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at [DataMade](http://datamade.us), a company that tells stories and builds tools with data, co-founder of [Open City](http://opencityapps.org), a collective that makes civic apps to to improve transparency and understanding of our government, and lead organizer for the [Chi Hack Night](http://chihacknight.org), Chicago's weekly event for building civic technology with open data.
