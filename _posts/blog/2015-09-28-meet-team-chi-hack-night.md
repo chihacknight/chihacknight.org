@@ -68,7 +68,7 @@ I'm really excited to connect with 18F about Privacy and Civic Technology Projec
 
 **What would you like to brag about?**
 
-I'm also excited to announce that their [mRelief](http://mrelief.com) tool which helps program providers customize screeners for their community has gone into Private Beta. They encourage thought leaders in civic technology to request an invite at [beta.mrelief.com](beta.mrelief.com).
+I'm also excited to announce that their [mRelief](http://mrelief.com) tool which helps program providers customize screeners for their community has gone into Private Beta. They encourage thought leaders in civic technology to request an invite at [beta.mrelief.com](http://beta.mrelief.com).
 
 **What is your favorite Chicago food?**
  
