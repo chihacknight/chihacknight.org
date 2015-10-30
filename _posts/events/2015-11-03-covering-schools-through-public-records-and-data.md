@@ -20,7 +20,7 @@ Continuing on our education theme from [last week](/events/2015/10/27/your-cps.h
 
 [Sarah Karp](https://twitter.com/sskedreporter), Senior Investigator for the Better Government Association, will talk about her work investigating private companies that do work with Chicago Public Schools and breaking the [Barbara Byrd-Bennett / Supes Academy corruption story in 2013](http://catalyst-chicago.org/2013/07/20-million-no-bid-contract-raises-questions-about-supes-academy/). 
 
-Karp will talk about how she and WBEZ' [Becky Vevea](https://twitter.com/beckyvevea) uncovered [rampant cheating in the Chicago Public Schools graduation rate](http://www.wbez.org/news/emanuel-touts-bogus-graduation-rate-112163).
+Karp will also talk about another investigation with WBEZ' [Becky Vevea](https://twitter.com/beckyvevea) that uncovered [rampant cheating in the Chicago Public Schools graduation rate](http://www.wbez.org/news/emanuel-touts-bogus-graduation-rate-112163).
 
 ---
 
