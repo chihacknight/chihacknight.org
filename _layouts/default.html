@@ -40,7 +40,12 @@
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
       <meta content="{{ site.url }}/about-us/" property="article:author">
     {% endif %}
-    <meta content="{{ site.url }}/images/logo/logo-star-avatar.png" property="og:image">
+
+    {% if page.image %}
+      <meta content="{{ site.url }}{{page.image}}" property="og:image">
+    {% else %}
+      <meta content="{{ site.url }}/images/logo/logo-star-avatar.png" property="og:image">
+    {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
       <meta content="{{ category }}" property="article:section">
