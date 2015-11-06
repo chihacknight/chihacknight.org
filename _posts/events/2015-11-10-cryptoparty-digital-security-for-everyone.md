@@ -24,6 +24,6 @@ Jennifer will talk about why understanding digital security is so important, wha
 
 ---
 
-**Bonus** After her talk, Jennifer will be hold a cryptoparty at Chi Hack Night!
+**Bonus** After her talk, Jennifer will hold a cryptoparty at Chi Hack Night!
 
 **Bring snacks!** If you're looking for a new way to contribute to our group, feel free to bring snacks to share! Snack providers will receive hugs and [stickers](https://twitter.com/derekeder/status/628639976058585088)!
