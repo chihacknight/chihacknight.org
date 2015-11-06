@@ -22,8 +22,8 @@ Let's talk data security! As builders and users of technology, it's important fo
 
 Jennifer will talk about why understanding digital security is so important, what goes on at a digital security training, and where to begin when thinking about privacy issues.
 
-**Bonus** After her talk, Jennifer will be hold a cryptoparty at Chi Hack Night!
-
 ---
 
-**Bring snacks!** If you're looking for a new way to contribute to our group, feel free to bring snacks to share! Snack providers will recieve hugs and [stickers](https://twitter.com/derekeder/status/628639976058585088)!
+**Bonus** After her talk, Jennifer will be hold a cryptoparty at Chi Hack Night!
+
+**Bring snacks!** If you're looking for a new way to contribute to our group, feel free to bring snacks to share! Snack providers will receive hugs and [stickers](https://twitter.com/derekeder/status/628639976058585088)!
