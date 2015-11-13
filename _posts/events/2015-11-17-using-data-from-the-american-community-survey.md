@@ -20,7 +20,7 @@ published: true
 
 The [American Community Survey](https://www.census.gov/programs-surveys/acs/) (ACS) is an ongoing statistical survey run by the [U.S. Census Bureau](https://www.census.gov/programs-surveys/acs/). It contains data about U.S. residents on ancestry, educational attainment, income, language proficiency, migration, disability, employment, and housing characteristics, just to name a few.
 
-The ACS holds so much data, in fact, that it can be intimidating to use. To help out with that Chicago data experts [Rob Paral](), [Joe Germuska]() and [Nina Sandlin]() will give us an intro, as well as practical tips on accessing and using this data.
+The ACS holds so much data, in fact, that it can be intimidating to use. To help out with that Chicago data experts [Rob Paral](http://www.robparal.com/), [Joe Germuska](https://twitter.com/JoeGermuska) and [Nina Sandlin](https://twitter.com/nsandlin) will give us an intro, as well as practical tips on accessing and using this data.
 
 * Nina will introduce us to the ACS and show off a few examples of its use.
 
