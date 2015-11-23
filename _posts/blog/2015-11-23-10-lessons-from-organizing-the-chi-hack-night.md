@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: 10 lessons from organizing the Chi Hack Night
-description: The CPS Tiers map doesn’t update automagically. I volunteer my time to keep it accurate and up to date, and it’s worth doing.
+description: The Chi Hack Night has been referenced as the largest, most successful and productive civic hacking community around. This post is my first attempt at synthesizing and sharing our organizing model, starting with 10 lessons we've learned over the years. 
 date: 2015-11-23
 author: Derek Eder
 author_url: https://twitter.com/derekeder
@@ -20,15 +20,15 @@ published: true
     <small><em>Just another Tuesday at the Chi Hack Night!</em></small><br><br></p>
 </div>
 
-The [Chi Hack Night](http://chihacknight.org/), Chicago's weekly event to build, share and learn about civic tech, has been going for 3 ½ years. We've become the model for [dozens of hack nights in other cities](http://www.codeforamerica.org/brigade/) and are constantly referenced as the largest, most successful and productive civic hacking community around.
+The [Chi Hack Night](http://chihacknight.org/), Chicago's weekly event to build, share and learn about civic tech, has been going for 3 ½ years. We've been an inspiration for [dozens of hack nights in other cities](http://www.codeforamerica.org/brigade/) and are constantly referenced as the largest, most successful and productive civic hacking community around.
 
 Over the years, many have asked me, "how can we create or nurture the same kind of community in our city?" 
 
 This is a great question, and one that I’ve struggled to answer. At the 2014 Socrata Customer Summit, I took the approach of [showing by example what we do in Chicago](https://www.youtube.com/watch?v=MYEDX4fCn_M). 
 
-However, after talking to other hack night event organizers, and seeing some of our organizational structure copied by other groups, particularly Code for America, I believe the Chi Hack Night has a unique and effective way of organizing events and empowering volunteers. And I think the model we have developed is adoptable by other groups.
+However, after talking to other hack night event organizers, and seeing some of our organizational structure copied by other groups, particularly [Code for America](http://www.codeforamerica.org/blog/2013/07/24/brigade-101-how-to-hack-night/), I believe the Chi Hack Night has a unique and effective way of organizing events and empowering volunteers.
 
-This post is my first attempt at synthesizing and sharing this model. While I don’t have a full-on playbook for you, I have come up with 10 lessons that make the Chi Hack Night model work. 
+This post is my first attempt at synthesizing and sharing this model. While I don’t have a full-on playbook for you, we have come up with 10 lessons that we think make the Chi Hack Night model work. 
 
 If you're already familiar with the Chi Hack Night, you can <a href='#10-lessons'>skip right down to the 10 lessons</a>. 
 
