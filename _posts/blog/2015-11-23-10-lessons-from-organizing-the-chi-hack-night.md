@@ -92,7 +92,7 @@ The Chi Hack Night starts every Tuesday at 6pm. We meet in the Braintree office 
     </div>
 </div>
 
-<p><strong>6:45 – Presentation with Q&amp;A</strong></p>
+<p><strong>6:45pm – Presentation with Q&amp;A</strong></p>
 
 <div class='row'>
     <div class='col-sm-6'>
@@ -140,7 +140,7 @@ When 10:00pm rolls around, we all head home and do it all over again next week.
 
 The above agenda is what we’ve found works the best for us. It has evolved over 3 ½ years and is tailored for an event with 100 attendees. So don’t go an try to follow it letter-for-letter and expect success. 
 
-Instead, I’ve come up with some general lessons we’ve learned as we’ve grown. These, should consider:
+Instead, I’ve come up with some general lessons we’ve learned as we’ve grown:
 
 **1. Meet at the same time and place every week**
 
@@ -154,19 +154,19 @@ Have you ever been to an event where you didn’t know anyone? It’s pretty int
 
 **3. Organize from the bottom up**
 
-As the hack night has grown, more people would approach me to ask what projects they can and should work on. We struggled to do this for a while, but it always seemed fragile and sub-optimal. What we really wanted was for people to take charge and lead their own projects of their own. 
+As the hack night has grown, more people would approach me to ask what projects they can and should work on. We struggled to do this for a while, but it always seemed fragile and sub-optimal. What we really wanted was for people to take charge and lead projects of their own. 
 
-It wasn’t until Summer 2014 that we figured out how to do this well: self organized [breakout groups](http://chihacknight.org/breakouts.html). By empowering anyone to start their own group, we simultaneously solved a major organizing problem, while giving people an opportunity to grow and expand their role with our community. 
+It wasn’t until Summer 2014 that we figured out how to do this well: self-organized [breakout groups](http://chihacknight.org/breakouts.html). By empowering anyone to start their own group, we simultaneously solved a major organizing problem, while giving people an opportunity to grow and expand their role within our community. 
 
 Now, I just run the event and create a space that is fun, safe and inclusive. The breakout groups and the projects that come from them run themselves.
 
 **4. Have a variety of sponsors and partners**
 
-The Chi Hack Night has four food sponsors - [DataMade](http://datamade.us), [Code for America](http://codeforamerica.org), [GitHub](http://github.com) and [Dev Bootcamp](http://devbootcamp.com) - and one hosting sponsor, [Braintree](https://www.braintreepayments.com). Over the years we’ve had [several others](http://chihacknight.org/about.html#special-thanks), but one thing has stayed consistent: there are always several.
+The Chi Hack Night has four food sponsors &mdash; [DataMade](http://datamade.us), [Code for America](http://codeforamerica.org), [GitHub](http://github.com) and [Dev Bootcamp](http://devbootcamp.com) &mdash; and one hosting sponsor, [Braintree](https://www.braintreepayments.com). Over the years we’ve had [several others](http://chihacknight.org/about.html#special-thanks), but one thing has stayed consistent: there are always several.
 
-We have several for a couple reasons: 
+We have multiple sponsors for a couple reasons: 
 
-1. Given enough time, sponsors decide to move on. When that happens, both the pressure to find a new one, and the financial ask we make of them is lessened.
+1. Given enough time, any given sponsor will decide to move on. When that happens, both the pressure to find a new one, and the financial ask we make of them is lessened.
 
 2. Freedom is many masters. By having multiple sponsors, we can remain independent and resilient.
 
@@ -178,7 +178,7 @@ Talking is important, but it should always be in service of doing.
 
 **6. Diversity of presentation topics**
 
-We define civic tech broadly as "tools to create, support and serve the public good". A lot of things fit inside that category including open government, [govtech](http://govtechfund.com/2014/09/what-is-govtech/), [smart cities](https://en.wikipedia.org/wiki/Smart_city), [data journalism](https://en.wikipedia.org/wiki/Data_journalism), community building, and [modern activism](https://en.wikipedia.org/wiki/Internet_activism).
+We define civic tech broadly as "tools to create, support and serve the public good." A lot of things fit inside that category including [open government](https://en.wikipedia.org/wiki/Open_government), [govtech](http://govtechfund.com/2014/09/what-is-govtech/), [smart cities](https://en.wikipedia.org/wiki/Smart_city), [data journalism](https://en.wikipedia.org/wiki/Data_journalism), community building and [modern activism](https://en.wikipedia.org/wiki/Internet_activism).
 
 We want people from all over Chicagoland with all different kinds of backgrounds to be a part of Chi Hack Night. Our diversity of skills, ideas and points of view are our strength.
 
@@ -186,7 +186,7 @@ To nurture that diversity and expand it, we strive to have [presentations](http:
 
 **7. Cater to newbies**
 
-Every week, about 30% of our attendees are brand new. They’ve never been to a hack night before. We want to orient them and get them onboarded to breakout group. To this end, Christopher Whitaker runs his Civic Tech 101 session, and we have set up a variety of learning groups that are beginner-friendly. 
+Every week, about 30% of our attendees are brand new. They’ve never been to a hack night before. We want to orient them and get them onboarded to breakout groups. To this end, Christopher Whitaker runs his Civic Tech 101 session, and we have set up a variety of learning groups that are beginner-friendly. 
 
 The newbies may not come back next week, but we try our best to make sure everyone always gets something out of our events.
 
@@ -194,7 +194,7 @@ The newbies may not come back next week, but we try our best to make sure everyo
 
 As we’ve grown, our community has changed. We’re not just 4 nerds sitting around a table anymore, and it’s important to hear from everyone if they have feedback to give. 
 
-To facilitate this, we have been running open [Leadership Council meetings](http://chihacknight.org/leadership-council.html) every month. Anyone is welcome to join and discuss new ideas and ways to make the hack night better.
+To facilitate this, we have been running open [Leadership Council meetings](http://chihacknight.org/leadership-council.html) every month since summer 2014. Anyone is welcome to join and discuss new ideas and ways to make the hack night better.
 
 We took this another step further in September and held our first [community feedback session](http://chihacknight.org/blog/2015/09/23/results-of-our-community-feedback-session.html).
 
