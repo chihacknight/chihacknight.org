@@ -8,7 +8,7 @@ description: "Participatory action reseach is a approach to research that collab
 speakers:
  - Dr. Dave Stovall, UIC
 image: /images/events/184-stovall.jpg
-date: 2015-12-08T18:00:00-05:00
+date: 2015-12-08T18:00:00-06:00
 event_id: 184
 youtube_id: 
 agenda: https://docs.google.com/document/d/1Ei_bImdIMmTWbeEqE2CogCyB4Dh2OIe7WqBWa8J7RJM/edit#
