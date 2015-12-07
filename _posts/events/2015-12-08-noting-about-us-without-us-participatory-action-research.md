@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-title: "Noting About Us Without Us: Participatory Action Research"
+title: "Nothing About Us Without Us: Participatory Action Research"
 description: "Participatory action reseach is a approach to research that collaborates with communities to understand the world and to change it. Dr. Dave Stovall, Professor of African American Studies and Educational Policy Studies at UIC, practices this method in his work and will help us think about some of the ethical challenges of arms-length research."
 speakers:
  - Dr. Dave Stovall, UIC
