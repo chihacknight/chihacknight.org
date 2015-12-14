@@ -14,6 +14,12 @@ author2_image:
 published: true
 ---
 
+__Update:__ There is now a video edition of this blog post thanks to the kind folks over at [Webucator](https://www.webucator.com/programming/python.cfm) Check it out!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIe7ES7N6Xk" frameborder="0" allowfullscreen></iframe>
+
+---
+
 <p>Web scraping is the task of extracting data from a website. It&rsquo;s a nifty skill in any technologist&rsquo;s toolkit because interesting data isn&rsquo;t always accessible via an API or in a table/csv - sometimes, interesting data is just sitting on a webpage.</p>
 <p><!-- more --></p>
 <p>Just about any information that can be viewed in a browser can be scraped and stored for further data analysis. Web pages are scrape-able because the content on any web page is structured with HTML. For anyone who isn&rsquo;t familiar with HTML, see&nbsp;<a href="http://www.w3schools.com/html/html_intro.asp">http://www.w3schools.com/html/html_intro.asp</a></p>
@@ -66,4 +72,4 @@ published: true
 <li><a href="http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/">A basic tutorial on Pandas</a></li>
 </ul><p><strong>About the Author</strong></p>
 <p>My name is Zaynaib Giwa. I am a Masters student at the University of Illinois. When I am not working on data projects, I read comic books in my spare time.</p>
-<p><a href="https://zenagiwa.wordpress.com/">blog</a></p>
+<p><a href="https://zenagiwa.wordpress.com/">Zaynaib's blog</a></p>
