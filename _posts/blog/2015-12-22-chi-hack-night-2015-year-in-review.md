@@ -41,7 +41,7 @@ To start things off, here’s some data about Chi Hack Night for 2015:
 
 **Open Gov Hack Night becomes Chi Hack Night**
 
-<p><img src="/images/logo/logo.png" alt="Chi Hack Night" /></p>
+<p><img src="/images/logo/logo.png" alt="Chi Hack Night" class='img-responsive'/></p>
 
 Since we started 3 ½ years and 185 events ago, our event has grown into a community all its own. We emerged out of the[ Open Government movement](http://radar.oreilly.com/2011/08/chicago-data-apps-open-government.html) here in Chicago, and have become something much more. 
 
@@ -85,11 +85,11 @@ To facilitate this, we held our first [community feedback session](http://chihac
 
 As a volunteer-run organization, the Chi Hack Night relies on the contributions of both our attendees, and our sponsors. Them empanadas ain’t free!
 
-<p><img src="/images/blog/2015-12-22-chi-hack-night-2015-year-in-review/devbootcamp-logo.png" alt="Dev Bootcamp" /></p>
+<p><img src="/images/blog/2015-12-22-chi-hack-night-2015-year-in-review/devbootcamp-logo.png" alt="Dev Bootcamp" class='img-responsive'/></p>
 
 We were thrilled to have [Dev Bootcamp](http://devbootcamp.com/) join as a recurring sponsor in April. Several members of the Chi Hack Night have since enrolled at Dev Bootcamp to level up their development skills, and many of their graduates have become hack night regulars. That’s what I call a virtuous cycle!
 
-<p><img src="/images/blog/2015-12-22-chi-hack-night-2015-year-in-review/msft_logo.png" alt="Microsoft" /></p>
+<p><img src="/images/blog/2015-12-22-chi-hack-night-2015-year-in-review/msft_logo.png" alt="Microsoft" class='img-responsive'/></p>
 
 We’re also happy to announce that starting in 2016 [Microsoft](http://microsoft-chicago.com/) will become a recurring sponsor. A big shout-out to [Adam Hecktman](http://microsoft-chicago.com/author/adam/) for making it happen!
 
