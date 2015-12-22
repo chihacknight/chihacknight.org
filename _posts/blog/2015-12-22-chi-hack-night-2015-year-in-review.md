@@ -65,7 +65,7 @@ At the beginning of the year, [Braintree](http://braintreepayments.com/)  offere
     <small><em>Enjoying the Braintree auditorium!</em></small><br><br></p>
 </div>
 
-With the Braintree space, we’re able to take advantage of their sprawling space including cafeteria area, conference rooms, and auditorium can actually fit all of us together. At our largest event, we were able to fit almost 150 people *comfortably - *which makes a huge difference. 
+With the Braintree space, we’re able to take advantage of their sprawling space including cafeteria area, conference rooms, and auditorium. At our largest event, we were able to fit almost 150 people *comfortably* - which makes a huge difference. 
 
 A huge thanks to Adam Forsyth for inviting us, and the rest of the wonderful staff at Braintree!
 
@@ -168,7 +168,7 @@ The alternate title to this talk was: Instructable:[ Banning petcoke with a comm
 
 <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/MlFPxeDLKkE" width="560"></iframe></p>
 
-**#151 [There Are No Innocents: Data Rebroadcasting and Server-Side Responsibilit**y](http://chihacknight.org/events/2015/04/14/there-are-no-innocents-data-rebroadcasting-and-server-side-responsibility.html)**
+**#151 [There Are No Innocents: Data Rebroadcasting and Server-Side Responsibility](http://chihacknight.org/events/2015/04/14/there-are-no-innocents-data-rebroadcasting-and-server-side-responsibility.html)**
 
 [Karl Fogel](http://www.red-bean.com/kfogel/) of[ Open Tech Strategies, LLC](http://opentechstrategies.com/) and open source fame offered some sobering examples of how merely republishing open data or publicly available information can lead to ethically uncomfortable situations. This led to a great discussion around a framework for handling such situations.
 
@@ -186,7 +186,7 @@ The alternate title to this talk was: Instructable:[ Banning petcoke with a comm
 
 [Tom Schenk](https://twitter.com/tomschenkjr),[ Gene Leynes](https://twitter.com/Geneorama),[ Gerrin Butler](https://twitter.com/gerrinbutler),[ Raed Mansour](https://www.linkedin.com/in/raedmansour) and[ Jon Levy](https://twitter.com/jonopendata) from the City of Chicago debuted their[ predictive model](http://chicago.github.io/food-inspections-evaluation/) used to estimate the riskiest food establishments to assist in the City’s food inspection operations.
 
-The model was released as an[ open source project](https://github.com/chicago/food-inspections-evaluation/) as an example to other other cities, critiqued by other researchers, and improved upon - in the public arena - by the City or others.
+The model was released as an[ open source project](https://github.com/chicago/food-inspections-evaluation/) as an example to other other cities, critiqued by other researchers, and improved upon - in the public arena &mdash; by the City or others.
 
 <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/7-AiIE38M1Q" width="560"></iframe></p>
 
