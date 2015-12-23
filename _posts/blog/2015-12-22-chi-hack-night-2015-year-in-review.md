@@ -31,7 +31,7 @@ To start things off, here’s some data about Chi Hack Night for 2015:
 
 * Largest audience: **152** attendees. A new record is set! The [Data Science for Social Good](http://chihacknight.org/events/2014/07/08/data-science-for-social-good.html) presentation drew the largest crowd this year (pictured above), beating our old record of 120 in 2014.
 
-* We have **160** Slack members. This year, we launched our own Slack community so that we could keep our discussions going from week to week. Want to join? You’ll have to come to a Chi Hack Night!
+* We have **160** Slack members. This year, we launched our own [Slack](https://slack.com) community so that we could keep our discussions going from week to week. Want to join? You’ll have to come to a Chi Hack Night!
 
 * We have **1,300** email subscribers. Our email list continues to grow! [Sign up for it](http://eepurl.com/z65hn) to hear about new events, talk about new projects, civic tech wins, and job postings.
 
@@ -152,7 +152,7 @@ Here are a few of the emerging leaders from 2015:
 
 ## 2015 presentation highlights
 
-37 presentations is a lot, and it’s a real challenge to pick our favorites. We can try, though:
+37 presentations is a lot ([see the full list here](http://chihacknight.org/events/)), and it’s a real challenge to pick our favorites. We can try, though:
 
 **#140 [Slow Roll Chicago](http://chihacknight.org/events/2015/01/27/slow-roll-chicago.html)**
 
