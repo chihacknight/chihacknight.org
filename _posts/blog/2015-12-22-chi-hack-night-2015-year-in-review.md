@@ -16,7 +16,7 @@ published: true
 
 <p class="text-center"><img src="/images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img2.jpg" alt="Introductions at Chi Hack Night" class="img-thumbnail" /><br />
 
-<small><em>The Chi Hack Night</em></small>
+<small><em>Chi Hack Night, July 28 2015</em></small>
 </p>
 
 It’s the end of the year, and time to reflect on all the amazing things we accomplished in 2015 at the Chi Hack Night, Chicago’s place to build, share and learn about civic tech. 
