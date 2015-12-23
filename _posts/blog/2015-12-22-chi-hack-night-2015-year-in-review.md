@@ -143,7 +143,7 @@ Here are a few of the emerging leaders from 2015:
         <p><img src="/images/people/corey_thurman.jpg" alt="Corey Thurman" title="Corey Thurman" class="img-responsive img-rounded" /></p>
     </div>
     <div class='col-sm-10'>
-        <p><strong>Fabian Elliot and Corey Thurman, Black Tech Mecca</strong></p>
+        <p><strong>Fabian Elliott and Corey Thurman, Black Tech Mecca</strong></p>
         <p>Through Black Tech Mecca, Fabian and Corey are striving to transform Chicago into, you guessed it, the black technology Mecca.</p>
         <p>After <a href="http://chihacknight.org/events/2015/09/08/black-tech-mecca.html">presenting in September</a>, they started a breakout group to build a community platform to strengthen connections within the black tech community and collect data to evaluate health of ecosystem.<br /><br /></p>
     </div>
