@@ -158,7 +158,7 @@ Here are a few of the emerging leaders from 2015:
 
 Olatunji Oboi Reed from[ Slow Roll Chicago](http://slowrollchicago.org/) told us a very moving and personal story and how bicycling literally saved his life. This talk spawned the [Chicago Bike Equity Project](http://www.stevevance.net/slowrollchicago/), led by Oboi and Steven Vance at Chi Hack Night, which became one of the most popular breakout groups with over 40 contributors.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/zbZix9lhSdk" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/zbZix9lhSdk" width="100%"></iframe></p>
 
 **#148 [DIY Environmental Monitoring](http://chihacknight.org/events/2015/03/24/diy-environmental-monitoring.html)**
 
@@ -166,19 +166,19 @@ The alternate title to this talk was: Instructable:[ Banning petcoke with a comm
 
 [Benjamin Sugar](http://publiclab.org/profile/bsugar) and [Olga Bautista](https://twitter.com/obauti) told an amazing story how a coalition of community organizations and area residents employed an aerial[ balloon mapping kit](http://publiclab.org/wiki/balloon-mapping) to help [oust open air petcoke facilities](http://www.huffingtonpost.com/2015/02/27/chicago-petcoke-koch-brothers_n_6755040.html%0A%0A) from of their neighborhood in Chicago’s Southeast side.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/MlFPxeDLKkE" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/MlFPxeDLKkE" width="100%"></iframe></p>
 
 **#151 [There Are No Innocents: Data Rebroadcasting and Server-Side Responsibility](http://chihacknight.org/events/2015/04/14/there-are-no-innocents-data-rebroadcasting-and-server-side-responsibility.html)**
 
 [Karl Fogel](http://www.red-bean.com/kfogel/) of[ Open Tech Strategies, LLC](http://opentechstrategies.com/) and open source fame offered some sobering examples of how merely republishing open data or publicly available information can lead to ethically uncomfortable situations. This led to a great discussion around a framework for handling such situations.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/phyx2FtfNd0" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/phyx2FtfNd0" width="100%"></iframe></p>
 
 **#152 [American Civil Liberties Union of Illinois](http://chihacknight.org/events/2015/04/21/american-civil-liberties-union-of-illinois.html)**
 
 [Karen Sheley](https://www.linkedin.com/pub/karen-sheley/6/bb5/239), staff attorney at the[ American Civil Liberties Union of Illinois](http://www.aclu-il.org/), gave an overview of the ACLU’s use of data in Chicago around [CPD Traffic Stops and Resulting Searches in 2013](http://www.aclu-il.org/cpd-traffic-stops-and-resulting-searches-in-2013/), [stop and Frisk in Chicago](http://www.aclu-il.org/stop-and-frisk-in-chicago1/) and [the War on Marijuana in Black and White.](https://www.aclu.org/criminal-law-reform/war-marijuana-black-and-white-report)
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/6kECpjEhKMc" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/6kECpjEhKMc" width="100%"></iframe></p>
 
 [Agenda and meeting notes](https://docs.google.com/document/d/1E-UMMeTSeg7ckaxV5sk7Jkd6BtJDiF6MD3_cYNhBapM/edit#heading=h.k2n8q42nxqhx)
 
@@ -188,7 +188,7 @@ The alternate title to this talk was: Instructable:[ Banning petcoke with a comm
 
 The model was released as an[ open source project](https://github.com/chicago/food-inspections-evaluation/) as an example to other other cities, critiqued by other researchers, and improved upon - in the public arena &mdash; by the City or others.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/7-AiIE38M1Q" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/7-AiIE38M1Q" width="100%"></iframe></p>
 
 [Agenda and meeting notes](https://docs.google.com/document/d/1tnII1U1jIzA-4l05SdFjOMoBw_-fRlbakzQWwI0UPhk/edit#)
 
@@ -206,7 +206,7 @@ In July, DataMade debuted [Chicago’s Million Dollar Blocks](http://chicagosmil
 
 [Dan Cooper](http://www.adler.edu/page/faculty/dan-cooper-ms) discussed his research on the impact of incarceration at the neighborhood level and [Cathy Deng](https://twitter.com/cthydng) gave some practical tips on the process of transforming raw materials — data & text — into an interactive story on the web.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/ElCQRIZ4wBs" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/ElCQRIZ4wBs" width="100%"></iframe></p>
 
 [Agenda and meeting notes](https://docs.google.com/document/d/1ff2SWau4uIMZ2FxQh3mVTK1zgMBIcbawWWLl8yvF7D8/edit#)
 
@@ -228,7 +228,7 @@ We learned all about practical tools to encrypt our data from [Jennifer Helsby](
 
 We went out with a bang for our last talk of the year. [Dr. Dave Stovall](http://aast.uic.edu/aast/people/faculty/david-stovall), Professor of African American Studies and Educational Policy Studies at UIC, covered his work doing youth participatory action research in the context of decades of institutional racism in Chicago. You have to watch the talk to fully appreciate both his style and substance.
 
-<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/PfGzcxep_Uw#t=15m40s" width="560"></iframe></p>
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/PfGzcxep_Uw#t=15m40s" width="100%"></iframe></p>
 
 [Agenda and meeting notes](https://docs.google.com/document/d/1Ei_bImdIMmTWbeEqE2CogCyB4Dh2OIe7WqBWa8J7RJM/edit#)
 
@@ -246,7 +246,7 @@ This year, members of Chi Hack Night had a large presence at the national events
 
 * [CivicTech Forum Japan](http://wired.jp/special/ctf2015/): Christopher Whitaker spoke about how Chi Hack Night is part of Chicago’s larger civic innovation ecosystem at the Civic Tech Forum in Tokyo, Japan. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V7MDrILmMIk?list=PLx4SxLAtmhSMi04PolxhqEFIT94mGJMIt" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/V7MDrILmMIk?list=PLx4SxLAtmhSMi04PolxhqEFIT94mGJMIt" frameborder="0" allowfullscreen></iframe>
 
 ## Here’s to 2016!
 
