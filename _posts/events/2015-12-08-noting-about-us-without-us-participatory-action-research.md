@@ -10,7 +10,7 @@ speakers:
 image: /images/events/184-stovall.jpg
 date: 2015-12-08T18:00:00-06:00
 event_id: 184
-youtube_id: 
+youtube_id: PfGzcxep_Uw
 agenda: https://docs.google.com/document/d/1Ei_bImdIMmTWbeEqE2CogCyB4Dh2OIe7WqBWa8J7RJM/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
