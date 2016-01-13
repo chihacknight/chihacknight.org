@@ -10,7 +10,7 @@ speakers:
 image: /images/events/187-laquan-mcdonald.jpg
 date: 2016-01-12T18:00:00-06:00
 event_id: 187
-youtube_id: 
+youtube_id: tMygEEqVsjQ
 agenda: https://docs.google.com/document/d/1CBAqwnTgkmgI4B8-EcJGkyUxJMJfxNHQ_-NEmgps1tk/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
 published: true
