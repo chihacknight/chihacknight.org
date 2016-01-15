@@ -67,13 +67,13 @@ In Illinois, government agencies must respond to your FOIA request within five b
 
 While anyone can file a FOIA request, there is a specific process that must be followed if you want an official response. To help with that, there are at least three tools Smith mentioned that can be used to make submitting FOIA requests easier:
 
-* [FOIAmachine](http://foiamachine.org) is a tool to catalog your requests and can help you find the right contact to whom to send your request. Additionally it saves your requests, so you can reuse them and have proof that you sent it, and it can generate boilerplate for you, so you can send a properly-formatted request.
+* [FOIA Machine](http://foiamachine.org) is a tool to catalog your requests and can help you find the right contact to whom to send your request. Additionally it saves your requests, so you can reuse them and have proof that you sent it, and it can generate boilerplate for you, so you can send a properly-formatted request.
 
-* [MuckRock](https://www.muckrock.com/), similar to FOIAMachine, but charges a fee and has smart tools to automatically reply to rejection letters.
+* [MuckRock](https://www.muckrock.com/), similar to FOIA Machine, but charges a fee and has smart tools to automatically reply to rejection letters.
 
 * [iFOIA](https://www.ifoia.org), a free tool run by the Reporters Committee for Freedom of the Press
 
-Smith submitted his request via FOIAMachine for any video of the Laquan McDonald shooting. And then he waited for 4 months.
+Smith submitted his request via FOIA Machine for any video of the Laquan McDonald shooting. And then he waited for 4 months.
 
 ## A request becomes a lawsuit
 
@@ -93,7 +93,7 @@ To file the FOIA suit, Smith turned to the civil rights firm, [Loevy and Loevy](
 
 Smith concluded his presentation by encouraging Chi Hack Night members to make more FOIA requests. 
 
-"My #1 advice to make a meaningful FOIA request is to think of something that would be a big news story if the government denied you the information. If the government said, 'No, sorry you can't have that' with whatever excuse they had. You could give that response to a reporter at the Reader and they would write about it."
+"My #1 advice to make a meaningful FOIA request is to think of something that would be a big news story if the government denied you the information. If the government said, 'No, sorry you can't have that' with whatever excuse they had. You could give that response to a reporter at the [a local newspaper] and they would write about it."
 
 <div style='text-align: center;'>
     <p><img src="/images/blog/2016-01-19-freedom-of-information-and-laquan-mcdonald/img5.jpg" alt="Brandon Smith at Chi Hack Night" class='img-thumbnail' /></p>
