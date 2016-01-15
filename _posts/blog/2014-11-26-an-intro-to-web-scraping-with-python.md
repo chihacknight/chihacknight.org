@@ -5,6 +5,7 @@ categories:
 title: "An Intro to Web Scraping with Python"
 description: "Web scraping is the task of extracting data from a website. It’s a nifty skill in any technologist’s toolkit because interesting data isn’t always accessible via an API or in a table/csv - sometimes, interesting data is just sitting on a webpage."
 date: 2014-11-26
+image: /images/blog/2014-11-26-an-intro-to-web-scraping-with-python/img1.png
 author: Zaynaib Giwa
 author_url: https://twitter.com/AmazingSpeciali
 author_image: /images/people/zaynaib_giwa.png

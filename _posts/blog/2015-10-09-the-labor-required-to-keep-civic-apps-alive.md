@@ -5,6 +5,7 @@ categories:
 title: The labor required to keep civic apps alive 
 description: The CPS Tiers map doesn’t update automagically. I volunteer my time to keep it accurate and up to date, and it’s worth doing.
 date: 2015-10-09
+image: /images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img1.png
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg

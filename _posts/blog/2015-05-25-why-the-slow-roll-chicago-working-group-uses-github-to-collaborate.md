@@ -5,6 +5,7 @@ categories:
 title: Why the Slow Roll Chicago working group uses GitHub to collaborate
 description: "Email wasn’t just limiting our discussion quality and member inclusion, it was also limiting file storage, file sharing, and file versioning (which file is the latest?). Email has tended to demand a lot of attention, and there’s a lot of wasted time typing responses. I wanted to use a tool that didn’t have such demands, and that helped organize responses into actionable requests and delegation."
 date: 2015-05-25
+image: /images/events/159-slowroll.png
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg

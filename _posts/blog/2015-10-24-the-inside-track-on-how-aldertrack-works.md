@@ -5,6 +5,7 @@ categories:
 title: The inside track on how Aldertrack works
 description: "Mike Fourcher, founder of Aldertrack, and perpetual “news startup antagonist” (okay, I don’t remember the actual adjective he used), joined his colleague Claudia Morell, a reporter, and us at ChiHackNight on Tuesday night to explain how Aldertrack works."
 date: 2015-10-24
+image: https://farm1.staticflickr.com/677/22363022651_377b19e8fe_z.jpg
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg

@@ -5,6 +5,7 @@ categories:
 title: "Chi Hack Night: 2015 Year in Review"
 description: "It’s the end of the year, and time to reflect on all the amazing things we accomplished in 2015 at the Chi Hack Night, Chicago’s place to build, share and learn about civic tech. Our community has never been as large, as diverse, as engaged and as productive as it is now. We have a lot to be proud of."
 date: 2015-12-22
+image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img8.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg

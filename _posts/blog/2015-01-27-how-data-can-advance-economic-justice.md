@@ -5,6 +5,7 @@ categories:
 title: How Data Can Advance Economic Justice
 description: "At Woodstock Institute, our mission is to advance economic justice, particularly for low-wealth communities and communities of color. To move towards this goal, we prepare data concerning economic justice and empower others to use and understand it. As our national partners at the National Community Reinvestment Coalition say, data drive the movement."
 date: 2015-01-27
+image: /images/blog/2015-01-27-how-data-can-advance-economic-justice/img1.png
 author: Katie Buitrago
 author_url: https://twitter.com/katiebuitrago
 author_image: /images/people/katie_buitrago.jpg

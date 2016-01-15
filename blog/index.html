@@ -15,10 +15,14 @@ description: Blog
 
 {% for post in site.categories['blog'] %}
   <div class='row'>
-    <div class='col-sm-2'>
-      <img class='img-rounded author-headshot hidden-phone' src='{{post.author_image}}' alt='{{ post.title }} by {{post.author}}' />
+    <div class='col-sm-4'>
+      {% if post.image %}
+        <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
+      {% else %}
+        <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
+      {% endif %}
     </div>
-    <div class='col-sm-10'>
+    <div class='col-sm-8'>
       <h4>
         <a href='{{post.url}}'>{{ post.title }}</a>
       </h4>

@@ -5,6 +5,7 @@ categories:
 title: "Freedom of Information and Laquan McDonald"
 description: "The story of how the Laquan McDonald video got released thanks to one curious journalist and the Freedom of Information Act."
 date: 2016-01-19
+image: /images/blog/2016-01-19-freedom-of-information-and-laquan-mcdonald/img5.jpg
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg

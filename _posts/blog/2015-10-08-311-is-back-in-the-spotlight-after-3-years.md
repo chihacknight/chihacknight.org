@@ -5,6 +5,7 @@ categories:
 title: 311 is back in the spotlight after 3 years
 description: "Last week, for budget “season” in Chicago, Mayor Rahm Emanuel proposed privatizing the 311 system – where citizens and aldermen request services from any city department, and citizens get information about city services – as a way to pay for the technology upgrade the system desperately needs."
 date: 2015-10-08
+image: /images/blog/2015-10-08-311-is-back-in-the-spotlight-after-3-years/img1.png
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg

@@ -5,6 +5,7 @@ categories:
 title: 10 lessons from organizing the Chi Hack Night
 description: The Chi Hack Night has been referenced as the largest, most successful and productive civic hacking community around. This post is my first attempt at synthesizing and sharing our organizing model, starting with 10 lessons we've learned over the years. 
 date: 2015-11-23
+image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img0.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
