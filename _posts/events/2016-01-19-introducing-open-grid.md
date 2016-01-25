@@ -11,7 +11,7 @@ speakers:
 image: /images/events/188-open-grid.jpg
 date: 2016-01-19T18:00:00-06:00
 event_id: 188
-youtube_id: 
+youtube_id: Kvs-FcaRFuU
 agenda: https://docs.google.com/document/d/19XLoT2aOPNm-Zx63KDahdB23AmiWO_XFWddg8ruo_g0/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 published: true
