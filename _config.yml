@@ -8,3 +8,4 @@ encoding: utf-8
 timezone: America/Chicago
 gems:
   - jekyll-redirect-from
+future: true
