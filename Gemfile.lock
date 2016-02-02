@@ -133,5 +133,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
+  jekyll (= 2.4.0)
   jekyll-redirect-from
