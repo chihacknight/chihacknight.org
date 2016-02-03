@@ -1,16 +1,20 @@
 # Chi Hack Night
 
-Website for Chicago's weekly Chi Hack Night
+Website for [Chi Hack Night](http://chihacknight.org/).
+
+**Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
 
 ## Running locally
 
+This website is built using Jekyll. You will need to [install it first](http://jekyllrb.com/docs/installation/).
+
 ```console
-git clone https://github.com/open-city/chihacknight.org.git
+git clone https://github.com/chihacknight/chihacknight.org.git
 cd chihacknight.org
-gem install jekyll
-jekyll serve
+jekyll serve -w
 ```
 
+Then open your web browser and navigate to http://localhost:4000
 
 ## Dependencies
 

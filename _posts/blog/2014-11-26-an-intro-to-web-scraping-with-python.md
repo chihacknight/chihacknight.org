@@ -5,6 +5,7 @@ categories:
 title: "An Intro to Web Scraping with Python"
 description: "Web scraping is the task of extracting data from a website. It’s a nifty skill in any technologist’s toolkit because interesting data isn’t always accessible via an API or in a table/csv - sometimes, interesting data is just sitting on a webpage."
 date: 2014-11-26
+image: /images/blog/2014-11-26-an-intro-to-web-scraping-with-python/img1.png
 author: Zaynaib Giwa
 author_url: https://twitter.com/AmazingSpeciali
 author_image: /images/people/zaynaib_giwa.png
@@ -12,6 +13,12 @@ author2:
 author2_url:
 author2_image:
 published: true
+---
+
+__Update:__ There is now a video edition of this blog post thanks to the kind folks over at [Webucator](https://www.webucator.com/programming/python.cfm) Check it out!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIe7ES7N6Xk" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 <p>Web scraping is the task of extracting data from a website. It&rsquo;s a nifty skill in any technologist&rsquo;s toolkit because interesting data isn&rsquo;t always accessible via an API or in a table/csv - sometimes, interesting data is just sitting on a webpage.</p>
@@ -66,4 +73,4 @@ published: true
 <li><a href="http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/">A basic tutorial on Pandas</a></li>
 </ul><p><strong>About the Author</strong></p>
 <p>My name is Zaynaib Giwa. I am a Masters student at the University of Illinois. When I am not working on data projects, I read comic books in my spare time.</p>
-<p><a href="https://zenagiwa.wordpress.com/">blog</a></p>
+<p><a href="https://zenagiwa.wordpress.com/">Zaynaib's blog</a></p>

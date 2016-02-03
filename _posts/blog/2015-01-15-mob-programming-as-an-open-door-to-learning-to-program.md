@@ -5,6 +5,7 @@ categories:
 title: Mob Programming as an Open Door to Learning to Program
 description: "The flourishing of the Civic Tech movement has brought techies and citizens together, using technology to make cities more transparent and better coordinated. The movement’s strength and joy is its diversity - Chicago’s Open Gov Hack Night attracts a wide range of talents and interests each week, from web designers to database managers, data scientists, designers, business intelligence professionals, journalists, government representatives, social science researchers, non-profits and community organizers."
 date: 2015-01-15
+image: /images/blog/2015-01-15-mob-programming-as-an-open-door-to-learning-to-program/tumblr_inline_niw8lyLo3Q1t5bjwt.jpg
 author: Nick Mader
 author_url: https://twitter.com/nickymader
 author_image: /images/people/nick_mader.jpg

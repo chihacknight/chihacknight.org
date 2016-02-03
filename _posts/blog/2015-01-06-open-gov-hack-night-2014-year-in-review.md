@@ -5,6 +5,7 @@ categories:
 title: "Open Gov Hack Night: 2014 Year in Review"
 description: "The Open Gov Hack Night is Chicago’s weekly event to build, share, and learn about civic tech. And, boy, was it ever a place to do just that in 2014. Looking back over the last calendar year, we did a lot - too much to recount in one blog post. But I can hit the highlights!"
 date: 2015-01-06
+image: /images/blog/2015-01-06-open-gov-hack-night-2014-year-in-review/img1.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
@@ -99,6 +100,7 @@ published: true
 <p><strong>Here&rsquo;s to 2015!</strong></p>
 <p><span><span>It&rsquo;s hard to imagine we did so much in just a year. 2015 will bring more presenters, more partners, more civic hackers, more government technology transformation, more citizen advocacy, more democracy. And more fun!</span></span></p>
 <p><span>See you next Tuesday!</span></p>
-<p><span>&nbsp;</span></p>
-<p><strong>About the Author</strong></p>
-<p><span>Derek has been building websites in Chicago since 2005. He is the owner of&nbsp;</span><a href="http://datamade.us/" target="_blank"><span>DataMade</span></a><span>, an open government and open data web consulting company, co-founder of&nbsp;</span><a href="http://opencityapps.org/" target="_blank"><span>Open City</span></a><span>, a collective that makes civic apps with open data, and organizer for the&nbsp;</span><a href="http://chihacknight.org/" target="_blank"><span>Open Gov Hack Night</span></a><span>, a weekly event for building civic technology with open data. He has collaborated on over a dozen open source civic apps including&nbsp;</span><a href="http://secondcityzoning.org/" target="_blank"><span>2nd City Zoning</span></a><span>,&nbsp;</span><a href="http://www.chicagolobbyists.org/" target="_blank"><span>Chicago Lobbyists</span></a><span>,&nbsp;</span><a href="http://lookatcook.com/" target="_blank"><span>Look at Cook</span></a><span>,&nbsp;</span><a href="http://chicagocouncilmatic.org/" target="_blank"><span>Chicago Councilmatic</span></a><span>&nbsp;and&nbsp;</span><a href="https://github.com/datamade" target="_blank"><span>Dedupe</span></a><span>.</span></p>
+
+### About the author
+
+Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at [DataMade](http://datamade.us), a company that tells stories and builds tools with data, co-founder of [Open City](http://opencityapps.org), a collective that makes civic apps to to improve transparency and understanding of our government, and lead organizer for the [Chi Hack Night](http://chihacknight.org), Chicago's weekly event for building civic technology with open data.

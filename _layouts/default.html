@@ -40,10 +40,11 @@
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
       <meta content="{{ site.url }}/about-us/" property="article:author">
     {% endif %}
+
     {% if page.image %}
-      <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}{{page.image}}" property="og:image">
     {% else %}
-      <meta content="{{ site.url }}/images/logo/logo.png" property="og:image">
+      <meta content="{{ site.url }}/images/logo/logo-star-avatar.png" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
@@ -73,11 +74,7 @@
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
-    {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
-    {% else %}
-      <meta name="twitter:image:src" content="{{ site.url }}/images/logo/logo.png">
-    {% endif %}
+    <meta name="twitter:image:src" content="{{ site.url }}/images/logo/logo-star-avatar.png">
 
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://chihacknight.org/apple-touch-icon-144x144.png" />
@@ -90,7 +87,7 @@
     
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.flatly.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.css">
 
@@ -137,10 +134,9 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               <li><a href='/events/index.html'>Past events</a></li>
-              <li><a href='/breakouts.html'>Breakouts</a></li>
-              <li><a href='/about.html'>About</a></li>
-              <li><a href='/community.html'>Community</a></li>
+              <li><a href='/breakouts.html'>Breakout groups</a></li>
               <li><a href='/blog/index.html'>Blog</a></li>
+              <li><a href='/about.html'>About</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -158,11 +154,19 @@
     <footer class="footer">
       <div class="container">
         <div class='row'>
-          <div class='col-sm-2 col-sm-offset-3'>
+          <div class='col-sm-2 col-sm-offset-1'>
             <small>
-              <strong><a href="/events/index.html">Events</a></strong><br />
+              <strong><a href="/events/index.html">Past events</a></strong><br />
               <a href="/breakouts.html">Breakout groups</a><br />
               <a href="/code-of-conduct.html">Code of Conduct</a><br />
+            </small>
+          </div>
+          <div class='col-sm-2'>
+            <small>
+              <strong><a href="/blog/index.html">Blog</a></strong><br />
+              <a href="/community.html">Community</a><br />
+              <a href="/open-source-projects.html">Open source projects</a><br />
+              <a href="/resources.html">Data & resources</a>
             </small>
           </div>
           <div class='col-sm-2'>
@@ -170,21 +174,21 @@
               <strong><a href="/about.html">About</a></strong><br />
               <a href='/contact.html'>Contact</a><br />
               <a href="/leadership-council.html">Leadership Council</a><br />
+              <a href='/speaker-submissions.html'>Speaker submissions</a>
+            </small>
+          </div>
+          
+          <div class='col-sm-2'>
+            <small>
+              <strong>Elsewhere</strong><br /> 
+              <i class='fa fa-youtube'></i> <a href="https://www.youtube.com/channel/UC5aFBZOvtseFQWib1kILbpA">YouTube channel</a><br />
+              <i class='fa fa-twitter'></i> <a href="https://twitter.com/chihacknight" target='_blank'>Twitter</a><br />
+              <i class='fa fa-github'></i> <a href="https://github.com/chihacknight/chihacknight.org/" target='_blank'>GitHub</a>
             </small>
           </div>
           <div class='col-sm-2'>
             <small>
-              <strong><a href="/community.html">Community</a></strong><br />
-              <a href="/open-source-projects.html">Open source projects</a><br />
-              <a href="/open-source-people.html">Open source people</a><br />
-              <a href="/resources.html">Data & Resources</a>
-            </small>
-          </div>
-          <div class='col-sm-2'>
-            <small>
-              <strong><a href="/blog/index.html">Blog</a></strong><br />
-              <i class='fa fa-twitter'></i> <a href="https://twitter.com/chihacknight">@ChiHackNight</a><br />
-              &copy; 2015 Chi Hack Night
+              &copy; 2016 Chi Hack Night
             </small>
           </div>
         </div>
