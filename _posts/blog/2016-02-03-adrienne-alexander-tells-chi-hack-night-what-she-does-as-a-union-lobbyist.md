@@ -21,7 +21,7 @@ published: true
     <small><em>Adrienne Alexander speaking to Chi Hack Night at Braintree. Photo by Chris Whitaker.</em></small>
 </p>
 
-Adrienne Alexander, or [@DriXander](https://twitter.com/drixander) on Twitter, came to Chi Hack Night last night to tell us about her experience as a lobbyist working for the state’s largest public employees union. She lobbies the Chicago City Council and the Illinois state legislature for bills and budget modifications that would impact the members of the American Federation of State, County and Municipal Employees [Council 31](http://www.afscme31.org).
+Adrienne Alexander, or [@DriXander](https://twitter.com/drixander) on Twitter, came to Chi Hack Night last night to tell us about her experience as a lobbyist working for one of the state’s largest public employee unions. She lobbies the Chicago City Council and the Illinois state legislature for bills and budget modifications that would impact the members of the American Federation of State, County and Municipal Employees [Council 31](http://www.afscme31.org).
 
 Members of AFSCME (afs-me) are staff at numerous Chicago city departments and in state government. Alexander watches new bills that come in and analyzes what their impact might have on its members.
 
