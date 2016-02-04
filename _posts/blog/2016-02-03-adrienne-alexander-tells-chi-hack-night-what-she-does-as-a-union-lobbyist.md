@@ -49,7 +49,7 @@ There’s a good reason – for them –in all of this, she explained. "You can 
 
 Alexander gave some advice to Chi Hack Night members who are building tools that explain why some policies aren’t working and should change. Claire Micklin asked how to get alders to "mobilize on and care about policy issues, and can they affect policy change from the ground up if the mayor isn’t necessarily generating or supporting that policy issue?"
 
-Micklin led the development of "My Building Doesn’t Recycle", a map where Chicagoans can report that their multi-unit building doesn’t have a third-party recycling service (required if the tenants of a building with 5 or more units request it).
+Micklin led the development of [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/), a map where Chicagoans can report that their multi-unit building doesn’t have a third-party recycling service (required if the tenants of a building with 5 or more units request it).
 
 Alexander said "I think there’s not so much a culture of [alders generating their own policy initiatives] here, but I think it’s possible".
 
