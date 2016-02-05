@@ -3,6 +3,7 @@ layout: event
 categories: 
   - events
 links:
+ - <a href='http://chihacknight.org/blog/2016/02/03/adrienne-alexander-tells-chi-hack-night-what-she-does-as-a-union-lobbyist.html'>Adrienne Alexander tells Chi Hack Night what she does as a union lobbyist</a>, Chi Hack Night Blog
 title: Lobbying Chicago City Council
 description: "Adrienne Alexander, Policy & Legislative Specialist for the American Federation of State, County and Municipal Employees (AFSCME) Council 31, will discuss her experience with the policy process in Chicago over the past five years."
 speakers:

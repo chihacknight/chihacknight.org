@@ -17,7 +17,7 @@ published: true
 
 <p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/YK7Q2nxKYsI" width="100%"></iframe></p>
 
-Adrienne Alexander, or [@DriXander](https://twitter.com/drixander) on Twitter, came to Chi Hack Night last night to tell us about her experience as a lobbyist working for one of the state’s largest public employee unions. She lobbies the Chicago City Council and the Illinois state legislature for bills and budget modifications that would impact the members of the American Federation of State, County and Municipal Employees [Council 31](http://www.afscme31.org).
+Adrienne Alexander, or [@DriXander](https://twitter.com/drixander) on Twitter, [came to Chi Hack Night last night](/events/2016/02/02/lobbying-chicago-city-council.html) to tell us about her experience as a lobbyist working for one of the state’s largest public employee unions. She lobbies the Chicago City Council and the Illinois state legislature for bills and budget modifications that would impact the members of the American Federation of State, County and Municipal Employees [Council 31](http://www.afscme31.org).
 
 Members of AFSCME (afs-me) are staff at numerous Chicago city departments and in state government. Alexander watches new bills that come in and analyzes what their impact might have on its members.
 

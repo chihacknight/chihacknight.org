@@ -2,7 +2,8 @@
 layout: event
 categories: 
   - events
-links:
+links: 
+ - <a href='http://chihacknight.org/blog/2016/01/19/freedom-of-information-and-laquan-mcdonald.html'>Freedom of Information and Laquan McDonald</a>, Chi Hack Night Blog
 title: How the Laquan McDonald video got released
 description: "Brandon Smith, the independent journalist whose successful lawsuit forced the release of the Laquan McDonald video, will talk about his efforts to get it released, the effect it has had in Chicago, and the importance of having citizens understand how to get information via the Freedom of Information Act (FOIA) to keep our government accountable."
 speakers:
