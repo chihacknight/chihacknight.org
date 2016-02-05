@@ -39,10 +39,10 @@ layout: default
         {% endif %}
         <br />
         {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/">RSVP</a>
+          <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'>RSVP</a>
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle'></i> Details</a>
-        <a class='btn btn-link btn-lg' href="{{post.agenda}}"><i class='fa fa-file-text-o'></i> Agenda</a>
+        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
       </div>
       <div class='col-sm-5'>
         {% if post.image %}
