@@ -15,11 +15,7 @@ author2_image:
 published: true
 ---
 
-<p class="text-center">
-    <img src="/images/blog/2016-02-03-adrienne-alexander-tells-chi-hack-night-what-she-does-as-a-union-lobbyist/img1.jpg" alt="Adrienne Alexander speaking to Chi Hack Night at Braintree. Photo by Chris Whitaker." class="img-thumbnail" /><br />
-
-    <small><em>Adrienne Alexander speaking to Chi Hack Night at Braintree. Photo by Chris Whitaker.</em></small>
-</p>
+<p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/YK7Q2nxKYsI" width="100%"></iframe></p>
 
 Adrienne Alexander, or [@DriXander](https://twitter.com/drixander) on Twitter, came to Chi Hack Night last night to tell us about her experience as a lobbyist working for one of the state’s largest public employee unions. She lobbies the Chicago City Council and the Illinois state legislature for bills and budget modifications that would impact the members of the American Federation of State, County and Municipal Employees [Council 31](http://www.afscme31.org).
 
