@@ -3,6 +3,7 @@ layout: event
 categories: 
   - events
 links:
+ - "<a href='http://news.medill.northwestern.edu/chicago/video-chicago-hack-night-gets-involved-in-illinois-use-of-technology/'>VIDEO: Chicago Hack Night gets involved in Illinois’ use of technology</a>, Medill Reports"
 title: Transforming Technology in the State of Illinois
 description: "The State of Illinois is currently going through a major transformation. While technology plays a critical role in this change, the technology that government uses is undergoing a transformation of its own. Hardik Bhatt, Chief Information Officer for the State of Illinois, will talk about the technology changes the State of Illinois is undertaking, centered around building a data analytics practice"
 speakers:
@@ -10,7 +11,7 @@ speakers:
 image: /images/events/191-hardik-bhatt.jpg
 date: 2016-02-09T18:00:00-06:00
 event_id: 191
-youtube_id: 
+youtube_id: hzEPbJ1Zb0M
 agenda: https://docs.google.com/document/d/1o8CVeHPjKw6hEWiIOXqrbzDAwSOfZuLz69cXpDpwQXI/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 published: true
