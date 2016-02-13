@@ -20,7 +20,7 @@ published: true
 <small><em>Candidates for Cook County State's Attorney: Anita Alvarez, Donna More, Kim Foxx and Christopher E. K. Pfannkuche</em></small>
 </p>
 
-Chi Hack Night is inviting every candidate for the Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data. 
+Chi Hack Night is inviting every candidate for Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data. 
 
 Below is the invitation to all candidates, as well as the text of the Open Data Pledge.
 
@@ -35,7 +35,7 @@ Chi Hack Night ([http://chihacknight.org/](http://chihacknight.org/)) is a group
 
 We volunteer every week to build tools to support and serve the public good. Open government data makes it possible for us to do this work. 
 
-Chi Hack Night is inviting every candidate for the Cook County State’s Attorney to sign a pledge (attached) to, if elected, commit their office to publish open data. All candidates are invited to Chi Hack Night on February 23rd, 2016 where they will have an opportunity to address the Chi Hack Night community and sign the pledge in person.
+Chi Hack Night is inviting every candidate for Cook County State’s Attorney to sign a pledge (attached) to, if elected, commit their office to publish open data. All candidates are invited to Chi Hack Night on February 23rd, 2016 where they will have an opportunity to address the Chi Hack Night community and sign the pledge in person.
 
 **Chi Hack Night**<br />
 Cook County State’s Attorney Open Data Pledge<br />
