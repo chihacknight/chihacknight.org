@@ -52,3 +52,5 @@ Lead Organizer, Chi Hack Night
 
 ### Open Data Pledge
 <iframe frameborder="1" height="1000" width="100%" src="https://docs.google.com/document/d/1vXzEXRa_8EWDPBJxiQOqMGtSlijokeIWK9gC9L2-jMI/pub?embedded=true"></iframe>
+
+The open data pledge was drafted by Steve Ediger, Steven Vance and Derek Eder, with contributions by Rebecca Williams, Dominic Mauro and Christopher Whitaker.
