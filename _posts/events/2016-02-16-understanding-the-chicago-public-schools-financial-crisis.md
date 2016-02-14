@@ -11,7 +11,7 @@ image: /images/events/192-heather-gillers.jpg
 date: 2016-02-16T18:00:00-06:00
 event_id: 192
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1YXudd-LPWRspduxedfkwwOt6aALDJY-v7A9I9t567Go/edit#
 sponsor: <a href='http://datamade.us/'>DataMade</a>
 published: true
 ---
