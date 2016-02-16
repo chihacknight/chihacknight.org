@@ -26,9 +26,9 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 ### Update: candidate responses
 
-* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** - Responded on February 13 and committed to signing the pledge 
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** - Responded on February 13, 2016 and committed to signing the pledge 
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kim Foxx** - Signed on February 16, 2016
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Kim Foxx - No response yet
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Christopher E. K. Pfannkuche - No response yet
 
 ### Invitation to all candidates
