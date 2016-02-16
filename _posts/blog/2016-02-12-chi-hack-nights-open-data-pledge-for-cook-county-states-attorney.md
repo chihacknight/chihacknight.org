@@ -58,6 +58,16 @@ Derek Eder<br />
 Lead Organizer, Chi Hack Night
 
 ### Open Data Pledge
-<iframe frameborder="1" height="1000" width="100%" src="https://docs.google.com/document/d/1vXzEXRa_8EWDPBJxiQOqMGtSlijokeIWK9gC9L2-jMI/pub?embedded=true"></iframe>
+
+Here is the open data pledge, with signatures from the candidates collected so far.
+
+<p class="text-center">
+    <a href='/docs/CookCountyStatesAttorney-OpenDataPledge-More-Foxx.pdf'><img src="/images/blog/2016-02-12-chi-hack-nights-open-data-pledge-for-cook-county-states-attorney/open-data-pledge.jpg" alt="Open Data Pledge for Cook County State's Attorney" class="img-thumbnail" /></a>
+    <br />
+
+    <a href='/docs/CookCountyStatesAttorney-OpenDataPledge-More-Foxx.pdf'>Download the pledge (PDF)</a>
+</p>
+
+You can also <a href='https://docs.google.com/document/d/1vXzEXRa_8EWDPBJxiQOqMGtSlijokeIWK9gC9L2-jMI/edit'>view the original pledge in Google Docs</a>.
 
 The open data pledge was drafted by Steve Ediger, Steven Vance and Derek Eder, with contributions by Rebecca Williams, Dominic Mauro and Christopher Whitaker.
