@@ -31,6 +31,12 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez (D) - No response yet
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Christopher E. K. Pfannkuche (R) - No response yet
 
+### What does the State's Attorney do?
+
+The Cook County State's Attorney's Office is the second largest prosecutor's office in the United States. The office has nearly 900 attorneys and 1,600 employees, and has an [annual operating budget of $103 million](http://lookatcook.com/#!/?year=2015&fund=&controlOfficer=States+Attorney). 
+
+The State's Attorney's Office prosecute all misdemeanor and felony crimes committed in Cook County and also file legal actions to enforce child support orders, protect consumers and the elderly from exploitation, and assist thousands of victims of domestic violence every year. Anita Alvarez is the current officeholder.
+
 ### Invitation to all candidates
 
 To: Anita Alvarez, Kim Foxx, Donna More, Christopher E. K. Pfannkuche<br />

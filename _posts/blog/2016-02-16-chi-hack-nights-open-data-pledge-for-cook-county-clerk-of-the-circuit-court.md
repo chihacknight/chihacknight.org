@@ -36,6 +36,14 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Jacob Meister (D) - No response yet
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Diane S. Shapiro (R) - No response yet
 
+### What does the Clerk of the Circuit Court do?
+
+The Clerk of the Circuit Court is the official keeper of records for the [Circuit Court of Cook County](https://en.wikipedia.org/wiki/Circuit_Court_of_Cook_County), the second largest court system in the United States. The court manages over 2.4 million cases every year. The Clerk’s office is responsible for managing an [annual operating budget of $96 million](http://lookatcook.com/#!/?year=2015&fund=&controlOfficer=Clerk+of+the+Circuit+Court) and has a workforce of over 1,800 employees. Dorothy Brown is the current officeholder.
+
+Records maintained by the Clerk are not subject to the Freedom of Information Act (FOIA). Although the court implemented as electronic filing system several years ago, their [open records policy](http://www.cookcountyclerkofcourt.org/gifs/PUBLICACCESS.pdf) only covers records in hard copy paper format and all records requests must be filed in person or by fax. 
+
+[Modernization of the court system](https://www.civicfed.org/civic-federation/whycareaboutcookcounty) remains an ongoing issue. Sometimes critical court papers [have gone missing](http://www.huffingtonpost.com/2013/10/24/cook-county-clerk-office_n_4156061.html). A modern, transparent open data policy would contribute to the push for a modern court system with [better communication, fewer errors, and lower costs](http://articles.chicagotribune.com/2013-10-04/news/ct-perspec-1004-zorn-20131004_1_justice-system-writ-branch-court). 
+
 ### Invitation to all candidates
 
 To: Dorothy A. Brown, Michelle A. Harris, Jacob Meister<br />
