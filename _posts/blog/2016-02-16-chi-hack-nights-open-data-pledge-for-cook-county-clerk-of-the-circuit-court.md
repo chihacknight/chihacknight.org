@@ -15,9 +15,14 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/clerk-of-the-circuit-court-candidates.jpg" alt="Candidates for Cook County Clerk of the Circuit Court: Jacob Meister, Dorothy A. Brown and Michelle A. Harris" class="img-thumbnail" /><br />
+<p class="text-center"><img src="/images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/clerk-of-the-circuit-court-candidates.jpg" alt="Candidates for Cook County Clerk of the Circuit Court: Jacob Meister (D), Dorothy A. Brown (D), Michelle A. Harris (D) and Diane S. Shapiro (R)" class="img-thumbnail" /><br />
 
-<small><em>Candidates for Cook County Clerk of the Circuit Court: Jacob Meister, Dorothy A. Brown and Michelle A. Harris<br />Photo by Nancy Stone, Antonio Perez, <a href='http://www.chicagotribune.com/news/local/politics/ct-cook-county-circuit-court-clerk-poll-0202-20160201-story.html'>Chicago Tribune</a></em></small>
+<small>
+    <em>Candidates for Cook County Clerk of the Circuit Court
+        <br />Jacob Meister (D), Dorothy A. Brown (D), Michelle A. Harris (D) and Diane S. Shapiro (R)
+        <br />Photo by Nancy Stone, Antonio Perez, <a href='http://www.chicagotribune.com/news/local/politics/ct-cook-county-circuit-court-clerk-poll-0202-20160201-story.html'>Chicago Tribune</a>
+    </em>
+</small>
 </p>
 
 With the initial success of our [open data pledge for Cook County State's Attorney](/blog/2016/02/12/chi-hack-nights-open-data-pledge-for-cook-county-states-attorney.html), Chi Hack Night is turning our attention to another important county race. We're inviting every candidate for Cook County Clerk of the Circuit Court to sign a pledge to, if elected, commit their office to publish open data.
@@ -26,9 +31,10 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 ### Candidate responses
 
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Dorothy A. Brown - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Michelle A. Harris - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Jacob Meister - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Dorothy A. Brown (D) - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Michelle A. Harris (D) - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Jacob Meister (D) - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Diane S. Shapiro (R) - No response yet
 
 ### Invitation to all candidates
 

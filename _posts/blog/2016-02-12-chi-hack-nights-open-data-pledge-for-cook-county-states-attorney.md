@@ -17,7 +17,7 @@ published: true
 
 <p class="text-center"><img src="/images/blog/2016-02-12-chi-hack-nights-open-data-pledge-for-cook-county-states-attorney/cook-county-states-attorney.jpg" alt="Introductions at Chi Hack Night" class="img-thumbnail" /><br />
 
-<small><em>Candidates for Cook County State's Attorney: Anita Alvarez, Donna More, Kim Foxx and Christopher E. K. Pfannkuche</em></small>
+<small><em>Candidates for Cook County State's Attorney: Anita Alvarez (D), Donna More (D), Kim Foxx (D) and Christopher E. K. Pfannkuche (R)</em></small>
 </p>
 
 Chi Hack Night is inviting every candidate for Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data. 
@@ -26,10 +26,10 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 ### Update: candidate responses
 
-* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** - Responded on February 13, 2016 and signed on February 16, 2016
-* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kim Foxx** - Signed on February 16, 2016
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Christopher E. K. Pfannkuche - No response yet
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** (D) - Responded on February 13, 2016 and signed on February 16, 2016
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kim Foxx** (D) - Signed on February 16, 2016
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez (D) - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Christopher E. K. Pfannkuche (R) - No response yet
 
 ### Invitation to all candidates
 
