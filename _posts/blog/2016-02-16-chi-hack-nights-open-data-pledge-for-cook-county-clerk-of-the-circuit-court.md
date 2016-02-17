@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night's Open Data Pledge for Cook County Clerk of the Circuit Court"
-description: "Chi Hack Night is inviting every candidate for the Cook County Clerk of the Circuit Court to sign a pledge to, if elected, commit their office to publish open data."
+description: "With the initial success of our open data pledge for Cook County State’s Attorney, Chi Hack Night is turning our attention to another important county race. We’re inviting every candidate for Cook County Clerk of the Circuit Court to sign a pledge to, if elected, commit their office to publish open data."
 date: 2016-02-16
 image: /images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/clerk-of-the-circuit-court-candidates.jpg
 author: Derek Eder
