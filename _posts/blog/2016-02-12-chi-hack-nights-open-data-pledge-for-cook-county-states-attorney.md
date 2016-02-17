@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night's Open Data Pledge for Cook County State’s Attorney"
-description: "Chi Hack Night is inviting every candidate for the Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data at attend Chi Hack Night on Feb 23rd, 2016."
+description: "Chi Hack Night is inviting every candidate for the Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data and attend Chi Hack Night on Feb 23rd, 2016."
 date: 2016-02-12
 image: /images/blog/2016-02-12-chi-hack-nights-open-data-pledge-for-cook-county-states-attorney/cook-county-states-attorney.jpg
 author: Derek Eder
