@@ -3,8 +3,8 @@ layout: event
 categories: 
   - events
 links:
-title: Open Hack Session
-description: "No presentation this week - just come to build, share, and learn about civic tech!"
+title: Potluck & Open Hack Session
+description: "No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too. While we eat, we'll build, share, and learn about civic tech!"
 speakers:
 image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img8.jpg
 date: 2016-02-23T18:00:00-06:00
@@ -15,7 +15,9 @@ sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
 ---
 
-No presentation this week - just come to build, share, and learn about civic tech!
+No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too.
+
+While we eat, we'll build, share, and learn about civic tech!
 
 #### Leadership Council #21
 
