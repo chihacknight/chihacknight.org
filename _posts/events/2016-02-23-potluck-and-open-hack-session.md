@@ -15,7 +15,7 @@ sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
 ---
 
-No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too.
+No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like to bring drinks, snacks or desserts, [fill out your name and what you're bringing here](https://docs.google.com/spreadsheets/d/1HnuXSSqujGn6FGiIXrJdFZ1RfZmJeHJo8KW__ymOBHQ/edit#gid=0)! We'll provide the usual empanadas too.
 
 While we eat, we'll build, share, and learn about civic tech!
 
