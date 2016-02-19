@@ -19,6 +19,8 @@ No presentation this week. Instead, we're going to have another civic hacking po
 
 While we eat, we'll build, share, and learn about civic tech!
 
+**Note:** this event was originally scheduled to be about the [Chi Hack Night's Open Data Pledge for Cook County State’s Attorney](/blog/2016/02/12/chi-hack-nights-open-data-pledge-for-cook-county-states-attorney.html), but unfortunately not enough candidates were able to attend. Stay tuned for updates on this and our pledge for [Cook County Clerk of the Circuit Court](/blog/2016/02/16/chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court.html)!
+
 #### Leadership Council #21
 
 We will have our **21st** [Chi Hack Night Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
