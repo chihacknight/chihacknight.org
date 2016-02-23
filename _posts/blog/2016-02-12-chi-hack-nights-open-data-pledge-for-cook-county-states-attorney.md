@@ -28,7 +28,7 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** (D) - Responded on February 13, 2016 and signed on February 16, 2016
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kim Foxx** (D) - Signed on February 16, 2016
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez (D) - No response yet
+* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Anita Alvarez (D) - Responded on February 18, 2016. Their legal team is reviewing.
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Christopher E. K. Pfannkuche (R) - No response yet
 
 ### What does the State's Attorney do?
