@@ -31,9 +31,9 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 ### Candidate responses
 
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Jacob Meister** (D) - Signed on February 22, 2016
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Dorothy A. Brown (D) - No response yet
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Michelle A. Harris (D) - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Jacob Meister (D) - No response yet
 * <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Diane S. Shapiro (R) - No response yet
 
 ### What does the Clerk of the Circuit Court do?
@@ -68,10 +68,10 @@ Lead Organizer, Chi Hack Night
 Here is the open data pledge, with signatures from the candidates collected so far.
 
 <p class="text-center">
-    <a href='/docs/CookCountyClerkoftheCircuitCourt-OpenDataPledge.pdf'><img src="/images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/open-data-pledge.jpg" alt="Open Data Pledge for Cook County State's Attorney" class="img-thumbnail" /></a>
+    <a href='/docs/CookCountyClerkoftheCircuitCourt-OpenDataPledge-Meister.pdf'><img src="/images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/open-data-pledge.jpg" alt="Open Data Pledge for Cook County State's Attorney" class="img-thumbnail" /></a>
     <br />
 
-    <a href='/docs/CookCountyClerkoftheCircuitCourt-OpenDataPledge.pdf'>Download the pledge (PDF)</a>
+    <a href='/docs/CookCountyClerkoftheCircuitCourt-OpenDataPledge-Meister.pdf'>Download the pledge (PDF)</a>
 </p>
 
 You can also <a href='https://docs.google.com/document/d/14C1AYK0YRYakXffUDdgc-PPYziUuVs7GJL_hUY6Ain8/edit'>view the original pledge in Google Docs</a>.
