@@ -21,3 +21,11 @@ With the [March 15th Primary](http://www.chicagoelections.com/en/home.html) righ
 [BallotReady](http://ballotready.org) is an online voter guide for local elections. Their mission is to make it easy to vote informed on every candidate.
 
 Alex Niemczewski, CEO of BallotReady, will discuss how big of a problem voting uninformed is: from how overwhelming it is to become informed, to the implications behind how our elected officials come to be elected. She'll also talk about their solution and the collaborative effort it takes to have a lasting impact on our democracy. 
+
+#### Chi Hack Night Survey: Programs & Swag!
+
+We have a quick, 5 question member survey to collect your feedback on our recent presentations and potential Chi Hack Night swag. We'd love to hear from you!
+
+[Take the 5 question survey &raquo;](https://docs.google.com/forms/d/17aPzPYL2bBvvzRm9JCkbaXyeN2xLIAsqOwYAY0IMmDs/viewform)
+
+---
