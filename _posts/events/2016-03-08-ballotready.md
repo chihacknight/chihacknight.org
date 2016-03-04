@@ -20,7 +20,7 @@ With the [March 15th Primary](http://www.chicagoelections.com/en/home.html) righ
 
 [BallotReady](http://ballotready.org) is an online voter guide for local elections. Their mission is to make it easy to vote informed on every candidate.
 
-Alex Niemczewski, CEO of BallotReady, will discuss how big of a problem voting uninformed is: from how overwhelming it is to become informed, to the implications behind how our elected officials come to be elected. She'll also talk about their solution and the collaborative effort it takes to have a lasting impact on our democracy. 
+[Alex Niemczewski](https://twitter.com/alexniemczewski), CEO of BallotReady, will discuss how big of a problem voting uninformed is: from how overwhelming it is to become informed, to the implications behind how our elected officials come to be elected. She'll also talk about their solution and the collaborative effort it takes to have a lasting impact on our democracy. 
 
 ---
 
