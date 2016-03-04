@@ -100,7 +100,7 @@ It would also help to partner with organizations that "know the terrain" around 
 
 The Graffiti Graph team is made up of seven students in the Illinois Institute of Technology’s Interprofessional Projects program, where students from different majors come together to tackle real world problems. The community at Chi Hack Night has been an invaluable learning resource in helping them move the project along. Sometimes, the best way to grow your app is simply to join in on a community that cares about the topic.
 
-### <a name='general-tips'></a>General guerrilla marketing tips
+### <a name='general-tips'></a>General guerilla marketing tips
 
 We hope that the results of this discussion have been helpful and interesting to you. If you want to apply guerilla marketing principles to your own project in a way besides how these case studies are moving forward, we have distilled some adaptable lessons into a nice bulleted list for you.
 
