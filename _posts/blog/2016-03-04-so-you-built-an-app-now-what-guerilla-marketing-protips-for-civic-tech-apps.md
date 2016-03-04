@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "So you built an app, now what? Guerilla marketing protips for civic tech apps"
-description: "With the initial success of our open data pledge for Cook County State’s Attorney, Chi Hack Night is turning our attention to another important county race. We’re inviting every candidate for Cook County Clerk of the Circuit Court to sign a pledge to, if elected, commit their office to publish open data."
+description: "On Feb 23rd 2016, Joel Inwood hosted a one-time breakout session at Chi Hack Night to discuss lean and feedback-centric methods of promoting your civic app. Three participants had their own project that needed some exposure, each of which is described below in the form of a case study that may provide some inspiration. We have generalized some guerilla marketing methods at the end that you should be able to apply to your own project."
 date: 2016-03-04
 image: /images/blog/2016-03-04-so-you-built-an-app-now-what-guerilla-marketing-protips-for-civic-tech-apps/image_0.png
 author: Joel Inwood
