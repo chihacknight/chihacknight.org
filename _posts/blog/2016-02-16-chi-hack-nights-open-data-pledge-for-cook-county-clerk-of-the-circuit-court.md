@@ -32,9 +32,9 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 ### Candidate responses
 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Jacob Meister** (D) - Signed on February 22, 2016
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Dorothy A. Brown (D) - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Michelle A. Harris (D) - No response yet
-* <span style='color: #FFBF22;'><i class='fa fa-fw fa-circle-o'></i></span> Diane S. Shapiro (R) - No response yet
+* <span style='color: #F01B16;;'><i class='fa fa-fw fa-circle-o'></i></span> Dorothy A. Brown (D) - No response
+* <span style='color: #F01B16;;'><i class='fa fa-fw fa-circle-o'></i></span> Michelle A. Harris (D) - No response
+* <span style='color: #F01B16;;'><i class='fa fa-fw fa-circle-o'></i></span> Diane S. Shapiro (R) - No response
 
 ### What does the Clerk of the Circuit Court do?
 
