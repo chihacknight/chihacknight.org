@@ -19,6 +19,8 @@ No presentation this week. Instead, we're going to have another civic hacking po
 
 While we eat, we'll build, share, and learn about civic tech!
 
+---
+
 #### Leadership Council #22
 
 We will have our **22nd** [Chi Hack Night Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
