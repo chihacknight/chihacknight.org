@@ -10,7 +10,7 @@ speakers:
 image: /images/events/196-data-and-political-campaigns.jpg
 date: 2016-03-15T18:00:00-06:00
 event_id: 196
-youtube_id: 
+youtube_id: 2eJRPmZkKS4
 agenda: https://docs.google.com/document/d/1KKaDE3PaG0JUhTrYgLMfKnDkpbYiILOMy35RJyiNtYM/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
