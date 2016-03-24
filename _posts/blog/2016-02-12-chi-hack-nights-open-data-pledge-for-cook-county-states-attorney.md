@@ -24,6 +24,12 @@ Chi Hack Night is inviting every candidate for Cook County State’s Attorney to
 
 Below is the invitation to all candidates, as well as the text of the Open Data Pledge.
 
+### Update: Kim Foxx wins Democratic Primary
+
+On March 15, Kim Foxx [won the Democratic Primary](http://abc7chicago.com/politics/foxx-defeats-alvarez-in-cook-county-states-attorney-primary/1247992/) for Cook County State's Attorney. 
+
+As one of the candidates who signed our open data pledge, we have invited Kim to speak at Chi Hack Night and discuss her data and technology plans for the State's Attorney's office.
+
 ### Update: candidate responses
 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** (D) - Responded on February 13, 2016 and signed on February 16, 2016
