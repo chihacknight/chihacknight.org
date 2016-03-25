@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Heartland Alliance
-description: "Patricio Cadena, Senior Director of Information Technology and Amy Terpstra, Director of Research will talk about their vision for transforming Heartland Alliance into a hub of data- and research-informed innovation for ending poverty. <br /> <br /> They’ll discuss their ideas around developing a cohesive results framework and implementing robust tech solutions–and what about all this keeps them up at night and keeps them pushing forward."
+description: "Patricio Cadena, Senior Director of Information Technology and Amy Terpstra, Director of Research will talk about their vision for transforming Heartland Alliance into a hub of data- and research-informed innovation for ending poverty. They’ll discuss their ideas around developing a cohesive results framework and implementing robust tech solutions–and what about all this keeps them up at night and keeps them pushing forward."
 speakers:
  - Patricio Cadena, Heartland Alliance
  - Amy Terpstra, Heartland Alliance
