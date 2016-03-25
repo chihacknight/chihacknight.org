@@ -12,7 +12,7 @@ image: /images/events/198-heartland-alliance.jpg
 date: 2016-03-29T18:00:00-06:00
 event_id: 198
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1j8infH2PaY6CnPMAAyZ7lmDGgh6bBLbUcZy4DW2nqxU/edit#
 sponsor: <a href='http://hivechicago.org/'>Mozilla Hive Chicago</a>
 published: true
 ---
