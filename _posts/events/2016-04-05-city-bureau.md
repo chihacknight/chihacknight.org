@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: City Bureau 
-description: "City Bureau is a new neighborhood newsroom and journalism training lab based on the South and West sides of Chicago. Built on partnerships with youth media organizations, media outlets, community groups and civic foundations, City Bureau trains high school and early career reporters to report on the city’s most pressing issues. Editorial and education directors Darryl Holliday and Andrea Hart will explore how the group uses data, traditional reporting and a unique collaborative approach in its investigations and civics-based community outreach."
+description: "City Bureau is a new neighborhood newsroom and journalism training lab based on the South and West sides of Chicago. Editorial and education directors Darryl Holliday and Andrea Hart will explore how the group uses data, traditional reporting and a unique collaborative approach in its investigations and civics-based community outreach."
 speakers:
  - Darryl Holliday, City Bureau
  - Andrea Hart, City Bureau
