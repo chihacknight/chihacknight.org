@@ -36,7 +36,7 @@ Instead of a regular presentation, we’re doing lightning talks for Chi Hack Ni
 
 Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world! 
 
-Talks must be 2 minutes or less and slides are mandatory.
+Talks must be 2 minutes or less and slides are mandatory. [Here's a great example of a short talk by Derek Sivers at TEDIndia](http://www.ted.com/talks/derek_sivers_weird_or_just_different).
 
 Between five and ten proposed talks will be picked to present at Chi Hack Night #200 for fame and glory!
 
