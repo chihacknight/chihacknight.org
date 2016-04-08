@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "#200 Celebration: Congratulations from Cook County Government!"
-description: "Cook County is home to what is arguably the country’s largest civic tech community. The heart of this community is arguably Chi Hack Night, whose weekly event regularly draws crowds of over 100. But the crowd that shows up on any given Tuesday night is small compared to the civic tech army who participate in projects and conversations through GitHub."
+description: "Simona Rollinson,  Cook County's Chief Information Officer, offers her congratulations to Chi Hack Night and the broader civic tech ecosystem in Cook County. In addition to providing data and information, she hopes to strengthen the fabric of this community. A strong civic tech community is a public asset."
 date: 2016-04-08
 image: /images/blog/2016-04-08-200-celebration/cook-county-seal.jpg
 author: Simona Rollinson
