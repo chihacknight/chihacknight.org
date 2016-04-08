@@ -11,7 +11,7 @@ speakers:
 image: /images/events/199-city-bureau.png
 date: 2016-04-05T18:00:00-06:00
 event_id: 199
-youtube_id: 
+youtube_id: jBcgQN5UZfI
 agenda: https://docs.google.com/document/d/1rfE-VZGtTqN9c6hkqg8bJGBdZEZYmalx5vMFwTrDr-w/edit#
 sponsor: <a href='https://cartodb.com/'>CartoDB</a>
 published: true
