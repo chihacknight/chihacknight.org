@@ -36,7 +36,7 @@ The presenters are:
 1. <p>The Pension Project - Surprising Lessons in Civics<br /><small><a href='https://www.linkedin.com/in/bengalewsky'>Ben Galewsky</a></small></p>
 1. <p>The story of one, really big, vacant, city owned lot<br /><small><a href='https://twitter.com/evanzanten'>Eric van Zanten</a></small></p>
 1. <p>Microsoft Civic Tech: No Shills Allowed!<br /><small><a href='https://twitter.com/Wei_Too_Good'>Kevin Wei</a></small></p>
-1. <p>What does it meant to leave ego out of it?<br /><small><a href='https://twitter.com/kristil'>Kristi Leach</a></small></p>
+1. <p>What does it mean to leave ego out of it?<br /><small><a href='https://twitter.com/kristil'>Kristi Leach</a></small></p>
 1. <p>The City Is Your Classroom<br /><small><a href='https://twitter.com/vineshgkannan'>Vinesh Kannan</a></small></p>
 1. <p>My Building Doesn't Recycle: The Odyssey<br /><small><a href='https://twitter.com/clairemicklin/'>Claire Micklin</a></small></p>
 1. <p>Guerrilla Marketing for Civic Tech Projects<br /><small><a href='https://twitter.com/joeldinwood'>Joel D. Inwood</a></small></p>
