@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "#200 Celebration: Why I Come to Chi Hack Night"
-description: ""
+description: "I don’t code or design or project manage or map. I am a writer. And an improviser. And sometimes a marketer. And I read a lot of books. Despite that, I have felt so welcome. More importantly, I’ve realized how every problem is interdisciplinary and we need everyone on board—everyone from all backgrounds— to solve them."
 date: 2016-04-09
 image: /images/blog/2016-04-08-200-celebration/emily-drevets-lg.jpg
 author: Emily Drevets
