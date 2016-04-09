@@ -9,7 +9,7 @@ image: /images/blog/2016-04-08-200-celebration/emily-drevets-lg.jpg
 author: Emily Drevets
 author_url: http://www.drevets.co/
 author_image: /images/people/emily-drevets.jpg
-author_bio: "Emily Drevets is a writer, editor, and performer. For $$, she work for a San Francisco-based Internet company. For fun, she writes, improvises, and clowns. Literally."
+author_bio: "Emily Drevets is a writer, editor, and performer. For $$, she works for a San Francisco-based Internet company. For fun, she writes, improvises, and clowns. Literally."
 author2: 
 author2_url: 
 author2_image: 
