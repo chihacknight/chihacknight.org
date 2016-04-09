@@ -9,9 +9,11 @@ image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2: Christopher Whitaker
 author2_url: https://twitter.com/civicwhitaker
 author2_image: /images/people/christopher_whitaker.jpg
+author2_bio: "Christopher Whitaker serves as the Brigade Program Manager for Code for America. Previously, Whitaker worked at the Illinois Department of Employment Security and served with the U.S. Army in Iraq as a mechanized infantryman."
 published: true
 ---
 

@@ -9,6 +9,7 @@ image: /images/blog/2015-01-15-mob-programming-as-an-open-door-to-learning-to-pr
 author: Nick Mader
 author_url: https://twitter.com/nickymader
 author_image: /images/people/nick_mader.jpg
+author_bio: "Nick Mader is a senior researcher at Chapin Hall at the University of Chicago. His day job involves working to improve outcomes for at-risk youth through use of data, statistical methods, and close cooperation with public agencies and non-profits in Chicago. At night he does pretty much the same thing. Sometimes he changes in between."
 author2:
 author2_url:
 author2_image:
@@ -39,6 +40,3 @@ published: true
 <p><span>Second, we need more mobbing sessions to train on any given tool, so that we can keep &ldquo;class sizes&rdquo; down, and <em>create separate tracks for both true beginners as well as those with some experience</em>.</span></p>
 <p><span>While mob programming isn&rsquo;t a technology itself, <em>the underlying methods and ideas are open source</em>. Share it with others, contribute your ideas back us, take it to where you are, or come join us 6pm every Tuesday on the 8th floor of the Merchandise Mart in downtown Chicago.</span></p>
 <p><span>We&rsquo;ll set the timer for you.</span></p>
-
-<p><strong>About the author</strong></p>
-<p>Nick Mader is a senior researcher at Chapin Hall at the University of Chicago. His day job involves working to improve outcomes for at-risk youth through use of data, statistical methods, and close cooperation with public agencies and non-profits in Chicago. At night he does pretty much the same thing. Sometimes he changes in between. If he tweeted, he could be found at <a href="https://twitter.com/nickymader">@NickyMader</a>.</p>

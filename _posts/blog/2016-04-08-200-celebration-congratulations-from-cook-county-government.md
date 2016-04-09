@@ -9,6 +9,7 @@ image: /images/blog/2016-04-08-200-celebration/cook-county-seal.jpg
 author: Simona Rollinson
 author_url: https://www.linkedin.com/in/simonarollinson
 author_image: /images/people/simona-rollinson.jpg
+author_bio: "Simona Rollinson is Cook County's Chief Information Officer. She's in charge of the County Bureau of Technology, which is an office under Cook County Board President Toni Preckwinkle."
 author2: 
 author2_url: 
 author2_image: 
@@ -37,6 +38,3 @@ Cook County’s open government mission isn’t just to inform the public. Ultim
 In addition to providing data and information, we hope to strengthen the fabric of this community. A strong civic tech community is a public asset.
 
 Congratulations Chi Hack Night!
-
-### About the author
-Simona Rollinson is Cook County's Chief Information Officer. She's in charge of the County Bureau of Technology, which is an office under Cook County Board President Toni Preckwinkle.

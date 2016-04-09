@@ -9,6 +9,7 @@ image: /images/blog/2016-02-03-adrienne-alexander-tells-chi-hack-night-what-she-
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg
+author_bio: "Steven Vance is a web developer and transportation planner who writes for Streetsblog Chicago."
 author2: 
 author2_url: 
 author2_image: 

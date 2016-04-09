@@ -9,6 +9,7 @@ image: /images/blog/2015-09-23-results-of-our-community-feedback-session/image1.
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2:
 author2_url:
 author2_image:

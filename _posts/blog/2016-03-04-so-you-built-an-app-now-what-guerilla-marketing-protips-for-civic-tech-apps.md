@@ -9,9 +9,11 @@ image: /images/blog/2016-03-04-so-you-built-an-app-now-what-guerilla-marketing-p
 author: Joel Inwood
 author_url: https://twitter.com/joeldinwood
 author_image: /images/people/joel_inwood.jpg
+author_bio: ""
 author2: Vinesh Kannan
 author2_url: https://twitter.com/vineshgkannan
 author2_image: /images/people/vinesh_kannan.jpg
+author2_bio: ""
 published: true
 ---
 

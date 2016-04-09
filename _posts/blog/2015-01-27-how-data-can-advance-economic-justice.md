@@ -9,6 +9,7 @@ image: /images/blog/2015-01-27-how-data-can-advance-economic-justice/img1.png
 author: Katie Buitrago
 author_url: https://twitter.com/katiebuitrago
 author_image: /images/people/katie_buitrago.jpg
+author_bio: "Katie Buitrago presented at Open Gov Hack Night on Jan 6th, 2015 with her colleague Julianna Nunez. She is the Senior Policy and Communications Associate at Woodstock Institute and a student at the Harris School of Public Policy at the University of Chicago. Katie researches and advocates to limit the negative impacts of harmful student debt, predatory payday loans, the fallout from the foreclosure crisis, and more. Thanks to grad school, she has a newfound love for Stata. You can follow her on Twitter @katiebuitrago.</p>"
 author2:
 author2_url:
 author2_image:
@@ -38,6 +39,3 @@ published: true
 <li><span>Do mortgage denial rates correlate with property values?</span></li>
 <li><span>Has the median age of mortgage borrowers changed over time as young adults are burdened with more and more student debt that may cause them to delay home purchases?</span></li>
 </ul><p>So, check out our data resources, and <span id="docs-internal-guid-3dbc3a60-29fd-7937-9048-e71cd81db91e"><a href="mailto:kbuitrago@woodstockinst.org"><span>share your analyses with us</span></a></span>! We can&rsquo;t wait to see what you do with the data.<br><br></p>
-<hr><p><strong>About the Author</strong></p>
-<p>Katie Buitrago presented at Open Gov Hack Night on Jan 6th, 2015 with her colleague Julianna Nunez. She is the Senior Policy and Communications Associate at Woodstock Institute and a student at the Harris School of Public Policy at the University of Chicago.</p>
-<p>Katie researches and advocates to limit the negative impacts of harmful student debt, predatory payday loans, the fallout from the foreclosure crisis, and more. Thanks to grad school, she has a newfound love for Stata. You can follow her on twitter <a href="https://twitter.com/katiebuitrago" target="_blank">@katiebuitrago</a>.</p>

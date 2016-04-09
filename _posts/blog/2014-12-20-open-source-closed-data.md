@@ -8,6 +8,7 @@ date: 2014-12-20
 author: Hunter Owens
 author_url: https://twitter.com/hunter_owens
 author_image: /images/people/hunter_owens.jpg
+author_bio: "Hunter Owens is a recovering student, urbanism nerd and taco aficionado. When not chronicling the multitude of dive bars in Chicago, Hunter can be found working on Open Source software, Data Stuff and Cities, and maybe complaining about the Weather."
 author2:
 author2_url:
 author2_image:
@@ -28,6 +29,3 @@ published: true
 <li><strong>Open Repo without Data</strong><br>At KIPP NJ, they have a <a href="https://github.com/TEAMSchools/mandi" target="_blank">repository</a> that consists of the database schemas for the entire organization. By open sourcing this, they have provided the way forward for many schools in the KIPP network and outside to adopt the KIPP NJ schema. Although you can not run analysis on the KIPP data, one can get an idea of what data is important to collect and what schemas work. This method works very well from inside institutions.</li>
 <li><strong>Data Documentation</strong><br>Releasing data documentation allows others to build or at least think about what they can do with your data, and can be a way to build partnerships. Because data documentation is pretty easy to get out there, it represents a good first step. Often the US census does this with sensitive data. From there, researchers can request the specific data that they need.</li>
 </ul><p>These methods are ways for organizations to help participate and build a strong technical footing, that ideally allows them to become part of the civic tech community in a deeper, more meaningful way. Open Source, Closed Data is a model with the potential to improve the quality of work at a whole host of institutions.</p>
-
-<p><strong>About the Author</strong></p>
-<p>Hunter Owens is a recovering student, urbanism nerd and taco aficionado. When not chronicling the multitude of dive bars in Chicago, Hunter can be found working on Open Source software, Data Stuff and Cities, and maybe complaining about the Weather. He can be found on twitter <a href="https://twitter.com/hunter_owens" target="_blank">@hunter_owens</a> and encourages you to pester him about this article there.</p>

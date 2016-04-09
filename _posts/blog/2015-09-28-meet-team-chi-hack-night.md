@@ -9,6 +9,7 @@ image: /images/blog/chihacknight-swag.jpg
 author: Christopher Whitaker
 author_url: https://twitter.com/civicwhitaker
 author_image: /images/people/christopher_whitaker.jpg
+author_bio: "Christopher Whitaker serves as the Brigade Program Manager for Code for America. Previously, Whitaker worked at the Illinois Department of Employment Security and served with the U.S. Army in Iraq as a mechanized infantryman."
 author2:
 author2_url:
 author2_image:

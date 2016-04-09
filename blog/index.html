@@ -27,11 +27,11 @@ description: Blog
         <a href='{{post.url}}'>{{ post.title }}</a>
       </h4>
       <p>
-        <small>{{ post.date | date: "%b %d, %Y" }} by 
-          <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
+        <small>{{ post.date | date: "%b %d, %Y" }} by <span class='muted'>{{post.author}}
           {% if post.author2 %}
-            , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
+            , {{post.author2}}
           {% endif %}
+          </span>
         </small>
         <br />
         {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>

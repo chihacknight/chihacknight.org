@@ -9,6 +9,7 @@ image: /images/blog/2016-01-19-freedom-of-information-and-laquan-mcdonald/img5.j
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg
+author_bio: "Steven Vance is a web developer and transportation planner who writes for Streetsblog Chicago."
 author2: 
 author2_url: 
 author2_image: 
@@ -106,4 +107,5 @@ Smith concluded his presentation by encouraging Chi Hack Night members to make m
 And to that end, he announced that he will be leading a "mini FOIA class" at a [voter registration drive](https://twitter.com/muckrakery/status/686909477539348481) this weekend on the South Side. 
 
 *See more from the Q&A with Brandon Smith [on the Chi Hack Night agenda](https://docs.google.com/document/d/1CBAqwnTgkmgI4B8-EcJGkyUxJMJfxNHQ_-NEmgps1tk/edit#)*.
+
 *This post was written by Steven Vance with notes contributed by Eric Chandler and anonymous Chi Hack Night members, and edited by Derek Eder.*
