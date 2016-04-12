@@ -130,4 +130,6 @@ I encourage anyone who has read this far to <a href="http://chihacknight.org/eve
 
 They also may serve as inspiration for a project someone in Chicago, or elsewhere in the world, will develop and apply in the future.
 
-**While I'm not able to stay each week and contribute on the many projects in process**, I'm available to connect between sessions to offer suggestions and/or point people to some of the resources and ideas I share.  Just Tweet me @tutormentorteam.
+**While I'm not able to stay each week and contribute on the many projects in process**, I'm available to connect between sessions to offer suggestions and/or point people to some of the resources and ideas I share.  Just Tweet me <a href='https://twitter.com/tutormentorteam'>@tutormentorteam</a>.
+
+*This was originally posted on [Mapping for Justice](http://mappingforjustice.blogspot.com/2016/03/why-i-attend-chicago-hack-night-events.html) on March 31, 2016.*
