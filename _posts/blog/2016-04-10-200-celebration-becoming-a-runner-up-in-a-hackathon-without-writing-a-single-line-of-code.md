@@ -4,7 +4,7 @@ categories:
   - blog
 title: "#200 Celebration: Becoming a Runner-Up in a Hackathon (without writing a single line of code)
 "
-description: ""
+description: "It was September 2012, and I was reading a description for the Reinventing Chicago event at CNT (Center for Neighborhood Technology) the following month. The cost was $100, which isn’t a huge amount of money, but not exactly pocket change, at least not for me. But just as I was about to enter my payment information, I noticed that hackathon participants could attend for free. Even though I had no idea what a hackathon was, I figured, it was a weekend. How bad could it be?"
 date: 2016-04-10
 image: /images/blog/2016-04-08-200-celebration/hivab.jpg
 author: Audrey Henderson
