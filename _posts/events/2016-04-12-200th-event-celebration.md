@@ -4,9 +4,8 @@ categories:
   - events
 links:
 title: "200th Event Celebration!"
-description: "Happy Birthday Chi Hack Night! This night marks our 200th event to build, share and learn about civic tech! To celebrate this day, we will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes! Come celebrate, eat, build, share, and learn with us!"
+description: "Happy Birthday Chi Hack Night! This night marks our 200th event to build, share and learn about civic tech! To celebrate this day, we will hear from 9 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes! Come celebrate, eat, build, share, and learn with us!"
 speakers:
- - Nick Mader
  - Ben Galewsky
  - Eric van Zanten
  - Kevin Wei
@@ -14,7 +13,6 @@ speakers:
  - Vinesh Kannan
  - Claire Micklin
  - Joel D. Inwood
- - Steven C. Philpott
  - Rene M Paccha
  - Cathy Deng
 image: /images/events/200-cookies.jpg
@@ -28,7 +26,7 @@ published: true
 
 **Happy Birthday Chi Hack Night!** This night marks our 200th event to build, share and learn about civic tech!
 
-To celebrate this day, we will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
+To celebrate this day, we will hear from 9 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
 
 The presenters are:
 
@@ -39,7 +37,6 @@ The presenters are:
 1. <p>The City Is Your Classroom<br /><small><a href='https://twitter.com/vineshgkannan'>Vinesh Kannan</a></small></p>
 1. <p>My Building Doesn't Recycle: The Odyssey<br /><small><a href='https://twitter.com/clairemicklin/'>Claire Micklin</a></small></p>
 1. <p>Guerrilla Marketing for Civic Tech Projects<br /><small><a href='https://twitter.com/joeldinwood'>Joel D. Inwood</a></small></p>
-1. <p>Becoming an Idea Leader in Civic Tech<br /><small><a href='https://www.linkedin.com/in/sphilpott'>Steven C. Philpott</a></small></p>
 1. <p>Code Clinic Lessons Learned<br /><small><a href='https://github.com/renemarcelo/'>Rene M Paccha</a></small></p>
 1. <p>How to avoid apps<br /><small><a href='https://twitter.com/cthydng'>Cathy Deng</a></small></p>
 
