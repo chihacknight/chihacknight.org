@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "#200 Celebration: Why I Attend Chicago Hack Night Events"
-description: ""
+description: "I’ve been attending Chicago Hack Night events for at least 2 years and I’m writing this article to help celebrate their 200th weekly gathering. This image is from May 29, 2016, where the Heartland Alliance presented information. You can see me in the middle, sitting by the wall. That’s my usual spot. Helps me see better."
 date: 2016-04-11
 image: /images/blog/2016-04-08-200-celebration/bassill-1.jpg
 author: Daniel Bassill
