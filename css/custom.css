@@ -200,3 +200,7 @@ a { text-decoration: none !important; }
   position: absolute;
   left: -999em;
 }
+
+.twitter-tweet {
+  margin: auto !important;
+}
