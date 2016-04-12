@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "200th Event Celebration!"
-description: "Happy Birthday Chi Hack Night! This night marks our 200th event to build, share and learn about civic tech! To celebrate this day, we will hear from 11 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes! Come celebrate, eat, build, share, and learn with us!"
+description: "Happy Birthday Chi Hack Night! This night marks our 200th event to build, share and learn about civic tech! To celebrate this day, we will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes! Come celebrate, eat, build, share, and learn with us!"
 speakers:
  - Nick Mader
  - Ben Galewsky
@@ -28,11 +28,10 @@ published: true
 
 **Happy Birthday Chi Hack Night!** This night marks our 200th event to build, share and learn about civic tech!
 
-To celebrate this day, we will hear from 11 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
+To celebrate this day, we will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
 
 The presenters are:
 
-1. <p>Mobbing at Hack Night<br /><small><a href='https://twitter.com/nickymader'>Nick Mader</a></small></p>
 1. <p>The Pension Project - Surprising Lessons in Civics<br /><small><a href='https://www.linkedin.com/in/bengalewsky'>Ben Galewsky</a></small></p>
 1. <p>The story of one, really big, vacant, city owned lot<br /><small><a href='https://twitter.com/evanzanten'>Eric van Zanten</a></small></p>
 1. <p>Microsoft Civic Tech: No Shills Allowed!<br /><small><a href='https://twitter.com/Wei_Too_Good'>Kevin Wei</a></small></p>
