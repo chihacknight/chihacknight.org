@@ -17,7 +17,7 @@ speakers:
  - Steven C. Philpott
  - Rene M Paccha
  - Cathy Deng
-image: /images/events/200-star.png
+image: /images/events/200-cookies.jpg
 date: 2016-04-12T18:00:00-06:00
 event_id: 200
 youtube_id: 
