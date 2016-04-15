@@ -23,8 +23,10 @@ agenda: https://docs.google.com/document/d/1XZNgMfLscDIYdOGK_Cz4Y9YxxET0wLm3XCXW
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 published: true
 ---
+<br />
+**Update!** Check out the [Tales from #200 blog post](/blog/2016/04/15/tales-from-200.html) recapping this event.
 
-<iframe width="100%" height="580" src="https://www.youtube.com/embed/videoseries?list=PL_dBjjdnIbKwKwVpubUbqnbCEDpRoCSeh" frameborder="0" allowfullscreen></iframe>
+---
 
 **Happy Birthday Chi Hack Night!** This night marks our 200th event to build, share and learn about civic tech!
 
