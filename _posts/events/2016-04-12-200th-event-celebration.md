@@ -24,6 +24,8 @@ sponsor: <a href='https://datamade.us/'>DataMade</a>
 published: true
 ---
 
+<iframe width="100%" height="580" src="https://www.youtube.com/embed/videoseries?list=PL_dBjjdnIbKwKwVpubUbqnbCEDpRoCSeh" frameborder="0" allowfullscreen></iframe>
+
 **Happy Birthday Chi Hack Night!** This night marks our 200th event to build, share and learn about civic tech!
 
 To celebrate this day, we will hear from 9 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
