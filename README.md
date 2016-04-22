@@ -4,6 +4,8 @@ Website for [Chi Hack Night](http://chihacknight.org/).
 
 **Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
 
+Hosted by [DataMade](https://datamade.us/) on their [static Jekyll server](https://github.com/datamade/jekyll-hook).
+
 ## Running locally
 
 This website is built using Jekyll. You will need to [install it first](http://jekyllrb.com/docs/installation/).
