@@ -8,7 +8,7 @@ description: "For the past year, the Personalized Bicycle Routing (PBR for short
 speakers:
  - Zane Blanton
 image: /images/events/203-project-pavement.png
-date: 2016-05-02T18:00:00-06:00
+date: 2016-05-03T18:00:00-06:00
 event_id: 203
 youtube_id: 
 agenda: https://docs.google.com/document/d/1YmBNMJPEuNLH1EFgS7g8pTg9yqbxNl423SttYVDVEXo/edit#
