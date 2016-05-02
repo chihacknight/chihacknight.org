@@ -91,7 +91,7 @@ Chi Hack Night has also helped to create a deep knowledge base of lessons learne
 
 I was able to record many of these lessons learned thanks to the support of the Smart Chicago Collaborative. ([I’ve created an Anthology here.](http://www.slideshare.net/smartchicago/the-civicwhitaker-anthology-53351581)) 
 
-Now, Thanks to the support of Microsoft’s Civic Tech Chicago office — Chi Hack Night’s been able to hire Scrappers Film Group to record presentations at Chi Hack Night in high definition on[ Chi Hack Night’s YouTube channel](https://www.youtube.com/channel/UC5aFBZOvtseFQWib1kILbpA/featured). For example, here’s Illinois CIO Hardik Bhatt talking about the future of technology in state government. 
+Now, Thanks to the support of Microsoft’s Civic Tech Chicago office — Chi Hack Night’s been able to hire Scrappers Film Group to record presentations at Chi Hack Night in high definition on[ Chi Hack Night’s YouTube channel](https://www.youtube.com/c/ChiHackNight). For example, here’s Illinois CIO Hardik Bhatt talking about the future of technology in state government. 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/hzEPbJ1Zb0M" frameborder="0" allowfullscreen></iframe>
 
