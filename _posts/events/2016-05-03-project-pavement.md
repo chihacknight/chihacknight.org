@@ -10,7 +10,7 @@ speakers:
 image: /images/events/203-project-pavement.png
 date: 2016-05-03T18:00:00-06:00
 event_id: 203
-youtube_id: 
+youtube_id: kGIMsdWO7tE
 agenda: https://docs.google.com/document/d/1YmBNMJPEuNLH1EFgS7g8pTg9yqbxNl423SttYVDVEXo/edit#
 sponsor: <a href='http://hivechicago.org'>Mozilla Hive Chicago</a>
 published: true
