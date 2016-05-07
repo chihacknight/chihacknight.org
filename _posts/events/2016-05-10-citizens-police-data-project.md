@@ -21,7 +21,7 @@ After a decade-long legal battle, [records of police misconduct in Chicago are n
 
 For the past six months, [the Invisible Institute](http://invisible.institute/) has been building a set of publicly useful interfaces to these data called the [Citizens Police Data Project](http://cpdb.co/), and working with investigative reporters to [tell the stories](http://invisible.institute/police-data/) contained within. 
 
-[Rajiv Sinclair](https://twitter.com/jeeves) and [Chaclyn Hunt](https://twitter.com/ChaclynHunt) will discuss the challenges they've faced so far, the challenges they've faced, and the new questions that they're now focused on. 
+[Rajiv Sinclair](https://twitter.com/jeeves) and [Chaclyn Hunt](https://twitter.com/ChaclynHunt) will discuss the work they've done so far, the challenges they've faced, and the new questions that they're now focused on. 
 
 ---
 
