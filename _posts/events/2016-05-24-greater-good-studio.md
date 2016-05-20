@@ -18,6 +18,6 @@ published: true
 
 The hardest part of running a social sector design studio isn’t what you think.
 
-[Greater Good Studio](http://www.greatergoodstudio.com) is a [human-centered design](http://www.greatergoodstudio.com/approach/) firm focused on social impact. [George Aye](https://twitter.com/georgeaye), co-founder and principle, will talk about the [projects](http://www.greatergoodstudio.com/projects/) they've worked on and challenges they've faced working in the social sector in Chicago.
+[Greater Good Studio](http://www.greatergoodstudio.com) is a [human-centered design](http://www.greatergoodstudio.com/approach/) firm focused on social impact. [George Aye](https://twitter.com/georgeaye), co-founder and principal, will talk about the [projects](http://www.greatergoodstudio.com/projects/) they've worked on and challenges they've faced working in the social sector in Chicago.
 
-He'll also share some of their challenges in starting a new business, from finding the right kinds of talent, to finding themselves in the right side of a relationship and staying true to their mission, as well as the tools they’ve developed to help stay in business without compromising their values.
+He'll also share some of their challenges in starting a new business, from finding the right kinds of talent, to finding themselves on the right side of a relationship and staying true to their mission, as well as the tools they’ve developed to help stay in business without compromising their values.

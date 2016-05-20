@@ -29,7 +29,7 @@ We had been frantically exchanging messages in the days leading up to this speci
 
 > Hold off on attempting to transfer that wall of text into code form; I just realized I have to make a small but really important adjustment. I'll put up the correct version of the algorithm methodology ASAP.
 
-When we got there, sopping wet but filled with hope, we noticed that He had not yet arrived. This wasn’t too uncommon. We all have busy lives outside of our little project. We settled down and had a slice of pizza together. As the hours rolled on, the storm grew stronger. Thunder shook the walls of the old Art Deco Merchandise Mart. Where was he? 
+When we got there, sopping wet but filled with hope, we noticed that he had not yet arrived. This wasn’t too uncommon. We all have busy lives outside of our little project. We settled down and had a slice of pizza together. As the hours rolled on, the storm grew stronger. Thunder shook the walls of the old Art Deco Merchandise Mart. Where was he? 
 
 He never returned. He never returned our emails and slack messages. We never learned what happened to him. We never learned what the fatal flaw in our algorithm was. In time it didn’t matter. One by one, the others began to disappear, too.
 
