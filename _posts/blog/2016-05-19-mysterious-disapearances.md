@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Mysterious Disapearances"
-description: ""
+description: "It was a dark and stormy night. As I trudged through the downpour on the old steel bridge across the Chicago River, I was excited that we had finally reached a breakthrough. For months we had been developing the perfect formula, better than any government or nonprofit throughout the land, for using public data to rate nursing homes."
 date: 2016-05-19
 image: /images/blog/2016-05-19-mysterious-disaperances/gaslight.jpg
 author: Joel Inwood
