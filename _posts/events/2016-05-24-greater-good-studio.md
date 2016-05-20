@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Greater Good Studio"
-description: "The hardest part of running a social sector design studio isn’t what you think. Greater Good Studio is a human-centered design firm focused on social impact. George Aye, co-founder and principle, will talk about the projects they’ve worked on and challenges they’ve faced working in the social sector in Chicago."
+description: "The hardest part of running a social sector design studio isn’t what you think. Greater Good Studio is a human-centered design firm focused on social impact. George Aye, co-founder and principal, will talk about the projects they’ve worked on and challenges they’ve faced working in the social sector in Chicago."
 speakers:
  - George Aye, Greater Good Studio
 image: /images/events/206-greater-good-studio.jpg
