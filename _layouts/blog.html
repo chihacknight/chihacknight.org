@@ -7,7 +7,13 @@ layout: default
     <h2>
       {{ page.title }}
     </h2>
-    <p class='muted'>Published on {{ page.date | date: "%b %-d, %Y" }}</p>
+    <p class='muted'>
+      Published on {{ page.date | date: "%b %-d, %Y" }} by
+      {{page.author}}
+      {% if page.author2 %}
+        , {{page.author2}}
+      {% endif %}
+    </p>
 
     {{ content }}
 
