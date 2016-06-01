@@ -5,9 +5,11 @@ categories:
 title: "Meet Team #ChiHackNight at the Code for America Summit"
 description: The Chi Hack Night will be sending 13 members of our community to the Code for America Summit September 30th - October 2nd, 2015. We had everyone who went answer a few questions about themselves and what they’re looking forward to at this year’s Summit. We can’t wait to meet everyone there!
 date: 2015-09-28
+image: /images/blog/chihacknight-swag.jpg
 author: Christopher Whitaker
 author_url: https://twitter.com/civicwhitaker
 author_image: /images/people/christopher_whitaker.jpg
+author_bio: "Christopher Whitaker serves as the Brigade Program Manager for Code for America. Previously, Whitaker worked at the Illinois Department of Employment Security and served with the U.S. Army in Iraq as a mechanized infantryman."
 author2:
 author2_url:
 author2_image:

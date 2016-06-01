@@ -5,9 +5,11 @@ categories:
 title: Introducing Chi Hack Night
 description: "I’m happy to announce the new name and logo for our event. Since we started 3 years and 155 events ago, our event has grown into a community all it’s own. We emerged out of the Open Government movement here in Chicago, and have become something much more. We’re not just about Open Gov anymore. We’re about Chicago."
 date: 2015-05-12
+image: /images/logo/logo.png
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2:
 author2_url:
 author2_image:

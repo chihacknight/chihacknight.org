@@ -5,9 +5,11 @@ categories:
 title: The inside track on how Aldertrack works
 description: "Mike Fourcher, founder of Aldertrack, and perpetual “news startup antagonist” (okay, I don’t remember the actual adjective he used), joined his colleague Claudia Morell, a reporter, and us at ChiHackNight on Tuesday night to explain how Aldertrack works."
 date: 2015-10-24
+image: https://farm1.staticflickr.com/677/22363022651_377b19e8fe_z.jpg
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg
+author_bio: "Steven Vance is a web developer and transportation planner who writes for Streetsblog Chicago."
 author2:
 author2_url:
 author2_image:
@@ -86,7 +88,4 @@ Fran Spielman, that woman is a freaking machine at the Sun-Times, she writes so 
 
 Mike: And we’ve been getting some ire for that! There’s a lot of information out there, and we scoop it up, sift through it, and that’s shoe leather reporting. There’s a lot of sitting on the phone and calling people.
 
-### About the author
-Steven Vance is a web developer and transportation planner who writes for [Streetsblog Chicago](http://chi.streetsblog.org/).
-
-This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/10/the-inside-track-on-how-aldertrack-works/) on Oct 20, 2015.
+*This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/10/the-inside-track-on-how-aldertrack-works/) on Oct 20, 2015.*

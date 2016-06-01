@@ -5,9 +5,11 @@ categories:
 title: 311 is back in the spotlight after 3 years
 description: "Last week, for budget “season” in Chicago, Mayor Rahm Emanuel proposed privatizing the 311 system – where citizens and aldermen request services from any city department, and citizens get information about city services – as a way to pay for the technology upgrade the system desperately needs."
 date: 2015-10-08
+image: /images/blog/2015-10-08-311-is-back-in-the-spotlight-after-3-years/img1.png
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg
+author_bio: "Steven Vance is a web developer and transportation planner who writes for Streetsblog Chicago."
 author2:
 author2_url:
 author2_image:
@@ -66,8 +68,4 @@ There’s also the question of whether anyone else can actually do the same (or 
 
 Thank you to Derek Eder, Eric Sherman, George Nakhleh, and Dan O’Neil for the discussion and links.
 
-
-### About the author
-Steven Vance is a web developer and transportation planner who writes for [Streetsblog Chicago](http://chi.streetsblog.org/).
-
-This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/10/311-is-back-in-the-spotlight/) on Oct 7, 2015.
+*This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/10/311-is-back-in-the-spotlight/) on Oct 7, 2015.*

@@ -5,9 +5,11 @@ categories:
 title: Why the Slow Roll Chicago working group uses GitHub to collaborate
 description: "Email wasn’t just limiting our discussion quality and member inclusion, it was also limiting file storage, file sharing, and file versioning (which file is the latest?). Email has tended to demand a lot of attention, and there’s a lot of wasted time typing responses. I wanted to use a tool that didn’t have such demands, and that helped organize responses into actionable requests and delegation."
 date: 2015-05-25
+image: /images/events/159-slowroll.png
 author: Steven Vance
 author_url: https://twitter.com/stevevance
 author_image: /images/people/steven_vance.jpg
+author_bio: "Steven Vance is a web developer and transportation planner who writes for Streetsblog Chicago."
 author2:
 author2_url:
 author2_image:
@@ -50,7 +52,4 @@ Need documentation? For many coding or GIS projects, a data dictionary may be ne
 
 Finally, GitHub can store files – any kind, and as many versions. If you need to update a CSV file of street addresses for the project, just make the edits in your preferred editor on the desktop and then “commit” your changes with a short description of what you changed. Sync this commit back to the repository so that all project members now have access to the file.
 
-### About the author
-Steven Vance is a web developer and transportation planner who writes for [Streetsblog Chicago](http://chi.streetsblog.org/).
-
-This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/03/why-the-slow-roll-chicago-working-group-uses-github-to-collaborate/) in March 2015.
+*This was originally posted on [Steven Can Plan](http://www.stevencanplan.com/2015/03/why-the-slow-roll-chicago-working-group-uses-github-to-collaborate/) in March 2015.*

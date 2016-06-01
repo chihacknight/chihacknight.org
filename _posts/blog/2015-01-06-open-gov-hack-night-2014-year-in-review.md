@@ -5,9 +5,11 @@ categories:
 title: "Open Gov Hack Night: 2014 Year in Review"
 description: "The Open Gov Hack Night is Chicago’s weekly event to build, share, and learn about civic tech. And, boy, was it ever a place to do just that in 2014. Looking back over the last calendar year, we did a lot - too much to recount in one blog post. But I can hit the highlights!"
 date: 2015-01-06
+image: /images/blog/2015-01-06-open-gov-hack-night-2014-year-in-review/img1.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2:
 author2_url:
 author2_image:

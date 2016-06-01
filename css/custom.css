@@ -6,12 +6,7 @@ body {
 
 .navbar { min-height: 90px; }
 
-@media (min-width:0px) {
-  .navbar-brand img { height: 40px; }
-}
-@media (min-width:768px) {
-  .navbar-brand img { height: 80px; }
-}
+.navbar-brand img { height: 40px; }
 
 .navbar-nav > li > a { padding-bottom: 10px; padding-top: 10px; }
 .navbar-nav { padding-top: 60px; }
@@ -132,8 +127,27 @@ a { text-decoration: none !important; }
   margin-top: 28px;
 }
 
+@media screen and (max-width: 767px) {
+  body, table { font-size: 16px; }
+
+  .h1, h1 { font-size: 29px; }
+  .h2, h2 { font-size: 22px; }
+  .h3, h3 { font-size: 20px; }
+  .h4, h4 { font-size: 19px; }
+
+  .btn-lg {
+    padding: 10px 15px;
+    font-size: inherit;
+    line-height: inherit;
+    border-radius: 3px;
+  }
+
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
+  .navbar-brand img { height: 80px; }
+
   /* Remove the padding we set earlier */
   .header,
   .marketing,
@@ -185,4 +199,8 @@ a { text-decoration: none !important; }
 .sponsor-details a span {
   position: absolute;
   left: -999em;
+}
+
+.twitter-tweet {
+  margin: auto !important;
 }

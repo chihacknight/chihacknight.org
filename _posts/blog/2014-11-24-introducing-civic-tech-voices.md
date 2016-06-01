@@ -8,6 +8,7 @@ date: 2014-11-24
 author: Cathy Deng
 author_url: https://twitter.com/cthydng
 author_image: /images/people/cathy_deng.jpg
+author_bio: "Cathy Deng loves information design, running, greyhounds, makin' stuff, math, & brevity. She works at DataMade, where she play with code & data on civic-minded projects."
 author2:
 author2_url:
 author2_image:

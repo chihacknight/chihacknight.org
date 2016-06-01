@@ -5,9 +5,11 @@ categories:
 title: Results of our community feedback session
 description: Yesterday, the Chi Hack Night had our first ever community feedback session. The Chi Hack Night has grown and changed a lot over the last 3 ½ years, and we wanted to take the time and hear from everyone on how it’s going, and how we can make it better. To handle our large group (there were about 70 people in attendance), we broke out into four groups, led by Genevieve Nielsen, Rose Afriyie, Cathy Deng and Karl Fogel, to provide feedback on four topics.
 date: 2015-09-23
+image: /images/blog/2015-09-23-results-of-our-community-feedback-session/image1.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2:
 author2_url:
 author2_image:

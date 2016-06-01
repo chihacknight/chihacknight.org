@@ -5,9 +5,11 @@ categories:
 title: The labor required to keep civic apps alive 
 description: The CPS Tiers map doesn’t update automagically. I volunteer my time to keep it accurate and up to date, and it’s worth doing.
 date: 2015-10-09
+image: /images/blog/2015-10-09-how-i-update-the-cps-tiers-map/img1.png
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
 author2:
 author2_url:
 author2_image:
