@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Safe Path"
-description: ""
+description: "Chicago has some extremely treacherous sidewalks, curbs and cross ways that have the potential of doing great bodily injury to those in a wheelchair. To help with this problem, Steven Luker submitted an app to the Center for Neighborhood Technology Urban Sustainability App Competition this weekend to allow users to report, see, and route around bad sidewalks."
 date: 2016-06-03
 image: /images/blog/2016-06-03-chi-safe-path/img0.jpg
 author: Steve Luker
