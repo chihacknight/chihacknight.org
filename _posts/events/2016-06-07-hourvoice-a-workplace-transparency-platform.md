@@ -11,7 +11,7 @@ speakers:
 image: /images/events/208-hourvoice.png
 date: 2016-06-07T18:00:00-06:00
 event_id: 208
-youtube_id: 
+youtube_id: 68uGiX-DDH4
 agenda: https://docs.google.com/document/d/1_KT8pQnJFYec5wBn8YAMituljOD_I0qaXx1oAAMkYkg/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 published: true
