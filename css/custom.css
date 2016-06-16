@@ -204,3 +204,5 @@ a { text-decoration: none !important; }
 .twitter-tweet {
   margin: auto !important;
 }
+
+#press-list img { padding-bottom: 15px; }
