@@ -10,7 +10,7 @@ speakers:
 image: /images/events/210-open-data-in-gdansk.jpg
 date: 2016-06-21T18:00:00-06:00
 event_id: 210
-youtube_id: 
+youtube_id: mas0TMe25sg
 agenda: https://docs.google.com/document/d/1Ba-qEP84Y5xT5vRuJjGDMHUCQOo22VHZ2q2Aq7wPznk/edit#
 sponsor: <a href='http://twilio.com/'>Twilio</a>
 published: true
