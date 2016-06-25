@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<p><a href='/projects'>&laquo; Projects</a></p>
+
+<div class="row">
+  <div class="col-sm-12">
+    <a href='{{page.website}}'><img alt="{{page.title}}" class="img-thumbnail" src="{{page.image}}" /></a>
+
+    <h2>{{ page.title }}</h2>
+    <dl class='dl-horizontal'>
+      {% if page.website %}
+        <dt>Project website</dt>
+        <dd><a href='{{page.website}}'>{{page.title}} &raquo;</a></dd>
+      {% endif %}
+      <dt>Creators</dt>
+      <dd>{{page.creators}}</dd>
+      {% if page.github %}
+        <dt>GitHub</dt>
+        <dd><a href='{{page.github}}'>{{page.github}}</a></dd>
+      {% endif %}
+      <dt>Launched</dt>
+      <dd>{{page.date | date: "%B %Y"}}</dd>
+    </dl>
+
+    {{ page.description | markdownify }}
+
+    {{ content }}
+  </div>
+</div>

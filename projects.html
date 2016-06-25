@@ -1,0 +1,30 @@
+---
+layout: default
+title: Projects and successes
+description: ""
+---
+
+<h1>Projects and successes</h1>
+
+<hr />
+
+<div class='projects-list'>
+  {% for post in site.categories['project'] | sort: 'date' %}
+    <div class='row'>
+      <div class='col-sm-4'>
+        <a href='{{post.url}}'>
+          <img alt="{{post.title}}" class="img-thumbnail" src="{{post.image}}" />
+        </a>
+      </div>
+      <div class='col-sm-8'>
+        <h4>
+          <a href="{{post.url}}">{{post.title}}</a>
+          <br /><small>Launched {{post.date | date: "%B %Y"}}</small>
+          <br /><small>Team: {{ post.creators }}</small>
+        </h4>
+        <p>{{post.description | markdownify}}</p>
+      </div>
+    </div>
+    <hr />
+  {% endfor %}
+</div>
