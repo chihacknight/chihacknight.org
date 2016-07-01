@@ -9,20 +9,27 @@ layout: default
     <a href='{{page.website}}'><img alt="{{page.title}}" class="img-thumbnail" src="{{page.image}}" /></a>
 
     <h2>{{ page.title }}</h2>
-    <dl class='dl-horizontal'>
-      {% if page.website %}
-        <dt>Project website</dt>
-        <dd><a href='{{page.website}}'>{{page.title}} &raquo;</a></dd>
-      {% endif %}
-      <dt>Creators</dt>
-      <dd>{{page.creators}}</dd>
-      {% if page.github %}
-        <dt>GitHub</dt>
-        <dd><a href='{{page.github}}'>{{page.github}}</a></dd>
-      {% endif %}
-      <dt>Launched</dt>
-      <dd>{{page.date | date: "%B %Y"}}</dd>
-    </dl>
+
+    <table class='table table-condensed'>
+      <tbody>
+        <tr>
+          <td>Website</td>
+          <td><a target='_blank' href='{{page.website}}'>{{page.title}}</a></td>
+        </tr>
+        <tr>
+          <td>Creators</td>
+          <td>{{page.creators}}</td>
+        </tr>
+        <tr>
+          <td>GitHub</td>
+          <td><a href='{{page.github}}'>{{page.github}}</a></td>
+        </tr>
+        <tr>
+          <td>Launched</td>
+          <td>{{page.date | date: "%B %Y"}}</td>
+        </tr>
+      </tbody>
+    </table>
 
     {{ page.description | markdownify }}
 

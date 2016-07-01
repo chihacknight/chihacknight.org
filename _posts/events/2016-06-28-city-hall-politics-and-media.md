@@ -10,7 +10,7 @@ speakers:
 image: /images/events/211-joanna-klonsky.jpg
 date: 2016-06-28T18:00:00-06:00
 event_id: 211
-youtube_id: 
+youtube_id: UY7FHc267uU
 agenda: https://docs.google.com/document/d/15ORHJEb28a6chuJpGb0Cfnmgc5944B6_ZQN5ysku5JY/edit#
 sponsor: <a href='https://google.com/'>Google</a>
 published: true
