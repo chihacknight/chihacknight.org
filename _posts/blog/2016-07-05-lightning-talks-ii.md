@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Lightning Talks Return!"
-description: ""
+description: "Based on the success of the lightning talks we did for our 200th episode, we’re giving it another go on July 19th! Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world!"
 date: 2016-07-05
 image: /images/blog/2016-07-05-lightning-talks-ii/lightning-talks.jpg
 author: Derek Eder
