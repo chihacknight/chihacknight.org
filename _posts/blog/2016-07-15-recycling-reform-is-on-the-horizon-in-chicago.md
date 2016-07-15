@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Help us pass Chicago’s new recycling ordinance!"
-description: "Mayor Emanuel introduced a new recycling ordinance in City Council on June 22. The revised ordinance has stronger language, mandates single stream recycling, imposes higher fines on noncompliant building owners, and spells out how property owners must educate tenants and lease holders about the building’s recycling program. These changes make the ordinance more effective and bring it into the 21st century. Help get it passed!"
+description: "After the launch of My Building Doesn't Recycle, an improved recycling ordinance is up for debate in Chicago City Council on June 18th. Help get it passed by contacting your Alderman!"
 date: 2016-07-15
 image: /images/projects/my-building-doesnt-recycle.jpg
 author: Claire Micklin
