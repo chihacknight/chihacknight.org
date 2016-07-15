@@ -37,7 +37,7 @@ The presenters are:
 1. <p>Hacking for inclusion<br /><small><a href='http://twitter.com/cthydng'>Cathy Deng</a></small></p>
 1. <p>Access to Justice Update<br /><small><a href='https://www.linkedin.com/in/emily-zvolanek-888b4224'>Emily Zvolanek</a></small></p>
 1. <p>My Building Doesn't Recycle: The Final Frontier?<br /><small><a href='https://twitter.com/clairemicklin/'>Claire Micklin</a></small></p>
-1. <p>Learning to Listen<br /><small>Benjamin Cooper</small></p>
+1. <p>Learning to Listen<br /><small><a href='https://www.linkedin.com/in/benc222'>Benjamin Cooper</a></small></p>
 1. <p>Hackers and the Mob<br /><small><a href='https://www.linkedin.com/in/nicholas-mader-56805746'>Nick Mader</a></small></p>
 1. <p>Our Band Could Be Your Life<br /><small><a href='https://www.linkedin.com/in/easherma'>Eric Sherman</a></small></p>
 1. <p>March 22nd, 2012<br /><small><a href='http://twitter.com/derekeder'>Derek Eder</a></small></p>
