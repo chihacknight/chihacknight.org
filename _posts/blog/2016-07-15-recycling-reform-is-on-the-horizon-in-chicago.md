@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Help us push recycling reform in Chicago!"
+title: "Help us pass Chicago’s new recycling ordinance!"
 description: "Mayor Emanuel introduced a new recycling ordinance in City Council on June 22. The revised ordinance has stronger language, mandates single stream recycling, imposes higher fines on noncompliant building owners, and spells out how property owners must educate tenants and lease holders about the building’s recycling program. These changes make the ordinance more effective and bring it into the 21st century. Help get it passed!"
 date: 2016-07-15
 image: /images/projects/my-building-doesnt-recycle.jpg
@@ -16,11 +16,14 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/projects/my-building-doesnt-recycle.jpg" alt="" class="img-thumbnail" /><br />
+**TL;DR:** An improved recycling ordinance is up for debate in Chicago City Council on June 18th. Help get it passed by contacting your Alderman!
 
-<small>
-    <em>My Building Doesn't Recycle</em>
-</small>
+<p class="text-center">
+    <img src="/images/projects/my-building-doesnt-recycle.jpg" alt="" class="img-thumbnail" /><br />
+
+    <small>
+        <em>My Building Doesn't Recycle</em>
+    </small>
 </p>
 
 I grew up recycling (and composting!) and I have cared about it for a long time. During the majority of my time in Chicago, (since 2003), I have lived in larger apartment buildings. None of these buildings provided recycling services, and I struggled to figure out what to do with my recycling. 
@@ -48,7 +51,7 @@ Fast forward to May 2016. I was wondering which direction to take with the app. 
 On June 22 Mayor Emanuel [introduced the revised ordinance](https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791) in City Council. The Sun Times [ran a story](http://chicago.suntimes.com/news/mayor-wants-crackdown-on-high-rise-recycling-scofflaws/) about the new ordinance, announcing that Mayor Emanuel wanted to start cracking down on recycling scofflaws.
 
 <div class='well'>
-<p><iframe frameborder="0" height="220" src="https://chicago.councilmatic.org/legislation/o-2016-4792/widget/" width="100%"></iframe></p></div>
+<p><iframe frameborder="0" height="230" src="https://chicago.councilmatic.org/legislation/o-2016-4792/widget/" width="100%"></iframe></p></div>
 
 <p class="text-center"><a href='https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791'><img src="/images/blog/2016-07-15-recycling-reform-is-on-the-horizon-in-chicago/o2016-4792.jpg" alt="" class="img-thumbnail" /></a><br />
 
