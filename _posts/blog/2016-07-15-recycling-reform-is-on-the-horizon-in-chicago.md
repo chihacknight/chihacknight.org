@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Recycling reform is on the horizon in Chicago"
+title: "Help us push recycling reform in Chicago!"
 description: "Mayor Emanuel introduced a new recycling ordinance in City Council on June 22. The revised ordinance has stronger language, mandates single stream recycling, imposes higher fines on noncompliant building owners, and spells out how property owners must educate tenants and lease holders about the building’s recycling program. These changes make the ordinance more effective and bring it into the 21st century. Help get it passed!"
 date: 2016-07-15
 image: /images/projects/my-building-doesnt-recycle.jpg
@@ -35,7 +35,7 @@ One need I noticed was for a channel for residents to report that their building
 
 ### My Building Doesn't Recycle!
 
-With this idea in the back of my mind, I started attending Open Government Hack Night, (now called **Chi Hack Night**). Several hack night attendees contributed to the development of the app by fielding ideas, providing design help, writing content, and programming. As the months went on the core team ended up being me, and Ben Wilhelm and Alex Kahn, who are both programmers. 
+With this idea in the back of my mind, I started attending **Chi Hack Night**. Several hack night attendees contributed to the development of the app by fielding ideas, providing design help, writing content, and programming. As the months went on the core team ended up being me, and Ben Wilhelm and Alex Kahn, who are both programmers. 
 
 After 8 months of work, we released the app at the beginning of February 2015. Called [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/), it allows Chicago residents to report that the management of their building (with 5 or more dwelling units) was not providing recycling services. 
 
@@ -43,9 +43,9 @@ During the year following the release of the app, we gained a [stream of media a
 
 ### From apps to policy change
  
-Fast forward to May 2016. I was wondering which direction to take with the app. Then early in the month, I received an email from Jennifer Martinez, Streets and Sanitation’s new public relations officer. She asked me to come in to meet with her and others at Streets and Sanitation about a revised recycling ordinance they were drafting. 
+Fast forward to May 2016. I was wondering which direction to take with the app. Then early in the month, I received an email from Jennifer Martinez, Streets and Sanitation’s new public relations officer. She asked me to come in to meet with her and others at Streets and Sanitation about a **revised recycling ordinance** they were drafting and asked for my input. 
 
-Mayor Emanuel [introduced the revised ordinance](https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791) in City Council on June 22. The Sun Times [ran a story](http://chicago.suntimes.com/news/mayor-wants-crackdown-on-high-rise-recycling-scofflaws/) about the new ordinance, announcing that Mayor Emanuel wanted to start cracking down on recycling scofflaws.
+On June 22 Mayor Emanuel [introduced the revised ordinance](https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791) in City Council. The Sun Times [ran a story](http://chicago.suntimes.com/news/mayor-wants-crackdown-on-high-rise-recycling-scofflaws/) about the new ordinance, announcing that Mayor Emanuel wanted to start cracking down on recycling scofflaws.
 
 <div class='well'>
 <p><iframe frameborder="0" height="220" src="https://chicago.councilmatic.org/legislation/o-2016-4792/widget/" width="100%"></iframe></p></div>
