@@ -20,7 +20,7 @@ image: /images/blog/2016-07-05-lightning-talks-ii/lightning-talks.jpg
 date: 2016-07-19T18:00:00-06:00
 event_id: 214
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1gfVQ47EAOEHiNDcs7dqOFnP3zP94YaHSk4L4VFr3xow/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 published: true
 ---
