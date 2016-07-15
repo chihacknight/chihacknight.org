@@ -10,7 +10,7 @@ speakers:
 image: /images/events/213-cook-county-redesign.jpg
 date: 2016-07-12T18:00:00-06:00
 event_id: 213
-youtube_id: 
+youtube_id: Jm9BGsn2Lu8
 agenda: https://docs.google.com/document/d/1DVBFo2qCdzZaHhNYSLcTA1MDfoo5R7qR1bgbKC0DecQ/edit
 sponsor: <a href='http://devbootcamp.com/'>Dev Bootcamp</a>
 published: true
