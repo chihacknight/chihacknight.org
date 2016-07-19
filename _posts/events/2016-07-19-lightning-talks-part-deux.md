@@ -6,6 +6,7 @@ links:
 title: "Lightning Talks! Part Deux"
 description: "Based on the success of the lightning talks we did for our 200th episode, we’re giving it another go! We will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!"
 speakers:
+ - Derek Eder
  - Steven Vance
  - Eureka Foong
  - Rebecca Jones
@@ -15,7 +16,6 @@ speakers:
  - Benjamin Cooper
  - Nick Mader
  - Eric Sherman
- - Derek Eder
 image: /images/blog/2016-07-05-lightning-talks-ii/lightning-talks.jpg
 date: 2016-07-19T18:00:00-06:00
 event_id: 214
@@ -31,6 +31,7 @@ We will hear from 10 members of Chi Hack Night about what they’ve done at or l
 
 The presenters are:
 
+1. <p>March 22nd, 2012<br /><small><a href='http://twitter.com/derekeder'>Derek Eder</a></small></p>
 1. <p>Mapping in Europe<br /><small><a href='https://twitter.com/stevevance'>Steven Vance</a></small></p>
 1. <p>Why ignorance matters at hacknight<br /><small><a href='https://twitter.com/eurekafoong'>Eureka Foong</a></small></p>
 1. <p>Predicting E. Coli Exceedances on Chicago Beaches<br /><small>Rebecca Jones</small></p>
@@ -40,6 +41,5 @@ The presenters are:
 1. <p>Learning to Listen<br /><small><a href='https://www.linkedin.com/in/benc222'>Benjamin Cooper</a></small></p>
 1. <p>Hackers and the Mob<br /><small><a href='https://www.linkedin.com/in/nicholas-mader-56805746'>Nick Mader</a></small></p>
 1. <p>Our Band Could Be Your Life<br /><small><a href='https://www.linkedin.com/in/easherma'>Eric Sherman</a></small></p>
-1. <p>March 22nd, 2012<br /><small><a href='http://twitter.com/derekeder'>Derek Eder</a></small></p>
 
 Prepare to be zapped with civic tech knowledge and wisdom!
