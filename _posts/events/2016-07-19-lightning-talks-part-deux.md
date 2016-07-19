@@ -27,7 +27,7 @@ published: true
 
 Based on the success of the [lightning talks](https://www.youtube.com/playlist?list=PL_dBjjdnIbKwKwVpubUbqnbCEDpRoCSeh) we did for our [200th episode](https://chihacknight.org/blog/2016/04/15/tales-from-200.html), we’re giving it another go!
 
-We will hear from 10 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
+We will hear from 9 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!
 
 The presenters are:
 
@@ -40,6 +40,5 @@ The presenters are:
 1. <p>My Building Doesn't Recycle: The Final Frontier?<br /><small><a href='https://twitter.com/clairemicklin/'>Claire Micklin</a></small></p>
 1. <p>Learning to Listen<br /><small><a href='https://www.linkedin.com/in/benc222'>Benjamin Cooper</a></small></p>
 1. <p>Hackers and the Mob<br /><small><a href='https://www.linkedin.com/in/nicholas-mader-56805746'>Nick Mader</a></small></p>
-1. <p>Our Band Could Be Your Life<br /><small><a href='https://www.linkedin.com/in/easherma'>Eric Sherman</a></small></p>
 
 Prepare to be zapped with civic tech knowledge and wisdom!
