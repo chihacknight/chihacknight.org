@@ -16,7 +16,9 @@ author2_image:
 published: true
 ---
 
-**TL;DR:** After the launch of [My Building Doesn't Recycle](http://mybuildingdoesntrecycle.com/), an improved recycling ordinance is up for debate in Chicago City Council on July 18th. Help get it passed by contacting your Alderman!
+**UPDATE: New Ordinance Passes!** The revised [recycling ordinance](https://chicago.legistar.com/LegislationDetail.aspx?ID=2765691&GUID=DE513BDB-4893-4EB2-9377-F3FACF725E40&Options=Advanced&Search=) moved on from the Committee on Health and Environmental Protection on July 18 and [passed City Council on July 20](https://chicago.councilmatic.org/legislation/o-2016-4792/). Thank you to everyone who contacted their Alderman!
+
+After the launch of [My Building Doesn't Recycle](http://mybuildingdoesntrecycle.com/), an improved recycling ordinance is up for debate in Chicago City Council on July 18th. Help get it passed by contacting your Alderman!
 
 <p class="text-center">
     <img src="/images/projects/my-building-doesnt-recycle.jpg" alt="" class="img-thumbnail" /><br />
