@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "July 19 lightning talks: empathy, inclusion and progress"
-description: ""
+description: "On July 19th 2016, we heard from 9 members of Chi Hack Night on the projects they’ve worked on and the lessons they’ve learned from our community. Though there was no defined theme or coordination among the presenters, all 9 talks ended up focusing on the topics of empathy, inclusion and progress. Over the years as a community, we’ve learned about our city, ourselves and what we’re capable of. The talks below are a testament to that growth."
 date: 2016-07-21
 image: /images/blog/2016-07-21-lightning-talks-part-deux/img0.jpg
 author: Derek Eder
