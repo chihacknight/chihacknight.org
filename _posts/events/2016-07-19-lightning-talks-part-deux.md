@@ -25,6 +25,11 @@ sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 published: true
 ---
 
+<br />
+**Update!** See the videos of these talks in our recap blog post [July 19 lightning talks: empathy, inclusion and progress](/blog/2016/07/21/lightning-talks-part-deux.html).
+
+---
+
 Based on the success of the [lightning talks](https://www.youtube.com/playlist?list=PL_dBjjdnIbKwKwVpubUbqnbCEDpRoCSeh) we did for our [200th episode](https://chihacknight.org/blog/2016/04/15/tales-from-200.html), we’re giving it another go!
 
 We will hear from 9 members of Chi Hack Night about what they’ve done at or learned from our group. Each presenter gets 2 minutes!

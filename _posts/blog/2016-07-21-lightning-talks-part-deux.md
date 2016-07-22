@@ -27,7 +27,7 @@ On July 19th 2016, we heard from 9 members of Chi Hack Night on the projects the
 
 Though there was no defined theme or coordination among the presenters, all 9 talks ended up focusing on the topics of empathy, inclusion and progress.
 
-Over the years as a community, we’ve learned about our city, ourselves and what we’re capable of. The talks below are a testament to that growth.
+Over the years as a community, we’ve learned about our city, ourselves and what we’re capable of. Each of the talks listed below are a testament to that growth. You can also watch the [YouTube playlist here](https://www.youtube.com/playlist?list=PL_dBjjdnIbKwcnmL2aJ68IjvP_kY8d7_6).
 
 ### 1. Derek Eder: March 22nd, 2012, The First Hack Night
 
