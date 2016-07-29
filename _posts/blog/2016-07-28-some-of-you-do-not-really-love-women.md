@@ -54,6 +54,6 @@ Sometimes, though, I’m already worn thin by Tuesday night.
 
 ## Do you really want to be inclusive?
 
-Do you really want to include women, nontechnical people, people of color, low income people, queer people, transgender people, formerly incarcerated people, people with disabilities? Do you really want to build things for them? 
+Do you really want to include women, nontechnical people, people of color, low income people, LGTB people, formerly incarcerated people, people with disabilities? Do you really want to build things for them? 
 
 The more you understand, appreciate, love the people in those communities, the more you will understand the specific ways your community would be better with them in it. And the more likely there will be something in Hack Night for them.
