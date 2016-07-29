@@ -10,7 +10,7 @@ speakers:
 image: /images/events/215-healthcare-gov.jpg
 date: 2016-07-26T18:00:00-06:00
 event_id: 215
-youtube_id: 
+youtube_id: JLUuglJBY28
 agenda: https://docs.google.com/document/d/1ucbwh57lZokc_QdRdzlcFz3xdNQAUxPR3oqWpgtyGwQ/edit#
 sponsor: <a href='http://hivechicago.org'>Mozilla Hive Chicago</a>
 published: true
