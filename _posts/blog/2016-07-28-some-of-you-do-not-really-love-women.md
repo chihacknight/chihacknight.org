@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Some of you do not really love women"
-description: "I see a lot of discussion at Chi Hack Night around being inclusive. Truly including people means learning to appreciate the things they enjoy, the ways they express themselves, their style. If you don’t like the way women sound and socialize and approach professional life, maybe you…don’t really like women."
+description: "There is a lot of talk at Chi Hack Night right now about being inclusive. Truly including people means learning to appreciate the things they enjoy, the ways they express themselves, their style. If you don’t like the way women sound and socialize and approach professional life, maybe you…don’t really like women."
 date: 2016-07-28
 image: 
 author: Kristi Leach
@@ -16,7 +16,7 @@ author2_image:
 published: true
 ---
 
-I see a lot of discussion at Chi Hack Night around being inclusive. Truly including people means learning to appreciate the things they enjoy, the ways they express themselves, their style. 
+There is a lot of talk at Chi Hack Night right now about being inclusive. Truly including people means learning to appreciate the things they enjoy, the ways they express themselves, their style. 
 
 If you don’t like the way women sound and socialize and approach professional life, maybe you…don’t really like women.
 
