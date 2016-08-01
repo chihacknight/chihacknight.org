@@ -101,7 +101,3 @@ published: true
 <p><strong>Here&rsquo;s to 2015!</strong></p>
 <p><span><span>It&rsquo;s hard to imagine we did so much in just a year. 2015 will bring more presenters, more partners, more civic hackers, more government technology transformation, more citizen advocacy, more democracy. And more fun!</span></span></p>
 <p><span>See you next Tuesday!</span></p>
-
-### About the author
-
-Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at [DataMade](http://datamade.us), a company that tells stories and builds tools with data, co-founder of [Open City](http://opencityapps.org), a collective that makes civic apps to to improve transparency and understanding of our government, and lead organizer for the [Chi Hack Night](http://chihacknight.org), Chicago's weekly event for building civic technology with open data.
