@@ -50,7 +50,7 @@ During the year following the release of the app, we gained a [stream of media a
  
 Fast forward to May 2016. I was wondering which direction to take with the app. Then early in the month, I received an email from Jennifer Martinez, Streets and Sanitation’s new public relations officer. She asked me to come in to meet with her and others at Streets and Sanitation about a **revised recycling ordinance** they were drafting and asked for my input. 
 
-On June 22 Mayor Emanuel [introduced the revised ordinance](https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791) in City Council. The Sun Times [ran a story](http://chicago.suntimes.com/news/mayor-wants-crackdown-on-high-rise-recycling-scofflaws/) about the new ordinance, announcing that Mayor Emanuel wanted to start cracking down on recycling scofflaws.
+On June 22 Mayor Emanuel [introduced the revised ordinance](https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/51f0b637-e354-4cf2-ac72-f0b5413e1804.pdf) in City Council. The Sun Times [ran a story](http://chicago.suntimes.com/news/mayor-wants-crackdown-on-high-rise-recycling-scofflaws/) about the new ordinance, announcing that Mayor Emanuel wanted to start cracking down on recycling scofflaws.
 
 <div class='well'>
 <p><iframe frameborder="0" height="230" src="https://chicago.councilmatic.org/legislation/o-2016-4792/widget/" width="100%"></iframe></p></div>
@@ -58,7 +58,7 @@ On June 22 Mayor Emanuel [introduced the revised ordinance](https://chicago.coun
 <p class="text-center"><a href='https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791'><img src="/images/blog/2016-07-15-recycling-reform-is-on-the-horizon-in-chicago/o2016-4792.jpg" alt="" class="img-thumbnail" /></a><br />
 
 <small>
-    <em><a href='https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/a5a42366-7682-4ea5-80f7-675529ead8c1.pdf#page=1&zoom=auto,-19,791'>Chicago City Council Ordinance O2016-4792</a></em>
+    <em><a href='https://chicago.councilmatic.org/pdfviewer/?file=https%3A//pic.datamade.us/chicago/document/%3Ffilename%3DO%202016-4792%26document_url%3Dhttp%3A//ord.legistar.com/Chicago/attachments/51f0b637-e354-4cf2-ac72-f0b5413e1804.pdf'>Chicago City Council Ordinance SO2016-4792</a></em>
 </small>
 </p>
 
