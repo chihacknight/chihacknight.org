@@ -32,3 +32,16 @@ The [projects](http://chihacknight.org/open-source-projects.html) and [people](h
 a script we run every 5 minutes that fetches data from the [Github API](http://developer.github.com/). 
 
 The JSON files are backed up every hour in the [civic-json-files](https://github.com/open-city/civic-json-files) repository.
+
+
+## Deploying
+
+@evz set up a [deploy hook](https://developer.github.com/guides/delivering-deployments/) infrastructure with GitHub for static sites. Now, instead of pushing to gh-pages to deploy, we created a new branch called deploy that does the same thing.
+
+For example, you can deploy the latest changes (provided you have push access) by pushing to origin (GitHub) the master branch into deploy
+
+```
+git push origin master:deploy
+```
+
+This will trigger the deploy hook and an automatic build on the static server. Bonus! It's faster than GitHub Pages due to much lower usage (they are doing ~20k page builds / day) 😄
