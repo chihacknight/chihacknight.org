@@ -16,8 +16,9 @@ author2_image:
 published: true
 ---
 
-Petcokealerts.org was conceived, like so many civic tech projects in Chicago, on a Tuesday night. On March 24, 2015, Olga Bautista of the [Southeast Side Coalition to Ban Petcoke][coalition] and Benjamin Sugar from [Public Lab][publiclab] presented at the Hack Night about their balloon mapping efforts at the KCBX bulk storage facilities in Southeast Chicago. KCBX was operating a storage facility for petroleum coke, aka “petcoke”, a carbon byproduct of the oil refining process. The petcoke was piled up 45 feet high, running from 100th Street to 111th Street, a distance of a mile and a quarter. 
+Petcokealerts.org was conceived, like so many civic tech projects in Chicago, on a Tuesday night. On [March 24, 2015][hacknight], Olga Bautista of the [Southeast Side Coalition to Ban Petcoke][coalition] and Benjamin Sugar from [Public Lab][publiclab] presented at the Hack Night about their balloon mapping efforts at the KCBX bulk storage facilities in Southeast Chicago. KCBX was operating a storage facility for petroleum coke, aka “petcoke”, a carbon byproduct of the oil refining process. The petcoke was piled up 45 feet high, running from 100th Street to 111th Street, a distance of a mile and a quarter. 
 
+[hacknight]: /events/2015/03/24/diy-environmental-monitoring.html
 [coalition]: https://www.facebook.com/Chicago-South-East-Side-Coalition-To-Ban-Petcoke-848330295223606
 [publiclab]: https://publiclab.org/
 
