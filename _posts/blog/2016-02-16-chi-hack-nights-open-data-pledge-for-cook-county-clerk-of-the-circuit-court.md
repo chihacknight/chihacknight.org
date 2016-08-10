@@ -9,7 +9,7 @@ image: /images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
-author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data and lead organizer for Chi Hack Night."
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Chi Hack Night."
 author2: 
 author2_url: 
 author2_image: 
