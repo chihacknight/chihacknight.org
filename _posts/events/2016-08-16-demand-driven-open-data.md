@@ -9,7 +9,7 @@ speakers:
 image: /images/events/218-ddod.jpg
 date: 2016-08-16T18:00:00-06:00
 event_id: 218
-youtube_id: 
+youtube_id: v9PHWBLQFRE
 agenda: https://docs.google.com/document/d/1UlqnVO-u8hjSXrQKFMxpA0sNX7h1_QxzHXj69CIK5Yo/edit#
 sponsor: <a href='https://carto.com'>Carto</a>
 published: true
