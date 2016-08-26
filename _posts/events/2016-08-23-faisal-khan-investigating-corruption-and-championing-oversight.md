@@ -10,7 +10,7 @@ speakers:
 image: /images/events/219-faisal-khan.jpg
 date: 2016-08-23T18:00:00-06:00
 event_id: 219
-youtube_id: 
+youtube_id: 1fQWo1BmwAc
 agenda: https://docs.google.com/document/d/1cn2YukMJmJjI5Lb4J4JedBUe0eAc4OnARpfveEMClV4/edit#
 sponsor: <a href='https://google.com'>Google</a>
 published: true
