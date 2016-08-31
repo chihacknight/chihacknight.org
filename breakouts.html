@@ -17,7 +17,7 @@ description: Every week after the presentation, we break out into topic-specific
   <div class="well">
     <ol>
       <li>Create a GitHub account if you don't already have one: <a href='https://github.com/join' target='_blank'>https://github.com/join</a></li>
-      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/chihacknight/join-a-breakout/issues/new' target='_blank'>https://github.com/chihacknight/join-a-breakout/issues/new</a></li>
+      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/chihacknight/breakout-groups/issues/new' target='_blank'>https://github.com/chihacknight/join-a-breakout/issues/new</a></li>
       <li>Set the title of your issue to the name of your breakout, and fill out the description template in the body. We will add the appropriate labels to it.</li>
     </ol>
   </div>
@@ -33,7 +33,7 @@ description: Every week after the presentation, we break out into topic-specific
 <script>
 
   //grab issue list from GitHub
-  $.when( $.getJSON( "https://api.github.com/repos/chihacknight/join-a-breakout/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
+  $.when( $.getJSON( "https://api.github.com/repos/chihacknight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
 
     $.each(data, function(i, json){
       console.log(json['title']);
