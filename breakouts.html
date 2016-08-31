@@ -8,23 +8,23 @@ description: Every week after the presentation, we break out into topic-specific
 
 <p>Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working'>working</a> groups and <a href='#learning'>learning</a> groups.</p>
 
-<p>Want to start your own breakout group? Just mention it at the next hack night and people will vote with their feet!</p>
+<p>Want to start your own breakout group? Just announce it at the next hack night and people will vote with their feet!</p>
 
-<h2>Now on GitHub issues!</h2>
+<button class="btn btn-danger" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  <i class='fa fa-question-circle'></i> How do I add to this list?
+</button>
+<div class="collapse" id="collapseExample">
+  <div class="well">
+    <ol>
+      <li>Create a GitHub account if you don't already have one: <a href='https://github.com/join' target='_blank'>https://github.com/join</a></li>
+      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/chihacknight/join-a-breakout/issues/new' target='_blank'>https://github.com/chihacknight/join-a-breakout/issues/new</a></li>
+      <li>Set the title of your issue to the name of your breakout, and fill out the description template in the body. We will add the appropriate labels to it.</li>
+    </ol>
+  </div>
+</div>
+<br /><br />
 
-<p>This week, we're trying out a new way of listing our breakout groups by listing them as Issues on GitHub. </p>
-
-<a class='btn btn-info' href='https://github.com/chihacknight/join-a-breakout/issues'><i class='fa fa-group'></i> See the breakout groups</a>
-
-
-<a class='btn btn-danger' href='https://github.com/chihacknight/join-a-breakout#adding-your-breakout-group'><i class='fa fa-plus-circle'></i> Add your breakout group</a>
-
-<table id='breakout-groups' class='table'>
-  <thead>
-    <tr>
-      <th>Breakout group</th>
-    </tr>
-  </thead>
+<table id='breakout-groups' class='table table-bordered'>
   <tbody>
   </tbody>
 </table>
@@ -33,16 +33,23 @@ description: Every week after the presentation, we break out into topic-specific
 <script>
 
   //grab issue list from GitHub
-  $.when( $.getJSON( "https://api.github.com/repos/chihacknight/join-a-breakout/issues?state=open" ) ).then(function( data, textStatus, jqXHR ) {
+  $.when( $.getJSON( "https://api.github.com/repos/chihacknight/join-a-breakout/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
 
     $.each(data, function(i, json){
       console.log(json['title']);
+
+      json['opened-on'] = moment(json['created_at']).fromNow();
+      var labels = '';
+      $.each(json['labels'], function(i, label){
+        labels += "<span class='label label-info' style='background-color:#" + label['color'] + "'>" + label['name'] + "</span> ";
+        });
 
       // this is a template used for mustache.js. Each one represents a table row.
       var html = "\
       <tr>\
         <td>\
-          <h4><a href='" + json['html_url'] + "' target='_blank'>" + json['title'] + "</a></h4>\
+          <h4><strong><a href='" + json['html_url'] + "' target='_blank'>" + json['title'] + "</a></strong> " + labels + "</h4>\
+          <p>Opened " + json['opened-on'] + " by <a href='" + json['user']['html_url'] + "' target='_blank'>" + json['user']['login'] + "</a></p>\
         </td>\
       </tr>\
       ";
