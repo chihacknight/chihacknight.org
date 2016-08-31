@@ -36,15 +36,12 @@ description: Every week after the presentation, we break out into topic-specific
   $.when( $.getJSON( "https://api.github.com/repos/chihacknight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
 
     $.each(data, function(i, json){
-      console.log(json['title']);
-
       json['opened-on'] = moment(json['created_at']).fromNow();
       var labels = '';
       $.each(json['labels'], function(i, label){
         labels += "<span class='label label-info' style='background-color:#" + label['color'] + "'>" + label['name'] + "</span> ";
         });
 
-      // this is a template used for mustache.js. Each one represents a table row.
       var html = "\
       <tr>\
         <td>\
