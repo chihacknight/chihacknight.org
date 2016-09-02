@@ -6,6 +6,7 @@ links:
 title: Demand-Driven Open Data
 description: "How can government agencies get the most public good and economic value from their data assets? David Portnoy will talk about Demand-Driven Open Data at the U.S. Department of Health and Human Services and what he was able to accomplish with it."
 speakers:
+ - David Portnoy, U.S. Department of Health and Human Services
 image: /images/events/218-ddod.jpg
 date: 2016-08-16T18:00:00-06:00
 event_id: 218
