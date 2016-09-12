@@ -23,12 +23,9 @@ published: true
 </small>
 </p>
 
-This Fall, [Mikva Challenge](http://www.mikvachallenge.org/) and Mumkin Studio will partner to kick-off a program for teen user experience design interns at Chi Hack Night.
+This Fall, [Mikva Challenge](http://www.mikvachallenge.org/) and [Mumkin Studio](http://www.mumkin.studio) will partner to kick-off a program for teen user experience design interns at Chi Hack Night.
 
-Four Chicago Public High School students will work with Chi Hack Night during the fall quarter. They'll design, implement, and evaluate user experience for two Chi Hack Night projects: 
-
-* [Edumap](http://edumap2.herokuapp.com/), a tool for finding computer science curriculum to assist with Chicago Public Schools [Computer Science for All (CS4All) ](https://chooseyourfuture.cps.edu/computer-science-for-all/what-is-cs4all/)[initiative](https://chooseyourfuture.cps.edu/computer-science-for-all/what-is-cs4all/)
-* [RideW/Me](http://www.ridewit.me/), a peer to peer transportation solution for youth
+Four Chicago Public High School students will work with Chi Hack Night during the fall quarter. They’ll design, implement, and evaluate user experience for the Chi Hack Night project [Edumap](http://edumap2.herokuapp.com/), a tool for finding computer science curriculum to assist with Chicago Public Schools Computer Science for All (CS4All) initiative.
 
 The program is sponsored by a [Spark grant from Mozilla Hive Chicago](http://hivechicago.org/about/fund/).
 
@@ -40,6 +37,6 @@ The youth interns will get their hands dirty with the work of UX research, apply
 
 "Civic tech projects are an exciting way to tackle community issues," says Lisa Kim, Youth Commission Director at Mikva Challenge and program co-teacher. “it's important for young Chicagoans to be active authors in this process, because tech that's meant to serve youth should also be made by youth!”
 
-Students will start attending Chi Hack Night on December 6th. Come meet them and share your ideas about what makes a successful UX project!
+Students will start attending Chi Hack Nights in November and December. Come meet them and share your ideas about what makes a successful UX project!
 
 On Tuesday, December 6th, these students, along with their teaching team, will present their findings to Chi Hack Night. This day will also be a book launch for The Youth UX Field guide, a guidebook for engaging youth UX teams in civics and civic tech research.
