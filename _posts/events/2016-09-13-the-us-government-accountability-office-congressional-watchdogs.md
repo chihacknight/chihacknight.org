@@ -18,6 +18,8 @@ sponsor: <a href='http://twilio.com'>Twilio</a>
 published: true
 ---
 
+_**Update** Read the summary of this presentation on our blog: [The U.S. Government Accountability Office at Chi Hack Night](/blog/2016/09/16/us-gao.html)._
+
 In fiscal year 2015, The federal government spent over [$3.4 trillion](https://en.wikipedia.org/wiki/2015_United_States_federal_budget). Ever wonder how those taxpayer dollars were spent? 
 
 [The U.S. Government Accountability Office](http://gao.gov/) (GAO), the federal agency known as the congressional watchdog, is tasked with supporting and advising Congress and federal agencies about ways to make government more efficient, effective, ethical, equitable and responsive.
