@@ -11,12 +11,12 @@ image: /images/events/224-claire-micklin.jpg
 date: 2016-09-27T18:00:00-06:00
 event_id: 224
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1INIh23p-7TTHPl56da0B5f78pzhmj57fv6IYujSM_GM/edit#
 sponsor: <a href='https://google.com'>Google</a>
 published: true
 ---
 
-The biggest challenge in making a civic app is creating impact. While it’s fairly straightforward to create an one, how do you engage your audiences and direct them to take meaningful action? 
+The biggest challenge in making a civic app is creating impact. While it’s fairly straightforward to create an app, how do you engage your audiences and direct them to take meaningful action? 
 
 Built at Chi Hack Night, [My Building Doesn't Recycle](http://mybuildingdoesntrecycle.com) is a civic app that allows Chicago residents of high density buildings to report that their building management does not provide recycling services. 
 
