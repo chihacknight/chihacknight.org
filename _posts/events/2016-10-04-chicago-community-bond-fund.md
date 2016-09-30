@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Chicago Community Bond Fund: Hacking Cook County Jail"
-description: "In Cook County Jail, more than 95% of the 8,000 people incarcerated on any given day awaiting trial and have not been convicted of a crime. More than two-thirds of those people have money bonds that they simply cannot pay. We are keeping people in cages simply because they are poor. Chicago Community Bond Fund collective members Micah Gates and Sharlyn Grace will discuss how they are working to end pre-trial detention by posting bond for people who cannot pay it themselves, and advocating for the abolition of monetary bonds entirely."
+description: "In Cook County Jail, more than 95% of the 8,000 people incarcerated on any given day are awaiting trial and have not been convicted of a crime. More than two-thirds of those people have money bonds that they simply cannot pay. We are keeping people in cages simply because they are poor. Chicago Community Bond Fund collective members Micah Gates and Sharlyn Grace will discuss how they are working to end pre-trial detention by posting bond for people who cannot pay it themselves, and advocating for the abolition of monetary bonds entirely."
 speakers:
  - Micah Gates, Chicago Community Bond Fund
  - Sharlyn Grace, Chicago Community Bond Fund
@@ -19,7 +19,7 @@ published: true
 
 This week, we’ll be hearing about a different kind of civic hacking.
 
-In Cook County Jail, more than 95% of the 8,000 people incarcerated on any given day awaiting trial and have not been convicted of a crime. More than two-thirds of those people have money bonds that they simply cannot pay. We are keeping people in cages simply because they are poor. 
+In Cook County Jail, more than 95% of the 8,000 people incarcerated on any given day are awaiting trial and have not been convicted of a crime. More than two-thirds of those people have money bonds that they simply cannot pay. We are keeping people in cages simply because they are poor. 
 
 In the last 10 months, the [Chicago Community Bond Fund](https://www.chicagobond.org/) has posted more than $180,000 in bonds to free 35 people from Cook County Jail, whose charges ranged from retail theft to first degree murder. 
 
