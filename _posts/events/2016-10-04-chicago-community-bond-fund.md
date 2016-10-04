@@ -24,5 +24,3 @@ In Cook County Jail, more than 95% of the 8,000 people incarcerated on any given
 In the last 10 months, the [Chicago Community Bond Fund](https://www.chicagobond.org/) has posted more than $180,000 in bonds to free 35 people from Cook County Jail, whose charges ranged from retail theft to first degree murder. 
 
 Chicago Community Bond Fund collective members Micah Gates and [Sharlyn Grace](https://twitter.com/SharlynDGrace) will discuss how they are working to [end pre-trial detention by posting bond for people who cannot pay it themselves](http://chicagoreporter.com/a-community-solution-to-cash-bail/), and advocating for the abolition of monetary bonds entirely. They'll also talk about how technology has played a crucial role in their work and some of the [people they’ve helped get out of jail](https://www.facebook.com/ChicagoCommunityBondFund/photos/?tab=album&album_id=2117339395157810).
-
-<strong><i class='fa fa-american-sign-language-interpreting'></i></strong> This presentation will have a sign-language interpreter
