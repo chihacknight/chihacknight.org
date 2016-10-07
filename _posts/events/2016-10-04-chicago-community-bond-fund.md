@@ -11,7 +11,7 @@ speakers:
 image: /images/events/225-chicago-community-bond-fund.png
 date: 2016-10-04T18:00:00-06:00
 event_id: 225
-youtube_id: 
+youtube_id: 5Sw10A0-ntQ
 agenda: https://docs.google.com/document/d/1CisZhfX7WsTEp-Khxxnod_8ScSf9iQo0QSuycklf_f8/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 published: true
