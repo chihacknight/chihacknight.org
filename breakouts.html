@@ -6,7 +6,7 @@ description: Every week after the presentation, we break out into topic-specific
 
 <h1>Breakout groups</h1>
 
-<p>Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working'>working</a> groups and <a href='#learning'>learning</a> groups.</p>
+<p>Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working-groups'>working</a> groups and <a href='#learning-groups'>learning</a> groups.</p>
 
 <p>Want to start your own breakout group? Just announce it at the next hack night and people will vote with their feet!</p>
 
@@ -24,7 +24,19 @@ description: Every week after the presentation, we break out into topic-specific
 </div>
 <br /><br />
 
-<table id='breakout-groups' class='table table-bordered'>
+<h2>Learning Groups</h2>
+<p>New to Chi Hack Night? Interested in learning what it's all about? Or learning how to program or work with data? Join a learning group!</p>
+
+<table id='learning-groups' class='table table-bordered'>
+  <tbody>
+  </tbody>
+</table>
+
+<br />
+<h2>Working Groups</h2>
+<p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make Chicago a better place to live in. Groups can last for one night or several years - it's up to you!</p>
+
+<table id='working-groups' class='table table-bordered'>
   <tbody>
   </tbody>
 </table>
@@ -38,7 +50,11 @@ description: Every week after the presentation, we break out into topic-specific
     $.each(data, function(i, json){
       json['opened-on'] = moment(json['created_at']).fromNow();
       var labels = '';
+      var is_learning_group = false;
       $.each(json['labels'], function(i, label){
+        if (label['name'] == 'Learning group')
+          is_learning_group = true;
+
         labels += "<span class='label label-info' style='background-color:#" + label['color'] + "'>" + label['name'] + "</span> ";
         });
 
@@ -51,7 +67,10 @@ description: Every week after the presentation, we break out into topic-specific
       </tr>\
       ";
 
-      $("#breakout-groups tbody").append(html);
+      if (is_learning_group)
+        $("#learning-groups tbody").append(html);
+      else
+        $("#working-groups tbody").append(html);
     });
   });
 
