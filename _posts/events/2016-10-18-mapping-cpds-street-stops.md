@@ -19,3 +19,5 @@ published: true
 In July of this year, [Injustice Watch](http://www.injusticewatch.org/) launched a [series on the unequal treatment of people of color in the criminal justice system](http://injusticewatch.org/interactives/cops-and-stops/). The first in the series sheds light on the Chicago Police Department's stops on the streets with the help of extensive datasets compiled by the ACLU of Illinois. 
 
 [Sam Hart](https://www.linkedin.com/in/sam-hart-ab065376), Reporting and Graphics Fellow at Injustice Watch, will walk us through data collection to their final visual product. He'll discuss their reporting process, how they overcame their struggles with large datasets, and the design and editorial choices they made with their reader/user in mind.
+
+<i class='fa fa-american-sign-language-interpreting '></i> This event will have a sign language interpreter
