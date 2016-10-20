@@ -10,7 +10,7 @@ speakers:
 image: /images/events/226-cops-and-stops.jpg
 date: 2016-10-18T18:00:00-06:00
 event_id: 227
-youtube_id: 
+youtube_id: eWr6-a2tp1M
 agenda: https://docs.google.com/document/d/1LxrDejWs1nnnrlQm6g3azdRb5B7r9P0FD-mpZ_iEtYg/edit#
 sponsor: <a href='https://twilio.com'>Twilio</a>
 published: true
