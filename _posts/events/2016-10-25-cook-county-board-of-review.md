@@ -19,7 +19,7 @@ published: true
 
 This week, we'll hear a lesser-known, but critical government agency and how they've used technology to improve their processes. 
 
-The [Cook County Board of Review](http://www.cookcountyboardofreview.com/) allows residential and commercial property owners to contest an assessment made by the Cook County Assessor that they believe incorrect or unjust. Before 2011, all Cook County Board of Review assessment appeals (tylically over 400,000 in a given year) were filed and processed on paper through an arcane, confusing and opaque system.   
+The [Cook County Board of Review](http://www.cookcountyboardofreview.com/) allows residential and commercial property owners to contest an assessment made by the Cook County Assessor that they believe incorrect or unjust. Before 2011, all Cook County Board of Review assessment appeals (typically over 400,000 in a given year) were filed and processed on paper through an arcane, confusing and opaque system.   
 
 In the 2015-2016 session the Board introduced the [Digital Appeals Processing System (DAPS)](https://www.cookcountyil.gov/news/board-review-launches-assessment-appeals-state-art-digital-appeals-processing-system) a nationally recognized innovative enterprise content management system, which has changed the way assessment appeals are processed in the County.  
 
