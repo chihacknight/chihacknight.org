@@ -11,7 +11,7 @@ speakers:
 image: /images/events/228-board-of-review.jpg
 date: 2016-10-25T18:00:00-06:00
 event_id: 228
-youtube_id: 
+youtube_id: OU42D3GJn_8
 agenda: https://docs.google.com/document/d/1U3W4TNandgpmvSQX2vEwMbDzKTOdnwY240C6qZ3_FTU/edit#
 sponsor: <a href='https://google.com'>Google</a>
 published: true
