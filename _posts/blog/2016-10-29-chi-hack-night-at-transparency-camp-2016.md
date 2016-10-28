@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night at Transparency Camp 2016"
-description: "Oct 14-15, 2016 was Transparency Camp in Cleveland, Ohio - and Chi Hack Night was there to represent Chicago! As advocates of transparency and open government, it’s only natural that members of Chi Hack Night decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and we hit the road."
+description: "Oct 14-15, 2016 was Transparency Camp in Cleveland, Ohio - and Chi Hack Night was there to represent Chicago! As advocates of transparency and open government, it’s only natural that members of Chi Hack Night decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road."
 date: 2016-10-28
 image: /images/blog/2016-10-29-tcamp/hack-night-boyz.jpg
 author: Derek Eder
@@ -29,7 +29,7 @@ Transparency Camp, or [TCamp](https://twitter.com/search?q=%23tcamp16&src=typd) 
 
 ## Getting there: The Chi Hack Night Bus (it was actually a van)
 
-As advocates of transparency and open government, it’s only natural that members of Chi Hack Night decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and we hit the road.
+As advocates of transparency and open government, it’s only natural that members of Chi Hack Night decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s do this<a href="https://twitter.com/chihacknight">@chihacknight</a> <a href="https://twitter.com/hashtag/tcamp16?src=hash">#tcamp16</a> <a href="https://twitter.com/hashtag/hacknightbus?src=hash">#hacknightbus</a> <a href="https://t.co/d9voCo87F6">pic.twitter.com/d9voCo87F6</a></p>&mdash; Derek Eder (@derekeder) <a href="https://twitter.com/derekeder/status/786647819155337216">October 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
