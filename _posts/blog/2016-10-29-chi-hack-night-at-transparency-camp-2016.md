@@ -159,4 +159,7 @@ It’s at times like these that the people who truly care about the work we’ve
 Chi Hack Night was proud and happy to contribute to this conversation, and share our stories of civic tech in Chicago. Long live Transparency Camp!
 
 For more photos from Transparency Camp, check out Sunlight Foundation’s Flickr photosets from [Day 1](https://www.flickr.com/photos/sunlightfoundation/albums/72157675340259895/with/29759603423/) and [Day 2](https://www.flickr.com/photos/sunlightfoundation/albums/72157671821199924).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cleveland Rocks! <a href="https://twitter.com/hashtag/tcamp16?src=hash">#tcamp16</a> <a href="https://twitter.com/OSGISOMG">@OSGISOMG</a> <a href="https://twitter.com/vyki_e">@vyki_e</a> <a href="https://twitter.com/GJordanDetamore">@GJordanDetamore</a> <a href="https://twitter.com/TeresaWang428">@TeresaWang428</a> <a href="https://t.co/nXV3ZslQSt">pic.twitter.com/nXV3ZslQSt</a></p>&mdash; Derek Eder (@derekeder) <a href="https://twitter.com/derekeder/status/787478184937873408">October 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     
