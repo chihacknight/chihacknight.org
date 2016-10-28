@@ -91,12 +91,20 @@ a { text-decoration: none !important; }
 }
 
 .post, .post p, .post li {
-  font-size: 18px;
-  line-height: 1.45em;
+  font-size: 20px;
+  line-height: 1.55em;
 }
 
 .post p {
-  margin-bottom: 20px;
+  margin-bottom: 28px;
+}
+
+.post h2 {
+  font-size: 28px;
+}
+
+.post h3 {
+  font-size: 25px;
 }
 
 /* Customize container */
