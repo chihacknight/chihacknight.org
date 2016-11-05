@@ -19,7 +19,7 @@ The day has finally arrived - the end to the rollercoaster ride that is the 2016
 
 Come hack and watch the returns come in as we eat, potluck style! If you'd like to bring dishes, drinks, snacks or desserts, [fill out your name and what you're bringing here](https://docs.google.com/spreadsheets/d/1ymcD-5r1SCvyoDR9qTSItkoR1iYezGC8HI70P4RmSk4/edit#gid=0)! We'll provide the usual empanadas too.
 
-Bonus: Name your dish with a political pun, like "Don't Arugula About Politics", “Republican Party Crumble” or “FiveThirtyEight Spice Chicken”. The names will be voted on and the top three will receive free Chi Hack Night swag!
+**Bonus**: Name your dish with a political pun, like "Don't Arugula About Politics", “Republican Party Crumble” or “FiveThirtyEight Spice Chicken”. The names will be voted on and the top three will receive free Chi Hack Night swag!
 
 ### Voting resources!
 
