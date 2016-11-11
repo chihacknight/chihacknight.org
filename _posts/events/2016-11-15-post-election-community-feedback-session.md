@@ -24,13 +24,13 @@ That’s where you come in. Last year, around this time, we held our [first ever
 
 We’ll break into groups and focusing on these broad questions:
 
-1. There is a lot of anger and resentment in Chicago and America today. How can we as a community of civic technologists direct it towards positive action?
+1. How are you feeling about community and government right now?
 
-2. What don’t you understand about our government and civil society that you’d like to learn more about?
+2. There is a lot of anger and resentment in Chicago and America today. How can we as a community of civic technologists direct it towards positive action?
 
-3. What groups or organizations need help the most, and how can we help them?
+3. What don’t you understand about our government and civil society that you’d like to learn more about?
 
-4. What kinds of presentations would you like to see next year?
+4. What groups or organizations need help the most, and how can we help them?
 
 Afterwards, we’ll read out the different ideas from each category and then discuss implementing them at …
 
