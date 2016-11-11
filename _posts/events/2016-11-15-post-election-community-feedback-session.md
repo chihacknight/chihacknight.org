@@ -9,7 +9,7 @@ image: /images/blog/2015-09-23-results-of-our-community-feedback-session/image1.
 date: 2016-11-15T18:00:00-06:00
 event_id: 231
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1LcB5wI43AM7sKwJ7FGJhTVJosH6egBcKKkioSgfoG4w/edit#
 sponsor: <a href='https://DataMade.us'>DataMade</a>
 published: true
 ---
