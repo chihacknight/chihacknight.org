@@ -158,20 +158,20 @@ After reading through the feedback, the Chi Hack Night Leadership Council identi
 
 Chi Hack Night will strive to:
 
-* Be a space for discussion and cross-sector connections
-* Restore faith in our government and civic institutions
-* Commit to fight disenfranchisement
-* Facilitate community conversations online, offline & across political, social and geographic boundaries
-* Commit to an aggressive campaign to diversify Chi Hack Night
-* Get outside of our civic tech bubble
+1. Be a **space for discussion** and cross-sector connections
+2. **Restore faith** in our government and civic institutions
+3. Commit to **fight disenfranchisement**
+4. **Facilitate community conversations** online, offline & across political, social and geographic boundaries
+5. Commit to an aggressive campaign to **diversify Chi Hack Night**
+6. **Get outside of our civic tech bubble**
     * Look into satellite / partner events
     * Develop Chi Hack Night press kit to broaden our reach
-* Through our presenters and breakout groups, seek to improve:
-    * Digital skills (development, implementation, data, cryptography)
-    * Civic literacy (how government works and how to participate)
-    * Media literacy (data journalism, visualization)
-* Provide expertise and guidance on the ethics of using open data & building technology
-* Maximize our impact through specialization (tech, policy, events, trainings)
+7. Through our presenters and breakout groups, seek to improve:
+    * **Digital skills** (development, implementation, data, cryptography)
+    * **Civic literacy** (how government works and how to participate)
+    * **Media literacy** (data journalism, visualization)
+8. **Provide expertise** and guidance on the ethics of using open data & building technology
+9. **Maximize our impact** through specialization (tech, policy, events, trainings)
 
 We also revisited our **core values** as a group. To re-affirm, Chi Hack Night is:
 
