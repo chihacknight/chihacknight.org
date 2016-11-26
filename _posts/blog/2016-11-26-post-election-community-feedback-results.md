@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Post-election community feedback results"
-description: "On November 15, 2016, Chi Hack Night held a post-election community feedback session.  It was our largest Chi Hack Night ever with over 165 attendees. Thank you to everyone for participating! Many ideas were discussed, new relationships were made, and feelings were shared. But most of all, it just felt good to be in a room full of people who wanted to collaborate and work towards improving the public good."
+description: "On November 15, 2016, Chi Hack Night held a post-election community feedback session.  It was our largest Chi Hack Night ever with over 165 attendees. Read through the full results and see how our community is planning to adapt to America's new political reality."
 date: 2016-11-26
 image: /images/blog/2016-11-25-post-election-feedback/img1.jpg
 author: Derek Eder
