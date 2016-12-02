@@ -10,7 +10,7 @@ speakers:
  - Daniel Kolade, Mikva Civic Tech Intern
  - Marshall Nakamura, Mikva Civic Tech Intern
  - Jessica De Jesus, Mikva Civic Tech Intern
-image: /images/events/233-cs-for-all.png
+image: /images/events/233-cs-for-all.jpg
 date: 2016-12-06T18:00:00-06:00
 event_id: 233
 youtube_id: 
