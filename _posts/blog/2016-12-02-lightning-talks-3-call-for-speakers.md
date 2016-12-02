@@ -23,7 +23,7 @@ published: true
 </small>
 </p>
 
-Lightning Talks return for our last Chi Hack Night of the year!
+Lightning Talks return for our last Chi Hack Night of the year on December 13, 2016!
 
 Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world!
 
