@@ -11,7 +11,7 @@ speakers:
 image: /images/events/232-nursing-homes.png
 date: 2016-11-29T18:00:00-06:00
 event_id: 232
-youtube_id: 
+youtube_id: dAS4vBhTO6o
 agenda: https://docs.google.com/document/d/12qjmGc-qqPmO81rsuGcU-0cpT9FiSvm6z0XEcD6UdFE/edit#
 sponsor: <a href='https://www.twilio.com'>Twilio</a>
 published: true
