@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Lightning Talks 3: Call for Speakers"
-description: "Lightning Talks return for our last Chi Hack Night of the year! Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world!"
+description: "Lightning Talks return for our last Chi Hack Night of the year! Do you have an interesting or funny story to tell about civics, society and/or technology? Want to show off that awesome project you’ve been working on? Now’s your chance to tell it to the world!"
 date: 2016-12-02
 image: /images/blog/2016-12-02-lightning-talks-iii/lightning-talks-iii.jpg
 author: Derek Eder
@@ -25,7 +25,7 @@ published: true
 
 Lightning Talks return for our last Chi Hack Night of the year on December 13, 2016!
 
-Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world!
+Do you have an interesting or funny story to tell about civics, society and/or technology? Want to show off that awesome project you’ve been working on? Now’s your chance to tell it to the world!
 
 Talks must be 2 minutes or less and slides are required.
 
