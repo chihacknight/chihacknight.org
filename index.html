@@ -52,6 +52,41 @@ layout: default
   {% endfor %}
 </div>
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><b>Latest blog post</b> <a class='pull-right' href='/blog/'>All posts &raquo;</a></h3>
+  </div>
+  <div class="panel-body">
+    {% for post in site.categories['blog'] limit:1 %}
+      <div class='row'>
+        <div class='col-sm-4'>
+          {% if post.image %}
+            <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
+          {% else %}
+            <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
+          {% endif %}
+        </div>
+        <div class='col-sm-8'>
+          <h4>
+            <a href='{{post.url}}'>{{ post.title }}</a>
+          </h4>
+          <p>
+            <small>{{ post.date | date: "%b %-d, %Y" }} by 
+              <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
+              {% if post.author2 %}
+                , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
+              {% endif %}
+            </small>
+            <br />
+            {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
+          </p>
+          <br />
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
 <div class='row'>
   <div class='col-sm-12'>
 
@@ -90,36 +125,6 @@ layout: default
         </div>
       </div>
     </div>
-
-    <hr />
-    <h2 id='blog'>Blog <small><a href='/blog/'>All posts &raquo;</a></small></h2>
-    {% for post in site.categories['blog'] limit:1 %}
-      <div class='row'>
-        <div class='col-sm-4'>
-          {% if post.image %}
-            <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
-          {% else %}
-            <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
-          {% endif %}
-        </div>
-        <div class='col-sm-8'>
-          <h4>
-            <a href='{{post.url}}'>{{ post.title }}</a>
-          </h4>
-          <p>
-            <small>{{ post.date | date: "%b %d, %Y" }} by 
-              <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
-              {% if post.author2 %}
-                , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
-              {% endif %}
-            </small>
-            <br />
-            {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
-          </p>
-          <br />
-        </div>
-      </div>
-    {% endfor %}
 
     <hr />
     <div class='sponsors'>
