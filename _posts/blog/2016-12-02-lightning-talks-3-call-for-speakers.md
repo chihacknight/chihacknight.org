@@ -27,7 +27,12 @@ Lightning Talks return for our last Chi Hack Night of the year on December 13, 2
 
 Do you have an interesting or funny story to tell about civics, society and/or technology? Want to show off that awesome project you’ve been working on? Now’s your chance to tell it to the world!
 
-Talks must be 2 minutes or less and slides are required.
+Guidelines:
+
+* Must be about civics, society and/or technology
+* 2 minutes or less in length
+* Slides are required
+* Must not solicit any company or product
 
 Between five and ten proposed talks will be picked to present at Chi Hack Night for fame and glory!
 
