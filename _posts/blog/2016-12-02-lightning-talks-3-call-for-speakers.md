@@ -36,7 +36,7 @@ Guidelines:
 
 Between five and ten proposed talks will be picked to present at Chi Hack Night for fame and glory!
 
-### [Submit your lightning talk here](https://docs.google.com/forms/d/e/1FAIpQLSfdF60qMBBrmywkLwaovyzAvYaTtQIsr4kt4wa6wmrR3uYr6g/viewform) by Thursday, December 8th.
+### [Submit your lightning talk here](https://docs.google.com/forms/d/e/1FAIpQLSfdF60qMBBrmywkLwaovyzAvYaTtQIsr4kt4wa6wmrR3uYr6g/viewform) by Friday, December 9th.
 
 ---
 
