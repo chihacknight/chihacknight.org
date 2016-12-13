@@ -23,15 +23,15 @@ Based on the success of our [two](https://chihacknight.org/blog/2016/04/15/tales
 
 The 9 presenters are:
 
-* **Jack Thorne** - What we left on the void
-* **Andy Rasmussen** - Are Men Talking Too Much at CHN? The Final, Definitive, Conclusive Answer
-* **Don Chartier** - Open Data and Privacy: Harder than It Looks
-* **Viktor Koves** - Documentation & Inclusion
-* **Yonatan Kogan** - Encouraging Gender balance at conferences
-* **Eric Sherman** - Our Band Could Be Your Life
-* **Rose Afriyie** - What stops people in poverty from getting the help they need?
-* **Tom Schenk** - CivicTech - 5 years young, 50 years forward
-* **Joseph Smalzer** - The Access to Justice Impactathon
+1. **Jack Thorne** - What we left on the void
+1. **Andy Rasmussen** - Are Men Talking Too Much at CHN? The Final, Definitive, Conclusive Answer
+1. **Don Chartier** - Open Data and Privacy: Harder than It Looks
+1. **Viktor Koves** - Documentation & Inclusion
+1. **Yonatan Kogan** - Encouraging Gender balance at conferences
+1. **Eric Sherman** - Our Band Could Be Your Life
+1. **Rose Afriyie** - What stops people in poverty from getting the help they need?
+1. **Tom Schenk** - CivicTech - 5 years young, 50 years forward
+1. **Joseph Smalzer** - The Access to Justice Impactathon
 
 Prepare to be zapped with civic tech knowledge and wisdom!
 
