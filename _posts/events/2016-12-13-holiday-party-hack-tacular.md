@@ -21,6 +21,18 @@ This is our last hack night of 2016, so we’re going all out! We’re doing lig
 
 Based on the success of our [two](https://chihacknight.org/blog/2016/04/15/tales-from-200.html) [previous](https://chihacknight.org/blog/2016/07/21/lightning-talks-part-deux.html) Lightning Talks, we’re giving it another go! We will hear members of Chi Hack Night tell stories to tell about civics, society and technology. Each presenter gets 2 minutes!
 
+The 9 presenters are:
+
+* **Jack Thorne** - What we left on the void
+* **Andy Rasmussen** - Are Men Talking Too Much at CHN? The Final, Definitive, Conclusive Answer
+* **Don Chartier** - Open Data and Privacy: Harder than It Looks
+* **Viktor Koves** - Documentation & Inclusion
+* **Yonatan Kogan** - Encouraging Gender balance at conferences
+* **Eric Sherman** - Our Band Could Be Your Life
+* **Rose Afriyie** - What stops people in poverty from getting the help they need?
+* **Tom Schenk** - CivicTech - 5 years young, 50 years forward
+* **Joseph Smalzer** - The Access to Justice Impactathon
+
 Prepare to be zapped with civic tech knowledge and wisdom!
 
 **Holiday potluck!**
