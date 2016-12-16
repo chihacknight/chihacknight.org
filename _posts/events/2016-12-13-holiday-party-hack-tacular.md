@@ -21,9 +21,8 @@ This is our last hack night of 2016, so we’re going all out! We’re doing lig
 
 Based on the success of our [two](https://chihacknight.org/blog/2016/04/15/tales-from-200.html) [previous](https://chihacknight.org/blog/2016/07/21/lightning-talks-part-deux.html) Lightning Talks, we’re giving it another go! We will hear members of Chi Hack Night tell stories to tell about civics, society and technology. Each presenter gets 2 minutes!
 
-The 9 presenters are:
+The 8 presenters are:
 
-1. **Jack Thorne** - What we left on the void
 1. **Andy Rasmussen** - Are Men Talking Too Much at CHN? The Final, Definitive, Conclusive Answer
 1. **Don Chartier** - Open Data and Privacy: Harder than It Looks
 1. **Viktor Koves** - Documentation & Inclusion
