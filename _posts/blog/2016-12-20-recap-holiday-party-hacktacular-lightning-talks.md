@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Recap: The Holiday Party Hacktacular Lightning Talks"
-description: "On December 13th 2016, Chi Hack Night hosted our last event of the year: The Chi Hack Night Holiday Party Hacktacular. Eight members of the Chi Hack Night community shared their own story or insight about civics, society and technology. The major themes this time around were the needs, tactics and benefits of inclusion, perspective on our community’s role in society, and the responsibilities that we have as users of data."
+description: "On December 13th 2016, Chi Hack Night hosted our last event of the year: The Chi Hack Night Holiday Party Hacktacular. Eight members of the Chi Hack Night community shared their own story or insight about civics, society and technology. The major themes this time around were the needs, tactics and benefits of inclusion, perspective on our community's role in society, and the responsibilities that we have as users of data."
 date: 2016-12-20
 image: /images/blog/2016-12-20-lightning-talks-3-recap/img1.jpg
 author: Derek Eder
