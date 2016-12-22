@@ -4,35 +4,57 @@ layout: default
 
 <p><a href='/projects.html'>&laquo; Projects</a></p>
 
-<div class="row">
-  <div class="col-sm-12">
-    <a href='{{page.website}}'><img alt="{{page.title}}" class="img-thumbnail" src="{{page.image}}" /></a>
+<img alt="{{page.title}}" class="img-thumbnail" src="{{page.image}}" />
 
-    <h2>{{ page.title }}</h2>
+<h2>{{ page.title }}</h2>
 
-    <table class='table table-condensed'>
-      <tbody>
-        <tr>
-          <td>Website</td>
-          <td><a target='_blank' href='{{page.website}}'>{{page.title}}</a></td>
-        </tr>
-        <tr>
-          <td>Creators</td>
-          <td>{{page.creators}}</td>
-        </tr>
-        <tr>
-          <td>GitHub</td>
-          <td><a href='{{page.github}}'>{{page.github}}</a></td>
-        </tr>
-        <tr>
-          <td>Launched</td>
-          <td>{{page.date | date: "%B %Y"}}</td>
-        </tr>
-      </tbody>
-    </table>
+<div class='post'>
+  {{ page.description | markdownify }}
+</div>
 
-    {{ page.description | markdownify }}
+<div class="row post">
+  <div class="col-sm-7">
+
+    <h2>Interview with a project leader</h2>
+
+    <p class='pull-left'>
+    <img class='img-rounded project-headshot hidden-phone' src='{{page.interviewee_photo}}' alt='{{page.author}}' />
+    </p>
+
+    <p>
+    Project leader<br />
+    {{page.interviewee}}<br />
+    {{page.interviewee_title}}
+    </p>
+
+    <div class='clearfix'></div>
 
     {{ content }}
+  </div>
+  <div class="col-sm-5">
+    <div class="well">
+      <table class='table table-condensed'>
+        <tbody>
+          {% if page.website %}
+          <tr>
+            <td>Website</td>
+            <td><a target='_blank' href='{{page.website}}'>{{page.title}}</a></td>
+          </tr>
+          {% endif %}
+          <tr>
+            <td>Creators</td>
+            <td>{{page.creators}}</td>
+          </tr>
+          <tr>
+            <td>GitHub</td>
+            <td><a href='{{page.github}}'>{{page.github}}</a></td>
+          </tr>
+          <tr>
+            <td>Launched</td>
+            <td>{{page.date | date: "%B %Y"}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>

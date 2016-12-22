@@ -58,6 +58,11 @@ a { text-decoration: none !important; }
   margin-top: 18px;
 }
 
+.project-headshot {
+  width: 100px;
+  margin-right: 10px;
+}
+
 .breakout-headshot {
   width: 80px;
 }
