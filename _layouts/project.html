@@ -14,21 +14,6 @@ layout: default
 
 <div class="row post">
   <div class="col-sm-7">
-
-    <h2>Interview with a project leader</h2>
-
-    <p class='pull-left'>
-    <img class='img-rounded project-headshot hidden-phone' src='{{page.interviewee_photo}}' alt='{{page.author}}' />
-    </p>
-
-    <p>
-    Project leader<br />
-    {{page.interviewee}}<br />
-    {{page.interviewee_title}}
-    </p>
-
-    <div class='clearfix'></div>
-
     {{ content }}
   </div>
   <div class="col-sm-5">
@@ -43,7 +28,11 @@ layout: default
           {% endif %}
           <tr>
             <td>Creators</td>
-            <td>{{page.creators}}</td>
+            <td>
+              {% for creator in page.creators %}
+                {{creator}}<br />
+              {% endfor %}
+            </td>
           </tr>
           <tr>
             <td>GitHub</td>

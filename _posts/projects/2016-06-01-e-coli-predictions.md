@@ -7,13 +7,31 @@ date: 2016-05-01
 image: /images/projects/e-coli-predictions.jpg
 description: "An improved statistical model used to predict the E. coli levels at Chicago's beaches to determine whether a beach advisory is issued to warn swimmers of potentially high levels of bacteria."
 github: https://github.com/Chicago/e-coli-beach-predictions
-creators: "Tom Schenk, Kevin Rose, Rebecca Jones, Matt Sweeney, Chris Prokop, Melissa McNeill & many more"
-interviewee: Tom Schenk
-interviewee_title: Chief Data Officer for Chicago
-interviewee_photo: /images/people/tom_schenk_jr.jpg
+creators: 
+ - Tom Schenk
+ - Kevin Rose
+ - Rebecca Jones
+ - Matt Sweeney
+ - Chris Prokop
+ - Melissa McNeill
+ - And many more
 featured: false
 published: true
 ---
+
+<h2>Interview with a project leader</h2>
+
+<p class='pull-left'>
+<img class='img-rounded project-headshot hidden-phone' src='/images/people/tom_schenk_jr.jpg' alt='Tom Schenk' />
+</p>
+
+<p>
+Project leader<br />
+Tom Schenk<br />
+Chief Data Officer for Chicago
+</p>
+
+<div class='clearfix'></div>
 
 **Please describe your project**
 
@@ -37,6 +55,8 @@ As part of the project, my team developed a small application to collect E. Coli
 
 E. Coli is really hard to predict.
 
-**More reading**
+**More on this project**
 
-Read more about this project on our blog: [Taking Predictive Analytics to the Beach](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html) by Sean Thornton.
+[Taking Predictive Analytics to the Beach](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html), Sean Thornton
+
+[Lightning Talk: Predicting E. Coli Exceedances on Chicago Beaches](https://www.youtube.com/watch?v=A9UPmQFACEA), Rebecca Jones (video)
