@@ -7,6 +7,9 @@ layout: default
 <p><a href='/projects.html'>&laquo; back to Projects &amp; successes</a></p>
 
 <h2>{{ page.title }}</h2>
+{% if page.website %}
+  <p><i class='fa fa-globe'></i> <a target='_blank' href='{{page.website}}'>{{page.website}}</a></p>
+{% endif %}
 
 <div class='post'>
   {{ page.description | markdownify }}
@@ -26,6 +29,14 @@ layout: default
             <td><a target='_blank' href='{{page.website}}'>{{page.title}}</a></td>
           </tr>
           {% endif %}
+          <tr>
+            <td>Tags</td>
+            <td>
+              {% for tag in page.tags %}
+                {{tag}}<br />
+              {% endfor %}
+            </td>
+          </tr>
           <tr>
             <td>Creators</td>
             <td>

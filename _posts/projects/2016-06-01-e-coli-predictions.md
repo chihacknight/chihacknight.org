@@ -15,6 +15,9 @@ creators:
  - Chris Prokop
  - Melissa McNeill
  - And many more
+tags:
+ - Predictive modeling
+ - City partnership
 featured: false
 published: true
 ---
@@ -22,6 +25,10 @@ published: true
 Built entirely by a team of volunteers from Chicago’s civic tech community, this predictive model was [officially adopted by the City of Chicago in May 2016](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html) to help the [Park District](http://www.chicagoparkdistrict.com/) know when they should issue warnings to swimmers of potentially high levels of bacteria.
 
 This project is followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Chi Hack Night project.
+
+Rebecca Jones, gave a lightning talk at Chi Hack Night after the project was completed. Watch her talk, [Predicting E. Coli Exceedances on Chicago Beaches](https://youtube.com/watch?v=A9UPmQFACEA):
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/A9UPmQFACEA" frameborder="0" allowfullscreen></iframe>
 
 <h2>Interview with a project leader</h2>
 

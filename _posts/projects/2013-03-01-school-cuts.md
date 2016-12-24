@@ -10,5 +10,5 @@ github: https://github.com/amtamayo/schoolcuts
 website: http://schoolcuts.org/
 creators: Jeanne Marie Olson, Josh Kalov, Lincoln Chandler, Anna Marie-Tamayo, Elnaz Moshfeghian, Paul Baker and Nick Rougeux
 featured: false
-published: true
+published: false
 ---
