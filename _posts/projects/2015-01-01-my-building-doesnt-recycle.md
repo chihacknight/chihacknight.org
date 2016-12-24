@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "My Building Doesn't Recycle"
 date: 2015-01-01
 image: /images/projects/my-building-doesnt-recycle.jpg

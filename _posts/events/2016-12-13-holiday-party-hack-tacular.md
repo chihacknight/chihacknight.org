@@ -6,6 +6,14 @@ links:
 title: "Holiday Party Hacktacular!"
 description: "This is our last hack night of 2016, so we’re going all out! We’re doing lightning talks, a potluck AND building, sharing and learning about civic tech. There will also be hugs and high-fives. Prepare to eat yummy food be zapped with civic tech knowledge and wisdom!"
 speakers:
+ - Andy Rasmussen
+ - Don Chartier
+ - Viktor Koves
+ - Yonatan Kogan
+ - Eric Sherman
+ - Rose Afriyie
+ - Tom Schenk
+ - Joseph Smalzer
 image: /images/events/234-hacktacular.jpg
 date: 2016-12-13T18:00:00-06:00
 event_id: 234

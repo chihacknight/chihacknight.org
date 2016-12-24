@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Chicago Bike Equity"
 date: 2015-06-01
 image: /images/projects/chicago-bike-equity.jpg

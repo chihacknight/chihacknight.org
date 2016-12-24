@@ -2,6 +2,7 @@
 layout: default
 title: Projects and successes
 description: ""
+redirect_from: projects/index.html
 ---
 
 <h1>Projects and successes</h1>
@@ -9,7 +10,7 @@ description: ""
 <hr />
 
 <div class='projects-list'>
-  {% for post in site.categories['project'] | sort: 'date' %}
+  {% for post in site.categories['projects'] | sort: 'date' %}
     <div class='row'>
       <div class='col-sm-4'>
         <a href='{{post.url}}'>

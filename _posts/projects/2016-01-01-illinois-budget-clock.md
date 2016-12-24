@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Illinois Budget Clock"
 date: 2016-01-01
 image: /images/projects/illinois-budget-clock.jpg

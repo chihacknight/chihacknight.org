@@ -1,11 +1,11 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Predicting E. Coli levels in Chicago beaches"
 date: 2016-05-01
 image: /images/projects/e-coli-predictions.jpg
-description: "An improved statistical model used to predict the E. coli levels at Chicago's beaches to determine whether a beach advisory is issued to warn swimmers of potentially high levels of bacteria."
+description: "Chicago has three-dozen beaches that, sometimes, have high E. Coli levels. When do we need to warn the 9 million annual visitors of potentially high E. Coli levels? In 2016, members of Chi Hack Night built an improved statistical model to predict the E. coli levels at Chicago's beaches."
 github: https://github.com/Chicago/e-coli-beach-predictions
 creators: 
  - Tom Schenk
@@ -18,6 +18,10 @@ creators:
 featured: false
 published: true
 ---
+
+Built entirely by a team of volunteers from Chicago’s civic tech community, this predictive model was [officially adopted by the City of Chicago in May 2016](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html) to help the [Park District](http://www.chicagoparkdistrict.com/) know when they should issue warnings to swimmers of potentially high levels of bacteria.
+
+This project is followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Chi Hack Night project.
 
 <h2>Interview with a project leader</h2>
 
@@ -32,10 +36,6 @@ Chief Data Officer for Chicago
 </p>
 
 <div class='clearfix'></div>
-
-**Please describe your project**
-
-Chicago has three-dozen beaches that, sometimes, have high E. Coli levels. When do we need to warn the 9 million annual visitors of potentially high E. Coli levels?
 
 **How did you come up with the idea for this project?**
 

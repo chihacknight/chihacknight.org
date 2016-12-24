@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Chi Safe Path"
 date: 2016-05-01
 image: /images/projects/chi-safe-path.jpg
@@ -15,5 +15,5 @@ creators:
  - Lars Dahlberg
  - Tom Turner
 featured: false
-published: true
+published: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Petcoke Alerts"
 date: 2015-05-01
 image: /images/projects/petcoke-alerts.jpg

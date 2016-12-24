@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "Is There Sewage in the Chicago River"
 date: 2013-12-01
 image: /images/projects/is-there-sewage-in-the-chicago-river.jpg

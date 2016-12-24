@@ -1,7 +1,7 @@
 ---
 layout: project
 categories: 
-  - project
+  - projects
 title: "School Cuts"
 date: 2013-03-01
 image: /images/projects/school-cuts.jpg
