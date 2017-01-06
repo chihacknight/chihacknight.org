@@ -34,6 +34,13 @@ layout: default
 
       <span itemprop="description">{{content}}</span>
 
+      {% if page.speakers %}
+        <hr />
+
+        <p><strong>Civic hacking</strong></p>
+        <p>After the presentation, we will break out into <a href='/breakouts.html'>learning and working groups</a> until 9:30pm.</p>
+      {% endif %}
+
       <hr />
       {% if page.agenda %}
         <i class='fa fa-file-text-o fa-fw'></i> <a href='{{page.agenda}}' target='_blank'>Agenda and meeting notes</a><br />
