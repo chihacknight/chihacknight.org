@@ -13,6 +13,7 @@ event_id: 236
 youtube_id: 
 agenda: https://docs.google.com/document/d/1yPqQs3H0RpG3686UOv2E6Gk9XkWdsFE_nH1mQSz5ndM/edit#
 sponsor: <a href='http://www.thisismetis.com/'>Metis</a>
+asl_provided: true
 published: true
 ---
 
