@@ -18,7 +18,7 @@ asl_provided: true
 published: true
 ---
 
-[Cook County Clerk](http://www.cookcountyclerk.com/Pages/default.aspx) David Orr runs the second largest election jurisdiction in the country, responsible for administering elections in suburban Cook County. 
+[Cook County Clerk](http://www.cookcountyclerk.com/Pages/default.aspx) David Orr runs the third largest election jurisdiction in the country, responsible for administering elections in suburban Cook County. 
 
 [Abdelnasser Rashid](https://www.linkedin.com/in/abdelnasser-rashid-339aa63a), Deputy Chief of Staff, and [Tonya Rice](https://www.linkedin.com/in/tonya-rice-3410236), Elections Data & Technology Manager, will touch on the innovative ways the Clerk’s office has used technology to improve services, expand access and increase efficiency. The Clerk's Office manages elections for a large suburban area (the City of Chicago has its own elections board) that includes 129 villages and cities with 1.5 million voters, representing hundreds of jurisdictions. 
 
