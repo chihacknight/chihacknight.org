@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-title: "Latin@ Techies Hackathon: Hacking Housing"
+title: "Hacking Housing at the Latin@ Techies Hackathon"
 description: "Latin@ Hackathon organizers Luz Chavez and Kara Carrell will give an overview of their event on fair housing and community development. Noah Moskowitz, Antonio Gutierrez, Henri Idrovo, Shelley Hoover and Janet Gomez, all members of the winning team, will show off their project and how they tackled the question “How can we leverage technology to build renter power?”"
 speakers:
  - Luz Chavez, Co-Organizer for Gozamos/Latin@ Techies
