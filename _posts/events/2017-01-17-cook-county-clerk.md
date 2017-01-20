@@ -11,7 +11,7 @@ speakers:
 image: "/images/events/237-cook-county-clerk.jpg"
 date: 2017-01-17T18:00:00-06:00
 event_id: 237
-youtube_id: 
+youtube_id: zjxGtP7-elU
 agenda: https://docs.google.com/document/d/1SbQXKpqeLR0hoIAnYz0VWqB3sYwti2DGXHtVqXoFfvs/edit#
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true
