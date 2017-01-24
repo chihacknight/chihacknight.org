@@ -10,7 +10,7 @@ speakers:
 image: "/images/events/236-giorgi-vashadze.jpg"
 date: 2017-01-10T18:00:00-06:00
 event_id: 236
-youtube_id: 
+youtube_id: Mv6kSadlgI0
 agenda: https://docs.google.com/document/d/1yPqQs3H0RpG3686UOv2E6Gk9XkWdsFE_nH1mQSz5ndM/edit#
 sponsor: <a href='http://www.thisismetis.com/'>Metis</a>
 asl_provided: true
