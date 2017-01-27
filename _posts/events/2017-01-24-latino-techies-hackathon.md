@@ -16,7 +16,7 @@ speakers:
 image: "/images/events/238-latino-techies.jpg"
 date: 2017-01-24T18:00:00-06:00
 event_id: 238
-youtube_id:
+youtube_id: McLo3_Hsr78
 agenda: https://docs.google.com/document/d/1MX0DYNm03FDKZddRO0MM3CALB9IXo0FWHPxWSLgScZM/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 asl_provided: true
