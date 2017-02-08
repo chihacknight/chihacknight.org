@@ -10,7 +10,7 @@ speakers:
 image: /images/events/240-chicago-energy-benchmarking.jpg
 date: 2017-02-07T18:00:00-06:00
 event_id: 240
-youtube_id: 
+youtube_id: 6YVN7fAA-wc
 agenda: https://docs.google.com/document/d/1t4H-AcoVcHx_fPn1FEbUYvMH0TogchrmFs2RV-6jTRU/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 asl_provided: true
