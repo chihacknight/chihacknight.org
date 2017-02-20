@@ -36,8 +36,14 @@ If you are being harassed, notice that someone else is being harassed, or have a
 * Josh Kalov, [jkalov@gmail.com](mailto:jkalov@gmail.com), (847) 477-6939
 * Steven Vance, [jamesbondsv@gmail.com](mailto:jamesbondsv@gmail.com), (312) 593-4857
 
+### Photo policy
+
+Before taking photographs Chi Hack Night participants, please ask for verbal approval, especially if you are posting to social media. Photos and videos of presentations are allowed.
+
+---
+
 Created collaboratively by the Chi Hack Night community, adapted from the [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct).
 
-*Version 1.0. Published on Dec 9, 2014.*
+*Version 1.1. Published on Feb 20, 2017.*
 
 *[View the change history of this page](https://github.com/chihacknight/chihacknight.org/commits/master/code-of-conduct.md)*
