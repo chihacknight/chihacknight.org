@@ -9,7 +9,7 @@ speakers:
 image: /images/events/242-heidelberg.jpg
 date: 2017-02-21T18:00:00-06:00
 event_id: 242
-youtube_id: 
+youtube_id: BcY286asoaQ
 agenda: https://docs.google.com/document/d/1-BlfNxeFXqVE1dMrwTT_roAGQstWkcnxfHlsGDy-VSw/edit
 sponsor: <a href='https://DataMade.us/'>DataMade</a>
 asl_provided: true
