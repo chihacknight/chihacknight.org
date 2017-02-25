@@ -6,6 +6,7 @@ links:
 title: "If You Build It, Will They Come?"
 description: "Janice Cho, Design Director at DevMynd Software, will give a talk premised on answering the question: How might we leverage the design methodologies that constitute Human Centered Design to vet our ideas before we build them?"
 speakers:
+ - Janice Cho, DevMynd Software
 image: /images/events/242-heidelberg.jpg
 date: 2017-02-21T18:00:00-06:00
 event_id: 242
