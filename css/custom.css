@@ -214,6 +214,11 @@ a { text-decoration: none !important; }
   left: -999em;
 }
 
+.sponsor-level {
+  margin-top: 28px;
+  float: right;
+}
+
 .twitter-tweet {
   margin: auto !important;
 }
