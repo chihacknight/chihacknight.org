@@ -8,7 +8,7 @@ description: "As part of our Women in Tech Speakers Series, this panel will shin
 speakers:
  - Allyson Scrutchens of Forward Planning
  - Dima Elissa of VisMed-3D        
-
+image:
 date: 2017-03-029T18:00:00-06:00
 event_id: 248
 youtube_id:

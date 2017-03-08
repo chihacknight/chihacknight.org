@@ -9,7 +9,7 @@ speakers:
   - Andrea Hart of City Bureau
   - Aviva Rosman of Ballot Ready
   - Tiana Epps-Johnson of Center for Tech and Civic Life
-
+image:
 date: 2017-03-030T18:00:00-06:00
 event_id: 249
 youtube_id:
