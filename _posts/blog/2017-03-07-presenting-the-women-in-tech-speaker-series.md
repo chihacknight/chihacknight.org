@@ -19,7 +19,7 @@ published: true
 
 <p class="text-center"><img src="/images/blog/women-in-tech-speaker-series.jpg" alt="Smart Chicago Collaboarative and Chi Hack Night present: the Women In Tech Speaker Series" class="img-thumbnail" />
 
-<small>
+<br /><small>
     <em>Smart Chicago Collaboarative and Chi Hack Night present: the Women In Tech Speaker Series</em>
 </small>
 </p>
@@ -74,7 +74,7 @@ Chicago, IL 60654<br />
 
 **Event #4 - March 28th**
 
-On Tuesday, March 28th Chi Hack Night will celebrate our 250th event and 5 year anniversary! In addition to the celebrations (details coming soon), we will welcome the [Chicago Federation for Women](https://www.cfw.org/) as they share their[ Talk It Out](https://www.cfw.org/talkitout/) initiative, a weeklong conversation series designed to spark understanding about gender bias and the ways it affects women and men. 
+On Tuesday, March 28th we will welcome the [Chicago Federation for Women](https://www.cfw.org/) as they share their[ Talk It Out](https://www.cfw.org/talkitout/) initiative, a weeklong conversation series designed to spark understanding about gender bias and the ways it affects women and men. 
 
 Braintree<br />
 222 W Merchandise Mart Plz<br />
@@ -106,3 +106,5 @@ Chicago, IL 60637
 ---
 
 We hope you’ll join us in celebrating Women’s History Month and Chicago’s unique and amazing civic technology community. Here’s to Women’s History Month and fruitful partnerships! 
+
+**Correction March 8, 2017: 4pm** The 250th Chi Hack Night will be held on April 18th, not March 28th.
