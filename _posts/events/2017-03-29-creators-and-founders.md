@@ -9,6 +9,7 @@ speakers:
  - Allyson Scrutchens of Forward Planning
  - Dima Elissa of VisMed-3D        
 
+date: 2017-03-029T18:00:00-06:00
 event_id: 248
 youtube_id:
 agenda: https://docs.google.com/document/d/1GfB-N9iMdfDiYELCQgpMTNEWV07ToccuY4DHsMtGMgQ/edit#
