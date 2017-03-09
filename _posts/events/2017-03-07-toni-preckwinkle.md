@@ -10,14 +10,14 @@ speakers:
 image: /images/events/244-toni-preckwinkle.jpg
 date: 2017-03-07T18:00:00-06:00
 event_id: 244
-youtube_id:
+youtube_id: cqH5Li2de-c
 agenda: https://docs.google.com/document/d/1GfB-N9iMdfDiYELCQgpMTNEWV07ToccuY4DHsMtGMgQ/edit#
 sponsor: <a href='https://google.com/'>Google</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
 published: true
 ---
 
-Chi Hack Night, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our first ever [Women’s History Month](https://en.wikipedia.org/wiki/Women%27s_History_Month) Speaker Series. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
+Chi Hack Night, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
 
 This week, we are honored to welcome [Cook County Board President Toni Preckwinkle](https://www.cookcountyil.gov/person/toni-preckwinkle).
 
