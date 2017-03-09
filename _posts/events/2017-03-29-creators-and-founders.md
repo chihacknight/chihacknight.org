@@ -1,23 +1,43 @@
 ---
-layout: event
+layout: satellite_event
 categories:
-  - satellite  
+  - satellite
 links:
-title: "Creators & Founders: Women in Civic Tech"
-description: "As part of our Women in Tech Speakers Series, this panel will shine a light on women who have launched start-ups and applications in service to the Chicago tech ecosystem. How did they get their start? What challenges did they encounter and what can we learn from their stories? We will learn from the creative trailblazers in the field and start a conversation about supporting and catalyzing women founders in all of our neighborhoods."
+title: "Women in Civic Tech: Creators & Founders"
+description: "Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature Allyson Scrutchens of Forward Planning and Dima Elissa of VisMed-3D."
 speakers:
  - Allyson Scrutchens of Forward Planning
  - Dima Elissa of VisMed-3D        
-image:
-date: 2017-03-029T18:00:00-06:00
-event_id: 248
+image: /images/events/satellite-homan-square.jpg
+date: 2017-03-29T18:00:00-06:00
 youtube_id:
-agenda: https://docs.google.com/document/d/1GfB-N9iMdfDiYELCQgpMTNEWV07ToccuY4DHsMtGMgQ/edit#
+agenda: 
 sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
+rsvp: https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247
+address_name:  Homan Square Community Center
+address_street: 3517 West Arthington Street
+address_city: Chicago, IL 60624 
 asl_provided: false
 published: true
 ---
 
-Chi Hack Night, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our first ever [Women’s History Month](https://en.wikipedia.org/wiki/Women%27s_History_Month) Speaker Series. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
+Smart Chicago Collaborative and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
-This panel will shine a light on women who have launched start-ups and applications in service to the Chicago tech ecosystem. How did they get their start? What challenges did they encounter and what can we learn from their stories? We will learn from the creative trailblazers in the field and start a conversation about supporting and catalyzing women founders in all of our neighborhoods.
+**Panel discussion**
+
+Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature:
+
+* Allyson Scrutchens of Forward Planning
+* Dima Elissa of VisMed-3D
+
+
+**Civic hacking**
+
+Once the panel wraps up, the format of the event switches up a mini-hackathon. People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills.
+
+Members of the Chi Hack Night community will be on site to run several of our popular breakout groups including:
+
+* An introduction to civic tech
+* Digital security 101
+
+Food will be provided.

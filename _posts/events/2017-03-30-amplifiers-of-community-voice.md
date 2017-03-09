@@ -1,24 +1,44 @@
 ---
-layout: event
+layout: satellite_event
 categories:
   - satellite
 links:
-title: "Amplifiers of Community Voice: Women in Civic Tech"
-description: "Women in Chicago play a crucial role in leveraging technology to engage residents in civic issues. What paths brought them to their current roles and how have their experience influenced their work? What drives them and what have they learned? Hosted in a neighborhood space, this event will catalyze a conversation about how women can amplify the voices of their communities and neighborhoods."
+title: "Women in Civic Tech: Amplifiers of Community Voice"
+description: "Thursday, March 30th we will convene at the DuSable Museum of African-American History and hear from a panel of amplifiers of community voice featuring Andrea Hart of City Bureau, Aviva Rosman of Ballot Ready and Tiana Epps-Johnson of Center for Tech and Civic Life."
 speakers:
   - Andrea Hart of City Bureau
   - Aviva Rosman of Ballot Ready
   - Tiana Epps-Johnson of Center for Tech and Civic Life
-image:
-date: 2017-03-030T18:00:00-06:00
-event_id: 249
+image: /images/events/satellite-dusablemuseum.jpg
+date: 2017-03-30T18:00:00-06:00
 youtube_id:
-agenda: https://docs.google.com/document/d/1GfB-N9iMdfDiYELCQgpMTNEWV07ToccuY4DHsMtGMgQ/edit#
+agenda: 
 sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
+rsvp: https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445
+address_name:  DuSable Museum of African-American History
+address_street: 740 East 56th Place
+address_city: Chicago, IL 60637 
 asl_provided: false
 published: true
 ---
 
-Chi Hack Night, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our first ever [Women’s History Month](https://en.wikipedia.org/wiki/Women%27s_History_Month) Speaker Series. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
+Smart Chicago Collaborative and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
-Women in Chicago play a crucial role in leveraging technology to engage residents in civic issues. What paths brought them to their current roles and how have their experience influenced their work? What drives them and what have they learned? Hosted in a neighborhood space, this event will catalyze a conversation about how women can amplify the voices of their communities and neighborhoods.
+**Panel discussion**
+
+Thursday, March 30th we will convene at the DuSable Museum of African-American History and hear from a panel of amplifiers of community voice. The panel will feature:
+
+* Andrea Hart of City Bureau
+* Aviva Rosman of Ballot Ready
+* Tiana Epps-Johnson of Center for Tech and Civic Life
+
+**Civic hacking**
+
+Once the panel wraps up, the format of the event switches up a mini-hackathon. People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills.
+
+Members of the Chi Hack Night community will be on site to run several of our popular breakout groups including:
+
+* An introduction to civic tech
+* Digital security 101
+
+Food will be provided.
