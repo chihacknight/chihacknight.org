@@ -4,7 +4,7 @@ layout: default
 
 <div class='row'>
   <div class='col-sm-12'>
-    <p class='h2'>Chicago's weekly event to build, share &amp; learn about civic tech<br /><br /></p> 
+    <p class='h2'>Chicago's weekly event to build, share &amp; learn about civic tech<br /><br /></p>
   </div>
 </div>
 
@@ -25,7 +25,8 @@ layout: default
   </div>
   <div class="panel-body">
     {% for post in site.categories['events'] limit:1 %}
-    <strong>6pm Tuesday, {{ post.date | date: "%b %-d, %Y" }}</strong>
+    <strong>6pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+
     <h2 class='no-margin-top'>
       <small>#{{post.event_id}}</small>
       <a href="{{post.url}}">{{post.title}}</a>
@@ -48,8 +49,43 @@ layout: default
         {% endif %}
       </div>
     </div>
+      {% endfor %}
   </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><b>Upcoming Events</b></h3>
+  </div>
+  <div class="panel-body">
+    {% for post in site.categories['satellite'] limit:2 %}
+    <strong>6pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+    <h2 class='no-margin-top'>
+      <small>#{{post.event_id}}</small>
+      <a href="{{post.url}}">{{post.title}}</a>
+    </h2>
+    <div class='row'>
+      <div class='col-sm-7'>
+        {% if post.description %}
+          <p>{{ post.description }}</p>
+        {% endif %}
+        <br />
+        {% if site.time <= post.date %}
+          <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+        {% endif %}
+        <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
+        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
+      </div>
+      <div class='col-sm-5'>
+        {% if post.image %}
+          <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+        {% else %}
+            <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
+        {% endif %}
+      </div>
+    </div>
   {% endfor %}
+  </div>
 </div>
 
 <div class="panel panel-default">
@@ -71,7 +107,7 @@ layout: default
             <a href='{{post.url}}'>{{ post.title }}</a>
           </h4>
           <p>
-            <small>{{ post.date | date: "%b %-d, %Y" }} by 
+            <small>{{ post.date | date: "%b %-d, %Y" }} by
               <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
               {% if post.author2 %}
                 , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
