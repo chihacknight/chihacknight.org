@@ -23,6 +23,8 @@ published: true
 
 Smart Chicago Collaborative and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
+Food will be provided.
+
 **Panel discussion**
 
 Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature:
@@ -31,14 +33,18 @@ Wednesday, March 29th we will convene at the Homan Square Community Center and h
 * Dima Elissa of VisMed-3D
 * Denise Linn of Smart Chicago (moderator)
 
-
-**Civic hacking**
+---
 
 Once the panel wraps up, the format of the event switches up a mini-hackathon. People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills.
 
 Members of the Chi Hack Night community will be on site to run several of our popular breakout groups including:
 
-* An introduction to civic tech
-* Digital security 101
+**Civic Tech 101**
 
-Food will be provided.
+Civic Tech 101 will be a short 10 min talk about the basics of civic tech and some examples about how we’ve applied our skills to create impact in our community. 
+
+**Manatee Tank**
+
+Do you have an idea or problem you think technology can help solve? Share your idea with us and we’ll help you think through its feasibility, technical and resource requirements and potential for impact.
+
+Manatee Tank is like the show Shark Tank, but instead of scrutinizing and bidding on your business idea, we’ll be nice and give you constructive and helpful feedback on your idea.
