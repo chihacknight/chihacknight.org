@@ -12,7 +12,7 @@ speakers:
 image: /images/events/satellite-dusablemuseum.jpg
 date: 2017-03-30T18:00:00-06:00
 youtube_id:
-agenda: 
+agenda: https://docs.google.com/document/d/1zQB_htPUKHUsEkxSWUpEDejEcIW_C3vyQM9Cv8vjkDU/edit#
 sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 rsvp: https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445
 address_name:  DuSable Museum of African-American History
