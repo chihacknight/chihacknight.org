@@ -28,7 +28,7 @@ layout: default
       {% endif %}
 
       {% if site.time <= page.date %}
-        <p><a class='btn btn-success' href='http://chihacknight.eventbrite.com/'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        <p><a class='btn btn-success' href='{{page.rsvp}}'><i class='fa fa-check-square-o'></i> RSVP</a></p>
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
