@@ -31,6 +31,7 @@ Thursday, March 30th we will convene at the DuSable Museum of African-American H
 * Andrea Hart of City Bureau
 * Aviva Rosman of Ballot Ready
 * Tiana Epps-Johnson of Center for Tech and Civic Life
+* Sonja Marziano of Smart Chicago (moderator)
 
 **Civic hacking**
 

@@ -71,7 +71,7 @@ layout: default
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
          
-          6pm<br />Tuesday, {{ page.date | date: "%B %-d, %Y" }}<br />
+          6pm<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
             <span itemprop="name">Braintree office</span><br />

@@ -29,6 +29,7 @@ Wednesday, March 29th we will convene at the Homan Square Community Center and h
 
 * Allyson Scrutchens of Forward Planning
 * Dima Elissa of VisMed-3D
+* Denise Linn of Smart Chicago (moderator)
 
 
 **Civic hacking**
