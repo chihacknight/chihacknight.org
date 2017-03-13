@@ -91,7 +91,7 @@ Homan Square Community Center<br />
 3517 W. Arthington Street<br />
 Chicago, IL 60624
 
-<a href='https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a>
+<a href='https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a> <a href='/satellite/2017/03/29/creators-and-founders.html' class='btn btn-link'>Details</a>
 
 **Event #6 - Amplifiers of Community Voice: Women in Civic Tech**
 
@@ -101,7 +101,7 @@ DuSable Museum-Auditorium<br />
 740 East 56th Place<br />
 Chicago, IL 60637
 
-<a href='https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a>
+<a href='https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a> <a href='/satellite/2017/03/30/amplifiers-of-community-voice.html' class='btn btn-link'>Details</a>
 
 ---
 

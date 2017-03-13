@@ -22,7 +22,7 @@ asl_provided: false
 published: true
 ---
 
-Smart Chicago Collaborative and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
+[Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and **Chi Hack Night** have teamed up to create a [speaking series in celebration of Women’s History Month](/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
 Food will be provided.
 
