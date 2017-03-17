@@ -4,7 +4,7 @@ categories:
   - events 
 links:
 title: "Grace Hopper: Legends and Lies"
-description: ""
+description: "Melissa Pierce, Producer and Director of Born with Curiosity: The Story of Grace Murray Hopper, will weave together the story of the life and times of Grace Hopper using archive footage, photographs, and various oral histories to bring you a more honest and true portrait of Grace both a legend and a person."
 speakers:
  - Melissa Pierce, Filmmaker, Programmer & Entrepreneurial Rabble Rouser
 image: /images/events/246-grace-hopper.jpg
