@@ -10,7 +10,7 @@ speakers:
 image: /images/events/245-sandee-kastrul.jpg
 date: 2017-03-14T18:00:00-06:00
 event_id: 245
-youtube_id: 
+youtube_id: 3nWItbn1FHI
 agenda: https://docs.google.com/document/d/1jbQ9Cq7IjNNId8CwhVNNG_cTc2ZNRvCtpTCibwY4ZE4/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
