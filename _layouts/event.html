@@ -34,7 +34,7 @@ layout: default
 
       <span itemprop="description">{{content}}</span>
 
-      {% if page.speakers %}
+      {% if site.time < page.date and page.speakers %}
         <hr />
 
         <p><strong>Civic hacking</strong></p>
