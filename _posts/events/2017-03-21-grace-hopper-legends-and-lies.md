@@ -10,7 +10,7 @@ speakers:
 image: /images/events/246-grace-hopper.jpg
 date: 2017-03-21T18:00:00-06:00
 event_id: 246
-youtube_id: 
+youtube_id: fjx49LtuSFY
 agenda: https://docs.google.com/document/d/1IIQMYx34oQ_Yoi4i57QRJTAFh2zomidf1pWYk9db4N8/edit#
 sponsor: <a href='https://devbootcamp.com'>Dev Bootcamp</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
