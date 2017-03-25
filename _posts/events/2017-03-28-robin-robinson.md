@@ -4,7 +4,7 @@ categories:
   - events 
 links:
 title: "Robin Robinson: Fostering Stronger Community & Police Relationships"
-description: "In June 2016, as part of their strategy to foster stronger community faith and partnerships in Chicago’s neighborhoods, they hired Robin Robinson, a longtime Chicago television news anchor as special advisor on community affairs. Robin will discuss the role she has taken on and the work needed to rebuild trust between the Chicago Police Department and the communities it serves."
+description: "In June 2016, as part of their strategy to foster stronger community faith and partnerships in Chicago’s neighborhoods, the Chicago Police Department hired Robin Robinson, a longtime Chicago television news anchor as special advisor on community affairs. Robin will discuss the role she has taken on and the work needed to rebuild trust between the Chicago Police Department and the communities it serves."
 speakers:
  - Robin Robinson, Special Adviser of Community Affairs at the Chicago Police Department
 image: /images/events/247-robin-robinson.jpg
