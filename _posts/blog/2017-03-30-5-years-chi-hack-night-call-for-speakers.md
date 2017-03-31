@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Celebrate 5 Years of Chi Hack Night with Us!"
-description: "April 18, 2017 will mark the 250th episode of Chi Hack Night. That's 5 years! To celebrate this day, we want to hear from you, the members of Chi Hack Night, via lightning talks and testimonials."
+description: "April 18, 2017 will mark the 250th episode of Chi Hack Night. That's 5 years! To celebrate this day, we want to hear from you, the members of Chi Hack Night, via lightning presentations and testimonials."
 date: 2017-03-30
 image: /images/blog/Chi-Hack-Night-5-years.jpg
 author: Derek Eder
@@ -46,9 +46,9 @@ Guidelines:
 - 5 minutes or less in length
 - Must not solicit any company or commercial product
 
-Between five and ten proposed talks will be picked to present at Chi Hack Night #250 for fame and glory!
+Between five and ten proposed presentations will be picked to present at Chi Hack Night #250 for fame and glory!
 
-[Submit your lightning talk here](https://docs.google.com/forms/d/e/1FAIpQLSc3tYmb_dPU-c2FrshJUZCdYyMuLtI90evdOoZMG8rkilZvtQ/viewform?usp=sf_link) by Thursday, April 13th.
+[Submit your lightning presentation here](https://docs.google.com/forms/d/e/1FAIpQLSc3tYmb_dPU-c2FrshJUZCdYyMuLtI90evdOoZMG8rkilZvtQ/viewform?usp=sf_link) by Thursday, April 13th.
 
 ### <i class='fa fa-pencil'></i> Testimonials
 
