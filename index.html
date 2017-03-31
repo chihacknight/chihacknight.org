@@ -55,43 +55,6 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Women in Civic Tech: Satellite Events</b></h3>
-  </div>
-  <div class="panel-body">
-    <p><a href='http://smartchicagocollaborative.org/'>Smart Chicago Collaborative</a> and Chi Hack Night have teamed up to create the <a href='/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html'>Women in Civic Tech speaking series</a> in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.</p>
-
-    <p>As part of this series, we will be holding two satellite hack night events on the West and South sides of Chicago.</p><br />
-    <div class='row'>
-      {% for post in site.categories['satellite'] reversed limit:2 %}
-        {% if forloop.last %}
-          <div class='col-sm-5 col-sm-offset-1'>
-        {% else %}
-          <div class='col-sm-5'>
-        {% endif %}
-          {% if post.image %}
-            <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
-          {% endif %}
-          <strong>6pm, {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
-          <h4 class='no-margin-top'>
-            <a href="{{post.url}}">{{post.title}}</a>
-          </h4>
-          {% if post.description %}
-            <p>{{ post.description }}</p>
-          {% endif %}
-          <br />
-          {% if site.time <= post.date %}
-            <a class='btn btn-success' href="{{post.rsvp}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-          {% endif %}
-          <a class='btn btn-link' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-          <a class='btn btn-link' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">
     <h3 class="panel-title"><b>Latest blog post</b> <a class='pull-right' href='/blog/'>All posts &raquo;</a></h3>
   </div>
   <div class="panel-body">

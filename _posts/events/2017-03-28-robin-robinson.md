@@ -10,7 +10,7 @@ speakers:
 image: /images/events/247-robin-robinson.jpg
 date: 2017-03-28T18:00:00-06:00
 event_id: 247
-youtube_id: 
+youtube_id: e3qez9__yKU
 agenda: https://docs.google.com/document/d/1QasFV6Zpjl5BPgrB3nNxW8YR6Rn0mVH-uzFspLwSZcA/edit
 sponsor: <a href='https://thisismetis.com'>Metis</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
