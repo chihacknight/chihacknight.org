@@ -25,13 +25,11 @@ published: true
 
 **April 18, 2017 will mark the 250th episode of Chi Hack Night. That's 5 years!**
 
-What started as four lonely civic hackers sitting in the Webitects office eating mac & cheese has turned into a fully fledged community of thousands of civic hackers, designers, researchers, journalists, activists, policy wonks, developers and curious citizens. It is truly amazing.
-
 To celebrate this day, we want to hear from you, the members of Chi Hack Night. 
 
-As we did [last year](), you can participate in two ways:
+As we did [last year](/blog/2016/04/15/tales-from-200.html), you can participate in two ways:
 
-### <i class='fa fa-bolt'></i> Lightning talks: 5 years forward / 5 years back
+### <i class='fa fa-bolt'></i> Lightning presentations: 5 years forward / 5 years back
 
 Lightning talks return for Chi Hack Night #250! For this special hack night, we're looking for talks along the theme of **5 years forward / 5 years back**. What will civic tech look like in 5 years? What were you doing 5 years ago that might have been considered civic tech before it was even a thing?
 
@@ -39,11 +37,13 @@ Tom Schenk, Chicago's Chief Data Officer, gave a talk in this vein last year:
 
 <p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/7zxzHw3gsj4" width="100%"></iframe></p>
 
+This time, however, we're going to try something a bit new. These will be lightning **performances**. We encourage you to do any kind of performance that you'd like. It could be a talk, a poem, a song, a skit, or something else. We encourage you to get creative!
+
 Guidelines:
 
 - Must be themed around 5 years forward / 5 years back in civic tech
+- May be a talk, a poem, a song, a skit, or *something else*
 - 5 minutes or less in length
-- Slides are required
 - Must not solicit any company or commercial product
 
 Between five and ten proposed talks will be picked to present at Chi Hack Night #250 for fame and glory!
