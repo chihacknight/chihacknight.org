@@ -2,10 +2,10 @@
 layout: blog
 categories: 
   - blog
-title: "5 Years of Chi Hack Night - Call for Lightning Presentations and Testimonials"
-description: ""
+title: "Celebrate 5 Years of Chi Hack Night with Us!"
+description: "April 18, 2017 will mark the 250th episode of Chi Hack Night. That's 5 years! To celebrate this day, we want to hear from you, the members of Chi Hack Night, via lightning talks and testimonials."
 date: 2017-03-30
-image: /images/blog/2016-12-02-lightning-talks-iii/lightning-talks-iii.jpg
+image: /images/blog/Chi-Hack-Night-5-years.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
@@ -13,44 +13,51 @@ author_bio: "Derek is an entrepreneur, developer and one of the leaders of the c
 author2: 
 author2_url: 
 author2_image: 
-published: false
+published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2016-12-02-lightning-talks-iii/lightning-talks-iii.jpg" alt="" class="img-thumbnail" /><br />
+<p class="text-center"><img src="/images/blog/Chi-Hack-Night-5-years.jpg" alt="5 Years of Chi Hack Night" class="img-thumbnail" /><br />
 
 <small>
-    <em>Chi Hack Night Lightning Talks III: Chi Yack Night!</em>
+    <em>5 Years of Chi Hack Night</em>
 </small>
 </p>
 
-**April 18, 2017 will mark the 250th episode of Chi Hack Night.**
+**April 18, 2017 will mark the 250th episode of Chi Hack Night. That's 5 years!**
 
 What started as four lonely civic hackers sitting in the Webitects office eating mac & cheese has turned into a fully fledged community of thousands of civic hackers, designers, researchers, journalists, activists, policy wonks, developers and curious citizens. It is truly amazing.
 
-To celebrate this day, we want to hear from you, the members of Chi Hack Night, about what you’ve done with or learned from this group. 
+To celebrate this day, we want to hear from you, the members of Chi Hack Night. 
 
-You can participate in two ways:
+As we did [last year](), you can participate in two ways:
 
-### <i class='fa fa-bolt'></i> Lightning talks
+### <i class='fa fa-bolt'></i> Lightning talks: 5 years forward / 5 years back
 
-Instead of a regular presentation, we’re doing lightning talks for Chi Hack Night #200!
+Lightning talks return for Chi Hack Night #250! For this special hack night, we're looking for talks along the theme of **5 years forward / 5 years back**. What will civic tech look like in 5 years? What were you doing 5 years ago that might have been considered civic tech before it was even a thing?
 
-Do you have an interesting or funny story to tell about Chi Hack Night? Want to show off that awesome civic project you’ve been working on? Now’s your chance to tell it to the world! 
+Tom Schenk, Chicago's Chief Data Officer, gave a talk in this vein last year:
 
-Talks must be 2 minutes or less and slides are mandatory. [Here's a great example of a short talk by Derek Sivers at TEDIndia](http://www.ted.com/talks/derek_sivers_weird_or_just_different).
+<p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/7zxzHw3gsj4" width="100%"></iframe></p>
 
-Between five and ten proposed talks will be picked to present at Chi Hack Night #200 for fame and glory!
+Guidelines:
 
-[Submit your lightning talk here](https://docs.google.com/forms/d/1dQLfSn25lcPFU8MVeoauMoHklDnkWAcqzSnFbOw8m_E/viewform) by Thursday, April 7th.
+- Must be themed around 5 years forward / 5 years back in civic tech
+- 5 minutes or less in length
+- Slides are required
+- Must not solicit any company or commercial product
 
-### <i class='fa fa-pencil'></i> Blog posts
+Between five and ten proposed talks will be picked to present at Chi Hack Night #250 for fame and glory!
 
-Feeling a bit too nervous to present to a big audience? We still want to hear from you! 
+[Submit your lightning talk here](https://docs.google.com/forms/d/e/1FAIpQLSc3tYmb_dPU-c2FrshJUZCdYyMuLtI90evdOoZMG8rkilZvtQ/viewform?usp=sf_link) by Thursday, April 13th.
 
-Share your Chi Hack Night story in written form by submitting it to our [blog](http://chihacknight.org/blog/). Posts can be as short or long as you want, and we especially want to hear from new folks who haven’t contributed before. The posts will be published and highlighted at Chi Hack Night #200.
+### <i class='fa fa-pencil'></i> Testimonials
 
-[Submit your blog post here](https://docs.google.com/forms/d/1p1Ml3rFSMYAgyU7Ue61_N-Gyx2VccuUrKizSntwLNu0/viewform) by Thursday, April 7th.
+We're also collecting testimonials from Chi Hack Night members, speakers and alumni.
+
+Has Chi Hack Night affected you in some way? Did you work on a meaningful project? Make a new friend? Land a job? We want to hear from you! We'll gather these testimonials and share them on our [blog](http://chihacknight.org/blog/).
+
+[Submit your blog post here](https://docs.google.com/forms/d/e/1FAIpQLSf3RZO6KFZnVPlFYmcQSjOZ7v-ZT39eTjVjFVRFtaXDJptfUA/viewform?usp=sf_link) by Thursday, April 13th.
 
 ---
 
-If you have any questions, [email Derek](mailto:derek@derekeder.com)! See you on April 12th!
+If you have any questions, [email Derek](mailto:derek@derekeder.com)! See you on April 18th!
