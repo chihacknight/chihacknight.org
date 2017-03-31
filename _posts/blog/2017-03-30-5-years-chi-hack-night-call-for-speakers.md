@@ -31,13 +31,13 @@ As we did [last year](/blog/2016/04/15/tales-from-200.html), you can participate
 
 ### <i class='fa fa-bolt'></i> Lightning presentations: 5 years forward / 5 years back
 
-Lightning talks return for Chi Hack Night #250! For this special hack night, we're looking for talks along the theme of **5 years forward / 5 years back**. What will civic tech look like in 5 years? What were you doing 5 years ago that might have been considered civic tech before it was even a thing?
+For this special hack night, we're looking for presentations along the theme of **5 years forward / 5 years back**. What will civic tech look like in 5 years? What were you doing 5 years ago that might have been considered civic tech before it was even a thing?
 
 Tom Schenk, Chicago's Chief Data Officer, gave a talk in this vein last year:
 
 <p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/7zxzHw3gsj4" width="100%"></iframe></p>
 
-This time, however, we're going to try something a bit new. These will be lightning **performances**. We encourage you to do any kind of performance that you'd like. It could be a talk, a poem, a song, a skit, or something else. We encourage you to get creative!
+These will be lightning **performances**. We encourage you to do any kind of performance that you'd like. It could be a talk, a poem, a song, a skit, or something else. Get creative!
 
 Guidelines:
 
