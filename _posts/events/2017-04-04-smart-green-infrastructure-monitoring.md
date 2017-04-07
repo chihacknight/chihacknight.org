@@ -12,7 +12,7 @@ speakers:
 image: /images/events/248-smart-green-infrastructure-monitoring.jpg
 date: 2017-04-04T18:00:00-06:00
 event_id: 248
-youtube_id: 
+youtube_id: wOaw-H_T-is
 agenda: https://docs.google.com/document/d/1-NsyZrtI3zqNd5yF40FBM68hcJs74UDvMVC0TAi3w4Y/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
