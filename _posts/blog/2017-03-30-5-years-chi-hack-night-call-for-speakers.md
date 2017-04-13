@@ -56,7 +56,7 @@ We're also collecting testimonials from Chi Hack Night members, speakers and alu
 
 Has Chi Hack Night affected you in some way? Did you work on a meaningful project? Make a new friend? Land a job? We want to hear from you! We'll gather these testimonials and share them on our [blog](http://chihacknight.org/blog/).
 
-[Submit your blog post here](https://docs.google.com/forms/d/e/1FAIpQLSf3RZO6KFZnVPlFYmcQSjOZ7v-ZT39eTjVjFVRFtaXDJptfUA/viewform?usp=sf_link) by Thursday, April 13th.
+[Submit your testimonial here](https://docs.google.com/forms/d/e/1FAIpQLSf3RZO6KFZnVPlFYmcQSjOZ7v-ZT39eTjVjFVRFtaXDJptfUA/viewform?usp=sf_link) by Thursday, April 13th.
 
 ---
 
