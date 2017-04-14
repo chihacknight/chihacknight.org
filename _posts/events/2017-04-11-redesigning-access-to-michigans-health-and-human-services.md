@@ -11,7 +11,7 @@ speakers:
 image: /images/events/249-files.jpeg
 date: 2017-04-11T18:00:00-06:00
 event_id: 249
-youtube_id: 
+youtube_id: ZvY7Bij-1Oc
 agenda: https://docs.google.com/document/d/1EomcP-JVh-Algj0XdPvonBIPschoDT7duYBJc0T0WOI/edit#
 sponsor: <a href='https://twilio.com'>Twilio</a>
 asl_provided: true
