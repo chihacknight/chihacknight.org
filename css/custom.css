@@ -63,6 +63,12 @@ a { text-decoration: none !important; }
   margin-right: 10px;
 }
 
+.testimonial-headshot {
+  width: 100px;
+  margin-right: 10px;
+  clear: both;
+}
+
 .breakout-headshot {
   width: 80px;
 }

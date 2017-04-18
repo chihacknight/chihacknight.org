@@ -31,27 +31,47 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Rose Afriyie, Co-founder of mRelief**
+<p class="pull-left"><img src="/images/people/rose_afriyie.jpg" alt="Rose Afriyie" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Rose Afriyie<br />Co-founder of mRelief**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night was where mRelief was incubated and founded. The community we had and continue to have then has made it possible for us to transform an idea into an organization. The technical mentorship and community support is unparalleled. To 50 more!!
 
 <br />
 
-**Daniel F. Bassill, Tutor/Mentor Institute, LLC**
+<p class="pull-left"><img src="/images/people/daniel-bassill.jpg" alt="Daniel F. Bassill" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Daniel F. Bassill<br />Tutor/Mentor Institute, LLC**
+
+<div class='clearfix'></div>
 
 > For 40 years I've learned from the ideas and work being done by others, and I've applied this learning to my own efforts. I'm really happy to have Chi Hack Night as part of my network and appreciate the dedication and commitment of the organizers who have made these weekly meetings happen for the past five years. Let's go for 10! 
 
 <br />
 
-**Olga Bautista, Co-founder of the Southeast Side Coalition to Ban Petcoke**
+<p class="pull-left"><img src="/images/people/olga-bautista.jpg" alt="Olga Bautista" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Olga Bautista<br />Co-founder of the Southeast Side Coalition to Ban Petcoke**
+
+<div class='clearfix'></div>
 
 > Being from an industrial community, I became accustomed to smoke stacks, delays due to railroad and bridge crossings, and bad odors from nearby companies. But, it wasn't until a few local environmental activists started to notice fugitive dust coming from the Petcoke piling up on the banks of the Calumet River that the residents started to question how safe it was and ultimately decided to demand a ban on Petcoke. They wanted a cleaner and greener community. 
 >
-> One way that helped raise awareness and helped residents make a decision about venturing outside when Petcoke might be present in the air was the creation of Petcokealerts.org.  When the Southeast Side Coalition to Ban Petcoke (SSCBP) was invited to present to Chi Hack Night, we never expected to have a prototype of this thing only two days later. We are so grateful to Ben Wilhelm and all the volunteers that worked so hard on Petcokealerts.org. All the piles of Petcoke are now gone and Petcokealerts.org helped get the word out about the problem to the community when the city and the state fell short.
+> One way that helped raise awareness and helped residents make a decision about venturing outside when Petcoke might be present in the air was the creation of [Petcokealerts.org](http://Petcokealerts.org).  When the Southeast Side Coalition to Ban Petcoke (SSCBP) was invited to present to Chi Hack Night, we never expected to have a prototype of this thing only two days later. We are so grateful to Ben Wilhelm and all the volunteers that worked so hard on Petcokealerts.org. All the piles of Petcoke are now gone and Petcokealerts.org helped get the word out about the problem to the community when the city and the state fell short.
 
 <br />
 
-**Cathy Deng, BuzzFeed Open Lab**
+<p class="pull-left"><img src="/images/people/cathy_deng.jpg" alt="Cathy Deng" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Cathy Deng<br />BuzzFeed Open Lab Fellow**
+
+<div class='clearfix'></div>
 
 > Most tech meetups are organized around a specific technology, whether it's Python or AWS or some shiny Javascript framework. I appreciate that Chi Hack Night is more focused on the goal or impact of a tech project, rather than the technologies themselves. As a result, the attendees and projects are naturally more diverse and more interesting.
 >
@@ -59,13 +79,23 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**David Eads, NPR**
+<p class="pull-left"><img src="/images/people/david-eads.jpg" alt="David Eads" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**David Eads<br />NPR Visuals Team**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night is a wonderful institution. Several projects that would prove to be transformative for me and others were born in conversations there. Miss y'all! Sending good vibes from DC.
 
 <br />
 
-**Karl Fogel, Partner at Open Tech Strategies**
+<p class="pull-left"><img src="/images/people/karl_fogel.jpg" alt="Karl Fogel" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Karl Fogel<br />Partner at Open Tech Strategies**
+
+<div class='clearfix'></div>
 
 > Lots of cities have civic technology meetups these days, but what makes Chi Hack Night special &mdash; and why it's still growing after 5 years &mdash; is its culture of radical inclusiveness, generosity, and open-mindedness.  
 >
@@ -75,37 +105,67 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Eureka Foong, PhD Student at Northwestern University**
+<p class="pull-left"><img src="/images/people/eureka-foong.jpg" alt="Eureka Foong" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Eureka Foong<br />PhD Student at Northwestern University**
+
+<div class='clearfix'></div>
 
 > It has truly been a great experience being at hack nights last year and learning from all of you. I love being a part of hackathons because you feel like you're going to make a great impact at the beginning ... but the enthusiasm wanes at the end. Chi Hack Night gives people the space and talent to take ideas beyond the 48-hour sprint. I'm grateful for being a part of your community and learning about the joys and pains of solving tough civic and computing problems. I think everyone who comes to Hack Night gets something out of it; for me, it helped me develop my research interests in problem solving and supporting design teams. Wishing you all a very happy 5-year anniversary and many more to come.
 
 <br />
 
-**Joe Germuska, Executive Director at Northwestern Knight Lab and Co-founder of Open Gov Chicago(-land)**
+<p class="pull-left"><img src="/images/people/joe_germuska.jpg" alt="Joe Germuska" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Joe Germuska<br />Executive Director at Northwestern Knight Lab<br />Co-founder of Open Gov Chicago(-land)**
+
+<div class='clearfix'></div>
 
 > It's hard to believe that Chi Hack Night is five years old, except that the organizers have been demonstrating their commitment to community and helping people learn for even longer. Still, I know just how hard it is to get people together and keep them together on an ongoing basis. It's an amazing achievement, and it makes me so happy to know that Chicago has this kind of energy, not just in the organizers but in the people who come to the event, regulars and newcomers alike. Cheers to the whole crew!
 
 <br />
 
-**Adam Hecktman, Director of Technology & Civic Innovation Chicago at Microsoft**
+<p class="pull-left"><img src="/images/people/adam_hecktman.jpg" alt="Adam Hecktman" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Adam Hecktman<br />Director of Technology & Civic Innovation Chicago at Microsoft**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night is consistently the highlight of my week. To say that it has opened my eyes in many ways is a dramatic understatement of the impact that Chi Hack Night has had on my world view, my professional life, and my personal life. I have made numerous friendships, have learned new skills, have developed empathy and understanding on many issues, and deepened my love for the positive impact that technology can have on my city and the world. Thank you to the Chi Hack Night community for all that we do for each other and for Chicago. Mazel Tov Chi Hack Night on 5 wonderful, inspiring years.
 
 <br />
 
-**Mary Kuhn, The Resurrection Project**
+<p class="pull-left"><img src="/images/people/mary_kuhn.png" alt="Mary Kuhn" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Mary Kuhn<br />The Resurrection Project**
+
+<div class='clearfix'></div>
 
 > Hack Night helped me when I returned to Chicago after 6 years away. I joined an interesting project right away and formed a network of smart and compassionate people. Thank you, Hack Night, for making our city a better place.
 
 <br />
 
-**Gene Leynes, Data Scientist at the City of Chicago**
+<p class="pull-left"><img src="/images/people/gene_leynes.jpg" alt="Gene Leynes" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Gene Leynes<br />Data Scientist at the City of Chicago**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night (formerly Open Gov Hack Night) has been absolutely instrumental for bringing together a lot of great people in Chicago. It's mostly centered around technology and civic activity, but the thing that's special about hack night is that you are the person you want to be. If you want to become a full time urban planner / html developer / machine learner, you can start by playing that role at hack night. This is where a lot of people find out who they are and who they want to become. 
 
 <br />
 
-**Jeff Meisel, Chief Marketing Officer at the US Census Bureau**
+<p class="pull-left"><img src="/images/people/jeff_meisel.jpg" alt="Jeff Meisel" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Jeff Meisel<br />Chief Marketing Officer at the US Census Bureau**
+
+<div class='clearfix'></div>
 
 > When people ask me "Why Public Service?", I’m reminded of when I presented to Chi Hack Night back in May 2015...  
 >
@@ -117,19 +177,36 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**David Melton, Board Member at Illinois Campaign for Political Reform**
+<div class='clearfix'></div>
+
+<p class="pull-left"><img src="/images/people/david_melton.jpg" alt="David Melton" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**David Melton<br />Board Member at Illinois Campaign for Political Reform**
+
+<div class='clearfix'></div>
 
 > Chi Hack has been an invaluable resource in working on policy issues and a source of fascinating information, experience and acquaintances.
 
 <br />
 
-**Claire Micklin, Creator of My Building Doesn’t Recycle**
+<p class="pull-left"><img src="/images/people/claire_micklin.jpg" alt="Claire Micklin" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Claire Micklin<br />Creator of My Building Doesn’t Recycle**
+
+<div class='clearfix'></div>
 
 > The Chi Hack Night community provided me with the support and resources to turn an idea into an app that ended up changing policy in Chicago. I'm very thankful to have crossed paths with Chi Hack Night and to have had such a rich first-hand experience with creating civic tech.
 
 <br />
 
-**Hunter Owens, Data Science Project Manager at the City of Los Angeles**
+<p class="pull-left"><img src="/images/people/hunter_owens.jpg" alt="Hunter Owens" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Hunter Owens<br />Data Science Project Manager at the City of Los Angeles**
+
+<div class='clearfix'></div>
 
 > I literally can say that my life would not be the same without Chi Hack Night. Chi Hack Night provides the community of civic engaged nerds who are committed to making Chicago a better place, and I was glad to play my part during from the first, 10-person Hack Nights to today's 120-person plus affairs. 
 >
@@ -137,37 +214,67 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Jerry Paffendorf, CEO at Loveland Technologies**
+<p class="pull-left"><img src="/images/people/jerry_paffendorf.jpg" alt="Jerry Paffendorf" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Jerry Paffendorf<br />CEO at Loveland Technologies**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night has been an inspiration for us in Detroit. We pay attention to what you're up to, and look up to the community you've built. Thank you, midwestern neighbors, for keeping the band together over these years. What you do has value beyond the borders of Chicago and Illinois.
 
 <br />
 
-**Jen Pahlka, Executive Director at Code for America**
+<p class="pull-left"><img src="/images/people/jennifer_pahlka.jpg" alt="Jen Pahlka" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Jen Pahlka<br />Executive Director at Code for America**
+
+<div class='clearfix'></div>
 
 > Congratulations to Chi Hack Night on 5 wonderful years! I've only been once but it was clearly one of the most amazing group of good-hearted, public-minded, smart, and insightful people working together ever to come together. And to keep coming together to make great things happen, and to inspire other Hack Nights all around the country and the world! 
 
 <br />
 
-**Rachael Perrotta, Activist and PR Strategist**
+<p class="pull-left"><img src="/images/people/rachael_perrotta.jpg" alt="Rachael Perrotta" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Rachael Perrotta<br />Activist and PR Strategist**
+
+<div class='clearfix'></div>
 
 > The Chi Hack Night community is one of the most vibrant and innovative in Chicago. I can't overstate the value their work adds to data journalism and social justice advocacy in the city. Chi Hack Night attendees were one of the best audience I've ever had during a talk. I hope their projects continues expand in the future. Chicago needs them!![image alt text](image_0.gif)
 
 <br />
 
-**Andy Rasmussen, Computer Science for All at Chicago Public Schools**
+<p class="pull-left"><img src="/images/people/andy-rasmussen.jpg" alt="Andy Rasmussen" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Andy Rasmussen<br />Computer Science for All at Chicago Public Schools**
+
+<div class='clearfix'></div>
 
 > I came to Chi Hack Night to see if I could help figure out a way to optimize the city's transit routes, and got a whole lot more than I bargained for. I didn't end up working on that project, but instead joined a group that focuses on supporting my own work on the CS4All initiative at Chicago Public Schools. It hasn't just been about civic tech—as an outsider (from Michigan), I don't know of a better place where I could have built for, learned about, and contributed to this city that is now my home.
 
 <br />
 
-**Robin Robinson, Special Adviser of Community Affairs at the Chicago Police Department**
+<p class="pull-left"><img src="/images/people/robin_robinson.jpg" alt="Robin Robinson" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Robin Robinson<br />Special Adviser of Community Affairs at the Chicago Police Department**
+
+<div class='clearfix'></div>
 
 > Maybe it's the word "hack" that scares non-techy folks like me! What a pleasant surprise to find such a welcoming atmosphere at Chi Hack Night &mdash; I can't wait to go back. Not a hatchet in sight.
 
 <br />
 
-**Bo Rodda, Executive Director at ImagineDev**
+<p class="pull-left"><img src="/images/people/bo_rodda.jpg" alt="Bo Rodda" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Bo Rodda<br />Executive Director at ImagineDev**
+
+<div class='clearfix'></div>
 
 > Over the past several years, I (we) have seen a revolution in the way we think about our neighborhoods, our cities, our world. Data of course is what is driving this change. 
 >
@@ -175,7 +282,12 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Greg Sanders, Chapin Hall**
+<p class="pull-left"><img src="/images/people/greg_sanders.jpg" alt="Greg Sanders" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Greg Sanders<br />Chapin Hall**
+
+<div class='clearfix'></div>
 
 > 15 years ago open government data, and transparency in general, were just good ideas. They failed to gain traction for a very long time. We know that innovation requires first a good idea, and then it requires leadership. But perhaps most important, the good idea requires a social milieu in which to ferment. (Don't take that term too literally. Alcohol is not necessary for Innovation, strictly speaking.) 
 >
@@ -185,13 +297,23 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Gabe Sawhney, Co-founder, Civic Tech Toronto / Executive Director, Code for Canada**
+<p class="pull-left"><img src="/images/people/gabe_sawhney.jpg" alt="Gabe Sawhney" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Gabe Sawhney<br />Co-founder, Civic Tech Toronto / Executive Director, Code for Canada**
+
+<div class='clearfix'></div>
 
 > Chi Hack Night &mdash; and the amazing civic tech community that's developed around it &mdash; are what inspired a few of us to start Civic Tech Toronto (civictech.ca). We followed your model to make welcoming and inclusive events, and now have 60-80 participants every Tuesday. We'll be celebrating our 100th hack night and second anniversary this July. It wouldn't have happened without Chi Hack Night! 
 
 <br />
 
-**Ari Scharg, Digital Privacy Alliance**
+<p class="pull-left"><img src="/images/people/ari_scharg.jpg" alt="Ari Scharg" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Ari Scharg<br />Digital Privacy Alliance**
+
+<div class='clearfix'></div>
 
 > I had the honor of presenting at Chi Hack Night a few months ago about emerging internet privacy issues. The experience was transformational, and opened my eyes to Chicago's incredibly robust and vibrant community of civic hackers, organizers, and activists. Derek is a sneaky good and inspiring leader, and makes newcomers feel right at home. The group is supportive, inclusive, open-minded, and profoundly motivated. They don't just talk about changing the world; they actually show up every week and do it. 
 >
@@ -199,7 +321,12 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Eric Sherman, GIS Consultant and Web Developer**
+<p class="pull-left"><img src="/images/people/eric_sherman.jpg" alt="Eric Sherman" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Eric Sherman<br />GIS Consultant and Web Developer**
+
+<div class='clearfix'></div>
 
 > For me, Chi Hack Night was first a place I could meet like-minded folks and see projects at the intersection of local politics and technology. I saw technology being used in creative ways to explore issues I cared about. I was welcomed into projects and conversations, despite not working in tech or knowing how to code. 
 >
@@ -207,13 +334,23 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <br />
 
-**Nate Steinfeld, Illinois Sentencing Policy Advisory Council**
+<p class="pull-left"><img src="/images/people/nate_steinfeld.jpg" alt="Nate Steinfeld" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Nate Steinfeld<br />Illinois Sentencing Policy Advisory Council**
+
+<div class='clearfix'></div>
 
 > I wish I had some more amazing story to tell, but really, it has just been great being able to attend (and present once!). Thank you so much for coordinating and supporting such a great community.
 
 <br />
 
-**Steven Vance, Streetsblog Chicago and Chicago Cityscape**
+<p class="pull-left"><img src="/images/people/steven_vance.jpg" alt="Steven Vance" class="img-thumbnail project-headshot hidden-phone" />
+</p>
+
+**Steven Vance<br />Streetsblog Chicago and Chicago Cityscape**
+
+<div class='clearfix'></div>
 
 > Hack night was originally a place for strangers to start using open data and share ways to manipulate or visualize it, before anyone knew what could be done with it. It has become an institution where strangers become friends and colleagues, and build even greater apps, reports, projects, and make a bigger impact than we did when it started at a small firm's office five years ago.
 
