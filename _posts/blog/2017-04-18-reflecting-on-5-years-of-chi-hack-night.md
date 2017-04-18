@@ -300,7 +300,7 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 <p class="pull-left"><img src="/images/people/gabe_sawhney.jpg" alt="Gabe Sawhney" class="img-thumbnail project-headshot hidden-phone" />
 </p>
 
-**Gabe Sawhney<br />Co-founder, Civic Tech Toronto / Executive Director, Code for Canada**
+**Gabe Sawhney<br />Co-founder, Civic Tech Toronto<br />Executive Director, Code for Canada**
 
 <div class='clearfix'></div>
 
