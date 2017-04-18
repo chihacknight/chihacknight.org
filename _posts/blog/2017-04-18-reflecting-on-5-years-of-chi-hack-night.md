@@ -243,7 +243,7 @@ We were floored by your responses. It turns out you like us &mdash; you really l
 
 <div class='clearfix'></div>
 
-> The Chi Hack Night community is one of the most vibrant and innovative in Chicago. I can't overstate the value their work adds to data journalism and social justice advocacy in the city. Chi Hack Night attendees were one of the best audience I've ever had during a talk. I hope their projects continues expand in the future. Chicago needs them!![image alt text](image_0.gif)
+> The Chi Hack Night community is one of the most vibrant and innovative in Chicago. I can't overstate the value their work adds to data journalism and social justice advocacy in the city. Chi Hack Night attendees were one of the best audience I've ever had during a talk. I hope their projects continues expand in the future. Chicago needs them!!
 
 <br />
 
