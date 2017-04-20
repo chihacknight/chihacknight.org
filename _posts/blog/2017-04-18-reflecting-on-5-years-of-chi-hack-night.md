@@ -16,7 +16,7 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/Chi-Hack-Night-5-years.jpg" alt="5 Years of Chi Hack Night" class="img-thumbnail" /><br />
+<p class="text-center"><img src="/images/blog/Chi-Hack-Night-5-years.jpg" alt="5 Years of Chi Hack Night" style="width:60%;" class="img-thumbnail" /><br />
 
 <small>
     <em>5 Years of Chi Hack Night</em>
