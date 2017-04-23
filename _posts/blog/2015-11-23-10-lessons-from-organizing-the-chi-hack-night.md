@@ -2,8 +2,8 @@
 layout: blog
 categories: 
   - blog
-title: 10 lessons from organizing the Chi Hack Night
-description: The Chi Hack Night has been referenced as the largest, most successful and productive civic hacking community around. This post is my first attempt at synthesizing and sharing our organizing model, starting with 10 lessons we've learned over the years. 
+title: 10 lessons from organizing Chi Hack Night
+description: Chi Hack Night has been referenced as the largest, most successful and productive civic hacking community around. This post is my first attempt at synthesizing and sharing our organizing model, starting with 10 lessons we've learned over the years. 
 date: 2015-11-23
 image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img0.jpg
 author: Derek Eder
@@ -17,9 +17,9 @@ published: true
 ---
 
 <div style='text-align: center;'>
-    <p><img src="/images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img0.jpg" alt="Just another Tuesday at the Chi Hack Night!" class='img-thumbnail' /><br />
+    <p><img src="/images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img0.jpg" alt="Just another Tuesday at Chi Hack Night!" class='img-thumbnail' /><br />
 
-    <small><em>Just another Tuesday at the Chi Hack Night!</em></small><br><br></p>
+    <small><em>Just another Tuesday at Chi Hack Night!</em></small><br><br></p>
 </div>
 
 The [Chi Hack Night](http://chihacknight.org/), Chicago's weekly event to build, share and learn about civic tech, has been going for 3 ½ years. We've been an inspiration for [dozens of hack nights in other cities](http://www.codeforamerica.org/brigade/) and are constantly referenced as the largest, most successful and productive civic hacking community around.
@@ -28,11 +28,11 @@ Over the years, many have asked me, "how can we create or nurture the same kind 
 
 This is a great question, and one that I’ve struggled to answer. At the 2014 Socrata Customer Summit, I took the approach of [showing by example what we do in Chicago](https://www.youtube.com/watch?v=MYEDX4fCn_M). 
 
-However, after talking to other hack night event organizers, and seeing some of our organizational structure copied by other groups, particularly [Code for America](http://www.codeforamerica.org/blog/2013/07/24/brigade-101-how-to-hack-night/), I believe the Chi Hack Night has a unique and effective way of organizing events and empowering volunteers.
+However, after talking to other hack night event organizers, and seeing some of our organizational structure copied by other groups, particularly [Code for America](http://www.codeforamerica.org/blog/2013/07/24/brigade-101-how-to-hack-night/), I believe Chi Hack Night has a unique and effective way of organizing events and empowering volunteers.
 
-This post is my first attempt at synthesizing and sharing this model. While I don’t have a full-on playbook for you, we have come up with 10 lessons that we think make the Chi Hack Night model work. 
+This post is my first attempt at synthesizing and sharing this model. While I don’t have a full-on playbook for you, we have come up with 10 lessons that we think make Chi Hack Night model work. 
 
-If you're already familiar with the Chi Hack Night, you can <a href='#10-lessons'>skip right down to the 10 lessons</a>. 
+If you're already familiar with Chi Hack Night, you can <a href='#10-lessons'>skip right down to the 10 lessons</a>. 
 
 If you've never been to one, it will help to know what goes on here every week. So let's dive in!
 
@@ -40,7 +40,7 @@ If you've never been to one, it will help to know what goes on here every week. 
 
 <h2 id='what-happens-at-chi-hack-night'>What happens at Chi Hack Night?</h2>
 
-The Chi Hack Night starts every Tuesday at 6pm. We meet in the Braintree office on the 8th floor of the Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers.
+Chi Hack Night starts every Tuesday at 6pm. We meet in the Braintree office on the 8th floor of the Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers.
 
 <p><strong>6:00pm – Socializing and food</strong></p>
 
@@ -138,7 +138,7 @@ When 10:00pm rolls around, we all head home and do it all over again next week.
 
 <br>
 
-<h2 id='10-lessons'>10 lessons from organizing the Chi Hack Night</h2>
+<h2 id='10-lessons'>10 lessons from organizing Chi Hack Night</h2>
 
 The above agenda is what we’ve found works the best for us. It has evolved over 3 ½ years and is tailored for an event with 100 attendees. So don’t go an try to follow it letter-for-letter and expect success. 
 
@@ -164,7 +164,7 @@ Now, I just run the event and create a space that is fun, safe and inclusive. Th
 
 **4. Have a variety of sponsors and partners**
 
-The Chi Hack Night has four food sponsors &mdash; [DataMade](http://datamade.us), [Code for America](http://codeforamerica.org), [GitHub](http://github.com) and [Dev Bootcamp](http://devbootcamp.com) &mdash; and one hosting sponsor, [Braintree](https://www.braintreepayments.com). Over the years we’ve had [several others](http://chihacknight.org/about.html#special-thanks), but one thing has stayed consistent: there are always several.
+Chi Hack Night has four food sponsors &mdash; [DataMade](http://datamade.us), [Code for America](http://codeforamerica.org), [GitHub](http://github.com) and [Dev Bootcamp](http://devbootcamp.com) &mdash; and one hosting sponsor, [Braintree](https://www.braintreepayments.com). Over the years we’ve had [several others](http://chihacknight.org/about.html#special-thanks), but one thing has stayed consistent: there are always several.
 
 We have multiple sponsors for a couple reasons: 
 
@@ -174,7 +174,7 @@ We have multiple sponsors for a couple reasons:
 
 **5. Focus on doing over talking**
 
-This one almost goes without saying, but let’s say it anyway. The Chi Hack Night is a place to get stuff done. It’s a place to learn by doing. It’s a place to roll up your sleeves, get your hands dirty, and build the things we think need building. 
+This one almost goes without saying, but let’s say it anyway. Chi Hack Night is a place to get stuff done. It’s a place to learn by doing. It’s a place to roll up your sleeves, get your hands dirty, and build the things we think need building. 
 
 Talking is important, but it should always be in service of doing.
 
@@ -202,13 +202,13 @@ We took this another step further in September and held our first [community fee
 
 **9. Experiment constantly**
 
-This one is tied very closely to #8. Listening to the community is not enough, you have to act on it. We run the Chi Hack Night just like we build our civic apps: with constant feedback and rapid iterations. The event agenda described above is the result of constant tweaking over years, and you can bet that it won’t be the same a year from now.
+This one is tied very closely to #8. Listening to the community is not enough, you have to act on it. We run Chi Hack Night just like we build our civic apps: with constant feedback and rapid iterations. The event agenda described above is the result of constant tweaking over years, and you can bet that it won’t be the same a year from now.
 
 **10. Have fun**
 
 This one, even though it’s last, is perhaps the most important and easiest to lose sight of. 
 
-The Chi Hack Night is a volunteer event. It’s organized by volunteers and attended by volunteers. Every project that comes out of it is done with volunteer time. 
+Chi Hack Night is a volunteer event. It’s organized by volunteers and attended by volunteers. Every project that comes out of it is done with volunteer time. 
 
 We do these projects and put in our time for all kinds of reasons. It’s empowering to build something that helps people. It’s a great way to learn about new topics and get new skills. It’s a great way to meet new people, develop professionally and make friends.
 
@@ -222,5 +222,5 @@ If you’re a Code for America Brigade captain, or an organizer for a civic tech
 
 I plan on doing more writing on the Chi Hack Night model, including case studies of some of the projects that have come out of our community, so stay tuned!
 
-This post was based on a talk that I gave at the 2015 Code for America Summit called [Lessons from organizing the Chi Hack Night](https://www.youtube.com/watch?v=V7MDrILmMIk).
+This post was based on a talk that I gave at the 2015 Code for America Summit called [Lessons from organizing Chi Hack Night](https://www.youtube.com/watch?v=V7MDrILmMIk).
 
