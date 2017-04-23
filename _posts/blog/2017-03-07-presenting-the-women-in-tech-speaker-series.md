@@ -47,8 +47,7 @@ Braintree<br />
 8th Floor<br />
 Chicago, IL 60654<br />
 
-<a href='#' class='btn btn-default'>RSVP - sold out!</a>
- 
+<a href='/events/2017/03/07/toni-preckwinkle.html' class='btn btn-success'>Details ></a>
 
 **Event #2 - March 14th, 6pm**
 
@@ -59,7 +58,7 @@ Braintree<br />
 8th Floor<br />
 Chicago, IL 60654<br />
 
-<a href='https://www.eventbrite.com/e/chi-hack-night-registration-30783700878' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a>
+<a href='/events/2017/03/14/sandee-kastrul.html' class='btn btn-success'>Details ></a>
 
 **Event #3 - March 21st, 6pm**
 
@@ -70,18 +69,18 @@ Braintree<br />
 8th Floor<br />
 Chicago, IL 60654<br />
 
-<a href='https://www.eventbrite.com/e/chi-hack-night-registration-30783701881' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a>
+<a href='/events/2017/03/21/grace-hopper-legends-and-lies.html' class='btn btn-success'>Details ></a>
 
 **Event #4 - March 28th**
 
-On Tuesday, March 28th we will welcome the [Chicago Federation for Women](https://www.cfw.org/) as they share their[ Talk It Out](https://www.cfw.org/talkitout/) initiative, a weeklong conversation series designed to spark understanding about gender bias and the ways it affects women and men. 
+On Tuesday, March 28th we will welcome Robin Robinson, special advisor on community affairs at the Chicago Police Department. Robin will discuss the role she has taken on and the work needed to rebuild trust between the Chicago Police Department and the communities it serves.
 
 Braintree<br />
 222 W Merchandise Mart Plz<br />
 8th Floor<br />
 Chicago, IL 60654<br />
 
-<a href='https://www.eventbrite.com/e/chi-hack-night-registration-30783702884' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a>
+<a href='/events/2017/03/28/robin-robinson.html' class='btn btn-success'>Details ></a>
 
 **Event #5 - Creators & Founders: Women in Civic Tech**
 
@@ -91,7 +90,7 @@ Homan Square Community Center<br />
 3517 W. Arthington Street<br />
 Chicago, IL 60624
 
-<a href='https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a> <a href='/satellite/2017/03/29/creators-and-founders.html' class='btn btn-link'>Details</a>
+<a href='/satellite/2017/03/29/creators-and-founders.html' class='btn btn-success'>Details ></a>
 
 **Event #6 - Amplifiers of Community Voice: Women in Civic Tech**
 
@@ -101,7 +100,7 @@ DuSable Museum-Auditorium<br />
 740 East 56th Place<br />
 Chicago, IL 60637
 
-<a href='https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445' class='btn btn-success'><i class='fa fa-check-square-o'></i> RSVP</a> <a href='/satellite/2017/03/30/amplifiers-of-community-voice.html' class='btn btn-link'>Details</a>
+<a href='/satellite/2017/03/30/amplifiers-of-community-voice.html' class='btn btn-success'>Details ></a>
 
 ---
 
