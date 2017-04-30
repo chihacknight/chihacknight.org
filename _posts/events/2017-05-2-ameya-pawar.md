@@ -22,3 +22,9 @@ Alderman Ameya Pawar is the son of Indian immigrants and the first Asian America
 **ASL** This event will have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
+
+**Leadership Council #35**
+
+We will have our **35th** [Chi Hack Night Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
+
+If you'd like to bring up a topic, add it to the [Leadership Council agenda](https://docs.google.com/document/d/1zvCQuPaZ99wLVY0_8PNDATJNCYuj89XJUQZujpVCnM4/edit#).
