@@ -6,10 +6,11 @@ links:
 title: "Alderman Ameya Pawar"
 description: "This week, we're excited to have Alderman Ameya Pawar join us! As an Alderman Pawar will share his experience as a local politician, particularly with regards to education reform and community development, and the role of technology in government. As a gubernatorial candidate, he’ll share his perspective on the current challenges faced by the state."
 speakers:
+ - Amey Pawar, 47th Ward Alderman
 image: /images/events/252-pawar.jpg
 date: 2017-05-02T18:00:00-06:00
 event_id: 252
-youtube_id: 
+youtube_id: bmnyeMo-B3M
 agenda: https://docs.google.com/document/d/1mce2VDjHrfcNI8aAgF1fPGgh7Dwnx7agtYzJp5JsCAQ/edit#
 sponsor: <a href='https://google.com'>Google</a>
 published: true
