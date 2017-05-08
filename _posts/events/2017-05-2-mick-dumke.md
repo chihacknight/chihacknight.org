@@ -16,6 +16,8 @@ sponsor: <a href='https://thisismetis.com/'>Metis</a>
 published: true
 ---
 
-Over the last several years, the Chicago Police Department has kept a watch on protest groups as well as parolees and others it deems at risk of being involved in gun violence. How do they chose their targets for surveillance or tracking -- or even for help? Police officials say that to protect the public, they can't tell the public.
+In 2012, the Chicago City Council voted to give police the option of issuing tickets for misdemeanor marijuana possession. This led to [a huge drop in pot possession arrests](http://chicago.suntimes.com/news/watchdogs-the-grass-gap-racial-disparities-in-pot-enforcement/).
+
+Around the same time, Chicago police began arresting parolees for "unlawful contact" with people deemed by cops to be gang members. The number of these arrests [surged from 43 in 2012 to 1,978 in 2015](http://chicago.suntimes.com/news/watchdogs-even-being-seen-with-gang-member-sends-1000s-to-jail/) -- and were tied to CPD's [stop-and-frisk practices](http://chicago.suntimes.com/news/watchdogs-71-percent-of-chicago-cops-street-stops-are-of-blacks/).
 
 [Mick Dumke](https://twitter.com/mickeyd1971), a reporter for the Chicago Sun-Times, will detail his ongoing fight to access public records of how the police are keeping watch over the city.
