@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Accessing the Chicago Police Department's secret data"
-description: "Mick Dumke, a reporter for the Chicago Sun-Times, will detail his ongoing fight to access public records of how the Chicago Police Department has been arresting parolees for unlawful contact with people deemed by cops to be gang member."
+description: "Mick Dumke, a reporter for the Chicago Sun-Times, will detail his ongoing fight to access public records of how the Chicago Police Department has been arresting parolees for unlawful contact with people deemed by cops to be gang members."
 speakers:
  - Mick Dumke, reporter, Chicago Sun-Times
 image: /images/events/253-mick_dumke.jpg
