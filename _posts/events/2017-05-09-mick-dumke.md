@@ -10,7 +10,7 @@ speakers:
 image: /images/events/253-mick_dumke.jpg
 date: 2017-05-09T18:00:00-06:00
 event_id: 253
-youtube_id: 
+youtube_id: IHwHQI4MfgA
 agenda: https://docs.google.com/document/d/1h6T63k-cRCzhvPQQUHJZw1q9GcE8Sbb3ZXEHyz_cKkA/edit
 sponsor: <a href='https://thisismetis.com/'>Metis</a>
 published: true
