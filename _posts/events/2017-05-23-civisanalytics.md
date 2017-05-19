@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links:
-title: "Using Data to Close the SNAP and EITC Participation Gap in NYC"
+title: "Using Data to Close the Safety Net Participation Gap in NYC"
 description: "Several members of the Civic Analytics team join us to talk about how their modeling work helped explore usage of public benefits in New York City."
 speakers:
 - Kelly Kreft - Senior Applied Data Scientist
@@ -22,4 +22,4 @@ In 2016, Civis Analytics' Applied Data Science team worked with the Robin Hood F
 
 In order to help the Robin Hood Foundation figure out how best to target its resources and do outreach through canvassing and community organizing, Civis used Census data from the American Community Survey to identify which areas had a high number of eligible participants who were not claiming benefits.
 
-Civis used models to improve our estimates and bring in additional information about the communities. In this talk, Civis will discuss how they approached the problem, data and modeling challenges we encountered along the way, and introduce some of the findings from their work!
+Civis used models to improve our estimates and bring in additional information about the communities. In this talk, Kelly Kreft, Advik Shreekumar and Ola Topczewska will discuss how they approached the problem, data and modeling challenges we encountered along the way, and introduce some of the findings from their work!
