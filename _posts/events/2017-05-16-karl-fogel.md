@@ -10,7 +10,7 @@ speakers:
 image: /images/events/254-karl-fogel.jpg
 date: 2017-05-16T18:00:00-06:00
 event_id: 254
-youtube_id: 
+youtube_id: sZnZMow20hk
 agenda: https://docs.google.com/document/d/1YbtXARlGWKSHuX-Gx6iDENMJD2kGeJ-oV-7NseBLySo/edit#
 sponsor: <a href='https://www.civisanalytics.com/'>Civis Analytics</a>
 published: true
