@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Brenna Berman"
-description: "Five years leading the second largest municipal IT department in the country is a journey marked by equal parks exhilaration, frustration and pride.  Just two months after leaving her position as CIO, Brenna Berman will be sharing achievements and reflections from her time at the City of Chicago Department of Innovation & Technology."
+description: "Five years leading the second largest municipal IT department in the country is a journey marked by equal parts exhilaration, frustration and pride.  Just two months after leaving her position as CIO, Brenna Berman will be sharing achievements and reflections from her time at the City of Chicago Department of Innovation & Technology."
 speakers:
 - Brenna Berman
 image: /images/events/259-brenna-berman.jpg
@@ -16,7 +16,7 @@ sponsor: <a href='http://twilio.com'>Twilio</a>
 published: true
 ---
 
-Five years leading the second largest municipal IT department in the country is a journey marked by equal parks exhilaration, frustration and pride.  Just two months after leaving her position as CIO, Brenna Berman will be sharing achievements and reflections from her time at the City of Chicago Department of Innovation & Technology.
+Five years leading the second largest municipal IT department in the country is a journey marked by equal parts exhilaration, frustration and pride.  Just two months after leaving her position as CIO, Brenna Berman will be sharing achievements and reflections from her time at the City of Chicago Department of Innovation & Technology.
 
 **ASL** This event will have an American Sign Language interpreter.
 
