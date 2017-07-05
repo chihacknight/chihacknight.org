@@ -13,6 +13,8 @@ event_id: 253
 youtube_id: IHwHQI4MfgA
 agenda: https://docs.google.com/document/d/1h6T63k-cRCzhvPQQUHJZw1q9GcE8Sbb3ZXEHyz_cKkA/edit
 sponsor: <a href='https://thisismetis.com/'>Metis</a>
+tags:
+ - journalism
 published: true
 ---
 

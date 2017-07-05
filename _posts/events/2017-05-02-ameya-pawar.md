@@ -13,6 +13,9 @@ event_id: 252
 youtube_id: bmnyeMo-B3M
 agenda: https://docs.google.com/document/d/1mce2VDjHrfcNI8aAgF1fPGgh7Dwnx7agtYzJp5JsCAQ/edit#
 sponsor: <a href='https://google.com'>Google</a>
+tags: 
+ - candidate
+ - politics
 published: true
 ---
 

@@ -14,6 +14,9 @@ event_id: 260
 youtube_id: rD7ByPxRdNU
 agenda: https://docs.google.com/document/d/1D1IMj_i1562ywRmaEEFCuPHYvLU8hz9wrmWwbFvhzvQ/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
+tags:
+ - civic engagement
+ - politics
 published: true
 ---
 

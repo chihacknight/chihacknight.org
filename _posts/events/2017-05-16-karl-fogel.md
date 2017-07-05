@@ -13,6 +13,8 @@ event_id: 254
 youtube_id: sZnZMow20hk
 agenda: https://docs.google.com/document/d/1YbtXARlGWKSHuX-Gx6iDENMJD2kGeJ-oV-7NseBLySo/edit#
 sponsor: <a href='https://www.civisanalytics.com/'>Civis Analytics</a>
+tags:
+ - open source
 published: true
 ---
 

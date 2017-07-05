@@ -13,6 +13,8 @@ event_id: 259
 youtube_id: ulrLTCrHeeo
 agenda: https://docs.google.com/document/d/1ruyej51hkgfUZFGDBNfJm5fKYSSG5Gd46XFFiU6rtxA/edit?usp=sharing
 sponsor: <a href='http://twilio.com'>Twilio</a>
+tags: 
+ - govtech
 published: true
 ---
 
