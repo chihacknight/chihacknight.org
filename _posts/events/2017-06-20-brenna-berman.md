@@ -10,7 +10,7 @@ speakers:
 image: /images/events/259-brenna-berman.jpg
 date: 2017-06-20T18:00:00-06:00
 event_id: 259
-youtube_id: 
+youtube_id: ulrLTCrHeeo
 agenda: https://docs.google.com/document/d/1ruyej51hkgfUZFGDBNfJm5fKYSSG5Gd46XFFiU6rtxA/edit?usp=sharing
 sponsor: <a href='http://twilio.com'>Twilio</a>
 published: true

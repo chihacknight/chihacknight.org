@@ -11,7 +11,7 @@ speakers:
 image: /images/events/260-chano4mayor.png
 date: 2017-06-27T18:00:00-06:00
 event_id: 260
-youtube_id: 
+youtube_id: rD7ByPxRdNU
 agenda: https://docs.google.com/document/d/1D1IMj_i1562ywRmaEEFCuPHYvLU8hz9wrmWwbFvhzvQ/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 published: true
