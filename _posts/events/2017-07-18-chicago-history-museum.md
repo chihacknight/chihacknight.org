@@ -6,12 +6,12 @@ links:
 title: "Oral Histories from the West Side"
 description: "Peter Alter, director of the Chicago History Museum’s Studs Terkel Center for Oral History, will talk about two recent projects in East Garfield Park and North Lawndale working with students to document oral histories of their communities. "
 speakers:
-- Peter T. Alter, Historian & Director, Studs Terkel Center for Oral History, Chicago History Museum
+- Peter T. Alter, Chicago History Museum
 image: /images/events/262-group-shot.jpg
 date: 2017-07-18T18:00:00-06:00
 event_id: 262
 youtube_id:
-agenda: https://docs.google.com/document/d/1aC6QeOE0K2lVRzXwuWlDwCLUaiMtd7NNo7Y83jexQIU/edit#
+agenda: https://docs.google.com/document/d/1gNJRxZgfbiGxPQ5C1S7vmyUyZOb0tbEWWjNcEAICj7U/edit#
 sponsor: <a href='https://google.com'>Google</a>
 tags:
  - south side
