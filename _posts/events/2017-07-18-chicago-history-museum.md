@@ -10,7 +10,7 @@ speakers:
 image: /images/events/262-group-shot.jpg
 date: 2017-07-18T18:00:00-06:00
 event_id: 262
-youtube_id:
+youtube_id: IrPwZ7ejsw8
 agenda: https://docs.google.com/document/d/1gNJRxZgfbiGxPQ5C1S7vmyUyZOb0tbEWWjNcEAICj7U/edit#
 sponsor: <a href='https://google.com'>Google</a>
 tags:
