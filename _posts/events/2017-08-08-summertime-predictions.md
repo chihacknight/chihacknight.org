@@ -12,7 +12,7 @@ speakers:
 image: /images/events/265-summertime-predictions.jpg
 date: 2017-08-08T18:00:00-06:00
 event_id: 265
-youtube_id: 
+youtube_id: svMEO9wrud4
 agenda: https://docs.google.com/document/d/1Ac-G-PbMS6vrVuiKKSvDxCJ2g6_G3Rgt7-4_B2uUIJ4/edit
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
