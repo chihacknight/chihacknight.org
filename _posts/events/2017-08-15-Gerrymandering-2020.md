@@ -17,7 +17,7 @@ asl_provided: true
 published: true
 ---
 
-Every ten years, everyone in the US is counted by the Census, and our congressional districts get redrawn. In 2020 it will be different: manipulating the district maps, known as [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), is now done with algorithms and "big data" collected on every voter. A [recent study by the The University of Chicago Law Review](http://uchicagolawjournalsmshaytiubv.devcloud.acquia-sites.com/sites/lawreview.uchicago.edu/files/04%20Stephanopoulos_McGhee_ART.pdf) concluded that “the severity of today’s gerrymandering is … unprecedented in modern times.” 
+Every ten years, everyone in the US is counted by the Census, and our congressional districts get redrawn. In 2020 it will be different: manipulating the district maps, known as [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), is now done with algorithms and "big data" collected on every voter. A [recent study by The University of Chicago Law Review](http://uchicagolawjournalsmshaytiubv.devcloud.acquia-sites.com/sites/lawreview.uchicago.edu/files/04%20Stephanopoulos_McGhee_ART.pdf) concluded that “the severity of today’s gerrymandering is … unprecedented in modern times.” 
 
 Web developer, mapmaker, and former Code for America fellow [Nick Doiron](https://twitter.com/mapmeld) returns to Chi Hack Night from Gerrymandering Summer School by the [Metric Geometry and Gerrymandering Group](https://sites.tufts.edu/gerrymandr/) (yes, this is a real thing), to share how mappers and technologists can help measure and challenge unfair election maps.
 
