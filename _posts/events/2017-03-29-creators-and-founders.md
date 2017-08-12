@@ -10,7 +10,7 @@ speakers:
  - Dima Elissa of VisMed-3D        
 image: /images/events/satellite-homan-square.jpg
 date: 2017-03-29T18:00:00-06:00
-youtube_id:
+youtube_id: lnq1lx6ujNI
 agenda: https://docs.google.com/document/d/1xQ-ihXliy2DuQW8KlN87ap4KzqvPIKIniW2AlhGaU-8/edit#
 sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 rsvp: https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247
