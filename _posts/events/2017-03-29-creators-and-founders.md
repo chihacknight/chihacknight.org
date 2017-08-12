@@ -21,6 +21,8 @@ asl_provided: false
 published: true
 ---
 
+[View the photos from Women in Civic Tech: Creators & Founders on Flickr &raquo;](https://www.flickr.com/photos/smartchicagocollaborative/albums/72157682038782095)
+
 [Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and **Chi Hack Night** have teamed up to create a [speaking series in celebration of Women’s History Month](/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
 Food will be provided.
@@ -29,8 +31,7 @@ Food will be provided.
 
 Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature:
 
-* Allyson Scrutchens of Forward Planning
-* Dima Elissa of VisMed-3D
+* Annie Mohaupt, CEO of Mohop
 * Denise Linn of Smart Chicago (moderator)
 
 ---
