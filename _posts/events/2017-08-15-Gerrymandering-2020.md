@@ -10,7 +10,7 @@ speakers:
 image: /images/events/266-gerrymandering.jpg
 date: 2017-08-15T18:00:00-06:00
 event_id: 266
-youtube_id: 
+youtube_id: rPpmVv2e2kQ
 agenda: https://docs.google.com/document/d/1r6a4Uc-SskRVVjMsQMQ0uM-6S__PSBRFQZLp1v7PoJQ/edit
 sponsor: <a href='https://www.thecitybase.com/'>City Base</a>
 asl_provided: true
