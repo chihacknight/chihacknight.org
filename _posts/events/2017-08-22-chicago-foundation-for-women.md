@@ -11,8 +11,8 @@ image: /images/events/267-chicago-foundation-for-women.jpg
 date: 2017-08-22T18:00:00-06:00
 event_id: 267
 youtube_id: 
-agenda: 
-sponsor: <a href='https://www.thecitybase.com/'>City Base</a>
+agenda: https://docs.google.com/document/d/15hQkAGUku0_nHpUHFP6hk8Sk3EHCZypifLf89SGNq0s/edit
+sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
 published: true
 ---
