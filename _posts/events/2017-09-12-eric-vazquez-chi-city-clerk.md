@@ -3,8 +3,10 @@ layout: event
 categories:
   - events
 links:
-title: "Human Centered Design in the Office of the City Clerk"
-description: "Eric Vazquez, Chief Technology Officer for the Chicago City Clerk, will share how he is introducing Human Centered Design into the City’s most visited government Office."
+title: "Human Centered Design for the City Clerk"
+description: "How does one account for the various needs of every single Chicagoan?
+<br><br>
+Eric Vazquez, Chief Technology Officer for the Chicago City Clerk, will share how he is introducing Human Centered Design into the City’s most visited government office."
 speakers:
  -  Eric Vazquez, Chief Technology Officer for the Chicago City Clerk
 image: /images/events/270-vazquez.jpg
