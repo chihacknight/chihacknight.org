@@ -25,7 +25,7 @@ If you have Docker installed, can avoid some of the hassle of installing Jekyll 
 This is especially handy if you're on Windows machine:
 
 ```
-docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll bundle install || jekyll serve
+docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll set JEKYLL_VERSION=3.0.2 | bundle install | jekyll serve
 ```
 ## Dependencies
 
