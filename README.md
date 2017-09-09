@@ -18,6 +18,15 @@ jekyll serve -w
 
 Then open your web browser and navigate to http://localhost:4000
 
+## Run in a Docker container
+
+If you have Docker installed, can avoid some of the hassle of installing Jekyll and/or Ruby by pulling from the offical Jekyll image, installing dependancies, and serving locally. 
+
+This is especially handy if you're on Windows machine:
+
+```
+docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll bundle install || jekyll serve
+```
 ## Dependencies
 
 * [Jekyll](http://jekyllrb.com/) - Static site generator built in Ruby
