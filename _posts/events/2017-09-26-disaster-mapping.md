@@ -10,7 +10,7 @@ speakers:
 image: /images/events/272-disaster-mapping.jpg
 date: 2017-09-26T18:00:00-05:00
 event_id: 272
-youtube_id: 
+youtube_id: qJ5Vdrs7O7U
 agenda: https://docs.google.com/document/d/11fWQtqmgK-WLtn7c_htiRfLO8Qer-UL_ARrAXP6-ZVs/edit
 sponsor: <a href='https://www.esparklearning.com/'>eSpark Learning</a>
 asl_provided: true
