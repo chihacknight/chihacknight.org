@@ -37,7 +37,6 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Daniel Biss (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **J.B. Pritzker (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Robert Marshall (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Scott Drury (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Tio Hardeman (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **William J. Kelly (R)**
 
