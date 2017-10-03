@@ -16,7 +16,7 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2017-10-03-illinois-governor-open-data-pledge/seal_of_illinois.jpg" alt="The Seal of the great State of Illinois" class="img-thumbnail" style='width:70%;'/><br />
+<p class="text-center"><img src="/images/blog/2017-10-03-illinois-governor-open-data-pledge/seal_of_illinois.jpg" alt="The Seal of the great State of Illinois" class="img-thumbnail" style='width:50%;'/><br />
 
 <small>
     <em>The Seal of the great State of Illinois</em>
