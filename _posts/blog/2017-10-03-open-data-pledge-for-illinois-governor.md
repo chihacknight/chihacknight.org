@@ -34,7 +34,7 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bob Daiber (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bruce Rauner (R)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Chris Kennedy (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Daniel Biss (D)**
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Daniel Biss (D)** - Signed Oct 5, 2017
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **J.B. Pritzker (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Robert Marshall (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Tio Hardiman (D)**
