@@ -30,7 +30,7 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 ### Candidate responses
 
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Alex Paterakis (D)**
-* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Ameya Pawar (D)** - Signed Oct 4, 2017
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Ameya Pawar (D)** - Signed Oct 4, 2017 (withdrew candidacy on Oct 12, 2017)
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bob Daiber (D)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bruce Rauner (R)**
 * <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Chris Kennedy (D)**
