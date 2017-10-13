@@ -21,6 +21,8 @@ This week, we welcome [Susana Mendoza](https://en.wikipedia.org/wiki/Susana_Mend
 
 In her talk, Comptroller Mendoza will provide an overview of the technological challenges facing her office and the State of Illinois, and the ways she intends to address them. She’ll also discuss her effort to increase transparency and accountability through legislation in the [Debt Transparency Act](https://illinoiscomptroller.gov/news-portal/debt-transparency-act-which-would-reveal-the-real-cost-of-the-bill-backlog-passes-in-the-house-with-bipartisan-backing/).
 
+---
+
 **ASL** This event will have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

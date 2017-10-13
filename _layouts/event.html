@@ -29,16 +29,21 @@ layout: default
       {% endif %}
 
       {% if site.time <= page.date %}
-        <p><a class='btn btn-success' href='http://chihacknight.eventbrite.com/'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        <p>
+          <a class='btn btn-success' href='http://chihacknight.eventbrite.com/'><i class='fa fa-check-square-o'></i> RSVP</a>
+
+          {% if page.agenda %}
+            &nbsp;&nbsp;<a class='btn btn-info' href='{{page.agenda}}' target='_blank'><i class='fa fa-file-text-o fa-fw'></i> Agenda</a>
+          {% endif %}
+
+        </p>
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
 
       {% if site.time < page.date and page.speakers %}
-        <hr />
 
-        <p><strong>Civic hacking</strong></p>
-        <p>After the presentation, we will break out into <a href='/breakouts.html'>learning and working groups</a> until 9:30pm.</p>
+        <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and working groups</a> until 9:30pm.</p>
       {% endif %}
 
       <hr />
