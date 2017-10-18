@@ -10,7 +10,7 @@ image: /images/blog/2016-11-25-post-election-feedback/img1.jpg
 date: 2017-10-24T18:00:00-05:00
 event_id: 276
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1lun9tH9O3B4pKQyX4c3ZQM4FxbjKlyUWX51NCQ3xMMA/edit#
 sponsor: <a href='https://google.com/'>Google</a>
 asl_provided: true
 published: true
