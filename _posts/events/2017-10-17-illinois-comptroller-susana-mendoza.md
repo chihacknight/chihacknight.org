@@ -10,7 +10,7 @@ speakers:
 image: /images/events/275-susana-mendoza.jpg
 date: 2017-10-17T18:00:00-05:00
 event_id: 275
-youtube_id: 
+youtube_id: JTCJH1DZWDw
 agenda: https://docs.google.com/document/d/1yNtb7bfKlWHKI9rnXr1h7DQUdzsKivdHsC2qKiasOio/edit#
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true
