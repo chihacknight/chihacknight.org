@@ -229,3 +229,9 @@ a { text-decoration: none !important; }
 }
 
 #press-list img { padding-bottom: 15px; }
+
+.alert-info {
+  background-color: #d0f2ff;
+  border-color: #7bd9ff;
+  color: #2c3e50;
+}
