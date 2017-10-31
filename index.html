@@ -13,8 +13,8 @@ layout: default
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <h2><i class='fa fa-star fa-spin'></i> Happy 4th of July!<i class='fa fa-star fa-spin'></i></h2>
-    <p>There will be no Chi Hack Night on Tuesday, July 4th. We’ll be back again on <strong>July 11th</strong> with more civic hacking fun!</p>
+    <h2><i class='fa fa-snowflake-o'></i> Happy holidays! See you in 2017! <i class='fa fa-snowflake-o'></i></h2>
+    <p>We're taking the last two weeks of the year off due to the holidays. We’ll be back again on <strong>January 3rd, 2017</strong> with more civic hacking fun!</p>
   </div>
 </div> -->
 
@@ -52,6 +52,45 @@ layout: default
       {% endfor %}
   </div>
 </div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><b>Upcoming Satellite Events</b></h3>
+  </div>
+  <div class="panel-body">
+    <p>In response to <a href='https://chihacknight.org/blog/2016/11/26/post-election-community-feedback-results.html'>community feedback,</a> Chi Hack Night is coming soon to a neighborhood near you!</p>
+
+    <p>We are bringing the typical Chi Hack Night event format and ethos into the communities that make Chicago great.</p><br />
+      {% for post in site.categories['satellite']  limit:1 %}
+      <strong>6pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+
+      <h2 class='no-margin-top'>
+        <!-- <small>#{{post.event_id}}</small> -->
+        <a href="{{post.url}}">{{post.title}}</a>
+      </h2>
+      <div class='row'>
+        <div class='col-sm-7'>
+          {% if post.description %}
+            <p>{{ post.description }}</p>
+          {% endif %}
+          <br />
+          {% if site.time <= post.date %}
+            <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+          {% endif %}
+          <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
+          <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
+        </div>
+        <div class='col-sm-5'>
+          {% if post.image %}
+            <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -131,7 +170,7 @@ layout: default
     <div class='sponsors'>
 
       <h2 id='sponsors'>Sponsors</h2>
-      <p>Chi Hack Night is organized by Derek Eder, Christopher Whitaker, Emily Drevets and members of our <a href='/leadership-council.html'>Leadership Council</a>, hosted at <a href='https://www.braintreepayments.com/'>Braintree</a> and supported by our amazing sponsors. DataMade is the fiscal sponsor.</p>
+      <p>Chi Hack Night is organized by Derek Eder, Christopher Whitaker and members of our <a href='/leadership-council.html'>Leadership Council</a>, hosted at <a href='https://www.braintreepayments.com/'>Braintree</a> and supported by our amazing sponsors. DataMade is the fiscal sponsor.</p>
 
       <div class='row'>
         <div class='col-sm-2'>
@@ -238,15 +277,6 @@ layout: default
             <a href='https://www.civisanalytics.com' itemprop='url'>
                 <img src='images/sponsors/civis-analytics.png' alt='Civis Analytics' itemprop='logo' class='img-responsive' />
                 <span itemprop='name'>Civis Analytics</span>
-            </a>
-          </div>
-        </div>
-
-        <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://www.esparklearning.com/' itemprop='url'>
-                <img src='images/sponsors/eSparkLearning.png' alt='eSpark Learning' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>eSpark Learning</span>
             </a>
           </div>
         </div>
