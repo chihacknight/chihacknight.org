@@ -4,18 +4,16 @@ categories:
   - satellite
 links:
 title: "Logan Square Hack Night"
-description: "Wednesday, November 8th we will convene at <a href='https://www.secondshiftchicago.com/'> Second Shift</a> for the first Chi Hack Night in the Logan Square neighborhood!"
-speakers:
-
+description: "Wednesday, November 8th we will convene at Second Shift for the first Chi Hack Night in the Logan Square neighborhood. We will hear from and interact with Andra Stanciu and Derek Eder, two Logan Square civic tech thinkers, doers, and community members. Civic Tech 101, Manatee Tank and other breakout groups to follow!"
 image: /images/events/logan-sat-event.jpg
 date: 2017-11-8T18:00:00-06:00
 youtube_id:
 agenda:
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
-rsvp:
+rsvp: https://www.eventbrite.com/e/logan-square-hack-night-tickets-39461973826
 speakers:
   - Andra Stanciu, founder at RO-AM Innovation Consortium
-  - Derek Eder of DataMade and Chi Hack Night
+  - Derek Eder, DataMade and Chi Hack Night
 address_name:  Second Shift
 address_street: 3432 W Diversey Ave Floor 2
 address_city:  Chicago, IL 60647
@@ -23,19 +21,15 @@ asl_provided: false
 published: true
 ---
 
-Wednesday, November 8th we will convene at Second Shift in Logan Square for the first Chi Hack Night in Logan Square!
+Wednesday, November 8th we will convene at [Second Shift](https://www.secondshiftchicago.com/) in Logan Square for the first Chi Hack Night in Logan Square!
 
-**Discussion**
+**Presentation**
 
-We will hear from and interact with two civic tech thinkers, doers, and community members. Featuring:
+We will hear from and interact with two Logan Square civic tech thinkers, doers, and community members. Featuring:
 
-* Andra Stanciu
+* [Andra Stanciu](https://www.linkedin.com/in/andra-roxana-stanciu) - A recent transplant to Chicago, Andra is an IT professional who has broad experience creating successful software solutions in multicultural and diverse teams through 10 years of working in the tech industry on 3 continents.
 
-A recent transplant to Chicago, Andra is an IT professional who has broad experience creating successful software solutions in multicultural and diverse teams through 10 years of working in the tech industry on 3 continents.
-
-* Derek Eder
-
-Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data, and a co-founder and organizer for Chi Hack Night.
+* [Derek Eder](https://twitter.com/derekeder) - Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data, and a co-founder and organizer for Chi Hack Night.
 
 **Civic Tech 101**
 

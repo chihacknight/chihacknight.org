@@ -69,12 +69,10 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Upcoming Satellite Events</b></h3>
+    <h3 class="panel-title"><b>Next Satellite Event</b></h3>
   </div>
   <div class="panel-body">
-    <p>In response to <a href='https://chihacknight.org/blog/2016/11/26/post-election-community-feedback-results.html'>community feedback,</a> Chi Hack Night is coming soon to a neighborhood near you!</p>
-
-    <p>We are bringing the typical Chi Hack Night event format and ethos into the communities that make Chicago great.</p><br />
+    <p>In response to <a href='https://chihacknight.org/blog/2016/11/26/post-election-community-feedback-results.html'>community feedback,</a> Chi Hack Night is coming soon to a neighborhood near you! We are bringing Chi Hack Night event format and ethos into the communities that make Chicago great.</p><br />
       {% for post in site.categories['satellite']  limit:1 %}
       <strong>6pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
 
@@ -92,7 +90,6 @@ layout: default
             <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
           {% endif %}
           <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-          <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
         </div>
         <div class='col-sm-5'>
           {% if post.image %}
