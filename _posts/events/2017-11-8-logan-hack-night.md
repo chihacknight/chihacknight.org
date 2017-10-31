@@ -4,15 +4,15 @@ categories:
   - satellite
 links:
 title: "Logan Square Hack Night"
-description: "Wednesday, November 8th we will convene at <a href='https://www.secondshiftchicago.com/'> Second Shift</a> for the first Chi Hack Neighborhoods Night in Logan Square!"
+description: "Wednesday, November 8th we will convene at <a href='https://www.secondshiftchicago.com/'> Second Shift</a> for the first Chi Hack Neighborhood Night in Logan Square!"
 speakers:
 
-image: /images/events/logan-sat_event.jpg
+image: /images/events/logan-sat-event.jpg
 date: 2017-11-8T18:00:00-06:00
 youtube_id:
 agenda:
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
-rsvp: https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445
+rsvp:
 address_name:  Second Shift
 address_street: 3432 W Diversey Ave Floor 2
 address_city:  Chicago, IL 60647
