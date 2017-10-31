@@ -4,7 +4,7 @@ categories:
   - satellite
 links:
 title: "Logan Square Hack Night"
-description: "Wednesday, November 8th we will convene at <a href='https://www.secondshiftchicago.com/'> Second Shift</a> for the first Chi Hack Neighborhood Night in Logan Square!"
+description: "Wednesday, November 8th we will convene at <a href='https://www.secondshiftchicago.com/'> Second Shift</a> for the first Chi Hack Night in the Logan Square neighborhood!"
 speakers:
 
 image: /images/events/logan-sat-event.jpg
@@ -13,6 +13,9 @@ youtube_id:
 agenda:
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
 rsvp:
+speakers:
+  - Andra Stanciu, founder at RO-AM Innovation Consortium
+  - Derek Eder of DataMade and Chi Hack Night
 address_name:  Second Shift
 address_street: 3432 W Diversey Ave Floor 2
 address_city:  Chicago, IL 60647
@@ -22,9 +25,17 @@ published: true
 
 Wednesday, November 8th we will convene at Second Shift in Logan Square for the first Chi Hack Night in Logan Square!
 
-**Panel Discussion**
+**Discussion**
 
-We will begin with a brief panel of civic tech thinkers, doers, and community members.
+We will hear from and interact with two civic tech thinkers, doers, and community members. Featuring:
+
+* Andra Stanciu
+
+A recent transplant to Chicago, Andra is an IT professional who has broad experience creating successful software solutions in multicultural and diverse teams through 10 years of working in the tech industry on 3 continents.
+
+* Derek Eder
+
+Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is founder and partner at DataMade, a company that tells stories and builds tools with data, and a co-founder and organizer for Chi Hack Night.
 
 **Civic Tech 101**
 
@@ -37,6 +48,7 @@ Do you have an idea or problem you think technology can help solve? Share your i
 Manatee Tank is like the show Shark Tank, but instead of scrutinizing and bidding on your business idea, we’ll be nice and give you constructive and helpful feedback on your idea.
 
 **Breakout Groups**
+
 People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills. Members of the Chi Hack Night community will be on site to run several of their breakout groups.
 
 ---
