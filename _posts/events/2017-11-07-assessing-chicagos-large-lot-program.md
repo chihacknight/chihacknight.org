@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Assessing Chicago’s Large Lot Program"
-description: "Established in 2014, the City of Chicago’s Large Lot Program enables the purchase vacant lots for $1 each by residents who own property on the same block. What benefits and costs do these lots have for new owners? What physical changes are made to the lots as a result of purchase and how does lot condition change over time? To answer these questions, Paul Gobster from the USDA Forest Service and William Stewart from the University of Illinois Urbana-Champaign will share their research on two areas on the South and West sides of the city with high rates of land vacancy: Greater Englewood and East Garfield Park."
+description: "The City of Chicago’s Large Lot Program enables the purchase vacant lots for $1 each by residents who own property on the same block. What benefits and costs do these lots have for new owners? What physical changes are made to the lots? To answer these questions, Paul Gobster from the USDA Forest Service and William Stewart from the University of Illinois Urbana-Champaign will share their research on two areas on the South and West sides of the city with high rates of land vacancy."
 speakers:
  - Demond Drummer, CoderSpace
  - Jeanne Chandler, City of Chicago
