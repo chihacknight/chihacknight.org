@@ -28,7 +28,13 @@ layout: default
       {% endif %}
 
       {% if site.time <= page.date %}
-        <p><a class='btn btn-success' href='{{page.rsvp}}'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        <p>
+          <a class='btn btn-success' href='{{page.rsvp}}'><i class='fa fa-check-square-o'></i> RSVP</a>
+
+          {% if page.agenda %}
+            &nbsp;&nbsp;<a class='btn btn-info' href='{{page.agenda}}' target='_blank'><i class='fa fa-file-text-o fa-fw'></i> Agenda</a>
+          {% endif %}
+        </p>
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
