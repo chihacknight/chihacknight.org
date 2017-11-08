@@ -8,7 +8,7 @@ description: "Wednesday, November 8th we will convene at Second Shift for the fi
 image: /images/events/logan-sat-event.jpg
 date: 2017-11-8T18:00:00-06:00
 youtube_id:
-agenda:
+agenda: https://docs.google.com/document/d/12q11MgNYdMj6WKgDWGX18hJjgXO0RROUQ3QpkesmBJ0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
 rsvp: https://www.eventbrite.com/e/logan-square-hack-night-tickets-39461973826
 speakers:
