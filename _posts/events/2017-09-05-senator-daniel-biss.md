@@ -10,7 +10,7 @@ speakers:
 image: /images/events/269-biss.jpg
 date: 2017-09-05T18:00:00-05:00
 event_id: 269
-youtube_id: 
+youtube_id: Y4mUYUa7xxU
 agenda: https://docs.google.com/document/d/1fbFruhrpNH_e_jVgELLrT25WEU_UIdRHKG9IlSFaBgw/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
