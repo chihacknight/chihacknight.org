@@ -6,7 +6,7 @@ links:
 title: "Logan Square Hack Night"
 description: "Wednesday, November 8th we will convene at Second Shift for the first Chi Hack Night in the Logan Square neighborhood. We will hear from and interact with Andra Stanciu and Derek Eder, two Logan Square civic tech thinkers, doers, and community members. Civic Tech 101, Manatee Tank and other breakout groups to follow!"
 image: /images/events/logan-sat-event.jpg
-date: 2017-11-8T18:00:00-06:00
+date: 2017-11-08T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/12q11MgNYdMj6WKgDWGX18hJjgXO0RROUQ3QpkesmBJ0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
