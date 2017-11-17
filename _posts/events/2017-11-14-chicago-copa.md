@@ -6,10 +6,13 @@ links:
 title: "Chicago's Civilian Office of Police Accountability (COPA)"
 description: "In September 2017, the City of Chicago officially launched the Civilian Office of Police Accountability (COPA), a new agency charged with oversight of the Chicago Police Department. Last week, COPA released for the first time an open data set on the police misconduct complaints they’ve received. Members of COPA will walk us through this data and talk about the role of transparency and open data in their work going forward."
 speakers:
+ - A.D. Lewis, COPA
+ - Martin Guzman, COPA
+ - Mia Sissac, COPA
 image: /images/events/279-copa.jpg
 date: 2017-11-14T18:00:00-05:00
 event_id: 279
-youtube_id: 
+youtube_id: YI8ZFId5chw
 agenda: https://docs.google.com/document/d/1ddUKJYzhBjR6BBFMKWzNsEU9blwuRYKKsmEG-QEwEqo/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
