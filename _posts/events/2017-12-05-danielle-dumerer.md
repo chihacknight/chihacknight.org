@@ -8,7 +8,7 @@ description: "In June of 2017, Danielle DuMerer was appointed as Chief Informati
 speakers:
  -  Danielle DuMerer, Chief Information Officer, City of Chicago
 image: /images/events/281-danielledumerer.jpg
-date: 2017-12-25T18:00:00-05:00
+date: 2017-12-05T18:00:00-05:00
 event_id: 281
 youtube_id: 
 agenda: https://docs.google.com/document/d/1J-dlDP-ZiUYZcMupIz3w_MUhPEVou7F8hhqUOamoNz0/edit#
