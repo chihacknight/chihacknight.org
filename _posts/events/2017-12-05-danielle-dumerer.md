@@ -17,7 +17,7 @@ asl_provided: true
 published: true
 ---
 
-In June of 2017, Danielle DuMerer was appointed as Chief Information Officer for the City of Chicago after nearly ten years working in the Department of Innovation & Technology. 
+In June of 2017, [Danielle DuMerer](https://www.linkedin.com/in/danielledumerer/) was appointed as Chief Information Officer for the City of Chicago after nearly ten years working in the [Department of Innovation & Technology](https://www.cityofchicago.org/city/en/depts/doit.html). 
 
 Danielle will talk about her journey to this role, and the City's future efforts to leverage data and technology to be more responsive.
 
