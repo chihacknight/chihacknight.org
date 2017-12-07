@@ -18,7 +18,7 @@ published: true
 
 On December 12th, Chi Hack Night will be magically transformed through the power of the civic tech holiday spirit into . . . . **Chikindlmarket**! 
 
-Visitors from all around Chicagoland (and beyond!) can play games, gnosh on sausages, pretzels, and other holiday treats, do screen printing, and thank each other for the accomplishments of the past year. Come and get to know some new folks — it might be cold outside, but it's cozy at Chikindlmarket!
+Visitors from all around Chicagoland (and beyond!) can play games, gnosh on sausages, pretzels, and other holiday treats, do [screen printing](https://en.wikipedia.org/wiki/Screen_printing), and thank each other for the accomplishments of the past year. Come and get to know some new folks — it might be cold outside, but it's cozy at Chikindlmarket!
 
 You should: 
 
