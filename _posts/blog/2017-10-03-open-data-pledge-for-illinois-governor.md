@@ -36,15 +36,15 @@ Signed:
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Chris Kennedy (D)** - Signed Oct 15, 2017
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **J.B. Pritzker (D)** - Signed Oct 18, 2017
 
-Yet to sign:
+Did not sign:
 
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Alex Paterakis (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bob Daiber (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Bruce Rauner (R)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Jeanne Ives (R)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Robert Marshall (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **Tio Hardiman (D)**
-* <span style='color: #00ADF2;'><i class='fa fa-fw fa-circle-o'></i></span> **William J. Kelly (R)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Alex Paterakis (D)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bob Daiber (D)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bruce Rauner (R)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Jeanne Ives (R)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Robert Marshall (D)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Tio Hardiman (D)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **William J. Kelly (R)**
 
 ### Why an Open Data Pledge?
 Representative democracies thrive on transparency and accountability, facilitated by open access to information. The State of Illinois collects and stores a wide range of data that’s critical for the public to know and use. 
