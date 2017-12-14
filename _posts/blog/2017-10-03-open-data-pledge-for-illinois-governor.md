@@ -38,13 +38,13 @@ Signed:
 
 Did not sign:
 
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Alex Paterakis (D)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bob Daiber (D)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bruce Rauner (R)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Jeanne Ives (R)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Robert Marshall (D)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Tio Hardiman (D)**
-* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **William J. Kelly (R)**
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Alex Paterakis (D)** - <a href='https://twitter.com/alexrpaterakis/status/915800938601959424'>responded via Twitter</a>, did not sign
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bob Daiber (D)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bruce Rauner (R)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Jeanne Ives (R)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Robert Marshall (D)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Tio Hardiman (D)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **William J. Kelly (R)** - did not respond
 
 ### Why an Open Data Pledge?
 Representative democracies thrive on transparency and accountability, facilitated by open access to information. The State of Illinois collects and stores a wide range of data that’s critical for the public to know and use. 
