@@ -8,7 +8,7 @@ description: "Wednesday, December 13th we will convene at Second Shift for the s
 image: /images/events/coderdojochi.jpg
 date: 2017-12-13T18:00:00-06:00
 youtube_id:
-agenda: https://docs.google.com/document/d/12q11MgNYdMj6WKgDWGX18hJjgXO0RROUQ3QpkesmBJ0/edit#
+agenda: https://docs.google.com/document/d/1QYv2Ic9xvvOrMmlCghVIOh0VoHu373diX3zaieFD8S8/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
 rsvp: https://www.eventbrite.com/e/logan-square-hack-night-2-tickets-39838611359
 speakers:
