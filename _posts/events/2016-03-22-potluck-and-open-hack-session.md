@@ -12,6 +12,8 @@ event_id: 197
 youtube_id: 
 agenda: https://docs.google.com/document/d/1REiWbnFY64VgXcOFY6Vy_OMpQpK0CpuXdgaFxlDta9g/edit#
 sponsor: <a href='http://microsoft.com'>Microsoft</a>
+tags: 
+ - openhack
 published: true
 ---
 

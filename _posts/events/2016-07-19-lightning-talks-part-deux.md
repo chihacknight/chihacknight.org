@@ -22,6 +22,8 @@ event_id: 214
 youtube_id: 
 agenda: https://docs.google.com/document/d/1gfVQ47EAOEHiNDcs7dqOFnP3zP94YaHSk4L4VFr3xow/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
+tags: 
+ - community
 published: true
 ---
 

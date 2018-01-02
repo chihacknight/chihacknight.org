@@ -10,6 +10,9 @@ date: 2014-09-30T18:00:00-05:00
 event_id: 125
 youtube_id: dKtbIXazS_c
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - 'open source'
+ - design
 published: true
 ---
 

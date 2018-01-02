@@ -10,6 +10,9 @@ date: 2014-10-28T18:00:00-05:00
 event_id: 129
 youtube_id: iz1o9OVuzjk
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - advocacy
+ - foia
 published: true
 ---
 

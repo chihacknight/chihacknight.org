@@ -14,6 +14,8 @@ event_id: 199
 youtube_id: jBcgQN5UZfI
 agenda: https://docs.google.com/document/d/1rfE-VZGtTqN9c6hkqg8bJGBdZEZYmalx5vMFwTrDr-w/edit#
 sponsor: <a href='https://cartodb.com/'>CartoDB</a>
+tags: 
+ - journalism
 published: true
 ---
 

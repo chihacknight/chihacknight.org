@@ -17,6 +17,8 @@ youtube_id: edUSPvUuwps
 agenda: https://docs.google.com/document/d/1iDofsgnMdkNqQKtxV5nmOJkviWh_laOa4567W4ziP_Y/edit#
 sponsor: <a href='https://google.com'>Google</a>
 published: true
+tags: 
+ - education
 redirect_from: /events/2016/12/06/computer-science-for-all.html
 ---
 

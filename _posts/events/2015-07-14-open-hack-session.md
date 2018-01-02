@@ -12,6 +12,8 @@ event_id: 164
 youtube_id: 
 agenda: https://docs.google.com/document/d/13dfqZ7rHw0WETrxe3JQKCkMpJbv6upIXhPhWqbnnt6k/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - openhack
 published: true
 ---
 

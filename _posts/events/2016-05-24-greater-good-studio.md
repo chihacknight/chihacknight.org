@@ -13,6 +13,8 @@ event_id: 206
 youtube_id: VHF78CxRL0k
 agenda: https://docs.google.com/document/d/1Qel8SMI6Xkb2DiwpnAbQdkdB-yzOyPF8opeGp6ZFpgM/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
+tags: 
+ - design
 published: true
 ---
 

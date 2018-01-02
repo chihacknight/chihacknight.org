@@ -12,6 +12,8 @@ speakers:
 date: 2014-05-27T18:00:00-05:00
 event_id: 107
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - openhack
 published: true
 ---
 

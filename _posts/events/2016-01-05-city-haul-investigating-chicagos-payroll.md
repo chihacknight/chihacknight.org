@@ -14,6 +14,8 @@ event_id: 186
 youtube_id: OKuT0odkq1s
 agenda: https://docs.google.com/document/d/11dBv7MZSC9Xn84LAmapnnB4m2I54oQ_RA3phYVXfjZ0/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - journalism
 published: true
 ---
 

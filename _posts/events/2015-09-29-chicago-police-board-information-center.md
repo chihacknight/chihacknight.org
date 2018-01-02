@@ -13,6 +13,9 @@ event_id: 175
 youtube_id: 
 agenda: https://docs.google.com/document/d/1HgZIK_IghrwHc8WLnD1i4daUDT27kMg932V8rb8lQuU/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - 'criminal justice'
+ - advocacy
 published: true
 ---
 

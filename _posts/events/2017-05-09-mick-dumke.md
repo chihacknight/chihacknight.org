@@ -15,6 +15,7 @@ agenda: https://docs.google.com/document/d/1h6T63k-cRCzhvPQQUHJZw1q9GcE8Sbb3ZXEH
 sponsor: <a href='https://thisismetis.com/'>Metis</a>
 tags:
  - journalism
+ - 'criminal justice'
 published: true
 ---
 

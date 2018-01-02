@@ -10,6 +10,9 @@ date: 2015-04-07T18:00:00-05:00
 event_id: 150
 youtube_id: rekozZ-82ck
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - govtech
+ - 'criminal justice'
 published: true
 ---
 

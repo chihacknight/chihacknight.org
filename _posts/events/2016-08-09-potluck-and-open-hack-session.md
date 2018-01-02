@@ -12,6 +12,8 @@ event_id: 217
 youtube_id: 
 agenda: https://docs.google.com/document/d/1bYa4ML-mhQ1CFkA4xYXj06jRIay1oQkecbKLZppYTqY/edit#
 sponsor: <a href='http://twilio.com'>Twilio</a>
+tags: 
+ - openhack
 published: true
 ---
 

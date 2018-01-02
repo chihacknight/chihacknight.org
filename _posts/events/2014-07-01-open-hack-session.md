@@ -7,6 +7,8 @@ title: Open Hack Session
 date: 2014-07-01T18:00:00-05:00
 event_id: 112
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - openhack
 published: true
 ---
 

@@ -14,6 +14,9 @@ event_id: 166
 youtube_id: 
 agenda: https://docs.google.com/document/d/1iYWC52nplFVCGq8dXKVYBLf0R6KzUZv0mqcST2ozZVA/edit#heading=h.v5pmd45txzev
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - journalism
+ - education
 published: true
 ---
 

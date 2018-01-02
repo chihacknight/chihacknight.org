@@ -18,7 +18,7 @@ sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
 tags: 
  - govtech
- - "police oversight"
+ - "criminal justice"
 published: true
 ---
 

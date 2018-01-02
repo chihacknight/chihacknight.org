@@ -13,6 +13,9 @@ event_id: 218
 youtube_id: v9PHWBLQFRE
 agenda: https://docs.google.com/document/d/1UlqnVO-u8hjSXrQKFMxpA0sNX7h1_QxzHXj69CIK5Yo/edit#
 sponsor: <a href='https://carto.com'>Carto</a>
+tags: 
+ - govtech
+ - 'open data'
 published: true
 ---
 

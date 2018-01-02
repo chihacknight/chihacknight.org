@@ -15,6 +15,8 @@ event_id: 222
 youtube_id: D4dacJrEAVE
 agenda: https://docs.google.com/document/d/1UzWyYnWMZlaCZlCUGw5ZlCdH5Zbc7Iml2XeIZXiMNQY/edit#
 sponsor: <a href='http://twilio.com'>Twilio</a>
+tags: 
+ - govtech
 published: true
 ---
 

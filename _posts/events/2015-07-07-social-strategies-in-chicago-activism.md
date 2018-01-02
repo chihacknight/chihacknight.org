@@ -13,6 +13,8 @@ event_id: 163
 youtube_id: 
 agenda: https://docs.google.com/document/d/1K8Oren5yR_W8qE15pIpXffBx7j3Yj9ja2PulBnkCgDU/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - advocacy
 published: true
 ---
 

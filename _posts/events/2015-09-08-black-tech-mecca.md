@@ -15,6 +15,9 @@ event_id: 172
 youtube_id: 
 agenda: https://docs.google.com/document/d/1uUfigmHPPHM61t9GRNdn53_uYwQoCmmIg_Q4bCTSIuY/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - equity
+ - breakout
 published: true
 ---
 

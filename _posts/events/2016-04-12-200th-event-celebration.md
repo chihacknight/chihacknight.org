@@ -21,6 +21,8 @@ event_id: 200
 youtube_id: 
 agenda: https://docs.google.com/document/d/1XZNgMfLscDIYdOGK_Cz4Y9YxxET0wLm3XCXWBKPtkU8/edit#
 sponsor: <a href='https://datamade.us/'>DataMade</a>
+tags: 
+ - celebration
 published: true
 ---
 <br />

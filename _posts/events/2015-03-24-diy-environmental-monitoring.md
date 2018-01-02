@@ -11,6 +11,9 @@ date: 2015-03-24T18:00:00-05:00
 event_id: 148
 youtube_id: MlFPxeDLKkE
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - environment
+ - advocacy
 published: true
 ---
 

@@ -12,6 +12,8 @@ event_id: 152
 youtube_id: 6kECpjEhKMc
 agenda: https://docs.google.com/document/d/1E-UMMeTSeg7ckaxV5sk7Jkd6BtJDiF6MD3_cYNhBapM/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - 'criminal justice'
 published: true
 ---
 

@@ -14,6 +14,9 @@ event_id: 207
 youtube_id: XKY_Sgv9ej8
 agenda: https://docs.google.com/document/d/1CtAwlwIq46g9ISEwj2LuorWzoctDVA0aCPPJQx59FhA/edit
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - 'criminal justice'
+ - privacy
 published: true
 ---
 

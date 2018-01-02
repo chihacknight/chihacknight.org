@@ -14,6 +14,9 @@ event_id: 216
 youtube_id: cGjCKfrH7J0
 agenda: https://docs.google.com/document/d/1Wg8hnr-O0fWpBboqEkr4GHIyFXLNUe1GbASws8Ah21c/edit#
 sponsor: <a href='http://google.com'>Google</a>
+tags: 
+ - journalism
+ - 'criminal justice'
 published: true
 ---
 

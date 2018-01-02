@@ -17,6 +17,9 @@ event_id: 156
 youtube_id: 7-AiIE38M1Q
 agenda: https://docs.google.com/document/d/1tnII1U1jIzA-4l05SdFjOMoBw_-fRlbakzQWwI0UPhk/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - govtech
+ - 'data analytics'
 published: true
 ---
 

@@ -13,6 +13,8 @@ event_id: 221
 youtube_id: 
 agenda: https://docs.google.com/document/d/1Obaro3_XPVh-45Sx8dCz3Iyh073VBowOeWpAkc4rziM/edit#
 sponsor: <a href='http://microsoft-chicago.com'>Microsoft</a>
+tags: 
+ - elections
 published: true
 ---
 

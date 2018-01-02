@@ -14,6 +14,9 @@ event_id: 232
 youtube_id: dAS4vBhTO6o
 agenda: https://docs.google.com/document/d/12qjmGc-qqPmO81rsuGcU-0cpT9FiSvm6z0XEcD6UdFE/edit#
 sponsor: <a href='https://www.twilio.com'>Twilio</a>
+tags: 
+ - health
+ - breakout
 published: true
 ---
 

@@ -13,6 +13,8 @@ event_id: 215
 youtube_id: JLUuglJBY28
 agenda: https://docs.google.com/document/d/1ucbwh57lZokc_QdRdzlcFz3xdNQAUxPR3oqWpgtyGwQ/edit#
 sponsor: <a href='http://hivechicago.org'>Mozilla Hive Chicago</a>
+tags: 
+ - govtech
 published: true
 ---
 

@@ -16,6 +16,7 @@ sponsor: <a href='https://DataMade.us/'>DataMade</a>
 asl_provided: true
 tags: 
  - advocacy
+ - privacy
 published: true
 ---
 

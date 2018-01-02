@@ -7,6 +7,8 @@ title: Open Hack Session
 date: 2014-07-22T18:00:00-05:00
 event_id: 115
 sponsor: <a href='http://github.com/'>GitHub</a>
+tags: 
+ - openhack
 published: true
 ---
 

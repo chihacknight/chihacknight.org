@@ -14,6 +14,9 @@ event_id: 169
 youtube_id: 
 agenda: https://docs.google.com/document/d/1v7zDRLb_BRhRDibqSqG_9RbAqbMA1g_imSeuV7NW1Kk/edit#
 sponsor: <a href='http://dssg.io'>Data Science for Social Good</a>
+tags: 
+ - govtech
+ - nonprofit
 published: true
 ---
 

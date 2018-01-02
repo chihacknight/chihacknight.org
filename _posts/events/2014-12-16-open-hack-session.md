@@ -7,6 +7,8 @@ title: A Jolly Open Hack Session
 date: 2014-12-16T18:00:00-05:00
 event_id: 136
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - openhack
 published: true
 ---
 

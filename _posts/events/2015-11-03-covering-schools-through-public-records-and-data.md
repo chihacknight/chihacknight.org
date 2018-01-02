@@ -13,6 +13,9 @@ event_id: 180
 youtube_id: 
 agenda: https://docs.google.com/document/d/1AAeAhbUKgm3J_j6E9P0x7FlNgGOOHEAqBjmtgCRPue0/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - journalism
+ - education
 published: true
 ---
 

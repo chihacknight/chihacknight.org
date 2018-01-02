@@ -9,6 +9,8 @@ speakers:
 date: 2014-07-29T18:00:00-05:00
 event_id: 116
 sponsor: <a href='http://codeforamerica.org/'>Code for America</a>
+tags: 
+ - 'open data'
 published: true
 ---
 

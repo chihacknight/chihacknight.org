@@ -11,6 +11,8 @@ speakers:
 date: 2014-05-06T18:00:00-05:00
 event_id: 104
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - govtech
 published: true
 ---
 

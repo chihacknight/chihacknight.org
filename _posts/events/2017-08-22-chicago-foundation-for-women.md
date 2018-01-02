@@ -16,6 +16,7 @@ sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
 tags: 
  - advocacy
+ - equity
 published: true
 ---
 

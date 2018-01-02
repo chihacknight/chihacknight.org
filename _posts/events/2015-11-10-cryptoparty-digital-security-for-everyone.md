@@ -13,6 +13,8 @@ event_id: 181
 youtube_id: 
 agenda: https://docs.google.com/document/d/15We5a0whIIsDJxtJPGw7O87bRofZmuwqndmfDTHMapc/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - privacy
 published: true
 ---
 

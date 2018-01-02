@@ -11,6 +11,8 @@ date: 2015-03-10T18:00:00-05:00
 event_id: 146
 youtube_id: 
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
+tags: 
+ - design
 published: true
 ---
 

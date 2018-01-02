@@ -14,6 +14,9 @@ event_id: 229
 youtube_id: dPKC9KZi7QM
 agenda: https://docs.google.com/document/d/1hiNJgudYkyOpi-KX_su4H5rbOmndhGr1Gb47Xh6712g/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - journalism
+ - 'criminal justice'
 published: true
 ---
 

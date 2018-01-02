@@ -15,6 +15,7 @@ agenda: https://docs.google.com/document/d/10FpQoa56McFdUZXmvvjFqPFh54yWEBKfJkf4
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 tags:
  - health
+ - equity
 published: true
 ---
 
