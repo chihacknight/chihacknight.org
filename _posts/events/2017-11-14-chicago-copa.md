@@ -16,6 +16,8 @@ youtube_id: YI8ZFId5chw
 agenda: https://docs.google.com/document/d/1ddUKJYzhBjR6BBFMKWzNsEU9blwuRYKKsmEG-QEwEqo/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
+tags: 
+ - govtech
 published: true
 ---
 

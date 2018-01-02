@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1HU2RAYPWNA4nBBFn4jnegRyEzX-16p862gEwNxgBiz4/edit#
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
+tags: 
+ - celebration
 published: true
 ---
 

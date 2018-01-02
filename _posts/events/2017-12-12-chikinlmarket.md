@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1zjAv7TQ-gmjwwDzSx7qkXc5blDGqrGvjJLQvdA2cQ4Y/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
+tags: 
+ - celebration
 published: true
 ---
 

@@ -14,6 +14,9 @@ youtube_id: rPpmVv2e2kQ
 agenda: https://docs.google.com/document/d/1r6a4Uc-SskRVVjMsQMQ0uM-6S__PSBRFQZLp1v7PoJQ/edit
 sponsor: <a href='https://www.thecitybase.com/'>City Base</a>
 asl_provided: true
+tags: 
+ - elections
+ - advocacy
 published: true
 ---
 

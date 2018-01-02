@@ -14,6 +14,9 @@ youtube_id: e3qez9__yKU
 agenda: https://docs.google.com/document/d/1QasFV6Zpjl5BPgrB3nNxW8YR6Rn0mVH-uzFspLwSZcA/edit
 sponsor: <a href='https://thisismetis.com'>Metis</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
+tags: 
+ - govtech
+ - "criminal justice"
 published: true
 ---
 

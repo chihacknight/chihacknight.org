@@ -20,6 +20,9 @@ youtube_id: McLo3_Hsr78
 agenda: https://docs.google.com/document/d/1MX0DYNm03FDKZddRO0MM3CALB9IXo0FWHPxWSLgScZM/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
 asl_provided: true
+tags: 
+ - advocacy
+ - housing
 published: true
 ---
 

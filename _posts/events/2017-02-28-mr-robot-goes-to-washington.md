@@ -14,6 +14,8 @@ youtube_id: Yz2zXy-SZFU
 agenda: https://docs.google.com/document/d/1GmHfIPixhds2s5czWlqM9L0nXl50UQJZpRr0SYcfxaU/edit#
 sponsor: <a href='https://DataMade.us/'>DataMade</a>
 asl_provided: true
+tags: 
+ - advocacy
 published: true
 ---
 

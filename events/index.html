@@ -17,6 +17,7 @@ description: Recent and upcoming hack nights, with links to each event's video l
       <th>#</th>
       <th>Event</th>
       <th>Speaker(s)</th>
+      <th>Tags</th>
     </tr>
   </thead>
   <tbody>
@@ -37,6 +38,11 @@ description: Recent and upcoming hack nights, with links to each event's video l
           <td>
             {% for speaker in post.speakers %}
               {{speaker}}<br />
+            {% endfor %}
+          </td>
+          <td class='nowrap'>
+            {% for tag in post.tags %}
+              {{tag}}<br />
             {% endfor %}
           </td>
         </tr>

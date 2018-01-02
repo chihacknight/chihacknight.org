@@ -19,6 +19,8 @@ address_name:  DuSable Museum of African-American History
 address_street: 740 East 56th Place
 address_city: Chicago, IL 60637 
 asl_provided: false
+tags: 
+ - satellite
 published: true
 ---
 

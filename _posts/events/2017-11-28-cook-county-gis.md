@@ -15,6 +15,8 @@ youtube_id: G6hvgIVOVZw
 agenda: https://docs.google.com/document/d/13aBJsofVVMM461Kz5i-6pNX4w-kK5hwv3N2_p4uGG6E/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
+tags: 
+ - govtech
 published: true
 ---
 

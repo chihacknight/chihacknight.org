@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1KlHBwSRNNU4LlE-HnTUpTdW28rakWiV2S7hqQAJXAks/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
+tags: 
+ - openhack
 published: true
 ---
 

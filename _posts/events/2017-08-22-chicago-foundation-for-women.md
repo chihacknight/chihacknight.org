@@ -14,6 +14,8 @@ youtube_id: uEBwhMS7KEQ
 agenda: https://docs.google.com/document/d/15hQkAGUku0_nHpUHFP6hk8Sk3EHCZypifLf89SGNq0s/edit
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
+tags: 
+ - advocacy
 published: true
 ---
 

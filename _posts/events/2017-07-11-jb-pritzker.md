@@ -15,7 +15,6 @@ agenda: https://docs.google.com/document/d/1jJ9DF_nDUU97U2pFFmV0yXRngUFlZIJ-v5RO
 sponsor: <a href='https://devbootcamp.com'>Dev Bootcamp</a>
 tags: 
  - candidate
- - politics
 published: true
 ---
 

@@ -16,7 +16,8 @@ youtube_id: XSQOCXwNqUA
 agenda: https://docs.google.com/document/d/1ueik_hJzJUif8NapH6vVG7q7YwduPaZUBZ1p6jw46d4/edit#
 sponsor: <a href='https://twilio.com/'>Twilio</a>
 tags:
- - social services
+ - govtech
+ - "socal services"
 published: true
 ---
 

@@ -14,6 +14,8 @@ youtube_id: JTCJH1DZWDw
 agenda: https://docs.google.com/document/d/1yNtb7bfKlWHKI9rnXr1h7DQUdzsKivdHsC2qKiasOio/edit#
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true
+tags: 
+ - electeds
 published: true
 ---
 

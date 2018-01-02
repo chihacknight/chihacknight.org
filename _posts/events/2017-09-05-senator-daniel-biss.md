@@ -14,6 +14,8 @@ youtube_id: Y4mUYUa7xxU
 agenda: https://docs.google.com/document/d/1fbFruhrpNH_e_jVgELLrT25WEU_UIdRHKG9IlSFaBgw/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
+tags: 
+ - candidate
 published: true
 ---
 

@@ -16,6 +16,8 @@ youtube_id: wOaw-H_T-is
 agenda: https://docs.google.com/document/d/1-NsyZrtI3zqNd5yF40FBM68hcJs74UDvMVC0TAi3w4Y/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
+tags: 
+ - environment
 published: true
 ---
 
