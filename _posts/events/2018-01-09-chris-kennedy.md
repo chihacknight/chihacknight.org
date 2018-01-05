@@ -11,7 +11,7 @@ image: /images/events/283-kennedy.jpg
 date: 2018-01-09T18:00:00-05:00
 event_id: 283
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1g_rGGSfz43B6CeOIPw_cou96ezwXyhRVWIyB-5fqAso/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
 tags: 
