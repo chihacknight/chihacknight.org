@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-title: "Inside The Water Drain"
+title: "Inside the Water Drain"
 description: "In October 2017, the Chicago Tribune published The Water Drain, a multi-part series investigating water rates throughout the Chicago region. Tribune reporters Ted Gregory, Patrick O’Connell and Cecilia Reyes with walk us through their findings and how they reported this series."
 speakers:
  - Ted Gregory, Chicago Tribune
