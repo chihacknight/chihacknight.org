@@ -62,6 +62,9 @@ layout: default
       <div class='col-sm-5'>
         {% if post.image %}
           <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+          {% if post.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
+          {% endif %}
         {% endif %}
       </div>
     </div>
