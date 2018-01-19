@@ -13,7 +13,7 @@ date: 2018-01-23T18:00:00-05:00
 event_id: 285
 youtube_id: 
 agenda: https://docs.google.com/document/d/1LyM00TQu3qxa1Gh8PMXc9q6BCwTAy3OfIJOuSQ7EmZA/edit#
-sponsor: <a href='https://mrelief.com/'>mRelief</a>
+sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
 tags: 
  - housing
