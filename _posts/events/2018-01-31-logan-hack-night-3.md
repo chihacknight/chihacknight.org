@@ -10,9 +10,9 @@ date: 2018-01-31T18:00:00-06:00
 youtube_id:
 agenda: 
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
-rsvp: https://www.eventbrite.com/e/logan-square-hack-night-2-tickets-39838611359
+rsvp: https://www.eventbrite.com/e/logan-square-hack-night-3-tickets-41854993412
 speakers:
-  - Ali Karbassi, Founder & CEO of CoderDojoChi
+  - Darryl Holliday, City Bureau
 address_name:  Second Shift
 address_street: 3432 W Diversey Ave Floor 2
 address_city:  Chicago, IL 60647
