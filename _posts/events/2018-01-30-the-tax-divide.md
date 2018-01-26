@@ -14,7 +14,7 @@ date: 2018-01-30T18:00:00-05:00
 event_id: 286
 youtube_id: 
 agenda: https://docs.google.com/document/d/1gPt40RQn_a57mE08OTT8BCfl9rmluyx_VWuIfauf_J4/edit#
-sponsor: <a href='https://microsoft.com/'>Microsoft</a>
+sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
 tags: 
  - journalism
