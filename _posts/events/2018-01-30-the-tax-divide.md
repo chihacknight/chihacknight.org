@@ -23,7 +23,7 @@ published: true
 
 In 2017, ProPublica Illinois and the Chicago Tribune published [The Tax Divide](https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/), a four-part series examining deep inequities in the Cook County’s property tax assessments system. 
 
-The system, which touches every family in the county, was known to be highly regressive, but reporters found that the assessor’s office ignored the problem and the misled the public. 
+The system, which touches every family in the county, was known to be highly regressive, but reporters found that the assessor’s office ignored the problem and misled the public.
 
 [ProPublica Illinois](https://www.propublica.org/illinois) reporters [Jason Grotto](https://twitter.com/jasongrotto) and [Sandhya Kambhampati](https://twitter.com/sandhya__k) will discuss the stories, [their methodology](https://projects.propublica.org/graphics/the-tax-divide-analysis) that the fallout from the series. 
 
