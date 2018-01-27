@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "ProPublica Illinois: The Tax Divide"
-description: "In 2017, ProPublica Illinois and the Chicago Tribune published The Tax Divide, a four-part series examining deep inequities in the Cook County’s property tax assessments system.  ProPublica Illinois reporters Jason Grotto and Sandhya Kambhampati will discuss the stories, their methodology that the fallout from the series."
+description: "In 2017, ProPublica Illinois and the Chicago Tribune published The Tax Divide, a four-part series examining deep inequities in the Cook County’s property tax assessments system.  ProPublica Illinois reporters Jason Grotto and Sandhya Kambhampati will discuss the stories, their methodology and the fallout from the series."
 speakers:
  - Jason Grotto, ProPublica Illinios
  - Sandhya Kambhampati, ProPublica Illinios
