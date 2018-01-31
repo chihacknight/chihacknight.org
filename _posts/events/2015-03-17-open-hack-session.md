@@ -8,6 +8,8 @@ date: 2015-03-17T18:00:00-05:00
 event_id: 147
 youtube_id: 
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - openhack
 published: true
 ---
 

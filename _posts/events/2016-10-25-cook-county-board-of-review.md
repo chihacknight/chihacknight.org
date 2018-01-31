@@ -14,6 +14,8 @@ event_id: 228
 youtube_id: OU42D3GJn_8
 agenda: https://docs.google.com/document/d/1U3W4TNandgpmvSQX2vEwMbDzKTOdnwY240C6qZ3_FTU/edit#
 sponsor: <a href='https://google.com'>Google</a>
+tags: 
+ - govtech
 published: true
 ---
 

@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1GcRy9dnE4ucp6uLBGbKJFQTZLy82v7bE8Gj-VDRlpSU/edit#
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
+tags: 
+ - openhack
 published: true
 ---
 

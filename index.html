@@ -25,8 +25,12 @@ layout: default
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <h2><i class='fa fa-snowflake-o'></i> Happy holidays! See you in 2017! <i class='fa fa-snowflake-o'></i></h2>
-    <p>We're taking the last two weeks of the year off due to the holidays. We’ll be back again on <strong>January 3rd, 2017</strong> with more civic hacking fun!</p>
+    <h2><i class='fa fa-snowflake-o fa-spin'></i> Happy holidays! See you in 2018! <i class='fa fa-snowflake-o fa-spin'></i></h2>
+    <p>We're taking the next three weeks off due to the holidays. We’ll be back again on <strong>January 9th, 2018</strong> with more civic hacking fun! While you're waiting, <a href='/events/index.html'>check out some of our presentations</a> from the last year.</p>
+
+    <p><i class='fa fa-lightbulb-o fa-fw'></i> Would you like to propose a talk at an upcoming Chi Hack Night? Take a look at our <a href='/speaker-submissions.html'>speaker requirements</a>.</p>
+
+    <p><i class='fa fa-dollar fa-fw'></i> If your organization is interested in becoming a sponsor of Chi Hack Night in 2018, <a href='mailto:info@chihacknight.org?subject=2018 sponsorship'>drop us a line</a>!</p>
   </div>
 </div> -->
 
@@ -50,7 +54,7 @@ layout: default
         {% endif %}
         <br />
         {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+          <a class='btn btn-success btn-lg' href="http://chihacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
@@ -58,6 +62,9 @@ layout: default
       <div class='col-sm-5'>
         {% if post.image %}
           <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+          {% if post.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
+          {% endif %}
         {% endif %}
       </div>
     </div>
@@ -67,10 +74,9 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Satellite Event</b></h3>
+    <h3 class="panel-title"><b>Next Community Event</b></h3>
   </div>
   <div class="panel-body">
-    <p>In response to <a href='https://chihacknight.org/blog/2016/11/26/post-election-community-feedback-results.html'>community feedback,</a> Chi Hack Night is coming soon to a neighborhood near you! We are bringing Chi Hack Night event format and ethos into the communities that make Chicago great.</p><br />
       {% for post in site.categories['satellite']  limit:1 %}
       <strong>6pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
 

@@ -12,6 +12,8 @@ event_id: 174
 youtube_id: 
 agenda: https://docs.google.com/document/d/1z-FA5EMkJzXv5Ww6wQaYfnioWVz0tYCndSeAAg200Bs/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - community
 published: true
 ---
 

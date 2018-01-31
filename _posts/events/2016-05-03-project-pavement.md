@@ -13,6 +13,8 @@ event_id: 203
 youtube_id: kGIMsdWO7tE
 agenda: https://docs.google.com/document/d/1YmBNMJPEuNLH1EFgS7g8pTg9yqbxNl423SttYVDVEXo/edit#
 sponsor: <a href='http://hivechicago.org'>Mozilla Hive Chicago</a>
+tags: 
+ - transportation
 published: true
 ---
 

@@ -14,6 +14,8 @@ youtube_id: 3nWItbn1FHI
 agenda: https://docs.google.com/document/d/1jbQ9Cq7IjNNId8CwhVNNG_cTc2ZNRvCtpTCibwY4ZE4/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
+tags: 
+ - education
 published: true
 ---
 

@@ -10,6 +10,9 @@ date: 2014-10-21T18:00:00-05:00
 event_id: 128
 youtube_id: zPGUGwzwwbk
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - international
+ - foia
 published: true
 ---
 

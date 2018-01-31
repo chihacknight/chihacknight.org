@@ -13,6 +13,8 @@ event_id: 195
 youtube_id: qIYGKrYWEHo
 agenda: https://docs.google.com/document/d/1zgrHB8d8-t8eJeJghYJgIozcOnBlYtsOdmhB87mXy1k/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - elections
 published: true
 ---
 

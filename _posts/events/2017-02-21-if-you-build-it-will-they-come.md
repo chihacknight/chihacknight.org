@@ -14,6 +14,8 @@ youtube_id: BcY286asoaQ
 agenda: https://docs.google.com/document/d/1-BlfNxeFXqVE1dMrwTT_roAGQstWkcnxfHlsGDy-VSw/edit
 sponsor: <a href='https://DataMade.us/'>DataMade</a>
 asl_provided: true
+tags: 
+ - design
 published: true
 ---
 

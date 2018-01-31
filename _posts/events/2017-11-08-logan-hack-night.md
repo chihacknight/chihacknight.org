@@ -18,6 +18,8 @@ address_name:  Second Shift
 address_street: 3432 W Diversey Ave Floor 2
 address_city:  Chicago, IL 60647
 asl_provided: false
+tags: 
+ - satellite
 published: true
 ---
 

@@ -14,11 +14,6 @@ youtube_id: IrPwZ7ejsw8
 agenda: https://docs.google.com/document/d/1gNJRxZgfbiGxPQ5C1S7vmyUyZOb0tbEWWjNcEAICj7U/edit#
 sponsor: <a href='https://google.com'>Google</a>
 tags:
- - south side
- - west Sides
- - History
- - high school
- - students
  - education
 published: true
 ---

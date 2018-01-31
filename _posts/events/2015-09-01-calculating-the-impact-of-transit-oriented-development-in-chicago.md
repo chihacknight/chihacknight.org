@@ -14,6 +14,9 @@ event_id: 171
 youtube_id: 
 agenda: https://docs.google.com/document/d/1HkH6bKtiWXIAGWA677iH2DXKXV9_Z1AOSfpFzcDyv28/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - transportation
+ - housing
 published: true
 ---
 

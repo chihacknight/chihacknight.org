@@ -13,6 +13,9 @@ event_id: 210
 youtube_id: mas0TMe25sg
 agenda: https://docs.google.com/document/d/1Ba-qEP84Y5xT5vRuJjGDMHUCQOo22VHZ2q2Aq7wPznk/edit#
 sponsor: <a href='http://twilio.com/'>Twilio</a>
+tags: 
+ - govtech
+ - international
 published: true
 ---
 

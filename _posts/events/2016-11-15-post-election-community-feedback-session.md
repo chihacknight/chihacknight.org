@@ -11,6 +11,8 @@ event_id: 231
 youtube_id: 
 agenda: https://docs.google.com/document/d/1LcB5wI43AM7sKwJ7FGJhTVJosH6egBcKKkioSgfoG4w/edit#
 sponsor: <a href='https://DataMade.us'>DataMade</a>
+tags: 
+ - community
 published: true
 ---
 

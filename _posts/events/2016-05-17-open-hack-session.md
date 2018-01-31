@@ -12,6 +12,8 @@ event_id: 205
 youtube_id: 
 agenda: https://docs.google.com/document/d/1P7R3gbwO2fjBHbYfCv3zPi9B7iZqmK6KgGKxajRwWBQ/edit#
 sponsor: <a href='https://www.google.com/'>Google</a>
+tags: 
+ - openhack
 published: true
 ---
 

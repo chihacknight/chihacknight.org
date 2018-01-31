@@ -11,6 +11,9 @@ date: 2014-07-15T18:00:00-05:00
 event_id: 114
 youtube_id: uRMZ6uUX0BA
 sponsor: <a href='http://www.thoughtworks.com/'>ThoughtWorks</a>
+tags: 
+ - 'social service'
+ - govtech
 published: true
 ---
 

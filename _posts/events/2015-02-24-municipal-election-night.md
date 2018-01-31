@@ -8,6 +8,8 @@ date: 2015-02-24T18:00:00-05:00
 event_id: 144
 youtube_id: 
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - celebration
 published: true
 ---
 

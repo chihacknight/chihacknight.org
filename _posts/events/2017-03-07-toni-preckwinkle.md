@@ -14,6 +14,8 @@ youtube_id: cqH5Li2de-c
 agenda: https://docs.google.com/document/d/1GfB-N9iMdfDiYELCQgpMTNEWV07ToccuY4DHsMtGMgQ/edit#
 sponsor: <a href='https://google.com/'>Google</a>, <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 asl_provided: true
+tags: 
+ - electeds
 published: true
 ---
 

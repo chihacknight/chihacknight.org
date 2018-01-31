@@ -14,6 +14,8 @@ event_id: 191
 youtube_id: hzEPbJ1Zb0M
 agenda: https://docs.google.com/document/d/1o8CVeHPjKw6hEWiIOXqrbzDAwSOfZuLz69cXpDpwQXI/edit#
 sponsor: <a href='http://microsoft-chicago.com/'>Microsoft</a>
+tags: 
+ - govtech
 published: true
 ---
 

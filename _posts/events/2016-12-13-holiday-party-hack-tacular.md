@@ -20,6 +20,8 @@ event_id: 234
 youtube_id: 
 agenda: https://docs.google.com/document/d/1jBl-g8r_OIbmI6sFCtTjZ9TOagJk2OYIZ-yB7U20tX4/edit#
 sponsor: <a href='http://www.thisismetis.com/'>Metis</a>
+tags: 
+ - celebration
 published: true
 ---
 

@@ -15,6 +15,9 @@ event_id: 182
 youtube_id: Kc06vukC_Iw
 agenda: https://docs.google.com/document/d/1bkSUFb5PQQrUUmlfmlDUUbvIjd4umpNZGoDMoMK3VHY/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - 'open data'
+ - howto
 published: true
 ---
 

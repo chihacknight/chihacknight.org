@@ -14,6 +14,8 @@ event_id: 198
 youtube_id: neJugRyHfVA
 agenda: https://docs.google.com/document/d/1j8infH2PaY6CnPMAAyZ7lmDGgh6bBLbUcZy4DW2nqxU/edit#
 sponsor: <a href='http://hivechicago.org/'>Mozilla Hive Chicago</a>
+tags: 
+ - nonprofit
 published: true
 ---
 

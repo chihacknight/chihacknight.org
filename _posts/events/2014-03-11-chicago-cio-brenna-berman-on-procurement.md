@@ -16,6 +16,9 @@ date: 2014-03-11T18:00:00-05:00
 event_id: 96
 youtube_id: 7HJP2PMo-kM
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>
+tags: 
+ - govtech
+ - procurement
 ---
 
 <p>City of Chicago CIO <a href='http://www.cityofchicago.org/city/en/depts/doit/auto_generated/doit_leadership.html'>Brenna Berman</a> will host a Q&A session on technology procurement, similar to <a href='http://www.smartchicagocollaborative.org/liveprocurement/'>last month's OpenGov Chicago meetup</a> (here's the <a href='https://docs.google.com/document/d/14_v3qaTznXtr-KV33ikaWgRUgVB6pgcl3dttmXRiSoc/edit'>meeting notes</a>).</p><p>The City is looking for ways to improve the procurement process and lower barriers to entry for small and medium businesses. If you have questions, feedback or suggestions on how Chicago buys technology, this is your chance speak up!</p>

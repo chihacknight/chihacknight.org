@@ -13,6 +13,8 @@ event_id: 162
 youtube_id: 
 agenda: https://docs.google.com/document/d/1SZ9yIMYnYBIlcKEAE5YU9PU1v1HfsVGlDEh5oPt-w1Y/edit#heading=h.osuljtwhb7kn
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - international
 published: true
 ---
 

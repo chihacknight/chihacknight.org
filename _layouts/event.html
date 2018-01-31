@@ -25,12 +25,15 @@ layout: default
       {% elsif site.time >= page.date and page.image %}
         <p>
           <img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
         </p>
       {% endif %}
 
       {% if site.time <= page.date %}
         <p>
-          <a class='btn btn-success' href='http://chihacknight.eventbrite.com/'><i class='fa fa-check-square-o'></i> RSVP</a>
+          <a class='btn btn-success' href='http://chihacknight.eventbrite.com/'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
 
           {% if page.agenda %}
             &nbsp;&nbsp;<a class='btn btn-info' href='{{page.agenda}}' target='_blank'><i class='fa fa-file-text-o fa-fw'></i> Agenda</a>
@@ -73,7 +76,11 @@ layout: default
       <div class='col-sm-5'>
         <div class='well'>
           {% if page.image %}
-            <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
+            <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+            {% if page.image_credit %}
+              <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+            {% endif %}
+            </p>
           {% endif %}
          
           6pm<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />

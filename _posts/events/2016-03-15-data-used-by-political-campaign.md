@@ -13,6 +13,9 @@ event_id: 196
 youtube_id: 2eJRPmZkKS4
 agenda: https://docs.google.com/document/d/1KKaDE3PaG0JUhTrYgLMfKnDkpbYiILOMy35RJyiNtYM/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - politics
+ - elections
 published: true
 ---
 

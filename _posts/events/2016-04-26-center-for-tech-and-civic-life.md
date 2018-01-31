@@ -14,6 +14,8 @@ event_id: 202
 youtube_id: MshZX5jXeDg
 agenda: https://docs.google.com/document/d/1HKG7SmZ-9R9Km6w_2XtcqQLxlo0YFu4rTKvG7jyZD4Y/edit#
 sponsor: <a href='https://microsoft-chicago.com'>Microsoft</a>
+tags: 
+ - elections
 published: true
 ---
 

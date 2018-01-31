@@ -14,6 +14,8 @@ youtube_id: 6YVN7fAA-wc
 agenda: https://docs.google.com/document/d/1t4H-AcoVcHx_fPn1FEbUYvMH0TogchrmFs2RV-6jTRU/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
 asl_provided: true
+tags: 
+ - environment
 published: true
 ---
 

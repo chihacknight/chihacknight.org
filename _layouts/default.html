@@ -58,7 +58,7 @@
     {% endif %}
 
     <!-- Twitter metadata -->
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ site.title }}">
     <meta name="twitter:creator" content="{{ site.title }}">
     {% if page.title %}
@@ -75,7 +75,7 @@
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}{{page.image}}">
+      <meta name="twitter:image" content="{{ site.url }}{{page.image}}">
     {% else %}
       <meta name="twitter:image:src" content="{{ site.url }}/images/logo/logo-star-avatar.png">
     {% endif %}

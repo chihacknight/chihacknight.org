@@ -12,6 +12,8 @@ event_id: 258
 youtube_id: 
 agenda: https://docs.google.com/document/d/1c9SujKuFH8gDLJQRuQhxRIDZH4_tk8bAaL3tqbpI1xk/edit
 sponsor: <a href='http://thecitybase.com'>CityBase</a>
+tags: 
+ - openhack
 published: true
 ---
 

@@ -13,6 +13,8 @@ event_id: 211
 youtube_id: 4HBJvsTI7RE
 agenda: https://docs.google.com/document/d/15ORHJEb28a6chuJpGb0Cfnmgc5944B6_ZQN5ysku5JY/edit#
 sponsor: <a href='https://google.com/'>Google</a>
+tags: 
+ - politics
 published: true
 ---
 

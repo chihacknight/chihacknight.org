@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1YY55LDGAPGPLHiFJMuzyWvU4QBYRAeQST46K2nGpbfw/edit#
 sponsor: <a href='http://thisismetis.com/'>Metis</a>
 asl_provided: true
+tags: 
+ - openhack
 published: true
 ---
 

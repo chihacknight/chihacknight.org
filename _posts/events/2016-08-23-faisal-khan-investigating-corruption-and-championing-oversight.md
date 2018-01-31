@@ -13,6 +13,8 @@ event_id: 219
 youtube_id: 1fQWo1BmwAc
 agenda: https://docs.google.com/document/d/1cn2YukMJmJjI5Lb4J4JedBUe0eAc4OnARpfveEMClV4/edit#
 sponsor: <a href='https://google.com'>Google</a>
+tags: 
+ - oversight
 published: true
 ---
 

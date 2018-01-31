@@ -11,6 +11,8 @@ date: 2014-06-03T18:00:00-05:00
 event_id: 108
 youtube_id: NA99uis2llE
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - education
 published: true
 ---
 

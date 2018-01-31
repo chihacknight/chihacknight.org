@@ -16,6 +16,8 @@ event_id: 160
 youtube_id: H2tkcADVOsY
 agenda: https://docs.google.com/document/d/1cN27iHRhKMT06IdmvRYnG8DTuxkyaBktIz-x5hytZ8g/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - 'open data'
 published: true
 ---
 

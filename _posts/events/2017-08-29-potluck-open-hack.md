@@ -13,6 +13,8 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1h2RJJVhNfPPNwGC8ZhQa-J-Tc630ZxmZrvDuN9C2e7A/edit#
 sponsor: <a href='https://www.esparklearning.com/'>eSpark Learning</a>
 asl_provided: true
+tags: 
+ - openhack
 published: true
 ---
 

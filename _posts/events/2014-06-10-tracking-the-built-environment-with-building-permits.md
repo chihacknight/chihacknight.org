@@ -12,6 +12,8 @@ date: 2014-06-10T18:00:00-05:00
 event_id: 109
 youtube_id: Kg7nnR8JLhs
 sponsor: <a href='http://socrata.com'>Socrata</a>
+tags: 
+ - 'open data'
 published: true
 ---
 

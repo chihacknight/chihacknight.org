@@ -12,6 +12,8 @@ event_id: 209
 youtube_id: 
 agenda: https://docs.google.com/document/d/19e-h4dduhBA12rsImeJLsNQAQv2npHHcruBS1b49WrY/edit#
 sponsor: <a href='http://hivechicago.org'>Mozilla Hive Chicago</a>
+tags: 
+ - openhack
 published: true
 ---
 

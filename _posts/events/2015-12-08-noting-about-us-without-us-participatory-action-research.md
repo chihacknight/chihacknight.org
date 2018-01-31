@@ -13,6 +13,8 @@ event_id: 184
 youtube_id: PfGzcxep_Uw
 agenda: https://docs.google.com/document/d/1Ei_bImdIMmTWbeEqE2CogCyB4Dh2OIe7WqBWa8J7RJM/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - equity
 published: true
 ---
 

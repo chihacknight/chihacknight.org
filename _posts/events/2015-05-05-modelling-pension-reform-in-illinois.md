@@ -16,6 +16,9 @@ event_id: 154
 youtube_id: j0iEbcDUcl0
 agenda: https://docs.google.com/document/d/1IDzwZifHa6ltxDJxUERLObc3ZBqF4PiiS9ekCJtAZHw/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - breakout
+ - pensions
 published: true
 ---
 

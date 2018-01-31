@@ -14,6 +14,8 @@ event_id: 190
 youtube_id: YK7Q2nxKYsI
 agenda: https://docs.google.com/document/d/1ZRAJYZNRy-sweVvok9KuIbqlaq9T4xCwmNPV0IcBDHI/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - politics
 published: true
 ---
 

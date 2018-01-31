@@ -8,6 +8,8 @@ date: 2015-1-13T18:00:00-05:00
 event_id: 138
 youtube_id:
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
+tags: 
+ - openhack
 published: true
 ---
 

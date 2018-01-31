@@ -12,6 +12,8 @@ event_id: 212
 youtube_id: 
 agenda: https://docs.google.com/document/d/1ciKtGURyg1s5WgAn0J6JXysv5OfWoj9UuNu2WAA8gQ4/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
+tags: 
+ - openhack
 published: true
 ---
 

@@ -12,6 +12,8 @@ date: 2014-08-05T18:00:00-05:00
 event_id: 117
 youtube_id: 4P_eIx7MNvo
 sponsor: <a href='http://datamade.us/'>DataMade</a>
+tags: 
+ - education
 published: true
 ---
 

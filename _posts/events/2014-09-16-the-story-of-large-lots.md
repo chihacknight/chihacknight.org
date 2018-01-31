@@ -10,6 +10,9 @@ speakers:
 date: 2014-09-16T18:00:00-05:00
 event_id: 123
 sponsor: <a href='http://GitHub.com/'>GitHub</a>
+tags: 
+ - govtech
+ - nonprofit
 published: true
 ---
 

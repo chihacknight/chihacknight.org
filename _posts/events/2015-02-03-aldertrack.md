@@ -10,6 +10,8 @@ date: 2015-02-03T18:00:00-05:00
 event_id: 141
 youtube_id: aSh4dKcKgaI
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - journalism
 published: true
 ---
 

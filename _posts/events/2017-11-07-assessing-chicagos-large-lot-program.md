@@ -17,6 +17,9 @@ youtube_id: 6-v6odxrTXs
 agenda: https://docs.google.com/document/d/1CfUuTMOGDFTzhs6CVWDDXSDp_8StggLHDe3J5LWCoNo/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
+tags: 
+ - govtech
+ - housing
 published: true
 ---
 

@@ -6,8 +6,7 @@ links:
 title: "Women in Civic Tech: Creators & Founders"
 description: "Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature Allyson Scrutchens of Forward Planning and Dima Elissa of VisMed-3D."
 speakers:
- - Allyson Scrutchens of Forward Planning
- - Dima Elissa of VisMed-3D        
+ - Annie Mohaupt, CEO of Mohop     
 image: /images/events/satellite-homan-square.jpg
 date: 2017-03-29T18:00:00-06:00
 youtube_id: lnq1lx6ujNI
@@ -18,6 +17,8 @@ address_name:  Homan Square Community Center
 address_street: 3517 West Arthington Street
 address_city: Chicago, IL 60624 
 asl_provided: false
+tags: 
+ - satellite
 published: true
 ---
 

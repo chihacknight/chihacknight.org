@@ -11,6 +11,8 @@ date: 2015-04-14T18:00:00-05:00
 event_id: 151
 youtube_id: phyx2FtfNd0
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - 'open data'
 published: true
 ---
 

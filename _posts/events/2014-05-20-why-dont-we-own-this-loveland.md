@@ -12,6 +12,8 @@ date: 2014-05-20T18:00:00-05:00
 event_id: 106
 youtube_id: -2ZqIGy9g5k
 sponsor: <a href='http://www.thoughtworks.com'>ThoughtWorks</a>
+tags: 
+ - mapping
 published: true
 ---
 

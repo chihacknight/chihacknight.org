@@ -13,6 +13,9 @@ event_id: 192
 youtube_id: 
 agenda: https://docs.google.com/document/d/1YXudd-LPWRspduxedfkwwOt6aALDJY-v7A9I9t567Go/edit#
 sponsor: <a href='http://datamade.us/'>DataMade</a>
+tags: 
+ - journalism
+ - education
 published: true
 ---
 

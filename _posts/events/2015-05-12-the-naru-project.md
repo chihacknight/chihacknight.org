@@ -14,6 +14,8 @@ event_id: 155
 youtube_id: fr-ADqLNGA4
 agenda: https://docs.google.com/document/d/1joqNYTO6O0iwYyzCc-cLNTCY7jBFPgZ7PNZ9WnQLMZY/edit#
 sponsor: <a href='http://github.com'>GitHub</a>
+tags: 
+ - environment
 published: true
 ---
 

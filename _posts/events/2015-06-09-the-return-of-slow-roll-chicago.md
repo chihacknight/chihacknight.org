@@ -17,6 +17,10 @@ event_id: 159
 youtube_id: 
 agenda: https://docs.google.com/document/d/1QKv3XDQN8F0o0F77uqceml4OnP3u_mPurxaBXzITi-w/edit#
 sponsor: <a href='http://github.com/'>GitHub</a>
+tags: 
+ - equity
+ - breakout
+ - transportation
 published: true
 ---
 

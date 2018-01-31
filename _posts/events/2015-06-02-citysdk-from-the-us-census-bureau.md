@@ -12,6 +12,9 @@ event_id: 158
 youtube_id: IJsMMAXJEBs
 agenda: https://docs.google.com/document/d/11hqMUk3brKiTI3DIg1bC2uEdJyOjkpV-dZ60eRQlV6k/edit#
 sponsor: <a href='http://devbootcamp.com/'>Dev Bootcamp</a>
+tags: 
+ - 'open data'
+ - howto
 published: true
 ---
 

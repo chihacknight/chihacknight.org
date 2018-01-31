@@ -13,6 +13,8 @@ event_id: 213
 youtube_id: Jm9BGsn2Lu8
 agenda: https://docs.google.com/document/d/1DVBFo2qCdzZaHhNYSLcTA1MDfoo5R7qR1bgbKC0DecQ/edit
 sponsor: <a href='http://devbootcamp.com/'>Dev Bootcamp</a>
+tags: 
+ - govtech
 published: true
 ---
 

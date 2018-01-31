@@ -12,6 +12,8 @@ event_id: 230
 youtube_id: 
 agenda: https://docs.google.com/document/d/1n9OSMHnDrUnIA3PpwsO7Q7IbAdbpRUO1qNQQFyIOjOk/edit#
 sponsor: <a href='https://microsoft-chicago.com'>Microsoft</a>
+tags: 
+ - celebration
 published: true
 ---
 

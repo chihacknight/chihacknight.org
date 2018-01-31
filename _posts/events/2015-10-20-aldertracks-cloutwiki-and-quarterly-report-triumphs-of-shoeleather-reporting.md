@@ -14,6 +14,8 @@ event_id: 178
 youtube_id: 
 agenda: https://docs.google.com/document/d/16NsX9_DwYLv4lWgo3_ZcA2vMW1BCa1_d_IjnHpZwecY/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - journalism
 published: true
 ---
 

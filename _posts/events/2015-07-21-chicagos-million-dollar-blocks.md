@@ -14,6 +14,8 @@ event_id: 165
 youtube_id: ElCQRIZ4wBs
 agenda: https://docs.google.com/document/d/1ff2SWau4uIMZ2FxQh3mVTK1zgMBIcbawWWLl8yvF7D8/edit#
 sponsor: <a href='http://datamade.us'>DataMade</a>
+tags: 
+ - 'criminal justice'
 published: true
 ---
 

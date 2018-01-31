@@ -12,6 +12,8 @@ date: 2014-05-13T18:00:00-05:00
 event_id: 105
 youtube_id: RhzyxVazDSw
 sponsor: <a href='http://socrata.com'>Socrata</a>
+tags: 
+ - design
 published: true
 ---
 

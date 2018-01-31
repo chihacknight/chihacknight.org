@@ -12,6 +12,8 @@ event_id: 189
 youtube_id: 
 agenda: https://docs.google.com/document/d/1w7pfB7FGsKgik9pN7qmxoTBTrWwgWJu389guLuNz0A0/edit#
 sponsor: <a href='http://devbootcamp.com'>Dev Bootcamp</a>
+tags: 
+ - openhack
 published: true
 ---
 

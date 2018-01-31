@@ -14,6 +14,9 @@ event_id: 223
 youtube_id: FWkRY9FZQM4
 agenda: https://docs.google.com/document/d/19CnLBTWMtWsJPI0jJPOL3pa8ttHkt58ZI9RWS7aOTKw/edit#
 sponsor: <a href='http://microsoft-chicago.com'>Microsoft</a>
+tags: 
+ - breakout
+ - equity
 published: true
 ---
 

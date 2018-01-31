@@ -15,6 +15,7 @@ youtube_id: nN3veIKCXIQ
 agenda: https://docs.google.com/document/d/1KLgatY5oTQMzXLDweDNoxJba6wvUwXRvtpXtIdvnGuk/edit#
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 tags:
+ - govtech
 published: true
 ---
 

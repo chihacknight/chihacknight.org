@@ -15,6 +15,9 @@ youtube_id: ZvY7Bij-1Oc
 agenda: https://docs.google.com/document/d/1EomcP-JVh-Algj0XdPvonBIPschoDT7duYBJc0T0WOI/edit#
 sponsor: <a href='https://twilio.com'>Twilio</a>
 asl_provided: true
+tags: 
+ - health
+ - design
 published: true
 ---
 

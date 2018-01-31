@@ -16,6 +16,8 @@ event_id: 168
 youtube_id: cDHl00dQzh8
 agenda: https://docs.google.com/document/d/1ptaMnzkpmLYoEh61-k3ZW6EORRhvqPlPc4_0o4mHq-A/edit#
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>
+tags: 
+ - education
 published: true
 ---
 
