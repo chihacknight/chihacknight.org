@@ -12,7 +12,7 @@ image: /images/events/286-the-tax-divide.jpg
 image_credit: 
 date: 2018-01-30T18:00:00-05:00
 event_id: 286
-youtube_id: 
+youtube_id: L2gdj5f2pJQ
 agenda: https://docs.google.com/document/d/1gPt40RQn_a57mE08OTT8BCfl9rmluyx_VWuIfauf_J4/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
