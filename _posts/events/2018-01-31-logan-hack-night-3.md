@@ -8,7 +8,7 @@ description: "City Bureau co-founder Darryl Holliday and others will be on hand 
 image: /images/events/logan-sat-event.jpg
 date: 2018-01-31T18:00:00-06:00
 youtube_id:
-agenda: 
+agenda: https://docs.google.com/document/d/1RBMI3GQFMm24ALGNeVT3A2ge9YE5c9SC6v3M5Zy0Mvw/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
 rsvp: https://www.eventbrite.com/e/logan-square-hack-night-3-tickets-41854993412
 speakers:
