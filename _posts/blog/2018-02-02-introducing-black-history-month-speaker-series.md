@@ -82,7 +82,7 @@ Chicago, IL 60654<br />
 
 **February 27th - Charlene Carruthers, BYP100**
 
-<p><img src="/images/blog/2018-02-02-black-history-month/char.png" alt="Charlene Carruthers" class="img-thumbnail" style='width: 200px;'/>
+<p><img src="/images/blog/2018-02-02-black-history-month/char.jpg" alt="Charlene Carruthers" class="img-thumbnail" style='width: 200px;'/>
 </p>
 
 On February 27, we will hear from [Charlene Carruthers](https://byp100.org/charlene-a-carruthers/). Charlene serves as national director of the [Black Youth Project 100 (BYP100)](https://byp100.org/), a national member-based organization of Black 18-35 activists creating justice and freedom for all Black people. BYP100 envisions a world where all Black people have economic, social, political, and educational freedom.
