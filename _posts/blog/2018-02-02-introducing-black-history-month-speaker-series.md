@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Introducing the Chi Hack Night & City Tech Black History Month Speaker Series"
-description: ""
+description: "This year, we are celebrating Black History Month at Chi Hack Night featuring presentations from Alvyn Walker from Leave No Veteran Behind, Cook County State’s Attorney Kim Foxx, Fabian Elliott of Black Tech Mecca, Charlene Carruthers of BYP100 and Colony 5. We hope you will join us!"
 date: 2018-02-02
 image: /images/blog/2018-02-02-black-history-month/black-history-month.jpg
 author: Sonja Marziano
