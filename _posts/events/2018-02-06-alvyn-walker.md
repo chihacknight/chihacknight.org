@@ -11,7 +11,7 @@ image: /images/events/287-al-walker.jpg
 image_credit: 
 date: 2018-02-06T18:00:00-05:00
 event_id: 287
-youtube_id: 
+youtube_id: utupoOZ0JJQ
 agenda: https://docs.google.com/document/d/1eHhr5QoHO_SDQSfOQtwPDGF8WPTXRc4z6QX0QPvEuOY/edit#
 sponsor: <a href='http://www.uilabs.org/innovation-platforms/cities-infrastructure/'>City Tech</a> and <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
