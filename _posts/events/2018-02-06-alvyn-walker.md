@@ -20,7 +20,7 @@ tags:
 published: true
 ---
 
-For the month of February, we will be celebrating [Black History Month](https://en.wikipedia.org/wiki/Black_History_Month) at Chi Hack Night. We will feature presentations from prominent African Americans in tech and civic life here in Chicago. [Read more about the series here](https://chihacknight.org/blog/2018/02/02/introducing-black-history-month-speaker-series.html).
+*For the month of February, we will be celebrating [Black History Month](https://en.wikipedia.org/wiki/Black_History_Month) at Chi Hack Night. We will feature presentations from prominent African Americans in tech and civic life here in Chicago. [Read more about the series here](https://chihacknight.org/blog/2018/02/02/introducing-black-history-month-speaker-series.html).*
 
 On February 6, we will welcome Alvyn Walker of [Leave No Veteran Behind](https://www.leavenoveteranbehind.org/), a national non-profit organization that invests in veterans through employment training, transitional jobs, and educational debt relief scholarships. 
 
