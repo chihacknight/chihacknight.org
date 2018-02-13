@@ -93,12 +93,18 @@ Braintree<br />
 Chicago, IL 60654<br />
 [RSVP](https://www.eventbrite.com/e/chi-hack-night-registration-41704069996)
 
-**Date TBD - Colony 5**
+**February 28th - Colony 5**
 
 <p><img src="/images/blog/2018-02-02-black-history-month/colony5.png" alt="Colony 5" class="img-thumbnail" style='width: 200px;'/>
 </p>
 
-We will host a satellite event the last week of February with [Colony 5](https://www.colonyfive.com/),  a cohort of neighborhood-based entrepreneurs who are identifying ways that technology can support their business . Those details are still being finalized and will be updated here. Follow [@ChiHackNight](https://twitter.com/chihacknight?lang=en) & [@CityTech_](https://twitter.com/citytech_?lang=en) on Twitter or [subscribe to the Chi Hack Night newsletter](http://opencityapps.us7.list-manage1.com/subscribe?u=0a8859c0fd97102b520ea5289&id=3da6cca3bf) for speaker announcements.
+We will host a satellite event the last week of February with [Colony 5](https://www.colonyfive.com/), a cohort of neighborhood-based entrepreneurs who are identifying ways that technology can support their business.
+
+Wednesday, Feb 28, 6pm<br />
+Greater Englewood Community Development Corporation<br />
+815 W 63rd St<br />
+Chicago, IL 60621<br />
+[RSVP](https://www.eventbrite.com/e/neighborhood-entrepreneurship-with-colony-5-tickets-43145983799)
 
 We hope you will join us and Chicago’s civic technology community next month in celebration of Black History Month!
 
