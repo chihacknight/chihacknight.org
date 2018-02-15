@@ -17,6 +17,7 @@ sponsor: <a href='https://www.civisanalytics.com'>Civis Analytics</a>
 asl_provided: true
 tags: 
  - equity
+ - 'data analytics'
 published: true
 ---
 
