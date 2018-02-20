@@ -5,7 +5,7 @@ categories:
 links:
 title: "Logan Square Hack Night #2"
 description: "Wednesday, December 13th we will convene at Second Shift for the second ever Chi Hack Night in the Logan Square neighborhood! Ali Karbassi, Founder & CEO of CoderDojoChi, will talk about how his nonprofit is focused on building a better world for our children through the love of coding. "
-image: /images/events/coderdojochi.jpg
+image: /images/events/satellite/coderdojochi.jpg
 date: 2017-12-13T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/1QYv2Ic9xvvOrMmlCghVIOh0VoHu373diX3zaieFD8S8/edit#

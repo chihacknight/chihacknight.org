@@ -5,7 +5,7 @@ categories:
 links:
 title: "Logan Square Hack Night #3"
 description: "City Bureau co-founder Darryl Holliday and others will be on hand to talk about their work to bring journalists and community members together in collaborative environments to promote responsible media coverage, increase civic engagement and hold powerful forces to account. "
-image: /images/events/logan-sat-event.jpg
+image: /images/events/satellite/logan-sat-event.jpg
 date: 2018-01-31T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/1RBMI3GQFMm24ALGNeVT3A2ge9YE5c9SC6v3M5Zy0Mvw/edit#

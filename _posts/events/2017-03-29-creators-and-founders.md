@@ -7,7 +7,7 @@ title: "Women in Civic Tech: Creators & Founders"
 description: "Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature Allyson Scrutchens of Forward Planning and Dima Elissa of VisMed-3D."
 speakers:
  - Annie Mohaupt, CEO of Mohop     
-image: /images/events/satellite-homan-square.jpg
+image: /images/events/satellite/satellite-homan-square.jpg
 date: 2017-03-29T18:00:00-06:00
 youtube_id: lnq1lx6ujNI
 agenda: https://docs.google.com/document/d/1xQ-ihXliy2DuQW8KlN87ap4KzqvPIKIniW2AlhGaU-8/edit#
