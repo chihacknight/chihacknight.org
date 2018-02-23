@@ -25,6 +25,7 @@ tags:
  - satellite
  - entrepreneurship
 published: true
+redirect_from: satellite/2018/02/28/colony-5.html
 ---
 
 *For the month of February, Chi Hack Night and City Tech will be celebrating Black History Month. We are featuring presentations from prominent African Americans in tech and civic life here in Chicago. [Read more about the series here](https://chihacknight.org/blog/2018/02/02/introducing-black-history-month-speaker-series.html).*
