@@ -18,8 +18,8 @@ speakers:
   - Britney Robbins, founder and CEO of The Gray Matter Experience
   - Deena McKay, Founder and host of BlackTechUnplugged (moderator)
 address_name:  Greater Englewood Community Development Corporation
-address_street: 3432 W Diversey Ave Floor 2
-address_city:  Chicago, IL 60647
+address_street: 815 W 63rd St, Fourth Floor
+address_city: Chicago, IL 60621
 asl_provided: false
 tags: 
  - satellite
