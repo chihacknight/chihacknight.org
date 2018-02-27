@@ -50,4 +50,10 @@ The discussion will be moderated by Deena McKay, Founder, and host of BlackTechU
 
 People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills.
 
+**Additional details**
+
+* Close to the Halsted Green line stop
+* There is free parking at the US Bank lot
+* There will be lots of yummy Caribbean food (with veggie options)!
+
 Food will be provided.
