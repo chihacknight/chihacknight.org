@@ -11,7 +11,7 @@ image: /images/events/290-charlene-carruthers.jpg
 image_credit: 
 date: 2018-02-27T18:00:00-05:00
 event_id: 290
-youtube_id: 
+youtube_id: Z2ovmMZnORI
 agenda: https://docs.google.com/document/d/10n8hefuml2SRudnEAke3EOOGwjxrI3XNG6DkKIKYYHU/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
