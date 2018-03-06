@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night & City Tech Women’s History Month Speaker Series"
-description: ""
+description: "Jumping off from the success of our Black History Month Speaker Series in February, for the month of March, we will celebrate Women's History Month at Chi Hack Night featuring presentations from Alya Adamany Woods from ChicagoNEXT, Sana Jafri from Chicago Learning Exchange, Vicky White from Chicago Books to Women in Prison and Michelle Frisque the CTO of Chicago Public Libraries. We hope you will join us!"
 date: 2018-03-06
 image: /images/blog/2018-03-06-womens-history-month/womens-history-month.jpg
 author: Sonja Marziano
