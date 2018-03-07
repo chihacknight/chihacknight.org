@@ -23,15 +23,23 @@ published: true
 
 Chi Hack Night is inviting every candidate for Cook County State’s Attorney to sign a pledge to, if elected, commit their office to publish open data. 
 
-Below is the invitation to all candidates, as well as the text of the Open Data Pledge.
+### Update 3: As State's Attorney, Kim Foxx Establishes Open Data Program
 
-### Update: Kim Foxx wins Democratic Primary
+Cook County State’s Attorney Foxx has built a data program within her office, including hiring a Chief Data Officer and releasing a first-ever [data report](https://www.cookcountystatesattorney.org/sites/default/files/files/documents/ccsao-data-report-oct-2017.pdf). On March 2, 2018, their office [released over six years of felony criminal case data on the Cook County Open Data Portal](https://www.cookcountystatesattorney.org/news/states-attorney-foxx-announces-unprecedented-open-data-release).
+
+You can watch [State's Attorney Foxx and her Chief Data Officer Matt Saniie present](https://chihacknight.org/events/2018/02/13/kim-foxx.html) their work and preview the first ever open data released from their office. During their presentation, we got to ask if this Open Data Pledge had any influence on their decision to pursue their open data program. [Here is her full response](https://www.youtube.com/watch?time_continue=34m20s&v=tBEjk3AA608).
+
+> It helped make the case. Because again, there was not any model that we were able to follow. Because there was an appetite - because there was a pledge - we had to be committed to this.
+
+*- State's Attorney Kim Foxx speaking at Chi Hack Night*
+
+### Update 2: Kim Foxx wins Democratic Primary
 
 On March 15, Kim Foxx [won the Democratic Primary](http://abc7chicago.com/politics/foxx-defeats-alvarez-in-cook-county-states-attorney-primary/1247992/) for Cook County State's Attorney. 
 
 As one of the candidates who signed our open data pledge, we have invited Kim to speak at Chi Hack Night and discuss her data and technology plans for the State's Attorney's office.
 
-### Update: candidate responses
+### Update 1: Candidate responses
 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Donna More** (D) - Responded on February 13, 2016 and signed on February 16, 2016
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kim Foxx** (D) - Signed on February 16, 2016
