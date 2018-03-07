@@ -71,7 +71,7 @@ We ask that our Attorney General candidates commit to open data practices for th
 Here is the open data pledge, with signatures from the candidates collected so far.
 
 <p class="text-center">
-    <a href='/docs/2018-Illinois-AG-Open-Data-Pledge.pdf.pdf'><img src="/images/blog/2018-03-07-illinois-ag-open-data-pledge/ag-open-data-pledge.jpg" alt="Open Data Pledge for Illinois Attorney General" class="img-thumbnail" style='width:70%;' /></a>
+    <a href='/docs/2018-Illinois-AG-Open-Data-Pledge.pdf'><img src="/images/blog/2018-03-07-illinois-ag-open-data-pledge/ag-open-data-pledge.jpg" alt="Open Data Pledge for Illinois Attorney General" class="img-thumbnail" style='width:70%;' /></a>
     <br />
 
     <a href='/docs/2018-Illinois-AG-Open-Data-Pledge.pdf'>Download the pledge (PDF)</a>
