@@ -29,16 +29,17 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 
 ### Candidate responses
 
-* **Aaron Goldstein (D)** - waiting for response
-* **Erika Harold (R)** - waiting for response
-* **Gary Grasso (R)** - waiting for response
-* **Jesse Ruiz (D)** - waiting for response
-* **Kwame Raoul (D)** - waiting for response
-* **Nancy Rotering (D)** - waiting for response
-* **Pat Quinn (D)** - waiting for response
-* **Renato Mariotti (D)** - waiting for response
-* **Scott Drury (D)** - waiting for response
-* **Sharon Fairley (D)** - waiting for response
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Aaron Goldstein (D)** - Signed 9:19am March 8, 2018
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Renato Mariotti (D)** - Signed 10:27am March 8, 2018
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Pat Quinn (D)** - Signed 11:20am March 8, 2018
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Erika Harold (R)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Gary Grasso (R)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Jesse Ruiz (D)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Kwame Raoul (D)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Nancy Rotering (D)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Pat Quinn (D)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Scott Drury (D)** - waiting for response
+* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Sharon Fairley (D)** - waiting for response
 
 ### Why an Open Data Pledge?
 Criminal, economic, and social justice require transparency and accountability, facilitated by open access to information. The Attorney General’s office collects and stores a wide range of data on our legal system that’s critical for the public to know and use. 
