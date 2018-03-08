@@ -37,7 +37,6 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Jesse Ruiz (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Kwame Raoul (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Nancy Rotering (D)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Pat Quinn (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Scott Drury (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Sharon Fairley (D)** - waiting for response
 
