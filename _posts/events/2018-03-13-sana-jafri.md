@@ -22,9 +22,9 @@ published: true
 
 *Following our February speaker series for Black History Month, we will be celebrating Women’s History Month at Chi Hack Night! Throughout the month of March, we will feature presentations from prominent women in tech and civic life here in Chicago. [Read more about it here >](https://chihacknight.org/blog/2018/03/06/womens-history-month-speaker-series.html)*
 
-This week, we welcome [Sana Jafri](https://www.linkedin.com/in/sana-jafri-2ab90319), program officer for the [Hive Chicago Fund for Connected Learning at The Chicago Community Trust](https://hivechicago.org/about/fund/). She will present on how technology can be leveraged for learning and how technology concepts like networks and working in the open can be applied to the education world.
+This week, we welcome [Sana Jafri](https://www.linkedin.com/in/sana-jafri-2ab90319), program officer for the [Chicago Learning Exchange (CLX)](https://hivechicago.org/same-hive-new-steward/). She will present on how CLX facilitates the connection and exchange of different nodes: educators, programs, technology, and learners.
 
-Similar to Chi Hack Night, Sana’s work revolves around using technology is a means to participate, engage, and change our government and civic community life. Over the past few years, they have modeled their own event after Chi Hack Night, called the Hive Network, which brings together educators monthly to think about how to leverage technology for learning.
+Sana’s work revolves around how technology can be leveraged for learning and how technology concepts like networks and working in the open can be applied to the education world. Similar to the Chi Hack Night community, Sana works closely with the Hive Chicago Learning Network, which brings educators together monthly to think about how to leverage technology for learning. 
 
 ---
 
