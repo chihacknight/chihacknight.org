@@ -3,10 +3,10 @@ layout: event
 categories: 
   - events
 links:
-title: "Sana Jafri, Hive Chicago"
+title: "Sana Jafri, Chicago Learning Exchange"
 description: "This week, we welcome Sana Jafri, program officer for the Chicago Learning Exchange (CLX). She will present on how CLX facilitates the connection and exchange of different nodes: educators, programs, technology, and learners. Sana’s work revolves around how technology can be leveraged for learning and how technology concepts like networks and working in the open can be applied to the education world."
 speakers:
- - Sana Jafri, program officer for the Hive Chicago Fund for Connected Learning at The Chicago Community Trust
+ - Sana Jafri, program officer for the Chicago Learning Exchange
 image: /images/events/292-sana-jafri.jpg
 image_credit: 
 date: 2018-03-13T18:00:00-05:00
