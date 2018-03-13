@@ -10,7 +10,7 @@ date: 2018-03-22T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/1_7MqvH5kKK3ow0Lw6HZL7B7Y1cAj7rtDqH_2nD1COKU/edit#
 sponsor: <a href='http://www.uilabs.org/innovation-platforms/cities-infrastructure/'>City Tech</a>
-rsvp: 
+rsvp: https://www.eventbrite.com/e/gentrification-and-displacement-in-chicago-tickets-44146033976
 speakers:
  - Janet Smith, Nathalie P. Voorhees Center for Neighborhood and Community Improvement & UIC College of Urban Planning and Public Affairs
  - Joy Aruguete, Bickerdike Development
