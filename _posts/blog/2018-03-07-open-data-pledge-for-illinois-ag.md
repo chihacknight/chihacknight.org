@@ -33,10 +33,10 @@ Below is the invitation to all candidates, as well as the text of the Open Data 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Renato Mariotti (D)** - Signed 10:27am March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Pat Quinn (D)** - Signed 11:20am March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Nancy Rotering (D)** - Signed 3:37pm March 8, 2018
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kwame Raoul (D)** - Signed 4:08pm March 12, 2018
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Erika Harold (R)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Gary Grasso (R)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Jesse Ruiz (D)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Kwame Raoul (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Scott Drury (D)** - waiting for response
 * <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Sharon Fairley (D)** - waiting for response
 
