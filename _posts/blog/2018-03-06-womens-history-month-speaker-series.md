@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night & City Tech Women’s History Month Speaker Series"
-description: "Jumping off from the success of our Black History Month Speaker Series in February, for the month of March, we will celebrate Women's History Month at Chi Hack Night featuring presentations from Alya Adamany Woods from ChicagoNEXT, Sana Jafri from Chicago Learning Exchange, Vicky White from Chicago Books to Women in Prison and Michelle Frisque the CTO of Chicago Public Libraries. We hope you will join us!"
+description: "Jumping off from the success of our Black History Month Speaker Series in February, for the month of March, we will celebrate Women's History Month at Chi Hack Night featuring presentations from Alya Adamany Woods from ChicagoNEXT, Sana Jafri from Chicago Learning Exchange, Vicki White from Chicago Books to Women in Prison and Michelle Frisque the CTO of Chicago Public Libraries. We hope you will join us!"
 date: 2018-03-06
 image: /images/blog/2018-03-06-womens-history-month/womens-history-month.jpg
 author: Sonja Marziano
@@ -61,12 +61,12 @@ Chicago, IL 60654<br />
 
 [RSVP](https://www.eventbrite.com/e/chi-hack-night-registration-41704072002)
 
-**March 20th - Vicky White, Chicago Books to Women in Prison**
+**March 20th - Vicki White, Chicago Books to Women in Prison**
 
-<p><img src="/images/blog/2018-03-06-womens-history-month/vicky-white.jpg" alt="Vicky White, Chicago Books to Women in Prison" class="img-thumbnail" style='width: 300px;'/>
+<p><img src="/images/blog/2018-03-06-womens-history-month/vicki-white.jpg" alt="Vicki White, Chicago Books to Women in Prison" class="img-thumbnail" style='width: 300px;'/>
 </p>
 
-For our third event, Vicky White, President of [Chicago Books to Women in Prison](https://chicagobwp.org/), will share her experiences leading an all-volunteer group that distributes books free of charge to incarcerated women nationwide.
+For our third event, Vicki White, President of [Chicago Books to Women in Prison](https://chicagobwp.org/), will share her experiences leading an all-volunteer group that distributes books free of charge to incarcerated women nationwide.
 
 Tuesday, March 20, 6pm<br />
 Braintree<br />
