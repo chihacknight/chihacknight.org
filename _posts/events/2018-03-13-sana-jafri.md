@@ -11,7 +11,7 @@ image: /images/events/292-sana-jafri.jpg
 image_credit: 
 date: 2018-03-13T18:00:00-05:00
 event_id: 292
-youtube_id: 
+youtube_id: 3XbmbRF0fdw
 agenda: https://docs.google.com/document/d/1sSWiTjAwo-4xE1N-prU1hUpKmWhUdmhXHlW9Lk3YEZo/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
