@@ -5,7 +5,7 @@ categories:
 links:
 title: "Building Responsible and Community-Driven Development Projects"
 description: "Gentrification and displacement are longstanding and underlying issues in Chicago. While they are persistent, they often flare up when there are large proposed developments, or when public investment is used to build what end up becoming popular amenities. Join us for a panel discussion with Janet Smith of the Nathalie P. Voorhees Center for Neighborhood and Community Improvement, Joy Aruguete of Bickerdike, Development, Sarah Wick of Related Midwest and Adrienne Samuels Gibbs."
-image: /images/events/satellite/building-responsible-community-driven-development-projects.jpg
+image: /images/events/satellite/currency-exchange-cafe.jpg
 date: 2018-03-22T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/1_7MqvH5kKK3ow0Lw6HZL7B7Y1cAj7rtDqH_2nD1COKU/edit#
@@ -30,6 +30,9 @@ redirect_from: satellite/2018/03/22/gentrification-and-displacement-in-chicago.h
 *For the month of March, we will be celebrating Women’s History Month at Chi Hack Night! We will feature presentations from prominent women in tech and civic life here in Chicago. [Read more about it here >](https://chihacknight.org/blog/2018/03/06/womens-history-month-speaker-series.html)*
 
 Join us on March 22nd as we host a community event at the [Currency Exchange Cafe](http://www.currencyexchangecafe.com/) on gentrification and displacement in Chicago.
+
+<p class="text-center"><img src="/images/events/satellite/building-responsible-community-driven-development-projects.jpg" alt="Building Responsible and Community-Driven Development Projects" class="img-thumbnail" /><br />
+</p>
 
 **Panel discussion**
 
