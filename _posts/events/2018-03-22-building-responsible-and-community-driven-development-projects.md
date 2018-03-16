@@ -3,7 +3,7 @@ layout: satellite_event
 categories:
   - satellite
 links:
-title: "Gentrification and displacement in Chicago"
+title: "Building Responsible and Community-Driven Development Projects"
 description: "Gentrification and displacement are longstanding and underlying issues in Chicago. While they are persistent, they often flare up when there are large proposed developments, or when public investment is used to build what end up becoming popular amenities. Join us for a panel discussion with Janet Smith of the Nathalie P. Voorhees Center for Neighborhood and Community Improvement, Joy Aruguete of Bickerdike, Development, Sarah Wick of Related Midwest and Adrienne Samuels Gibbs."
 image: /images/events/satellite/currency-exchange-cafe.jpg
 date: 2018-03-22T18:00:00-06:00
@@ -24,7 +24,7 @@ tags:
  - satellite
  - housing
 published: true
-redirect_from: satellite/2018/02/28/colony-5.html
+redirect_from: satellite/2018/03/22/gentrification-and-displacement-in-chicago.html
 ---
 
 *For the month of March, we will be celebrating Women’s History Month at Chi Hack Night! We will feature presentations from prominent women in tech and civic life here in Chicago. [Read more about it here >](https://chihacknight.org/blog/2018/03/06/womens-history-month-speaker-series.html)*
