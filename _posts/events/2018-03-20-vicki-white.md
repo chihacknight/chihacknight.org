@@ -22,7 +22,7 @@ published: true
 
 *Following our February speaker series for Black History Month, we will be celebrating Women’s History Month at Chi Hack Night! Throughout the month of March, we will feature presentations from prominent women in tech and civic life here in Chicago. [Read more about it here >](https://chihacknight.org/blog/2018/03/06/womens-history-month-speaker-series.html)*
 
-This week, we welcome Vicki White, President of [Chicago Books to Women in Prison](chicagobwp.org), an all-volunteer nonprofit organization that distributes paperback books to incarcerated women. For more than 15 years they've provided a critical intervention into an oppressive system by offering the self-empowerment, education and entertainment that reading provides.
+This week, we welcome Vicki White, President of [Chicago Books to Women in Prison](https://chicagobwp.org/), an all-volunteer nonprofit organization that distributes paperback books to incarcerated women. For more than 15 years they've provided a critical intervention into an oppressive system by offering the self-empowerment, education and entertainment that reading provides.
 
 Volunteers meet every weekend to fulfill requests from women in state and Federal prisons nationwide, as well as in Cook County Jail. They match requests to an inventory of thousands of donated paperback books. Every woman receives three carefully chosen books or a blank journal—free of charge, hers to keep, no strings attached—along with a personal note. In 2017 the group mailed 4,690 packages of books and blank journals—20% more than in 2016. Vicki will discuss how and why they do this work.
 
