@@ -5,7 +5,7 @@ categories:
 links:
 title: "Building Responsible and Community-Driven Development Projects"
 description: "Gentrification and displacement are longstanding and underlying issues in Chicago. While they are persistent, they often flare up when there are large proposed developments, or when public investment is used to build what end up becoming popular amenities. Join us for a panel discussion with Janet Smith of the Nathalie P. Voorhees Center for Neighborhood and Community Improvement, Joy Aruguete of Bickerdike, Development, Sarah Wick of Related Midwest and Adrienne Samuels Gibbs."
-image: /images/events/satellite/currency-exchange-cafe.jpg
+image: /images/events/satellite/building-responsible-community-driven-development-projects.jpg
 date: 2018-03-22T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/1_7MqvH5kKK3ow0Lw6HZL7B7Y1cAj7rtDqH_2nD1COKU/edit#
