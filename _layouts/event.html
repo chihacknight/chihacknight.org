@@ -29,6 +29,14 @@ layout: default
             <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
           {% endif %}
         </p>
+      {% else %}
+        {% if page.image %}
+          <p class='hidden-lg hidden-md'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
+          </p>
+        {% endif %}
       {% endif %}
 
       {% if site.time <= page.date %}
@@ -76,7 +84,7 @@ layout: default
       <div class='col-sm-5'>
         <div class='well'>
           {% if page.image %}
-            <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+            <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
             {% if page.image_credit %}
               <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
             {% endif %}
