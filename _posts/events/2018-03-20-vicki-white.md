@@ -11,7 +11,7 @@ image: /images/events/293-vicki-white.jpg
 image_credit: 
 date: 2018-03-20T18:00:00-05:00
 event_id: 293
-youtube_id: 
+youtube_id: Hoj9mAXQIUg
 agenda: https://docs.google.com/document/d/16hPBSBRCuJj_DCDNilGRzKc68TUq2A6HB8zBZ_ilVuM/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
