@@ -27,18 +27,25 @@ Chi Hack Night, representing Chicago’s civic technology community, invites eve
 
 Below is the invitation to all candidates, as well as the text of the Open Data Pledge.
 
-### Candidate responses
+### Update 2: Kwame Raoul and Erika Harold head to the General Election
+
+On March 20th, 2018 Kwame Raoul (D) and Erika Harold (R) won their respective primaries for Illinois Attorney General and will face each other in the General Election. Only Kwame Raoul has signed this pledge.
+
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kwame Raoul (D)** - Signed 4:08pm March 12, 2018
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Erika Harold (R)** - did not respond
+
+### Update 1: Candidate responses
 
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Aaron Goldstein (D)** - Signed 9:19am March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Renato Mariotti (D)** - Signed 10:27am March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Pat Quinn (D)** - Signed 11:20am March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Nancy Rotering (D)** - Signed 3:37pm March 8, 2018
 * <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **Kwame Raoul (D)** - Signed 4:08pm March 12, 2018
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Erika Harold (R)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Gary Grasso (R)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Jesse Ruiz (D)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Scott Drury (D)** - waiting for response
-* <span style='color: #47AAEC;'><i class='fa fa-fw fa-circle-o'></i></span> **Sharon Fairley (D)** - waiting for response
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Erika Harold (R)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Gary Grasso (R)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Jesse Ruiz (D)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Scott Drury (D)** - did not respond
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Sharon Fairley (D)** - did not respond
 
 ### Why an Open Data Pledge?
 Criminal, economic, and social justice require transparency and accountability, facilitated by open access to information. The Attorney General’s office collects and stores a wide range of data on our legal system that’s critical for the public to know and use. 

@@ -27,7 +27,14 @@ Chi Hack Night, representing Chicago’s civic technology community, invites eve
 
 Below is the invitation to all candidates, as well as the text of the Open Data Pledge.
 
-### Candidate responses
+### Update 2: Pritzker and Rauner head to the General Election
+
+On March 20th, 2018 J.B. Pritzker (D) and incumbent Bruce Rauner (R) won their respective primaries for Illinois Governor and will face each other in the General Election. Only J.B. Pritzker has signed this pledge.
+
+* <span style='color: #009538;'><i class='fa fa-fw fa-check'></i></span> **J.B. Pritzker (D)** - Signed Oct 18, 2017
+* <span style='color: #F01B16;'><i class='fa fa-fw fa-times'></i></span> **Bruce Rauner (R)** - did not respond
+
+### Update 1: Candidate responses
 
 Signed:
 
