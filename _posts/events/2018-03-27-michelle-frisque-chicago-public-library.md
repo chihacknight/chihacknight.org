@@ -11,7 +11,7 @@ image: /images/events/294-michelle-frisque.jpg
 image_credit: 
 date: 2018-03-27T18:00:00-05:00
 event_id: 294
-youtube_id: 
+youtube_id: sA7jJokzRe4
 agenda: https://docs.google.com/document/d/10WakIqrbY2Q8S687QVTsXTM8ObaUxN4IE0UtO6sxEX4/edit#
 sponsor: <a href='https://new.civisanalytics.com/'>Civis Analytics</a>
 asl_provided: true
