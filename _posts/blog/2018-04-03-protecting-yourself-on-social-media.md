@@ -129,4 +129,4 @@ Laws generally change to reflect society’s values. If we want to change this d
 * [Protect yourself from unethical persuasion](https://www.articleweekly.com/robert-cialdini/protect-yourself-from-unethical-persuasion/), Article Weekly
 * [How Facebook’s Birthday Notifications Trigger all Six of Robert Cialdini’s Influence Principles](https://www.mikemcritchie.com/how-facebooks-birthday-notifications-trigger-all-six-of-robert-cialdinis-influence-principles/), Mike McRichtie
 
-*This document was started as a [brakout group at Chi Hack Night on March 27th, 2018](https://github.com/chihacknight/breakout-groups/issues/152). The original source document is [located here](https://docs.google.com/document/d/1qPrxOIClCWElhp267XEBfXjh6cgOoqfz-M7sLNJSvBI/edit#).*
+*This document was started as a [breakout group at Chi Hack Night on March 27th, 2018](https://github.com/chihacknight/breakout-groups/issues/152). The original source document is [located here](https://docs.google.com/document/d/1qPrxOIClCWElhp267XEBfXjh6cgOoqfz-M7sLNJSvBI/edit#).*
