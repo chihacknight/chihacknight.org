@@ -112,6 +112,7 @@ Laws generally change to reflect society’s values. If we want to change this d
 
 * [What should you think about when using Facebook?](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/), Vicki Boykis
 * [Haunted by Data](http://idlewords.com/talks/haunted_by_data.htm), Idle Words
+* [The Dark Side of Social Media: Is Your Data Safe?](https://chicagotonight.wttw.com/2018/03/29/dark-side-social-media-your-data-safe), WTTW Chicago Tonight
 * [Reply All: Is Facebook spying on you?](https://www.gimletmedia.com/reply-all/109-facebook-spying#episode-player) (podcast)
 
 **Facebook & Cambridge Analytica scandal**
@@ -128,4 +129,4 @@ Laws generally change to reflect society’s values. If we want to change this d
 * [Protect yourself from unethical persuasion](https://www.articleweekly.com/robert-cialdini/protect-yourself-from-unethical-persuasion/), Article Weekly
 * [How Facebook’s Birthday Notifications Trigger all Six of Robert Cialdini’s Influence Principles](https://www.mikemcritchie.com/how-facebooks-birthday-notifications-trigger-all-six-of-robert-cialdinis-influence-principles/), Mike McRichtie
 
-*This document was started as a brakout group at Chi Hack Night on March 27th, 2018. The original source document is [located here](https://docs.google.com/document/d/1qPrxOIClCWElhp267XEBfXjh6cgOoqfz-M7sLNJSvBI/edit#).
+*This document was started as a [brakout group at Chi Hack Night on March 27th, 2018](https://github.com/chihacknight/breakout-groups/issues/152). The original source document is [located here](https://docs.google.com/document/d/1qPrxOIClCWElhp267XEBfXjh6cgOoqfz-M7sLNJSvBI/edit#).
