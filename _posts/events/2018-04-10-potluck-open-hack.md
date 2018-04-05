@@ -15,7 +15,7 @@ agenda: https://docs.google.com/document/d/14IqehpQQW3Q_q7dxBYgWVDRgjTefNah9HlHL
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
 tags: 
- - 
+ - openhack
 published: true
 ---
 
