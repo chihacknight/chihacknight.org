@@ -11,7 +11,7 @@ image_credit:
 date: 2018-04-10T18:00:00-05:00
 event_id: 296
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/14IqehpQQW3Q_q7dxBYgWVDRgjTefNah9HlHLLfddbH8/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
 tags: 
