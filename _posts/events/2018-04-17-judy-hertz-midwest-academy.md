@@ -20,7 +20,7 @@ tags:
 published: true
 ---
 
-Much of what we do at Chi Hack Night can be described as organizing. Though technology and data are the focus, every [breakout group]() has to identify a problem they want to address, research it, come up with a plan of action, and execute it.
+Much of what we do at Chi Hack Night can be described as organizing. Though technology and data are the focus, every [breakout group](/breakouts.html) has to identify a problem they want to address, research it, come up with a plan of action, and execute it.
 
 This week, we welcome [Judy Hertz](https://www.linkedin.com/in/judy-hertz-56b86526/), Executive Director of [Midwest Academy](http://www.midwestacademy.com/). She will give an introduction a nationally known tool for power analysis and planning community organizing strategy known as the Midwest Academy Strategy Chart.
 
