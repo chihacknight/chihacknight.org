@@ -41,6 +41,7 @@ It’s difficult for many people to take the dramatic step of deleting their acc
 
     * Be aware that that most social media web features are algorithmically driven to make them as addictive as possible. They are designed to show you posts you are most likely to ‘engage’ with. The more you use and engage with their product, the more money they make from selling ads. 
         * [Manage your Facebook News Feed to make it work better for you](https://www.wired.com/story/take-back-your-facebook-news-feed/). 
+        * [Install the News Feed Eradicator Chrome plugin](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)
         * [How to Opt Out of Twitter’s New Privacy Settings](https://www.eff.org/deeplinks/2017/05/how-opt-out-twitters-new-privacy-settings)<br /><br />
 
     * Remove any profile information you don’t want public or used to target you for ads. Be mindful that a post announcing your birthday or age or location isn’t that different from listing it in your profile – if you feel squeamish listing it, think twice about posting it. Keep in mind, though, [even if you delete your profile information, Facebook still retains it internally](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/).
@@ -112,6 +113,7 @@ Laws generally change to reflect society’s values. If we want to change this d
 
 * [What should you think about when using Facebook?](https://veekaybee.github.io/2017/02/01/facebook-is-collecting-this/), Vicki Boykis
 * [Haunted by Data](http://idlewords.com/talks/haunted_by_data.htm), Idle Words
+* [5 things you can do now to protect your Facebook data](https://www.vox.com/2018/4/12/17225590/facebook-data-privacy-mark-zuckerberg-cambridge-analytica), Vox
 * [The Dark Side of Social Media: Is Your Data Safe?](https://chicagotonight.wttw.com/2018/03/29/dark-side-social-media-your-data-safe), WTTW Chicago Tonight
 * [Reply All: Is Facebook spying on you?](https://www.gimletmedia.com/reply-all/109-facebook-spying#episode-player) (podcast)
 
