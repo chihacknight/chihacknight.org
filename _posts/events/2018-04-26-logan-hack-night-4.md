@@ -10,7 +10,7 @@ Attendees will have a chance to give feedback to Hertz’s book before he submit
 image: /images/events/satellite/daniel-kay-hertz.jpg
 date: 2018-04-26T18:00:00-06:00
 youtube_id:
-agenda: https://docs.google.com/document/d/1RBMI3GQFMm24ALGNeVT3A2ge9YE5c9SC6v3M5Zy0Mvw/edit#
+agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
 rsvp: https://www.eventbrite.com/e/logan-square-hack-night-4-tickets-45201025484
 speakers:
