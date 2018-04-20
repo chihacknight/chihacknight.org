@@ -4,7 +4,7 @@ categories:
   - satellite
 links:
 title: "Daniel Kay Hertz, The Battle of Lincoln Park"
-description: "Daniel Kay Hertz leads a dialouge around the issues raised in his upcoming book The Battle of Lincoln Park: Urban Renewal and Gentrification in Chicago.
+description: "Daniel Kay Hertz leads a dialogue around the issues raised in his upcoming book The Battle of Lincoln Park: Urban Renewal and Gentrification in Chicago.
 
 Attendees will have a chance to give feedback to Hertz’s book before he submits the final manuscript as well as learn how to use archival resources to better understand the history of community conflict and how they can be applied to today’s gentrifying areas."
 image: /images/events/satellite/daniel-kay-hertz.jpg
@@ -32,7 +32,7 @@ Wednesday, January 31st Chi Hack Night will convene at Second Shift in Logan Squ
 
 *Presentation*
 
-Join us as Chicagoan and author Daniel Kay Hertz leads a dialouge around the issues raised in his upcoming book The Battle of Lincoln Park: Urban Renewal and Gentrification in Chicago.
+Join us as Chicagoan and author Daniel Kay Hertz leads a dialogue around the issues raised in his upcoming book The Battle of Lincoln Park: Urban Renewal and Gentrification in Chicago.
 
 We'll talk about what happened in Lincoln Park during the mid-20th century and also discuss how Chicago’s segregated wealthy neighborhoods were created.
 

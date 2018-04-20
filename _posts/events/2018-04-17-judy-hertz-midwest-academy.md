@@ -11,7 +11,7 @@ image: /images/events/297-judy-hertz.jpg
 image_credit: 
 date: 2018-04-17T18:00:00-05:00
 event_id: 297
-youtube_id: 
+youtube_id: lzSYvEQfloc
 agenda: https://docs.google.com/document/d/174bKmCQCEEmNHocTtKstnjuFTFDwwyNuWSqUsknNhS0/edit
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
