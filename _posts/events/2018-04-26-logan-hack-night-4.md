@@ -26,9 +26,7 @@ tags:
 published: true
 ---
 
-Logan Square Hack Night is a monthly civic engagement event to build, share & learn about civic tech.
-
-Wednesday, January 31st Chi Hack Night will convene at Second Shift in Logan Square.
+Logan Square Hack Night is a monthly civic engagement event to build, share & learn about civic tech in a local neibhorhood instead of downtown!
 
 *Presentation*
 
