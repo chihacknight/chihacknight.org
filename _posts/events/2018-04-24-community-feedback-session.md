@@ -15,7 +15,7 @@ agenda: https://docs.google.com/document/d/1GR0fYMhRJXMZYg7xgTPFrP-UcOtn5E-VDjGe
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
 tags: 
- - organizing
+ - community
 published: true
 ---
 
