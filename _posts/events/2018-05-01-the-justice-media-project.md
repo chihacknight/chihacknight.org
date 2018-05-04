@@ -15,7 +15,7 @@ image: /images/events/299-cjp.jpg
 image_credit: 
 date: 2018-05-01T18:00:00-05:00
 event_id: 299
-youtube_id: 
+youtube_id: _hy4A-nHukg
 agenda: https://docs.google.com/document/d/1OUa_mRifnspqTaPFdLG6RlI5Mj7llsIgT7z3SQ22LNM/edit#
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
