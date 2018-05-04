@@ -8,7 +8,12 @@ body {
 
 .navbar-brand img { height: 40px; }
 
-.navbar-nav > li > a { padding-bottom: 10px; padding-top: 10px; }
+.navbar-nav > li > a { 
+  padding-bottom: 10px; 
+  padding-top: 10px; 
+  font-size: 0.9em;
+}
+
 .navbar-nav { padding-top: 60px; }
 
 .navbar-toggle { border: 1px solid #ccc; }
@@ -23,6 +28,10 @@ a:active, a:hover, a:focus {
 }
 
 a { text-decoration: none !important; }
+
+.donate {
+  color: #E7121C;
+}
 
 .table a {
   text-decoration: none;
