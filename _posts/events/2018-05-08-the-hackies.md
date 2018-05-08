@@ -21,7 +21,15 @@ published: true
 
 Join us for the **300th episode of Chi Hack Night**! 
 
-In honor of this momentous milestone, we’ll be recognizing a few of the many people, projects, partners, and presentations that make our community great. The evening will include the awarding of **"the Hackies"**, our new civic tech version of the Oscars! [Vote here before Friday at midnight](https://bit.ly/hacknightawards)!
+In honor of this momentous milestone, we’ll be recognizing a the many people, projects, partners, and presentations that make our community great. The evening will include the awarding of **"the Hackies"**, our new civic tech version of the Oscars! [Vote here before Friday at midnight](https://bit.ly/hacknightawards)!
+
+**13 Hackies** will be awarded in the categories of:
+
+* Outstanding Chi Hack Night Project
+* Person Making an Impact
+* Outstanding Presentation
+* Behind-the-Scenes Civic Hacker Hero
+* Outstanding Partner Organization
 
 **Formal attire?** We’ll be wearing awards-show attire — feel free to wear formal and/or fun clothing too! There will definitely be a red carpet.
 
