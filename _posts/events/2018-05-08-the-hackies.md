@@ -33,7 +33,7 @@ In honor of this momentous milestone, we’ll be recognizing a the many people, 
 
 **Formal attire?** We’ll be wearing awards-show attire — feel free to wear formal and/or fun clothing too! There will definitely be a red carpet.
 
-**Screen printing** Not sure what to wear? We will have a screen printing station to make your very own Chi Hack Night swat! Bring a piece of clothing to [screen print](https://en.wikipedia.org/wiki/Screen_printing) the Chi Hack Night logo onto! (100% cotton and darker colors for the best results)
+**Screen printing** Not sure what to wear? We will have a screen printing station to make your very own Chi Hack Night swag! Bring a piece of clothing to [screen print](https://en.wikipedia.org/wiki/Screen_printing) the Chi Hack Night logo onto! (100% cotton and darker colors for the best results)
 
 **Potluck** This event is potluck-style! Please bring drinks, snacks, desserts, and/or celebration accessories. (Bringing champagne and sparkling cider is encouraged, in the spirit of the event!) We’ll provide empanadas, popcorn, and celebratory cookie cake.
 
