@@ -6,7 +6,7 @@ links:
 title: "The Hackies"
 description: "Join us for the 300th episode of Chi Hack Night! In honor of this momentous milestone, we’ll be recognizing a few of the many people, projects, partners, and presentations that make our community great. The evening will include the awarding of “the Hackies”, our new civic tech version of the Oscars!"
 speakers:
-image: /images/events/300-the-hackies.jpg
+image: /images/events/300-the-hackies.png
 image_credit: 
 date: 2018-05-08T18:00:00-05:00
 event_id: 300
