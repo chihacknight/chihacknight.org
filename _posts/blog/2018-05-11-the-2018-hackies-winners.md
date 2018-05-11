@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "The 2018 Hackies Winners"
-description: ""
+description: "In honor of this momentous milestone, we recognized the many people, projects, partners, and presentations that make our community great. The evening included the awarding of “the Hackies”, our new civic tech version of the Oscars! 13 Hackies were awarded by popular vote."
 date: 2018-05-11
 image: /images/blog/2018-05-11-the-hackies-winners/img1.jpg
 author: Derek Eder
@@ -21,7 +21,7 @@ published: true
 
 On May 8th, 2018 we celebrated the **[300th episode of Chi Hack Night](https://chihacknight.org/events/2018/05/08/the-hackies.html)**!
 
-In honor of this momentous milestone, we be recognized the many people, projects, partners, and presentations that make our community great. The evening included the awarding of **"the Hackies"**, our new civic tech version of the Oscars! 
+In honor of this momentous milestone, we recognized the many people, projects, partners, and presentations that make our community great. The evening included the awarding of **"the Hackies"**, our new civic tech version of the Oscars! 
 
 **13 Hackies** were awarded by popular vote in the categories of:
 
