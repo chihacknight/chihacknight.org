@@ -13,7 +13,7 @@ event_id: 301
 youtube_id: 
 agenda: https://docs.google.com/document/d/19Etx4BikwB7DrVfaPddNUJQGDTCTxLrgusQaQK4jryY/edit#
 sponsor: <a href='https://google.com'>Google</a>
-asl_provided: true
+asl_provided: false
 tags: 
  - openhack
 published: true
