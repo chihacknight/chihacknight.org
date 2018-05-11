@@ -15,7 +15,7 @@ agenda: https://docs.google.com/document/d/19Etx4BikwB7DrVfaPddNUJQGDTCTxLrgusQa
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
 tags: 
- - community
+ - openhack
 published: true
 ---
 
