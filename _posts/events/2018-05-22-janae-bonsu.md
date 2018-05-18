@@ -16,7 +16,7 @@ agenda: https://docs.google.com/document/d/1FixjKaL14Tu8g8UNrMdmS8JnZiWN9ZPvwVQr
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: false
 tags: 
- - openhack
+ - 'criminal justice'
 published: true
 ---
 

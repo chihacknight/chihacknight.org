@@ -16,7 +16,7 @@ agenda: https://docs.google.com/document/d/16hPBSBRCuJj_DCDNilGRzKc68TUq2A6HB8zB
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
 tags: 
- - education
+ - 'criminal justice'
 published: true
 ---
 
