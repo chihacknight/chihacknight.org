@@ -11,7 +11,7 @@ image: /images/events/302-janae-bonsu.jpg
 image_credit: 
 date: 2018-05-22T18:00:00-05:00
 event_id: 302
-youtube_id: 
+youtube_id: prtA5uOiBC8
 agenda: https://docs.google.com/document/d/1FixjKaL14Tu8g8UNrMdmS8JnZiWN9ZPvwVQrfOvUeCg/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: false
