@@ -12,7 +12,7 @@ image: /images/events/303-access-to-justice.jpg
 image_credit: 
 date: 2018-05-29T18:00:00-05:00
 event_id: 303
-youtube_id: 
+youtube_id: Jp9Sblgecd0
 agenda: https://docs.google.com/document/d/19Bts7_lHfGOMiOzv1l3taDzwWbbwtHgRRqlXDu0gRiI/edit#
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
