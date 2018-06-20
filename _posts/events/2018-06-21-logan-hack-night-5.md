@@ -10,7 +10,7 @@ date: 2018-06-21T18:00:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
-rsvp:
+rsvp: https://www.eventbrite.com/e/logan-square-hack-night-5-state-matters-tickets-46908402294
 speakers:
   - Kacie Smith
 address_name:  Second Shift
