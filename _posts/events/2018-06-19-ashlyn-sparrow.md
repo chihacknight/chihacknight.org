@@ -11,12 +11,12 @@ image: /images/events/306-bystander.jpg
 image_credit: 
 date: 2018-06-19T18:00:00-05:00
 event_id: 306
-youtube_id: 
+youtube_id: zO5WI47WgqE
 agenda: https://docs.google.com/document/d/17AdAfJfAtk4SwBZ2fpX_xmSs97hol1MKrd7KPhPNcEM/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
-asl_provided: false
+asl_provided: true
 tags: 
- - openhack
+ - 'public health'
 published: true
 ---
 
