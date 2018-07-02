@@ -12,7 +12,7 @@ image: /images/events/307-shareable.jpg
 image_credit: 
 date: 2018-06-26T18:00:00-05:00
 event_id: 307
-youtube_id: 
+youtube_id: s2p9bcsZaCk
 agenda: https://docs.google.com/document/d/1jwW8ZiZMDL35Io_9Y7052E0viRDzn5f0IAUHEQkAvEQ/edit#
 sponsor: The Chi Hack Night Community
 asl_provided: true
