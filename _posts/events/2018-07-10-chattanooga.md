@@ -11,7 +11,7 @@ image: /images/events/308-chattanooga.jpg
 image_credit: Imilious
 date: 2018-07-10T18:00:00-05:00
 event_id: 308
-youtube_id: 
+youtube_id: QVaSAWU4rO0
 agenda: https://docs.google.com/document/d/1XBZPMxKT5BUo-hV3tcxB7akPa1WnXuwg_kPG8csJiOI/edit#
 sponsor: <a href='https://www.uilabs.org/innovation-platforms/cities-infrastructure/'>City Tech Collaborative</a>
 asl_provided: true
