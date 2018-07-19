@@ -11,7 +11,7 @@ image: /images/events/309-sheena-erete.jpg
 image_credit: 
 date: 2018-07-17T18:00:00-05:00
 event_id: 309
-youtube_id: 
+youtube_id: fCF7M-9Lkpw
 agenda: https://docs.google.com/document/d/1IUtiYRhjiBtIVgxOalqGdrjgHfLiHXT-K3AMiCnGKGI/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
 asl_provided: true
