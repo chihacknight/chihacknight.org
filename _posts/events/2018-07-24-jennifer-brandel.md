@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-title: "Public-powered journalism - flipping the newsroom"
+title: "Public-Powered Journalism - Flipping the Newsroom"
 description: "Jennifer Brandel, CEO & Co-founder of Hearken and Co-founder of WBEZ’s Curious City, will overview public-powered journalism and detail the promises and pitfalls inherent in trying to shift longstanding institutions from the inside out."
 speakers:
   - Jennifer Brandel, CEO & Co-founder of Hearken, Co-founder of WBEZ's Curious City
