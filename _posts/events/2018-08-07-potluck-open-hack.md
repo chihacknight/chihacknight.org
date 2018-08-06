@@ -12,7 +12,7 @@ date: 2018-08-07T18:00:00-05:00
 event_id: 312
 youtube_id:
 agenda: https://docs.google.com/document/d/1bZGJGub3OrI8BvlBKJCxn76DG9jd_GyotFV3zhsRWsc/edit?usp=sharing
-sponsor:
+sponsor: The Chi Hack Night Community
 asl_provided: false
 tags:
  - openhack
