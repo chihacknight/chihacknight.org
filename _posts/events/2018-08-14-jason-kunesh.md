@@ -5,7 +5,7 @@ categories:
 links:
 title: "Design at the City of Chicago: 2018 Midterm Progress Report"
 description: "If you're a Chicagoan, Jason is your design director. What does that even mean? He's working to introduce product & service design disciplines and techniques to make sure the city is accessible, inclusive, and strategic when it launches tech products."
-speakers:
+speakers: Jason Kunesh, City of Chicago Design Director
 image: /images/events/313-jason-kunesh.jpg
 image_credit:
 date: 2018-08-14T18:00:00-05:00
