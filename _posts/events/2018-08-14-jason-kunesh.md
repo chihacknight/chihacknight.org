@@ -10,7 +10,7 @@ image: /images/events/313-jason-kunesh.jpg
 image_credit:
 date: 2018-08-14T18:00:00-05:00
 event_id: 313
-youtube_id:
+youtube_id: U6GVI9LAOTg
 agenda: https://docs.google.com/document/d/1-J4VJWZv0jFYbcffejPfMhZMUJXJvCTE5XopUu1vaZI/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: true

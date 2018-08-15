@@ -11,7 +11,7 @@ image: /images/events/311-tom-schenk.jpg
 image_credit: 
 date: 2018-07-31T18:00:00-05:00
 event_id: 311
-youtube_id: 
+youtube_id: 09erfjD9EtY
 agenda: https://docs.google.com/document/d/1P5N6gKdpYAfPVECSJgxxLxVcP0qcNGsaPy6-KBl-uUc/edit#
 sponsor: The Chi Hack Night Community
 asl_provided: true
