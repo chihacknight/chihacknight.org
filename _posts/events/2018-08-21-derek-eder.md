@@ -10,7 +10,7 @@ image: /images/events/314-derek-eder.jpg
 image_credit:
 date: 2018-08-21T18:00:00-05:00
 event_id: 314
-youtube_id: 
+youtube_id: n8Szo6sk4so
 agenda: https://docs.google.com/document/d/1BsZgL7c9j-q4LIAUQFuEfHyZWWZTNs4fGfwt7b_mNHE/edit#
 sponsor: The Chi Hack Night Community
 asl_provided: true
