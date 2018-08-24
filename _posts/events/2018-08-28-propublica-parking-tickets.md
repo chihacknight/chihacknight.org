@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Parking Tickets and Bankruptcy"
-description: "ProPublica Illinois has been reporting all year on how unpaid parking tickets have pushed tens of thousands of mostly black motorists into bankruptcy. It’s something that, by all accounts, is happening nowhere else in the country."
+description: "ProPublica Illinois has been reporting all year on how unpaid parking tickets have pushed tens of thousands of mostly black motorists into bankruptcy. It’s something that, by all accounts, is happening nowhere else in the country. In this talk, Melissa Sanchez and David Eads of ProPublica Illinois will talk about the reporting and getting the data, including how they obtained an exemption to access federal bankruptcy court records and scrape information on tens of thousands of consumer bankruptcies."
 speakers:
 -Melissa Sanchez, ProPublica Illinois reporter
 -David Eads, ProPublica Illinois news apps developer
