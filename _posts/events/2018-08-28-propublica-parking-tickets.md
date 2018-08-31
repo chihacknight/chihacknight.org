@@ -12,7 +12,7 @@ image: /images/events/315-propublica-parking-tickets.jpg
 image_credit:
 date: 2018-08-28T18:00:00-05:00
 event_id: 315
-youtube_id:
+youtube_id: afvx3q7O0QQ
 agenda: https://docs.google.com/document/d/1fywroAg8p4R6tzMAQ0R9niJRe3MZ2NVnfkfFR1zO9xU/edit?usp=sharing
 sponsor: <a href='https://google.com'>Google</a>
 asl_provided: true
