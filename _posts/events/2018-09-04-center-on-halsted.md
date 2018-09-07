@@ -7,12 +7,11 @@ title: "Center on Halsted"
 description: "Kim Fountain, Chief Operating Officer of Center on Halsted, and Gayle Thompson, its Community Technology Center Manager, will talk about the challenges of bridging the gap of social issues-based nonprofits using data and technology to solve problems. They will also have a conversation around what kind of opportunities exist in collaborating with Chi Hack Night."
 speakers:
  - Kim Fountain, Center on Halsted
- - Gayle Thompson, Center on Halsted
 image: /images/events/316-center-on-halsted.jpg
 image_credit:
 date: 2018-09-04T18:00:00-05:00
 event_id: 316
-youtube_id:
+youtube_id: GlbGFr8cG7M
 agenda: https://docs.google.com/document/d/18C3XVBMRXAyFWqkKpoq-fhpTE8NSEOH2rp_t4EA9hVw/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: true
