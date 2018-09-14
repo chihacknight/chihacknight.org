@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links:
-title: "Representation is Key"
+title: "Kyla Williams, The Shuri Project"
 description: "In this talk, Kyla Williams, the President and CEO of the Henry Williams Love Foundation, will outline some early findings from the Summer 2018 session of The Shuri Project, a tech mentoring program for girls in the Roseland community area. She will also outline next steps for the program and talk about advocacy for representation in the implementation of STEM programs using the Shuri Project's mentoring model."
 speakers:
  - Kyla Williams, President and CEO Henry Williams Love Foundation
@@ -21,9 +21,11 @@ tags:
 published: true
 ---
 
-When [The Shuri Project](https://henrywilliamslove.org/the-shuri-project-2/) was in its formative stages and unnamed, it was designed to be a tech mentoring program for girls and boys in Chicago’s Roseland community area. However, the conversation about the lack of representation in tech by women in general and the disproportionate number of black women in tech led the Henry Williams Love Foundation (HWLF) Board to vote on making the program girls only. The statistics cite employment for black women in tech positions at 3%, a daunting statistic to overcome.
+When [The Shuri Project](https://henrywilliamslove.org/the-shuri-project-2/) was in its formative stages and unnamed, it was designed to be a tech mentoring program for girls and boys in Chicago’s Roseland community area. However, the conversation about the lack of representation in tech by women in general and the disproportionate number of black women in tech led the [Henry Williams Love Foundation](https://henrywilliamslove.org/) (HWLF) Board to vote on making the program girls only. The statistics cite employment for black women in tech positions at 3%, a daunting statistic to overcome.
 
-In response, The Shuri Project piloted a pedagogical process called, “the black girl experience,” that takes the conversation of representation in tech education and skill building to the next level in a very honest and empowering way. In this talk, Kyla Williams, the CEO and president of the Henry Williams Love Foundation, will discuss some early findings from the Summer 2018 session of The Shuri Project, next steps for the program, and advocacy for representation in the implementation of STEM programs using the “black girl experience” mentoring model.
+In response, The Shuri Project piloted a pedagogical process called, “the black girl experience,” that takes the conversation of representation in tech education and skill building to the next level in a very honest and empowering way. 
+
+In this talk, Kyla Williams, the CEO and president of the Henry Williams Love Foundation, and former Exeutive Director of the [Smart Chicago Collaborative](http://www.smartchicagocollaborative.org/) will discuss some early findings from the Summer 2018 session of The Shuri Project, next steps for the program, and advocacy for representation in the implementation of STEM programs using the “black girl experience” mentoring model.
 
 ---
 
