@@ -3,8 +3,8 @@ layout: event
 categories:
   - events
 links:
-title: "Census Datasets and Tools: Measuring America's People and Economy"
-description: "This Tuesday, David Schuler, a data dissemination specialist for the Bureau of the Census, will be talking about what the bureau does during the other nine years and his work teaching data users how to use Census tools to mine government data. Don't forget to RSVP!"
+title: "CANCELLED: Census Datasets and Tools: Measuring America's People and Economy"
+description: "This presentation has been cancelled due to a family medical emergency. This event will be an Open Hack Session instead. Come build, share, and learn about civic tech with us!"
 speakers:
  - David Schuler, Data Dissemination Specialist, US Commerce Department, Bureau of Census
 image: /images/events/321-uscensus.jpg
@@ -19,6 +19,8 @@ tags:
  - govtech
 published: true
 ---
+
+**Notice** This presentation has been cancelled due to a family medical emergency. This event will be an *Open Hack Session* instead.
 
 This Tuesday, join Chi Hack Night for a presentation by [David Schuler](https://www.linkedin.com/in/daveschuler), a data dissemination specialist for the [Bureau of the Census](https://census.gov/en.html), who will be talking about what the Bureau does during the "other" nine years. He will also discuss his work teaching data users how to use Census tools to mine government data.
 
