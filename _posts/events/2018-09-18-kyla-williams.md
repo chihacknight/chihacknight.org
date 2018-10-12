@@ -11,7 +11,7 @@ image: /images/events/318-kyla-williams.jpg
 image_credit:
 date: 2018-09-18T18:00:00-05:00
 event_id: 318
-youtube_id:
+youtube_id: E3MS_0XCYLA
 agenda: https://docs.google.com/document/d/1BgrCeTa3a4FzczOZYlA4jhCG6sOEABTfbkUARAtx-JE/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: true
