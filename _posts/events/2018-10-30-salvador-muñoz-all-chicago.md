@@ -12,7 +12,8 @@ image_credit:
 date: 2018-10-30T18:00:00-05:00
 event_id: 324
 youtube_id:
-agenda: https://docs.google.com/document/d/1CQU1gvo0i7vUZrmmBKWr6iTU_jJb2m2bCdu7X7HLGJ0/edit?usp=sharing
+agenda: https://docs.google.com/document/d/1CQU1gvo0i7vUZrmmBKWr6iTU_jJb2m2bCdu7X7HLGJ0/edit
+sponsor: The Chi Hack Night Community
 asl_provided: true
 tags: homelessness
 published: true
