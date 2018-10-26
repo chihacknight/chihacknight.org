@@ -11,7 +11,7 @@ image: /images/events/322-bike-lane-uprising.jpg
 image_credit:
 date: 2018-10-16T18:00:00-05:00
 event_id: 322
-youtube_id:
+youtube_id: ObZBEcREoM0
 agenda: https://docs.google.com/document/d/1TGE0bNJptxb9A_gb5qBn5Pemi3h07SDOUInv_uZ6B3M/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: true
