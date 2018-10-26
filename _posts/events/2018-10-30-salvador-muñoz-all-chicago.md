@@ -7,7 +7,7 @@ title: "Using Data to Help End Homelessness"
 description: "Join us on Tuesday to hear from Sal Muñoz, System Implementation Manager with All Chicago, who will help clarify what homelessness is, and provide insight into how Chicago is using data to create systems and methods for connecting neighbors in crisis with the support they need. Remember to RSVP by noon next Tuesday!"
 speakers:
  - Sal Muñoz, System Implementation Manager with All Chicago
-image: /images/events/324-salvador-muñoz-all-chicago.jpg
+image: /images/events/324-salvador-munoz-all-chicago.jpg
 image_credit:
 date: 2018-10-30T18:00:00-05:00
 event_id: 324
