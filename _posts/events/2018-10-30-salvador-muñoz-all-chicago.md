@@ -9,12 +9,12 @@ speakers:
  - Sal Muñoz, System Implementation Manager with All Chicago
 image: /images/events/324-salvador-muñoz-all-chicago.jpg
 image_credit:
-date: 2018-10-16T18:00:00-05:00
+date: 2018-10-30T18:00:00-05:00
 event_id: 324
 youtube_id:
 agenda: https://docs.google.com/document/d/1CQU1gvo0i7vUZrmmBKWr6iTU_jJb2m2bCdu7X7HLGJ0/edit?usp=sharing
 asl_provided: true
-tags:
+tags: homelessness
 published: true
 ---
 
@@ -22,7 +22,7 @@ published: true
 
 One way in which it works towards its mission is through data collection and analysis of people experiencing, or at risk of homelessness. Over the past year, alongside our community partners, it has gone through iterations of a coordinated entry system that helps connect individuals going through a housing crisis with the services and housing opportunities they need.
 
-Sal Muñoz, System Implementation Manager with All Chicago will help clarify what homelessness is, and provide insight into how Chicago is using data to create systems and methods for connecting neighbors in crisis with the support they need.
+[Sal Muñoz](https://www.linkedin.com/in/salvador-munoz-20806b10b), System Implementation Manager with All Chicago will help clarify what homelessness is, and provide insight into how Chicago is using data to create systems and methods for connecting neighbors in crisis with the support they need.
 
 ---
 
