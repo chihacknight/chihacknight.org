@@ -6,7 +6,7 @@ links:
 title: Aldertrack
 speakers: 
  - Jimm Dispensa, Aldertrack
-date: 2015-02-03T18:00:00-05:00
+date: 2015-02-03T18:00:00-06:00
 event_id: 141
 youtube_id: aSh4dKcKgaI
 sponsor: <a href='http://datamade.us'>DataMade</a>

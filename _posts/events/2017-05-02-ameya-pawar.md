@@ -8,7 +8,7 @@ description: "This week, we're excited to have Alderman Ameya Pawar join us! As 
 speakers:
  - Ameya Pawar, 47th Ward Alderman
 image: /images/events/252-pawar.jpg
-date: 2017-05-02T18:00:00-06:00
+date: 2017-05-02T18:00:00-05:00
 event_id: 252
 youtube_id: bmnyeMo-B3M
 agenda: https://docs.google.com/document/d/1mce2VDjHrfcNI8aAgF1fPGgh7Dwnx7agtYzJp5JsCAQ/edit#

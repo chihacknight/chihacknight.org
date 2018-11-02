@@ -8,7 +8,7 @@ description: "How can an idea at a hack night become an app that affects policy 
 speakers:
  - Claire Micklin, University of Chicago
 image: /images/events/224-claire-micklin.jpg
-date: 2016-09-27T18:00:00-06:00
+date: 2016-09-27T18:00:00-05:00
 event_id: 224
 youtube_id: tWUQyahTt5w
 agenda: https://docs.google.com/document/d/1INIh23p-7TTHPl56da0B5f78pzhmj57fv6IYujSM_GM/edit#

@@ -8,7 +8,7 @@ description: "Five years leading the second largest municipal IT department in t
 speakers:
 - Brenna Berman, Chicago CIO 2013-2017
 image: /images/events/259-brenna-berman.jpg
-date: 2017-06-20T18:00:00-06:00
+date: 2017-06-20T18:00:00-05:00
 event_id: 259
 youtube_id: ulrLTCrHeeo
 agenda: https://docs.google.com/document/d/1ruyej51hkgfUZFGDBNfJm5fKYSSG5Gd46XFFiU6rtxA/edit?usp=sharing

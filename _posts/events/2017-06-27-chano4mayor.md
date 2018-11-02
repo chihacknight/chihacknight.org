@@ -9,7 +9,7 @@ speakers:
 - Jean Cochrane
 - Alex Soble
 image: /images/events/260-chano4mayor.png
-date: 2017-06-27T18:00:00-06:00
+date: 2017-06-27T18:00:00-05:00
 event_id: 260
 youtube_id: rD7ByPxRdNU
 agenda: https://docs.google.com/document/d/1D1IMj_i1562ywRmaEEFCuPHYvLU8hz9wrmWwbFvhzvQ/edit#

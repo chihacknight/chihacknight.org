@@ -10,7 +10,7 @@ speakers:
  - Silvia Ellis, U.S. GAO
  - Joanie Lofgren, U.S. GAO
 image: /images/events/222-us-gao.jpg
-date: 2016-09-13T18:00:00-06:00
+date: 2016-09-13T18:00:00-05:00
 event_id: 222
 youtube_id: D4dacJrEAVE
 agenda: https://docs.google.com/document/d/1UzWyYnWMZlaCZlCUGw5ZlCdH5Zbc7Iml2XeIZXiMNQY/edit#

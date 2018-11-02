@@ -10,7 +10,7 @@ speakers:
  - Joe Germuska, CensusReporter.org
  - Nina Sandlin, Health & Disability Advocates
 image: /images/events/182-acs.jpg
-date: 2015-11-17T18:00:00-05:00
+date: 2015-11-17T18:00:00-06:00
 event_id: 182
 youtube_id: Kc06vukC_Iw
 agenda: https://docs.google.com/document/d/1bkSUFb5PQQrUUmlfmlDUUbvIjd4umpNZGoDMoMK3VHY/edit#

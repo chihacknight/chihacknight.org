@@ -11,7 +11,7 @@ speakers:
  - Paul Gobster, USDA Forest Service
  - William Stewart, University of Illinois Urbana-Champaign
 image: /images/events/278-assessing-large-lots.jpg
-date: 2017-11-07T18:00:00-05:00
+date: 2017-11-07T18:00:00-06:00
 event_id: 278
 youtube_id: 6-v6odxrTXs
 agenda: https://docs.google.com/document/d/1CfUuTMOGDFTzhs6CVWDDXSDp_8StggLHDe3J5LWCoNo/edit#

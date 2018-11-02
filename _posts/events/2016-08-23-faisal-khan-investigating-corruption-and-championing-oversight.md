@@ -8,7 +8,7 @@ description: "Ensuring that elected and public officials are exercising their po
 speakers:
  - Faisal Khan, Project Six
 image: /images/events/219-faisal-khan.jpg
-date: 2016-08-23T18:00:00-06:00
+date: 2016-08-23T18:00:00-05:00
 event_id: 219
 youtube_id: 1fQWo1BmwAc
 agenda: https://docs.google.com/document/d/1cn2YukMJmJjI5Lb4J4JedBUe0eAc4OnARpfveEMClV4/edit#

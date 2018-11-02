@@ -8,7 +8,7 @@ description: "The landscape has been rapidly evolving in Chicago City Hall in re
 speakers:
  - Joanna Klonsky, JKV Strategies
 image: /images/events/211-joanna-klonsky.jpg
-date: 2016-06-28T18:00:00-06:00
+date: 2016-06-28T18:00:00-05:00
 event_id: 211
 youtube_id: 4HBJvsTI7RE
 agenda: https://docs.google.com/document/d/15ORHJEb28a6chuJpGb0Cfnmgc5944B6_ZQN5ysku5JY/edit#

@@ -9,7 +9,7 @@ speakers:
  - Charlene Carruthers, BYP100 National Director
 image: /images/events/290-charlene-carruthers.jpg
 image_credit: 
-date: 2018-02-27T18:00:00-05:00
+date: 2018-02-27T18:00:00-06:00
 event_id: 290
 youtube_id: Z2ovmMZnORI
 agenda: https://docs.google.com/document/d/10n8hefuml2SRudnEAke3EOOGwjxrI3XNG6DkKIKYYHU/edit#

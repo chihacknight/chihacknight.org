@@ -8,7 +8,7 @@ description: "It’s election night, and we’re getting a special look into the
 speakers:
  - Will Caskey, Stanford/Caskey
 image: /images/events/196-data-and-political-campaigns.jpg
-date: 2016-03-15T18:00:00-06:00
+date: 2016-03-15T18:00:00-05:00
 event_id: 196
 youtube_id: 2eJRPmZkKS4
 agenda: https://docs.google.com/document/d/1KKaDE3PaG0JUhTrYgLMfKnDkpbYiILOMy35RJyiNtYM/edit#

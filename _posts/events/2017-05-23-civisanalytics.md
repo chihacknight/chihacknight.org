@@ -10,7 +10,7 @@ speakers:
 - Advik Shreekumar, Civis Analytics
 - Ola Topczewska, Civis Analytics
 image: /images/events/255-civis.png
-date: 2017-05-23T18:00:00-06:00
+date: 2017-05-23T18:00:00-05:00
 event_id: 255
 youtube_id: XSQOCXwNqUA
 agenda: https://docs.google.com/document/d/1ueik_hJzJUif8NapH6vVG7q7YwduPaZUBZ1p6jw46d4/edit#

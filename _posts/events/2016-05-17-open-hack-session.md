@@ -7,7 +7,7 @@ title: "Open Hack Session"
 description: "No presentation this week. Instead, we're going to have another open hacking session! Come build, share, and learn about civic tech!"
 speakers:
 image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img8.jpg
-date: 2016-05-17T18:00:00-06:00
+date: 2016-05-17T18:00:00-05:00
 event_id: 205
 youtube_id: 
 agenda: https://docs.google.com/document/d/1P7R3gbwO2fjBHbYfCv3zPi9B7iZqmK6KgGKxajRwWBQ/edit#

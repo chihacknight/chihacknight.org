@@ -8,7 +8,7 @@ description: "Cook County has a beautiful new website! Kathy Lynch, IT Communica
 speakers:
  - Kathy Lynch, Cook County Bureau of Technology
 image: /images/events/213-cook-county-redesign.jpg
-date: 2016-07-12T18:00:00-06:00
+date: 2016-07-12T18:00:00-05:00
 event_id: 213
 youtube_id: Jm9BGsn2Lu8
 agenda: https://docs.google.com/document/d/1DVBFo2qCdzZaHhNYSLcTA1MDfoo5R7qR1bgbKC0DecQ/edit

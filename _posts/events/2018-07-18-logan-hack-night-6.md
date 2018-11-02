@@ -6,7 +6,7 @@ links:
 title: Supporting Child Care Services in the Digital Age (LSQHN#5)
 description: "Pie for Providers supports child care businesses by streamlining government facing administration, and will be talking about the current landscape in this industry and its relationship with government regulation."
 image: /images/events/satellite/logan-sat-event.jpg
-date: 2018-07-18T18:00:00-06:00
+date: 2018-07-18T18:00:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

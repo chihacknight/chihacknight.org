@@ -8,7 +8,7 @@ description: Continuing on our education theme from last week, we have a special
 speakers:
  - Sarah Karp, Better Government Association
 image: /images/events/180-sarah-karp.jpg
-date: 2015-11-03T18:00:00-05:00
+date: 2015-11-03T18:00:00-06:00
 event_id: 180
 youtube_id: 
 agenda: https://docs.google.com/document/d/1AAeAhbUKgm3J_j6E9P0x7FlNgGOOHEAqBjmtgCRPue0/edit#

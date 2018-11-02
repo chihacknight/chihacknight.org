@@ -7,7 +7,7 @@ title: "Chikindlmarket Holiday Party"
 description: "Chi Hack Night will be magically transformed through the power of the civic tech holiday spirit into . . . . Chikindlmarket! Visitors from all around Chicagoland (and beyond!) can play games, gnosh on sausages, pretzels, and other holiday treats, do screen printing, and thank each other for the accomplishments of the past year!"
 speakers:
 image: /images/events/282-chi-kindle-market.jpg
-date: 2017-12-12T18:00:00-05:00
+date: 2017-12-12T18:00:00-06:00
 event_id: 282
 youtube_id: 
 agenda: https://docs.google.com/document/d/1zjAv7TQ-gmjwwDzSx7qkXc5blDGqrGvjJLQvdA2cQ4Y/edit#

@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Open Hack Session (formerly Travel Modeling at CMAP)
-date: 2014-11-25T18:00:00-05:00
+date: 2014-11-25T18:00:00-06:00
 event_id: 133
 sponsor: <a href='http://datamade.us'>DataMade</a>
 tags: 

@@ -8,7 +8,7 @@ description: "Peter Alter, director of the Chicago History Museum’s Studs Terk
 speakers:
 - Peter T. Alter, Chicago History Museum
 image: /images/events/262-group-shot.jpg
-date: 2017-07-18T18:00:00-06:00
+date: 2017-07-18T18:00:00-05:00
 event_id: 262
 youtube_id: IrPwZ7ejsw8
 agenda: https://docs.google.com/document/d/1gNJRxZgfbiGxPQ5C1S7vmyUyZOb0tbEWWjNcEAICj7U/edit#

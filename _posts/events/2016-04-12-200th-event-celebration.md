@@ -16,7 +16,7 @@ speakers:
  - Rene M Paccha
  - Cathy Deng
 image: /images/events/200-cookies.jpg
-date: 2016-04-12T18:00:00-06:00
+date: 2016-04-12T18:00:00-05:00
 event_id: 200
 youtube_id: 
 agenda: https://docs.google.com/document/d/1XZNgMfLscDIYdOGK_Cz4Y9YxxET0wLm3XCXWBKPtkU8/edit#

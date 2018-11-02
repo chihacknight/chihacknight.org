@@ -10,7 +10,7 @@ speakers:
  - Martin Guzman, COPA
  - Mia Sissac, COPA
 image: /images/events/279-copa.jpg
-date: 2017-11-14T18:00:00-05:00
+date: 2017-11-14T18:00:00-06:00
 event_id: 279
 youtube_id: YI8ZFId5chw
 agenda: https://docs.google.com/document/d/1ddUKJYzhBjR6BBFMKWzNsEU9blwuRYKKsmEG-QEwEqo/edit#

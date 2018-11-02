@@ -9,7 +9,7 @@ speakers:
  - Elizabeth Scott, CMAP
 image: /images/events/285-regional-housing-solutions.jpg
 image_credit: 
-date: 2018-01-23T18:00:00-05:00
+date: 2018-01-23T18:00:00-06:00
 event_id: 285
 youtube_id: WhF2mYwTxBk
 agenda: https://docs.google.com/document/d/1LyM00TQu3qxa1Gh8PMXc9q6BCwTAy3OfIJOuSQ7EmZA/edit#

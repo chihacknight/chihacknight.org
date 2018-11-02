@@ -9,7 +9,7 @@ speakers:
  - Steve Luker
  - Adam Hecktman, Microsoft
 image: /images/events/223-chi-safe-path.jpg
-date: 2016-09-20T18:00:00-06:00
+date: 2016-09-20T18:00:00-05:00
 event_id: 223
 youtube_id: FWkRY9FZQM4
 agenda: https://docs.google.com/document/d/19CnLBTWMtWsJPI0jJPOL3pa8ttHkt58ZI9RWS7aOTKw/edit#

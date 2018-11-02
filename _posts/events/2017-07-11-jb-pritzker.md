@@ -8,7 +8,7 @@ description: "Chi Hack Night is proud to present the second part of our series: 
 speakers:
 - JB Pritzker
 image: /images/events/261-jb-pritzker.jpg
-date: 2017-07-11T18:00:00-06:00
+date: 2017-07-11T18:00:00-05:00
 event_id: 261
 youtube_id: p7tJ4JGYUrU
 agenda: https://docs.google.com/document/d/1jJ9DF_nDUU97U2pFFmV0yXRngUFlZIJ-v5ROcoEI0oQ/edit#

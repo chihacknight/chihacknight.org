@@ -9,7 +9,7 @@ speakers:
  - Alvyn Walker, Leave No Veteran Behind
 image: /images/events/287-al-walker.jpg
 image_credit: 
-date: 2018-02-06T18:00:00-05:00
+date: 2018-02-06T18:00:00-06:00
 event_id: 287
 youtube_id: utupoOZ0JJQ
 agenda: https://docs.google.com/document/d/1eHhr5QoHO_SDQSfOQtwPDGF8WPTXRc4z6QX0QPvEuOY/edit#

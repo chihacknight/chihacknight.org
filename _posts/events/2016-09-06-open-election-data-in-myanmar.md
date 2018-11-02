@@ -8,7 +8,7 @@ description: "In November 2015, Myanmar held its first national openly-contested
 speakers:
  - Nick Doiron, Traveling Freelance Developer and Mapmaker
 image: /images/events/221-open-election-data-in-myanmar.jpg
-date: 2016-09-06T18:00:00-06:00
+date: 2016-09-06T18:00:00-05:00
 event_id: 221
 youtube_id: 
 agenda: https://docs.google.com/document/d/1Obaro3_XPVh-45Sx8dCz3Iyh073VBowOeWpAkc4rziM/edit#

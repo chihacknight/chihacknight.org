@@ -10,7 +10,7 @@ speakers:
   - Aviva Rosman of Ballot Ready
   - Tiana Epps-Johnson of Center for Tech and Civic Life
 image: /images/events/satellite/satellite-dusablemuseum.jpg
-date: 2017-03-30T18:00:00-06:00
+date: 2017-03-30T18:00:00-05:00
 youtube_id: ylRRulQk4qI
 agenda: https://docs.google.com/document/d/1zQB_htPUKHUsEkxSWUpEDejEcIW_C3vyQM9Cv8vjkDU/edit#
 sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>

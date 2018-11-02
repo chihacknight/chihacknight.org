@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Open Hack Session
-date: 2014-11-04T18:00:00-05:00
+date: 2014-11-04T18:00:00-06:00
 event_id: 130
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>
 tags: 

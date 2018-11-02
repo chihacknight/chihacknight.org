@@ -9,7 +9,7 @@ speakers:
  - Jonah Newman, The Chicago Reporter
  - Matt Kiefer, The Chicago Reporter
 image: /images/events/216-settling-for-misconduct.jpg
-date: 2016-08-02T18:00:00-06:00
+date: 2016-08-02T18:00:00-05:00
 event_id: 216
 youtube_id: cGjCKfrH7J0
 agenda: https://docs.google.com/document/d/1Wg8hnr-O0fWpBboqEkr4GHIyFXLNUe1GbASws8Ah21c/edit#

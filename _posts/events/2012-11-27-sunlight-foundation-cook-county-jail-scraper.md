@@ -5,7 +5,7 @@ categories:
 title: Sunlight Foundation Apps & APIs
 speakers: 
  - Amy Ngai, Sunlight Foundation
-date: 2012-11-27T18:00:00-05:00
+date: 2012-11-27T18:00:00-06:00
 event_id: 35
 sponsor: <a href='http://sunlightfoundation.com/'>Sunlight Foundation</a>
 ---

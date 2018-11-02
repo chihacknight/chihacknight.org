@@ -8,7 +8,7 @@ description: "Web developer, mapmaker, and former Code for America fellow Nick D
 speakers:
  - Nick Doiron
 image: /images/events/266-gerrymandering.jpg
-date: 2017-08-15T18:00:00-06:00
+date: 2017-08-15T18:00:00-05:00
 event_id: 266
 youtube_id: rPpmVv2e2kQ
 agenda: https://docs.google.com/document/d/1r6a4Uc-SskRVVjMsQMQ0uM-6S__PSBRFQZLp1v7PoJQ/edit

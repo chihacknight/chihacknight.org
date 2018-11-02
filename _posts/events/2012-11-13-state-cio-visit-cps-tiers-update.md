@@ -5,7 +5,7 @@ categories:
 title: State CIO Visit, CPS Tiers Update
 speakers: 
  - Sean Vinck, State of Illinois
-date: 2012-11-13T18:00:00-05:00
+date: 2012-11-13T18:00:00-06:00
 event_id: 33
 sponsor: None
 ---

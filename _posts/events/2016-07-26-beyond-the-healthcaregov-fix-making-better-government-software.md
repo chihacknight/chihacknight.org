@@ -8,7 +8,7 @@ description: "Paul Smith, one of the people who fixed HealthCare.gov and co-foun
 speakers:
  - Paul Smith, Ad Hoc
 image: /images/events/215-healthcare-gov.jpg
-date: 2016-07-26T18:00:00-06:00
+date: 2016-07-26T18:00:00-05:00
 event_id: 215
 youtube_id: JLUuglJBY28
 agenda: https://docs.google.com/document/d/1ucbwh57lZokc_QdRdzlcFz3xdNQAUxPR3oqWpgtyGwQ/edit#

@@ -9,7 +9,7 @@ speakers:
  - David Arfa, Cook County Bureau of Technology
  - David Treering, Cook County Bureau of Technology
 image: /images/events/280-cook-county-gis.jpg
-date: 2017-11-28T18:00:00-05:00
+date: 2017-11-28T18:00:00-06:00
 event_id: 280
 youtube_id: G6hvgIVOVZw
 agenda: https://docs.google.com/document/d/13aBJsofVVMM461Kz5i-6pNX4w-kK5hwv3N2_p4uGG6E/edit#

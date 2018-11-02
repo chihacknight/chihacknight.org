@@ -9,7 +9,7 @@ speakers:
  - Alya Adamany Woods, Executive Director of ChicagoNEXT at World Business Chicago
 image: /images/events/291-alya-adamany-woods.jpg
 image_credit: 
-date: 2018-03-06T18:00:00-05:00
+date: 2018-03-06T18:00:00-06:00
 event_id: 291
 youtube_id: UX-m9ajTB1g
 agenda: https://docs.google.com/document/d/12Efbfm5hYCfIx2nCiVwWGNUr4H_j1BtuZRrWrkmkIpQ/edit#

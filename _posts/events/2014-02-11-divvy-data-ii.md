@@ -9,7 +9,7 @@ links:
 title: Divvy Data II
 speakers: 
  - Steven Vance, Streetsblog Chicago
-date: 2014-02-11T18:00:00-05:00
+date: 2014-02-11T18:00:00-06:00
 event_id: 92
 sponsor: <a href='http://codeforamerica.com'>Code for America</a>
 tags: 

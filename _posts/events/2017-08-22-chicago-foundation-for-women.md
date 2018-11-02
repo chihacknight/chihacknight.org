@@ -8,7 +8,7 @@ description: "How do we move Chicago closer to gender parity, and how can data h
 speakers:
  - K. Sujata, Chicago Foundation for Women
 image: /images/events/267-chicago-foundation-for-women.jpg
-date: 2017-08-22T18:00:00-06:00
+date: 2017-08-22T18:00:00-05:00
 event_id: 267
 youtube_id: uEBwhMS7KEQ
 agenda: https://docs.google.com/document/d/15hQkAGUku0_nHpUHFP6hk8Sk3EHCZypifLf89SGNq0s/edit

@@ -9,7 +9,7 @@ speakers:
  - Fabian Elliott, Black Tech Mecca
 image: /images/events/289-fabian-elliott.jpg
 image_credit: 
-date: 2018-02-20T18:00:00-05:00
+date: 2018-02-20T18:00:00-06:00
 event_id: 289
 youtube_id: djrEFUsjARY
 agenda: https://docs.google.com/document/d/1mfNdireyRIK4extGKLuzW9NdPdRDzmKtnj8rU7pV5Ms/edit#

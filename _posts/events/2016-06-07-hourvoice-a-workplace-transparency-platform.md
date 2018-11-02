@@ -9,7 +9,7 @@ speakers:
  - Don Chartier, HourVoice
  - Ryan Fischer, 20spokes
 image: /images/events/208-hourvoice.png
-date: 2016-06-07T18:00:00-06:00
+date: 2016-06-07T18:00:00-05:00
 event_id: 208
 youtube_id: 68uGiX-DDH4
 agenda: https://docs.google.com/document/d/1_KT8pQnJFYec5wBn8YAMituljOD_I0qaXx1oAAMkYkg/edit#
