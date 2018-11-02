@@ -62,7 +62,7 @@ layout: default
   </div>
   <div class="panel-body">
     {% for post in site.categories['events'] limit:1 %}
-    <strong>6pm {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+    <strong>{{ post.date | date: "%I:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
 
     <h2 class='no-margin-top'>
       <small>#{{post.event_id}}</small>
@@ -100,7 +100,7 @@ layout: default
         <h3 class="panel-title"><b>Next Community Event</b></h3>
       </div>
       <div class="panel-body">
-        <strong>6pm {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+        <strong>{{ post.date | date: "%I:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
 
         <h2 class='no-margin-top'>
           <a href="{{post.url}}">{{post.title}}</a>

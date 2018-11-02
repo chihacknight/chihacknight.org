@@ -91,7 +91,7 @@ layout: default
             </p>
           {% endif %}
          
-          6pm<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
+          {{ page.date | date: "%I:%M%P" }}<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
             <span itemprop="name">Braintree office</span><br />
