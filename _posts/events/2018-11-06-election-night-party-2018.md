@@ -13,7 +13,7 @@ event_id: 325
 youtube_id:
 agenda: https://docs.google.com/document/d/1h_rrWv1Dijd0n_fXhs6d_gT77_LFgFE7tBt0DhAjY9A/edit?usp=sharing
 sponsor: The Chi Hack Night Community
-asl_provided: true
+asl_provided: false
 tags: elections
 published: true
 ---
