@@ -8,7 +8,7 @@ description: "Today’s innovation and research communities are recognizing that
 speakers:
 - Dima Elissa, CEO of VisMed 3D
 image: /images/events/256-dima-elissa.jpg
-date: 2017-05-30T18:00:00-06:00
+date: 2017-05-30T18:00:00-05:00
 event_id: 256
 youtube_id: utgpFx-LhkU
 agenda: https://docs.google.com/document/d/10FpQoa56McFdUZXmvvjFqPFh54yWEBKfJkf4RT20M4g/edit#

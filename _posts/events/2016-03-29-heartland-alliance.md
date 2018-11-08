@@ -9,7 +9,7 @@ speakers:
  - Patricio Cadena, Heartland Alliance
  - Amy Terpstra, Heartland Alliance
 image: /images/events/198-heartland-alliance.jpg
-date: 2016-03-29T18:00:00-06:00
+date: 2016-03-29T18:00:00-05:00
 event_id: 198
 youtube_id: neJugRyHfVA
 agenda: https://docs.google.com/document/d/1j8infH2PaY6CnPMAAyZ7lmDGgh6bBLbUcZy4DW2nqxU/edit#

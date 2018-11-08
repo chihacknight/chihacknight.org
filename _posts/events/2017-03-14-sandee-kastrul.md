@@ -8,7 +8,7 @@ description: "For our Women in Tech speaker series, we welcome Sandee Kastrul, p
 speakers:
  - Sandee Kastrul, President of i.c.stars
 image: /images/events/245-sandee-kastrul.jpg
-date: 2017-03-14T18:00:00-06:00
+date: 2017-03-14T18:00:00-05:00
 event_id: 245
 youtube_id: 3nWItbn1FHI
 agenda: https://docs.google.com/document/d/1jbQ9Cq7IjNNId8CwhVNNG_cTc2ZNRvCtpTCibwY4ZE4/edit#

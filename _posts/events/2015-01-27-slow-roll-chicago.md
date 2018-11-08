@@ -7,7 +7,7 @@ title: Slow Roll Chicago
 speakers:
  - Olatunji Oboi Reed, Slow Roll Chicago
  - Steven Vance, Chi Hack Night
-date: 2015-1-27T18:00:00-05:00
+date: 2015-1-27T18:00:00-06:00
 event_id: 140
 youtube_id: zbZix9lhSdk
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>

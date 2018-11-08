@@ -7,7 +7,7 @@ speakers:
  - Laurenellen McCann, Sunlight Foundation
  - John Wonderlich, Sunlight Foundation
  - Gideon Blustein, IDES
-date: 2013-03-05T18:00:00-05:00
+date: 2013-03-05T18:00:00-06:00
 event_id: 46
 sponsor: <a href='http://sunlightfoundation.com/'>Sunlight Foundation</a>
 ---

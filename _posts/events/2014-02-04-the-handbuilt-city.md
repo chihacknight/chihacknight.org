@@ -8,7 +8,7 @@ links:
 title: The Handbuilt City
 speakers: 
  - Nat Zorach, The Handbuilt City
-date: 2014-02-04T18:00:00-05:00
+date: 2014-02-04T18:00:00-06:00
 event_id: 91
 youtube_id: 2T9GMck7RLw
 sponsor: <a href='http://datamade.us/'>DataMade</a>

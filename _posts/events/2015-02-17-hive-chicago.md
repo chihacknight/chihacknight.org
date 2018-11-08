@@ -7,7 +7,7 @@ title: Hive Chicago
 speakers: 
  - Robert Friedman, Hive Chicago
  - Kyla Williams, Smart Chicago Collaborative
-date: 2015-02-17T18:00:00-05:00
+date: 2015-02-17T18:00:00-06:00
 event_id: 143
 youtube_id: jS7vD5vzZfY
 sponsor: <a href='http://github.com'>GitHub</a>

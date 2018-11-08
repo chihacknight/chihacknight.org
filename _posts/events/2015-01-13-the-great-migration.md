@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: The Great Migration
-date: 2015-1-13T18:00:00-05:00
+date: 2015-1-13T18:00:00-06:00
 event_id: 138
 youtube_id:
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>

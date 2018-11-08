@@ -9,7 +9,7 @@ speakers:
  - Tiana Epps-Johnson, Center for Technology and Civic Life
  - Donny Bridges, Center for Technology and Civic Life
 image: /images/events/202-ctcl.jpg
-date: 2016-04-26T18:00:00-06:00
+date: 2016-04-26T18:00:00-05:00
 event_id: 202
 youtube_id: MshZX5jXeDg
 agenda: https://docs.google.com/document/d/1HKG7SmZ-9R9Km6w_2XtcqQLxlo0YFu4rTKvG7jyZD4Y/edit#

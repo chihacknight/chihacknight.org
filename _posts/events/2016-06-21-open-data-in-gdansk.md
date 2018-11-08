@@ -8,7 +8,7 @@ description: "We will be joined by Tomasz Nadolny, Chief of Innovation and Head 
 speakers:
  - Tomasz Nadolny, City of Gdańsk, Poland
 image: /images/events/210-open-data-in-gdansk.jpg
-date: 2016-06-21T18:00:00-06:00
+date: 2016-06-21T18:00:00-05:00
 event_id: 210
 youtube_id: mas0TMe25sg
 agenda: https://docs.google.com/document/d/1Ba-qEP84Y5xT5vRuJjGDMHUCQOo22VHZ2q2Aq7wPznk/edit#

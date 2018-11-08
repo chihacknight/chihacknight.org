@@ -9,7 +9,7 @@ links:
 title: RedEye Homicide Data
 speakers: 
  - Tracy Swartz, RedEye Chicago
-date: 2013-11-19T18:00:00-05:00
+date: 2013-11-19T18:00:00-06:00
 event_id: 83
 youtube_id: IqS97LF3Axw
 sponsor: <a href='http://thoughtworks.com'>Thoughtworks</a>

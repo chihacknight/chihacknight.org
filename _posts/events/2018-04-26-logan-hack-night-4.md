@@ -8,7 +8,7 @@ description: "Daniel Kay Hertz leads a dialogue around the issues raised in his 
 
 Attendees will have a chance to give feedback to Hertz’s book before he submits the final manuscript as well as learn how to use archival resources to better understand the history of community conflict and how they can be applied to today’s gentrifying areas."
 image: /images/events/satellite/daniel-kay-hertz.jpg
-date: 2018-04-26T18:00:00-06:00
+date: 2018-04-26T18:00:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

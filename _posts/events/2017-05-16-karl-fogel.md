@@ -8,7 +8,7 @@ description: "Karl Fogel, long time Chi Hack Night member and partner at Open Te
 speakers:
  - Karl Fogel, Open Tech Strategies
 image: /images/events/254-karl-fogel.jpg
-date: 2017-05-16T18:00:00-06:00
+date: 2017-05-16T18:00:00-05:00
 event_id: 254
 youtube_id: sZnZMow20hk
 agenda: https://docs.google.com/document/d/1YbtXARlGWKSHuX-Gx6iDENMJD2kGeJ-oV-7NseBLySo/edit#

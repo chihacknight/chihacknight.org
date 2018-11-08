@@ -8,7 +8,7 @@ links:
 title: Get Covered Illinois
 speakers: 
  - Charles Watkins, Get Covered Illinois
-date: 2014-01-28T18:00:00-05:00
+date: 2014-01-28T18:00:00-06:00
 event_id: 90
 youtube_id: li-8EpVHHxk
 sponsor: <a href='http://www.thoughtworks.com/'>Thoughtworks</a>

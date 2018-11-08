@@ -7,7 +7,7 @@ title: "Potluck & Open Hack"
 description: "No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too. While we eat, we'll build, share, and learn about civic tech!"
 speakers:
 image: /images/blog/2015-11-23-10-lessons-from-organizing-the-chi-hack-night/img10.jpg
-date: 2016-10-11T18:00:00-06:00
+date: 2016-10-11T18:00:00-05:00
 event_id: 226
 youtube_id: 
 agenda: https://docs.google.com/document/d/1ULpxbaZ7Umd2p7XmY16PJLZK-6iV7lQOfFDEZkYQqzU/edit#

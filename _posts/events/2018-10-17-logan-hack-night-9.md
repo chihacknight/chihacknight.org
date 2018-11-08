@@ -6,7 +6,7 @@ links:
 title: Lets throw a Ballot Party!
 description: "Ballot Parties are a place for you, your friends, and your neighbors to come together and learn about the issues facing your communities and the candidates that are up for election."
 image: /images/events/satellite/ballot-party.png
-date: 2018-10-17T19:30:00-06:00
+date: 2018-10-17T18:30:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

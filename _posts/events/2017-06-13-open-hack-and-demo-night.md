@@ -7,7 +7,7 @@ title: "Open Hack & Demo Night"
 description: "This week will be a Open Hack & Demo Night. This is an opportunity for hack nighters and breakout groups to show off projects in progress – to attract potential new members, and inspire people to give the feedback you've been looking for. Demos are short, and don't have formal presentations or slideshows. Come see what your compatriots are working on!"
 speakers:
 image: /images/events/251-demo-night.jpg
-date: 2017-06-13T18:00:00-06:00
+date: 2017-06-13T18:00:00-05:00
 event_id: 258
 youtube_id: 
 agenda: https://docs.google.com/document/d/1c9SujKuFH8gDLJQRuQhxRIDZH4_tk8bAaL3tqbpI1xk/edit

@@ -9,7 +9,7 @@ speakers:
  - Jennifer Helsby, Lucy Parsons Labs
  - Freddy Martinez, Lucy Parsons Labs
 image: /images/events/207-lucy-parsons-labs.jpg
-date: 2016-05-31T18:00:00-06:00
+date: 2016-05-31T18:00:00-05:00
 event_id: 207
 youtube_id: XKY_Sgv9ej8
 agenda: https://docs.google.com/document/d/1CtAwlwIq46g9ISEwj2LuorWzoctDVA0aCPPJQx59FhA/edit

@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: Municipal Election Night
-date: 2015-02-24T18:00:00-05:00
+date: 2015-02-24T18:00:00-06:00
 event_id: 144
 youtube_id: 
 sponsor: <a href='http://codeforamerica.org'>Code for America</a>

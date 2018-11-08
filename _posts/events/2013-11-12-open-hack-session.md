@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 title: Open Hack Session
-date: 2013-11-12T18:00:00-05:00
+date: 2013-11-12T18:00:00-06:00
 event_id: 82
 ---
 

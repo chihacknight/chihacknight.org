@@ -9,7 +9,7 @@ speakers:
  - Jen Pahlka, Code for America
  - Erie Meyers, Code for America
 image: /images/events/263-cfa.png
-date: 2017-07-25T18:00:00-06:00
+date: 2017-07-25T18:00:00-05:00
 event_id: 263
 youtube_id: nN3veIKCXIQ
 agenda: https://docs.google.com/document/d/1KLgatY5oTQMzXLDweDNoxJba6wvUwXRvtpXtIdvnGuk/edit#

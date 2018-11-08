@@ -7,7 +7,7 @@ title: "Data in Schools: An Anatomy Lesson"
 speakers: 
  - Andrew Martin, KIPP New Jersey
  - Juan-Pablo Velez, Polynumeral
-date: 2015-03-03T18:00:00-05:00
+date: 2015-03-03T18:00:00-06:00
 event_id: 145
 youtube_id: q7V39da2GIs
 sponsor: <a href='http://datamade.us'>DataMade</a>

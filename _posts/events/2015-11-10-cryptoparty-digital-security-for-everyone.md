@@ -8,7 +8,7 @@ description: "Jennifer Helsby from Cryptoparty Chicago will talk about her work 
 speakers:
  - Jennifer Helsby, Cryptoparty Chicago
 image: /images/events/181-cryptoparty-digital-security-for-everyone.png
-date: 2015-11-10T18:00:00-05:00
+date: 2015-11-10T18:00:00-06:00
 event_id: 181
 youtube_id: 
 agenda: https://docs.google.com/document/d/15We5a0whIIsDJxtJPGw7O87bRofZmuwqndmfDTHMapc/edit#

@@ -11,7 +11,7 @@ speakers:
  - Cecilia Reyes, Chicago Tribune
 image: /images/events/284-inside-the-water-drain.jpg
 image_credit: Chicago Tribune
-date: 2018-01-16T18:00:00-05:00
+date: 2018-01-16T18:00:00-06:00
 event_id: 284
 youtube_id: IZH0bP9eOfo
 agenda: https://docs.google.com/document/d/1yC1efQCYX-stzw2ZCMkq4TWpUtTEZaB-onNx4clqe8g/edit#

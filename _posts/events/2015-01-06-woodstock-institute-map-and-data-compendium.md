@@ -7,7 +7,7 @@ title: Woodstock Institute Map and Data Compendium
 speakers:
  - Katie Buitrago, Woodstock Institute
  - Julianna Nunez, Woodstock Institute
-date: 2015-1-6T18:00:00-05:00
+date: 2015-1-6T18:00:00-06:00
 event_id: 137
 youtube_id: PUOVMGndv3E
 sponsor: <a href='http://datamade.us'>DataMade</a>

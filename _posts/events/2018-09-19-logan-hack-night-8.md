@@ -6,7 +6,7 @@ links:
 title: How to wield your power with care! (LSQHN#8)
 description: "During this intimate conversation, George Aye of Greater Good Studio will help us understand the mechanics of power and how to wield it with care."
 image: /images/events/satellite/george_aye.jpg
-date: 2018-09-19T19:30:00-06:00
+date: 2018-09-19T18:30:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

@@ -8,7 +8,7 @@ description: "Come celebrate democracy with us this Tuesday at the Chi Hack Nigh
 speakers:
 image: /images/events/325-vote.jpg
 image_credit:
-date: 2018-11-06T18:00:00-05:00
+date: 2018-11-06T18:00:00-06:00
 event_id: 325
 youtube_id:
 agenda: https://docs.google.com/document/d/1h_rrWv1Dijd0n_fXhs6d_gT77_LFgFE7tBt0DhAjY9A/edit?usp=sharing

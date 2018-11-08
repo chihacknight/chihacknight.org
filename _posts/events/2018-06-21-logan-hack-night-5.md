@@ -6,7 +6,7 @@ links:
 title: "You Matter, State Matters"
 description: "Kacie Smith and others from State Matters will lead a discussion about the importance and effect of state politics and how to raise awareness of how local issues are represented on our ballot. "
 image: /images/events/satellite/logan-sat-event.jpg
-date: 2018-06-21T18:00:00-06:00
+date: 2018-06-21T18:00:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

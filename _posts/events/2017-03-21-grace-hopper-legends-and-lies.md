@@ -8,7 +8,7 @@ description: "Melissa Pierce, Producer and Director of Born with Curiosity: The 
 speakers:
  - Melissa Pierce, Filmmaker, Programmer & Entrepreneurial Rabble Rouser
 image: /images/events/246-grace-hopper.jpg
-date: 2017-03-21T18:00:00-06:00
+date: 2017-03-21T18:00:00-05:00
 event_id: 246
 youtube_id: fjx49LtuSFY
 agenda: https://docs.google.com/document/d/1IIQMYx34oQ_Yoi4i57QRJTAFh2zomidf1pWYk9db4N8/edit#

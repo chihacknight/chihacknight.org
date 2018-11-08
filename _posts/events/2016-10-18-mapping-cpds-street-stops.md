@@ -8,7 +8,7 @@ description: "In July of this year, Injustice Watch launched a series on the une
 speakers:
  - Sam Hart, Injustice Watch
 image: /images/events/226-cops-and-stops.jpg
-date: 2016-10-18T18:00:00-06:00
+date: 2016-10-18T18:00:00-05:00
 event_id: 227
 youtube_id: eWr6-a2tp1M
 agenda: https://docs.google.com/document/d/1LxrDejWs1nnnrlQm6g3azdRb5B7r9P0FD-mpZ_iEtYg/edit#

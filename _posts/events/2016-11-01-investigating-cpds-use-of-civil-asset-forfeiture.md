@@ -9,7 +9,7 @@ speakers:
  - Freddy Martinez, Lucy Parsons Labs
  - Joel Handley, Freelance Journalist
 image: /images/events/229-civil-asset-forfeiture.jpg
-date: 2016-11-01T18:00:00-06:00
+date: 2016-11-01T18:00:00-05:00
 event_id: 229
 youtube_id: dPKC9KZi7QM
 agenda: https://docs.google.com/document/d/1hiNJgudYkyOpi-KX_su4H5rbOmndhGr1Gb47Xh6712g/edit#

@@ -6,7 +6,7 @@ links:
 title: Hour of Code
 speakers: 
  - Jamal Cornelious, Chicago Public Schools
-date: 2014-12-2T18:00:00-05:00
+date: 2014-12-2T18:00:00-06:00
 event_id: 134
 youtube_id: r9dV_MOJyRI
 sponsor: <a href='http://thoughtworks.com'>ThoughtWorks</a>

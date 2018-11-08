@@ -8,7 +8,7 @@ description: "In June 2016, as part of their strategy to foster stronger communi
 speakers:
  - Robin Robinson, Special Adviser of Community Affairs at the Chicago Police Department
 image: /images/events/247-robin-robinson.jpg
-date: 2017-03-28T18:00:00-06:00
+date: 2017-03-28T18:00:00-05:00
 event_id: 247
 youtube_id: e3qez9__yKU
 agenda: https://docs.google.com/document/d/1QasFV6Zpjl5BPgrB3nNxW8YR6Rn0mVH-uzFspLwSZcA/edit

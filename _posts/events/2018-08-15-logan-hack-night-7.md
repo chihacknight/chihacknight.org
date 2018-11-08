@@ -6,7 +6,7 @@ links:
 title: Give art a chance! (LSQHN#7)
 description: "An invitation for people raised in the formal world of math and programming to interact with artists."
 image: /images/events/satellite/logan-sat-event.jpg
-date: 2018-08-15T18:00:00-06:00
+date: 2018-08-15T18:00:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>

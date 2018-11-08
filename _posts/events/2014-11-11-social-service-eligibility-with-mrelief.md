@@ -8,7 +8,7 @@ speakers:
  - Rose Afriyie, mRelief
  - Marina Goldshteyn, mRelief
  - Ellie Day, mRelief
-date: 2014-11-11T18:00:00-05:00
+date: 2014-11-11T18:00:00-06:00
 event_id: 131
 youtube_id: 2w7peIgC-0M
 sponsor: <a href='http://github.com'>GitHub</a>
