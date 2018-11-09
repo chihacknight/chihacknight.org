@@ -3,9 +3,9 @@ layout: event
 categories:
   - events
 links:
-title: "Folded Map’s Future"
-description: "Join us on Tuesday to hear from Tonika Johnson of the Folded Map project, a visual investigation of Chicago’s communities that uses Chicago's grid map system to identify mirroring points of the city and directly compare photographs and videos of North and South Side blocks. Don't forget to RSVP by 12 pm!"
-speakers: Tonika Johnson, Folded Map project
+title: "The Folded Map Project"
+description: "Join us on Tuesday to hear from Tonika Johnson of the Folded Map Project, a visual investigation of Chicago’s communities that uses Chicago's grid map system to identify mirroring points of the city and directly compare photographs and videos of North and South Side blocks. Don't forget to RSVP by 12 pm!"
+speakers: Tonika Johnson, Folded Map Project
 image: /images/events/326-tonika-johnson.jpg
 image_credit:
 date: 2018-11-13T18:00:00-06:00
