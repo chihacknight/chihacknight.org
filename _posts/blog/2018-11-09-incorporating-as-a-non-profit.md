@@ -3,13 +3,13 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night is incorporating as a non-profit!"
-description: ""
+description: "In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. We will hold a town hall feedback session at Chi Hack Night on December 11th."
 date: 2018-11-09
 image: /images/blog/2018-11-09-non-profit/leadership-retreat.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
-author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Chi Hack Night."
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade and is the lead organizer for Chi Hack Night."
 author2: 
 author2_url: 
 author2_image: 
@@ -19,7 +19,7 @@ published: true
 <p class="text-center"><img src="/images/logo/logo.png" alt="Chi Hack Night" />
 </p>
 
-In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. We will hold a town hall feedback session at Chi Hack Night on Dec 11.
+In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. We will hold a town hall feedback session at Chi Hack Night on December 11th.
 
 ### Why is Chi Hack Night incorporating?
 
