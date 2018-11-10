@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night is incorporating as a non-profit!"
-description: "In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session at Chi Hack Night."
+description: "In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session about these changes at Chi Hack Night."
 date: 2018-11-09
 image: /images/blog/2018-11-09-non-profit/leadership-retreat.jpg
 author: Derek Eder
@@ -16,10 +16,10 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/logo/logo.png" alt="Chi Hack Night" />
+<p class="text-center"><img src="/images/logo/logo.png" alt="Chi Hack Night" class='img-responsive' />
 </p>
 
-In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session at Chi Hack Night.
+In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session about these changes at Chi Hack Night.
 
 ### Why is Chi Hack Night incorporating?
 
@@ -34,6 +34,10 @@ As our event has evolved, informal working groups were created as we realized we
 
 Overall, though, all decision-making authority rested with one person - me. In late 2017, participants in the Leadership Council felt that we needed to move from our ad-hoc working groups and ‘benevolent dictator for life’ style to a more formalized structure that would enable democratic decision-making and increase the diversity of our leadership.
 
+I agree with them. I've been running Chi Hack Night for almost seven years. It has grown beyond me. In order for Chi Hack Night to grow and sustain itself, I need to give up some of my power and distribute it to others. By spreading this power around, Chi Hack Night will become stronger and better equipped to inspire and promote civic engagement and technology.
+
+### Who is behind this change?
+
 Over the course of 2018, a group of 20 Chi Hack Night leaders met to establish our mission, vision, values and governance structure, which has now culminated in forming an independently run non-profit organization.
 
 <p class="text-center"><img src="/images/blog/2018-11-09-non-profit/leadership-retreat-2.jpg" alt="Steve Ediger, leading our initial leadership retreat on March 17, 2018" class="img-thumbnail" /><br />
@@ -42,8 +46,6 @@ Over the course of 2018, a group of 20 Chi Hack Night leaders met to establish o
     <em>Steve Ediger, leading our initial leadership retreat on March 17, 2018</em>
 </small>
 </p>
-
-### You mentioned a group of 20 Chi Hack Night leaders. Who are they?
 
 The change management process officially kicked off on March 17, 2018, when Steve Ediger and Samantha Sainsbury facilitated a retreat with members of the Chi Hack Night community to collaboratively review and solidify our history, mission, values, and guiding principles. You can read [the report from the Leadership Retreat here](https://docs.google.com/document/d/1IF6-WaMT_QphKPYo84-C4jjTEFypFwwW8nNYtOjWcDA/edit#).
 
@@ -152,4 +154,10 @@ We will also have Board of Directors meetings on the alternate months. Everyone 
 We welcome any questions or feedback on this big step we’re taking. We will be hosting a breakout group every week at Chi Hack Night between now and December 11th, when we will hold a town hall feedback session about these changes. 
 
 In the meantime, feel free to email us at [info@chihacknight.org](mailto:info@chihacknight.org). We will update this blog post with new information as new questions come up!
+
+### Special thanks
+
+I would also like to extend a special thanks to the Heart of Lincoln Square, mRelief and Read/Write Library for letting us borrow and learn from their bylaws. And to Kirkland & Ellis, for providing us with pro-bono legal assistance on setting up our new organization.
+
+Lastly, my deepest thanks to all of the Chi Hack Night-ers who helped in this process: Emily Drevets, Josh Kalov, Cameron Sow, Nina Sandlin, Derek Eder, Jannie Lung, Karl Fogel, Eric Sherman, Jonathon Rogoff, Steve Luker, Steven Vance, Reshmi Hazra, Steve Ediger, Kristi Leach, Claire Micklin, Jack Thorne, Rose Afriyie, Tom Schenk, Soren Spicknall.
 
