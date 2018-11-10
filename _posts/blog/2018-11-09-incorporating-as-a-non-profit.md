@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Chi Hack Night is incorporating as a non-profit!"
-description: "In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. We will hold a town hall feedback session at Chi Hack Night on December 11th."
+description: "In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session at Chi Hack Night."
 date: 2018-11-09
 image: /images/blog/2018-11-09-non-profit/leadership-retreat.jpg
 author: Derek Eder
@@ -19,7 +19,7 @@ published: true
 <p class="text-center"><img src="/images/logo/logo.png" alt="Chi Hack Night" />
 </p>
 
-In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. We will hold a town hall feedback session at Chi Hack Night on December 11th.
+In December 2018, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. We will invite attendees to become voting members and elect who will serve on our Board of Directors. And on December 11th, we will hold a town hall feedback session at Chi Hack Night.
 
 ### Why is Chi Hack Night incorporating?
 
