@@ -157,7 +157,7 @@ In the meantime, feel free to email us at [info@chihacknight.org](mailto:info@ch
 
 ### Special thanks
 
-I would also like to extend a special thanks to the Heart of Lincoln Square, mRelief and Read/Write Library for letting us borrow and learn from their bylaws. And to Kirkland & Ellis, for providing us with pro-bono legal assistance on setting up our new organization.
+I would also like to extend a special thanks to the Heart of Lincoln Square, mRelief and Read/Write Library for letting us borrow and learn from their bylaws. And to Kirkland & Ellis, for providing us with pro bono legal assistance on setting up our new organization.
 
 Lastly, my deepest thanks to all of the Chi Hack Night-ers who helped in this process: Steve Ediger, Kristi Leach, Emily Drevets, Katie O'Shea, Josh Kalov, Eric Sherman, Steve Luker, Cameron Sow, Nina Sandlin, Jannie Lung, Karl Fogel, Jonathon Rogoff, Steven Vance, Reshmi Hazra, Claire Micklin, Jack Thorne, Rose Afriyie, Tom Schenk, Soren Spicknall.
 
