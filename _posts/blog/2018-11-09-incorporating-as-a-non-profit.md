@@ -86,10 +86,10 @@ We also established a set of values that we believe represent all of Chi Hack Ni
 * Sharing knowledge, data, and open source code
 * Justice and positive social change
 
-<p class="text-center"><img src="/images/blog/2018-11-09-non-profit/mission-workshop.jpg" alt="Results of our mission consensus workshop on March, 2017" class="img-thumbnail" /><br />
+<p class="text-center"><img src="/images/blog/2018-11-09-non-profit/mission-workshop.jpg" alt="Results of our mission consensus workshop on March 17, 2018" class="img-thumbnail" /><br />
 
 <small>
-    <em>Results of our mission consensus workshop on March, 2017</em>
+    <em>Results of our mission consensus workshop on March 17, 2018</em>
 </small>
 </p>
 
