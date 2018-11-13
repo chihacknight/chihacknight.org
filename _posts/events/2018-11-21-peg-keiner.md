@@ -11,7 +11,7 @@ date: 2018-11-21T18:30:00-05:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
-rsvp: https://www.eventbrite.com/e/logan-square-hack-night-tickets-48806945889
+rsvp: https://www.eventbrite.com/e/logan-square-hack-night-tickets-48806946892
 speakers:
   - Peg Keiner, Director of Innovation at GEMS World Academy - Chicago
 address_name:  Second Shift
