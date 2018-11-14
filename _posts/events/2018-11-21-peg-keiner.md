@@ -7,7 +7,7 @@ title: There Are No Snacks in Antarctica!
 description: "As an educator and innovator, Peg Keiner took part in a research expedition to Antarctica with National Geographic and was able to share her journey to Antarctica with her sudents, inspiring them to take similar approaches to investigate everday actions and their effects in Chicago.
 "
 image: /images/events/satellite/peg-keiner-1.jpg
-date: 2018-11-21T18:30:00-05:00
+date: 2018-11-21T18:30:00-06:00
 youtube_id:
 agenda: https://docs.google.com/document/d/17FYzTP8gWUwrlSLj-VIGN2iqXWohUPFiRvnsuBpdrL0/edit#
 sponsor: <a href='https://www.secondshiftchicago.com/'>Second Shift</a>
