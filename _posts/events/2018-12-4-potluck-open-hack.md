@@ -8,7 +8,7 @@ description: "No presentation this week. Instead, we're going to have another ci
 speakers:
 image: /images/events/potluck-collage.jpg
 image_credit:
-date: 2018-12-04T18:00:00-05:00
+date: 2018-12-04T18:00:00-06:00
 event_id: 328
 youtube_id:
 agenda: https://docs.google.com/document/d/1p5FssHIb6wwWgo2qCGWRJmtDJ_sz1NxkgvP9yNY6n_8/edit?usp=sharing
