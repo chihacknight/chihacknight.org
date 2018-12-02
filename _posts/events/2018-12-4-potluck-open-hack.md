@@ -25,7 +25,7 @@ While we eat, we'll build, share, and learn about civic tech!
 
 ---
 
-**RSVP required** Braintree now requires all attendees to [RSVP beforehand](https://www.eventbrite.com/e/chi-hack-night-registration-41703945624) by 4:00 PM. Walk-ins will not be allowed!
+**RSVP required** Braintree now requires all attendees to [RSVP beforehand](https://www.eventbrite.com/e/chi-hack-night-registration-41703945624) by 12:00 PM (noon). Walk-ins will not be allowed!
 
 **ASL** This event will not have an American Sign Language interpreter.
 
