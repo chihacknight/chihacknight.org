@@ -6,7 +6,7 @@ links:
 title: "We're Becoming a Non-Profit!"
 description: "Later this month, Chi Hack Night will incorporate as an independent, membership-driven 501(c)3 non-profit organization. Join us on Tuesday to learn more about this milestone and how it will impact members of the community as well as what it means for the future of ChiHackNight. Don’t forget to RSVP (it’s required)!"
 speakers:
-image: /images/events/329-Chi-Hack-Night-Stacked.jpg/
+image: /images/events/329-Chi-Hack-Night-Stacked.jpg
 image_credit:
 date: 2018-12-11T18:00:00-06:00
 event_id: 329
