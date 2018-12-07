@@ -13,7 +13,7 @@ event_id: 329
 youtube_id:
 agenda: https://docs.google.com/document/d/18cv_ZC5fivNJgTr_SHoIeJ04APv8umRCUZub2RkLmcs/edit
 sponsor: The Chi Hack Night Community
-asl_provided: false
+asl_provided: true
 tags:
  - openhack
 published: true
