@@ -27,7 +27,11 @@ Afterwards, [Steve Ediger](https://twitter.com/SteveEdiger) will lead a facilita
 
 This is a big step for this community that we hope will open the doors to many more opportunities to continue being Chicago's place to learn about, collaborate on, and advance the public good through technology.
 
-Bonus: Attendees of this event will get the first opportunity to become a Chi Hack Night Voting Member!
+**Bonus** Attendees of this event will get the first opportunity to become a Chi Hack Night Voting Member!
+
+---
+
+**Free CityKey IDs!** Staff from the Chicago City Clerk will be at Chi Hack Night issuing free [CityKey IDs](http://www.chicityclerk.com/chicagocitykey/about). The CityKey is a government-issued IDs that also serves as your Ventra and Library card and will also give you access to a wide range of [benefits around Chicago](http://www.chicityclerk.com/chicagocitykey/about/citykey-benefits).
 
 ---
 
