@@ -23,21 +23,21 @@ We've been working hard all year long and now it's time to celebrate the close o
 
 There is so much fun to be had! There will be:
 
-*A fun holiday-themed problem to work on
-*Festive drinks
-*A selfie photo booth
-*Games (both reindeer and non)
-*A drawing featuring a custom Claire Micklin ([Black Cat Pottery](https://www.instagram.com/blackcatpottery/)) Chi Hack Night STEIN! Proceeds from optional, but highly encouraged donations go to fund Chi Hack Night!
-*A cookie competition
-*A card-writing station for LGBTQ and HIV-positive people behind bars
+* A fun holiday-themed problem to work on
+* Festive drinks
+* A selfie photo booth
+* Games (both reindeer and non)
+* A drawing featuring a custom Claire Micklin ([Black Cat Pottery](https://www.instagram.com/blackcatpottery/)) Chi Hack Night STEIN! Proceeds from optional, but highly encouraged donations go to fund Chi Hack Night!
+* A cookie competition
+* A card-writing station for LGBTQ and HIV-positive people behind bars
 
 Don't forget to:
 
-*Wear something festive (the uglier the Christmas sweater, the better.)
-*Bring a mug for hot holiday drinks
-*Bring cookies (if you're entering the cookie competition)
-*Bring other festive food (we will also be supplying the regular empanadas)
-*Have fun!!
+* Wear something festive (the uglier the Christmas sweater, the better.)
+* Bring a mug for hot holiday drinks
+* Bring cookies (if you're entering the cookie competition)
+* Bring other festive food (we will also be supplying the regular empanadas)
+* Have fun!!
 
 We hope to see you there — Happy Holidays everyone!
 
