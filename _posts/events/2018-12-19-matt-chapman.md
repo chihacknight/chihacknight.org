@@ -29,7 +29,7 @@ Logan Square Hack Night is a monthly civic engagement event to build, share & le
 
 ## Presentation
 
-On January 19th, Matt Chapman, will be hosting a presentation on how to submit FOIA requests for requesting information from our local, state, and federal governments. The presentation will focus largely on Illinois FOIA and will have a somewhat technical focus, but will be approachable for a non-technical audience as well. Please bring questions and FOIA stories!
+On December 19th, Matt Chapman, will be hosting a presentation on how to submit FOIA requests for requesting information from our local, state, and federal governments. The presentation will focus largely on Illinois FOIA and will have a somewhat technical focus, but will be approachable for a non-technical audience as well. Please bring questions and FOIA stories!
 
 Some topics that we will be covered in the presentation:
 
