@@ -25,12 +25,12 @@ The [Vote Equity Project](https://www.chicagounitedforequity.org/vote-equity) is
 
 The project's goal is to activate Chicagoans to share what they would  change about Chicago so that it works better for all racial groups, and ultimately better for all of us. With the Chicago Mayoral election approaching, this campaign is assembling and organizing ideas from the community both for policy reform and structural changes that they believe should guide our elected leaders. 
 
-[Kacie Smith](https://twitter.com/kace_il) and [Paola Aguirre](https://www.linkedin.com/in/paola-aguirre-30873b1b/), [Chicago United for Equity 2019 Fellows](https://www.chicagounitedforequity.org/equityfellows), will share more about this project – partner organizations, timeline, process, resources, events – and how can you get involved. Are your read to listen to each other and vote for a Chicago that works for all of us?
+[Kacie Smith](https://twitter.com/kace_il) and [Paola Aguirre](https://www.linkedin.com/in/paola-aguirre-30873b1b/), [Chicago United for Equity 2019 Fellows](https://www.chicagounitedforequity.org/equityfellows), will share more about this project – partner organizations, timeline, process, resources, events – and how can you get involved. Are your ready to listen to each other and vote for a Chicago that works for all of us?
 
 ---
 
 **RSVP required** Braintree now requires all attendees to [RSVP beforehand](https://www.eventbrite.com/e/chi-hack-night-registration-41703945624) by 12:00 PM (noon). Walk-ins will not be allowed!
 
-**ASL** This event will not have an American Sign Language interpreter.
+**ASL** This event **will** have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
