@@ -75,7 +75,7 @@ layout: default
         {% endif %}
         <br />
         {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="https://www.eventbrite.com/e/chi-hack-night-registration-54301395937" target='_blank'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
+          <a class='btn btn-success btn-lg' href="{{site.rsvp_url}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
@@ -185,7 +185,7 @@ layout: default
       <div class='col-sm-4'>
         <div class='well'>
           <h1><i class='fa fa-fw fa-calendar'></i></h1>
-          <p>1. Go to Chi Hack Night. <a href='https://www.eventbrite.com/e/chi-hack-night-registration-54301395937'>We meet every Tuesday at 6pm</a></p>
+          <p>1. Go to Chi Hack Night. <a href='{{site.rsvp_url}}'>We meet every Tuesday at 6pm</a></p>
         </div>
       </div>
 
