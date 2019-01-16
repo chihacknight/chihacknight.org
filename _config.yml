@@ -9,4 +9,4 @@ timezone: America/Chicago
 gems:
   - jekyll-redirect-from
 future: true
-rsvp_url: https://www.eventbrite.com/e/chi-hack-night-registration-54301395937
+rsvp_url: https://chihacknight.eventbrite.com/
