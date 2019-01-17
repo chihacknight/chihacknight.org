@@ -4,7 +4,8 @@ categories:
   - events
 links:
 title: "Racial Disparities in Illinois Traffic Stops"
-description: "Since 2004, the Illinois Traffic and Pedestrian Stop Statistical Study Act has required Illinois law enforcement to document and report traffic stops to the Illinois Department of Transportation. Mollie Pettit, data visualizer, and Chris Kucharczyk, data scientist, have worked in conjunction with the ACLU-IL to investigate whether systemic racial bias may appear - and to what extent - in the Illinois traffic stops data. This Tuesday, you'll hear from Rachel Murphy (ACLU) about the history of the law that requires the traffic stops data collection and learn about IllinoisTrafficStops.com, a website created to showcase the results of the analysis in a visual and explorable way."
+description: "Since 2004, the Illinois Traffic and Pedestrian Stop Statistical Study Act has required Illinois law enforcement to document and report traffic stops to the Illinois Department of Transportation. 
+Mollie Pettit, Chris Kucharczyk and Rachel Murphy (ACLU) will discuss the history of the law that requires the traffic stops data collection and present on IllinoisTrafficStops.com, a website created to showcase the results of the analysis in a visual and explorable way."
 speakers:
  - Rachel Murphy, staff attorney, ACLU-IL
  - Mollie Pettit, data visualization / data science freelancer
@@ -14,12 +15,12 @@ image_credit:
 date: 2019-01-22T18:00:00-06:00
 event_id: 333
 youtube_id:
-agenda: https://docs.google.com/document/d/1FCPRFn_6tQ5q_YYKUNAdXruC-I9ZrVC10bOvfceFs6Y/edit?usp=sharing
-sponsor: The Chi Hack Night Community
+agenda: https://docs.google.com/document/d/1FCPRFn_6tQ5q_YYKUNAdXruC-I9ZrVC10bOvfceFs6Y/edit
+sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
 tags:
- - media
-published: false
+ - 'criminal justice'
+published: true
 ---
 
 Since 2004, the Illinois Traffic and Pedestrian Stop Statistical Study Act has required Illinois law enforcement to document and report traffic stops to the Illinois Department of Transportation.
@@ -28,9 +29,7 @@ Mollie Pettit and Chris Kucharczyk have worked in conjunction with the ACLU-IL t
 
 During this presentation, Rachel Murphy (ACLU) will walk you through the history of the law that requires the traffic stops data collection. Mollie and Chris will then dive into the evolution of the project, touching on data analysis, data visualization design, and decisions made along the way on how to best communicate the results.
 
-[Rachel Murphy](https://www.linkedin.com/in/rachel-murphy-3a034079/) is a Staff Attorney with the ACLU-IL and was heavily involved in creating the latest ACLU-IL report on this traffic stops data - [Racism in the Rear View Mirror](https://www.aclu-il.org/sites/default/files/racism_in_the_rear_view_mirror_il_traffic_stops_2015-2017.pdf). [Chris Kucharczyk](https://www.linkedin.com/in/chris-kucharczyk-9783b937/) is a data scientist at IDEO.  [Mollie Pettit](http://guacamollie.com/) ([@MollzMP](https://twitter.com/MollzMP)) is a data visualization / data science freelancer and organizer of the [Chicago Data Viz Community](https://www.meetup.com/Chicago-Data-Viz-Community/) group.
-
-Note: The Illinois Traffic and Pedestrian Stop Statistical Study Act is set to expire in July 2019. This session there will be a bill introduced to continue collection of this data (you can see a similar bill from last session (here)[https://www.aclu-il.org/en/legislation/sb-2369-continue-traffic-and-pedestrian-data-collection]). We urge you to support continuing data collection by [calling your representatives](https://www.elections.il.gov/DistrictLocator/DistrictOfficialSearchByAddress.aspx).
+[Rachel Murphy](https://www.linkedin.com/in/rachel-murphy-3a034079/) is a Staff Attorney with the ACLU-IL and was heavily involved in creating the latest ACLU-IL report on this traffic stops data - [Racism in the Rear View Mirror](https://www.aclu-il.org/sites/default/files/racism_in_the_rear_view_mirror_il_traffic_stops_2015-2017.pdf). [Chris Kucharczyk](https://www.linkedin.com/in/chris-kucharczyk-9783b937/) is a data scientist at IDEO. [Mollie Pettit](http://guacamollie.com/) ([@MollzMP](https://twitter.com/MollzMP)) is a data visualization / data science freelancer and organizer of the [Chicago Data Viz Community](https://www.meetup.com/Chicago-Data-Viz-Community/) group.
 
 ---
 
