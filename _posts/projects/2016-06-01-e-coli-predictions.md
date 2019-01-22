@@ -24,7 +24,7 @@ published: true
 
 Built entirely by a team of volunteers from Chicago’s civic tech community, this predictive model was [officially adopted by the City of Chicago in May 2016](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html) to help the [Park District](http://www.chicagoparkdistrict.com/) know when they should issue warnings to swimmers of potentially high levels of bacteria.
 
-This project is followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Chi Hack Night project.
+This project followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Chi Hack Night project.
 
 Rebecca Jones, gave a lightning talk at Chi Hack Night after the project was completed. Watch her talk, [Predicting E. Coli Exceedances on Chicago Beaches](https://youtube.com/watch?v=A9UPmQFACEA):
 
@@ -67,3 +67,9 @@ E. Coli is really hard to predict.
 [Taking Predictive Analytics to the Beach](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html), Sean Thornton
 
 [Lightning Talk: Predicting E. Coli Exceedances on Chicago Beaches](https://www.youtube.com/watch?v=A9UPmQFACEA), Rebecca Jones (video)
+
+**Peer-reviewed Scientific Article**
+
+The City of Chicago and Chi Hack Night have published their first joint, peer-reviewed scientific article on predicting enterococci in Lake Michigan. The paper is the result of this 2-year joint project between Chi Hack Night (Kevin Rose, Matt Sweeney, and Scott Beslow), DePaul University interns, and the City of Chicago. The paper was published in the peer-reviewed journal, Water Research X, as an open-access article so it can be widely read and distributed without payment or subscription. The paper introduces an innovative new way to improve water quality predictions, in this case, a 300 percent improvement over existing methods.
+
+This project had over 1,000 volunteer hours donated to the city through in-kind labor. During Summer 2019, it will be the subject of the plenary session for the annual American Society for Microbiology (ASM) Microbe conference with 10,000 microbiologists from academia, industry, and health care. See the paper at [https://doi.org/10.1016/j.wroa.2018.100016](https://doi.org/10.1016/j.wroa.2018.100016)
