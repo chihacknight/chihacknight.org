@@ -7,7 +7,7 @@ date: 2016-01-01
 image: /images/projects/illinois-budget-clock.jpg
 description: "Illinois Budget Clock aggregates stories of the impact of the 2016 Illinois state budget impasse in order to impose a greater sense of urgency and pressure Illinois politicians to act."
 github: https://github.com/chihacknight/il-budget-clock
-website: http://ilbudgetclock.com/
+website: http://ilbudgetclock.chihacknight.org/
 creators: 
  - Cathy Deng
  - Kristi Leach
