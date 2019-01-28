@@ -3,30 +3,24 @@ layout: event
 categories:
   - events
 links:
-title: "Potluck & Open Hack"
-description: "No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too. While we eat, we'll build, share, and learn about civic tech! Don't forget to RSVP by noon on Tuesday!"
+title: "CANCELLED: Potluck & Open Hack"
+description: "To prevent people from traveling in unsafe weather, we are cancelling Chi Hack Night this week. Please stay warm!"
 speakers:
-image: /images/events/potluck-collage.jpg
+image: /images/events/chi-hack-night-cancelled-snow.jpg
 image_credit:
 date: 2019-01-29T18:00:00-06:00
 event_id: 334
 youtube_id:
 agenda: https://docs.google.com/document/d/1MwWVdSJO37V3a3K0O8qq0jmSw6zslkNunt9BFZ2gKd4/edit?usp=sharing
-sponsor: Microsoft
+sponsor: 
 asl_provided: false
 tags:
  - openhack
 published: true
 ---
 
-There will be no presentation this week. Instead, we're going to have another civic hacking potluck! Please bring drinks, snacks or desserts if you can! We'll provide the usual empanadas too.
+Chi Hack Night is cancelled this week to keep people from traveling in unsafe weather. We will see you all next Tuesday for a presentation from City Bureau on their project [documenters.org.](https://www.documenters.org/)
 
-While we eat, we'll build, share, and learn about civic tech!
+This is a great time to check out our [YouTube channel](https://www.youtube.com/chihacknight) and watch previous presentations!
 
----
-
-**RSVP required** Braintree requires all attendees to [RSVP beforehand](http://chihacknight.eventbrite.com/) by 12:00 PM. Walk-ins will not be allowed!
-
-**ASL** This event will not have an American Sign Language interpreter.
-
-**Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
+Please stay safe and stay warm.
