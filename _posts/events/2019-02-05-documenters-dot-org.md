@@ -17,7 +17,7 @@ agenda: https://docs.google.com/document/d/1gZYSAX5hmn-YtiNH7SpDNns9HtQxg0Oc7WKS
 sponsor: <a href='https://mongodb.com'>MongoDB</a>
 asl_provided: true
 tags:
-published: false
+published: true
 ---
 
 Local government bodies hold thousands of public meetings every day, but the vast majority receive no media coverage and produce minimal records. And these important spaces for democracy go unwatched. Long story short, your city officials are making big decisions. [Documenters.org](https://www.documenters.org/) makes it easy to keep tabs by [scraping, standardizing and sharing](https://www.youtube.com/watch?v=wF3s_eOQsKo) information on public meetings at the city and county-level in Chicago and Detroit—all in one central location.
