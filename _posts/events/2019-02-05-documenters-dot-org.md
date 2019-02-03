@@ -17,6 +17,7 @@ agenda: https://docs.google.com/document/d/1gZYSAX5hmn-YtiNH7SpDNns9HtQxg0Oc7WKS
 sponsor: <a href='https://mongodb.com'>MongoDB</a>
 asl_provided: true
 tags:
+ - journalism
 published: true
 ---
 
