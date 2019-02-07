@@ -12,7 +12,7 @@ image: /images/events/335-documenters-dot-org.jpg
 image_credit:
 date: 2019-02-05T18:00:00-06:00
 event_id: 335
-youtube_id: 
+youtube_id: hBRkpR3DdbA
 agenda: https://docs.google.com/document/d/1gZYSAX5hmn-YtiNH7SpDNns9HtQxg0Oc7WKSUOnR8z4/edit?usp=sharing
 sponsor: <a href='https://mongodb.com'>MongoDB</a>
 asl_provided: true
