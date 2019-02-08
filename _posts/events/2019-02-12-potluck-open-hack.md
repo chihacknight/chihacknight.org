@@ -12,7 +12,7 @@ date: 2019-02-12T18:00:00-06:00
 event_id: 336
 youtube_id:
 agenda: https://docs.google.com/document/d/1UozwYg0W5KnblU6590IPai2xvJbhX1YnW-UNgEN7l4s/edit?usp=sharing
-sponsor: The Chi Hack Night Community
+sponsor: <a href='https://www.microsoft.com'>Microsoft</a>
 asl_provided: false
 tags:
  - openhack
