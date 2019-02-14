@@ -4,14 +4,14 @@ categories:
   - events
 links:
 title: "Maudlyne Ihejirika, Chicago Sun Times Urban Affairs Reporter and Columnist"
-description: "Join us this Tuesday to hear from Maudlyne Ihejirika, award-winning Chicago Sun Times Urban Affairs reporter and columnist as she shares about her experience working in the field in Chicago over the last 30 years"
+description: "Join us this Tuesday to hear from Maudlyne Ihejirika, award-winning Chicago Sun Times Urban Affairs reporter and columnist as she shares about her experience working in the journalism field in Chicago over the last 30 years."
 speakers:
 image: /images/events/337-maudlyne-ihejirika.jpg
 image_credit:
 date: 2019-02-19T18:00:00-06:00
 event_id: 337
 youtube_id:
-agenda: https://docs.google.com/document/d/159sh89tQHWFPQ4WEnb7X_JY5yYNaKoEgLM57BtQic2U/edit?usp=sharing
+agenda: https://docs.google.com/document/d/159sh89tQHWFPQ4WEnb7X_JY5yYNaKoEgLM57BtQic2U/edit
 sponsor: <a href='https://www.thecitybase.com'>CityBase</a>
 asl_provided: false
 tags:
