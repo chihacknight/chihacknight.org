@@ -23,7 +23,7 @@ Maudlyne Ihejirika is an award winning, Chicago Sun-Times Urban Affairs Reporter
 
 In 25 years with the Sun-Times, she has served as assistant city editor and covered beats from crime and the inner city to housing and education, politics and philanthropy. She is president of both the Chicago Journalists Association and the National Association of Black Journalists Chicago Chapter.
 
-Maudlyne will talk about her experience as a reporter and columnist in Chicago over the past 30 years.
+Maudlyne will talk about her experience as a reporter and columnist in Chicago over the past 30 years. 
 
 ---
 
