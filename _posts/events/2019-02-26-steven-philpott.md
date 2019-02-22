@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "The Array of Opportunity —  Steven C. Philpott, Sr."
-description: "Join us on this Tuesday to hear from Steven Philpott, Sr. Managing Director of Colony 5, on his work on the Array of Opportunity, a pilot collaboration between the research community and innovators to develop prototypes for social impact and commercial implications in a concentrated geolocation."
+description: "Join us this Tuesday to hear from Steven Philpott, Sr. Managing Director of Colony 5, on his work on the Array of Opportunity, a pilot collaboration between the research community and innovators to develop prototypes for social impact and commercial implications in a concentrated geolocation."
 speakers: Steven C. Philpott, Sr., Sr. Managing Director of Colony 5
 image: /images/events/338-steven-philpott.jpg
 image_credit:
@@ -13,7 +13,7 @@ event_id: 338
 youtube_id:
 agenda: https://docs.google.com/document/d/1baIAZlG_mP4h-WmC9lvw0NdebooufdnVE_l5sl5fw6Q/edit#
 sponsor: <a href='https://www.microsoft.com'>microsoft</a>
-asl_provided: false
+asl_provided: true
 tags:
  - Colony 5
 published: true
