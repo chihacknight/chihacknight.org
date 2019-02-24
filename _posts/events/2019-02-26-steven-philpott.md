@@ -11,7 +11,7 @@ image_credit:
 date: 2019-02-26T18:00:00-06:00
 event_id: 338
 youtube_id:
-agenda: https://docs.google.com/document/d/1baIAZlG_mP4h-WmC9lvw0NdebooufdnVE_l5sl5fw6Q/edit#
+agenda: https://docs.google.com/document/d/1baIAZlG_mP4h-WmC9lvw0NdebooufdnVE_l5sl5fw6Q/edit?usp=sharing
 sponsor: <a href='https://www.microsoft.com'>microsoft</a>
 asl_provided: true
 tags:
