@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Chicago Health Atlas: Open Data for Better Health"
-description: "The Chicago Health Atlas is a community-facing repository of city-wide and community-level health data, compiled by the Chicago Department of Public Health and other health data partners. With the Atlas, users can explore the health outcomes, behaviors, and characteristics of their neighborhoods and the entire city of Chicago. Join us this Tuesday to hear from Leslie Durr, Project Manager at City Tech Collaborative, Kingsley Weaver, an epidemiologist at the Chicago Department of Public Health, and Katy Franzen, Project Manager for Clarity Partners to learn about the evolution of the Atlas, how it can be used, and how you can get involved."
+description: "The Chicago Health Atlas is a community-facing repository of city-wide and community-level health data, compiled by the Chicago Department of Public Health and other health data partners. Join us this Tuesday to hear from Leslie Durr, Project Manager at City Tech Collaborative, Kingsley Weaver, an epidemiologist at the Chicago Department of Public Health, and Katy Franzen, Project Manager for Clarity Partners to learn about the evolution of the Atlas, how it can be used, and how you can get involved."
 speakers: 
     - Leslie Durr, Project Manager, City Tech Collaborative 
     - Kingsley Weaver, Epidemiologist, Chicago Department of Public Health
