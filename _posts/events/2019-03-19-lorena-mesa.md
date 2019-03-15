@@ -7,7 +7,7 @@ title: "Lorena Mesa: Using Data Ethically"
 description: "Join us on Tuesday to hear from Lorena Mesa on the ethical questions and quandaries that she has grappled with during her career working with data in several different organizations and the principles that guide her work."
 speakers:
     - Lorena Mesa, data engineer on GitHub's software intelligence systems team, Director on the Python Software Foundation, and PyLadies Chicago co-organizer
-image: /images/events/341-lorena-mesa.jpeg
+image: /images/events/341-lorena_mesa.jpg
 image_credit:
 date: 2019-03-19T18:00:00-06:00
 event_id: 341
