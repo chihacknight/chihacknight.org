@@ -9,7 +9,7 @@ speakers:
     - Lorena Mesa, data engineer on GitHub's software intelligence systems team, Director on the Python Software Foundation, and PyLadies Chicago co-organizer
 image: /images/events/341-lorena_mesa.jpg
 image_credit:
-date: 2019-03-19T18:00:00-06:00
+date: 2019-03-19T18:00:00-05:00
 event_id: 341
 youtube_id:
 agenda: https://docs.google.com/document/d/1JaEXhssjsYV-7FVEMBONIoXn8o0Gjgzw1eKlwTltQr0/edit?usp=sharing
