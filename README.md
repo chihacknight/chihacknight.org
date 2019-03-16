@@ -32,9 +32,9 @@ docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyl
 
 Deployments are handled by Netlify by pushing to the `deploy` branch.
 
-We follow the pattern of keeping the `master` in sync with what we want on the live site. The `deploy` branch is a mirror of `master`.
+We follow the pattern of keeping the `master` in sync with what we want on the live site. The `deploy` branch is a mirror of `master`. Don't ever commit to the `deploy` branch. 
 
-Don't ever commit to the `deploy` branch. Instead, just push `master` into it like:
+Instead, push `master` into `deploy`:
 
 ```
 git push origin master:deploy
