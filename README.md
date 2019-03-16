@@ -4,7 +4,7 @@ Website for [Chi Hack Night](http://chihacknight.org/).
 
 **Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
 
-Hosted by [DataMade](https://datamade.us/) on their [static Jekyll server](https://github.com/datamade/jekyll-hook).
+Hosted by [Netlify](https://datamade.us/) on their [static Jekyll server](https://github.com/datamade/jekyll-hook).
 
 ## Running locally
 
@@ -27,6 +27,25 @@ This is especially handy if you're on Windows machine:
 ```
 docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll set JEKYLL_VERSION=3.0.2 | bundle install | jekyll serve
 ```
+
+## Deploying
+
+Deployments are handled by Netlify by pushing to the `deploy` branch.
+
+We follow the pattern of keeping the `master` in sync with what we want on the live site. The `deploy` branch is a mirror of `master`.
+
+Don't ever commit to the `deploy` branch. Instead, just push `master` into it like:
+
+```
+git push origin master:deploy
+```
+
+For convenience in pushing to master and deploying at the same time, use the following alias in your `.bash_profile`
+
+```
+alias git_deploy='git push origin master && git push origin master:deploy'
+```
+
 ## Dependencies
 
 * [Jekyll](http://jekyllrb.com/) - Static site generator built in Ruby
