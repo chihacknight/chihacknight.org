@@ -3,7 +3,7 @@
   <head>
     <title>
       {% if page.title %}
-        {{page.title}} - 
+        {{page.title}} -
       {% endif %}
       {{site.name}} - {{site.description}}
     </title>
@@ -88,7 +88,7 @@
     <meta name="application-name" content="Chi Hack Night"/>
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta name="msapplication-TileImage" content="https://chihacknight.org/mstile-144x144.png" />
-    
+
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.flatly.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -103,6 +103,9 @@
       <script src="/js/html5shiv.js"></script>
       <script src="/js/respond.min.js"></script>
     <![endif]-->
+
+    <!-- netlify CMS -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -152,7 +155,7 @@
 
     <div class="container">
       <div id='primary-content' class='col-sm-10 col-sm-offset-1'>
-      
+
         {{content}}
 
       </div>
@@ -183,10 +186,10 @@
               <a href='/speaker-submissions.html'>Speaker submissions</a>
             </small>
           </div>
-          
+
           <div class='col-sm-2'>
             <small>
-              <strong>Elsewhere</strong><br /> 
+              <strong>Elsewhere</strong><br />
               <i class='fa fa-fw fa-youtube'></i> <a href="https://www.youtube.com/c/ChiHackNight">YouTube</a><br />
               <i class='fa fa-fw fa-facebook'></i> <a href="https://www.facebook.com/chihacknight">Facebook</a><br />
               <i class='fa fa-fw fa-twitter'></i> <a href="https://twitter.com/chihacknight" target='_blank'>Twitter</a><br />
