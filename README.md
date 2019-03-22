@@ -8,11 +8,23 @@ Hosted by [Netlify](https://www.netlify.com/).
 
 ## Running locally
 
-This website is built using Jekyll. You will need to [install it first](http://jekyllrb.com/docs/installation/).
+Requirements:
 
+* ruby-2.4.3
+* jekyll 3.6.3
+
+We recommend using [rvm](https://rvm.io/) to manage your Ruby versions.
+
+Initial setup
 ```console
 git clone https://github.com/chihacknight/chihacknight.org.git
 cd chihacknight.org
+rvm install ruby-2.4.3
+bundle install
+```
+
+Running locally
+```console
 jekyll serve -w
 ```
 
@@ -25,7 +37,7 @@ If you have Docker installed, can avoid some of the hassle of installing Jekyll 
 This is especially handy if you're on Windows machine:
 
 ```
-docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll set JEKYLL_VERSION=3.0.2 | bundle install | jekyll serve
+docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll set JEKYLL_VERSION=3.6.3 | bundle install | jekyll serve
 ```
 
 ## Deploying
