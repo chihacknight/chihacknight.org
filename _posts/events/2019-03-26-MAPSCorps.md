@@ -30,15 +30,15 @@ Since becoming an independent non-profit in 2016, MAPSCorps has begun investing 
 
 Come learn more about MAPSCorps’ process, the Community Asset Report, and ways you and your organization can get involved. Stay after the talk to analyze a sample of the data to search for patterns within and across neighborhoods.
 
-MAPSCorps Website: [mapscorps.org](mapscorps.org)
+MAPSCorps Website: [mapscorps.org](https://www.mapscorps.org/)
 
-Community Asset Report: [mapscorps.org/Explore](mapscorps.org/Explore)
+Community Asset Report: [mapscorps.org/Explore](https://www.mapscorps.org/Explore)
 
 Request MAPSCorps data: [https://survey.az1.qualtrics.com/jfe/form/SV_78OmFAmydkqCSnH](https://survey.az1.qualtrics.com/jfe/form/SV_78OmFAmydkqCSnH)
 
 ---
 
-**RSVP required** Braintree now requires all attendees to [RSVP beforehand]({{site.rsvp_url}})by 12:00 PM (noon). Walk-ins will not be allowed!
+**RSVP required** Braintree now requires all attendees to [RSVP beforehand]({{site.rsvp_url}}) by 12:00 PM (noon). Walk-ins will not be allowed!
 
 **ASL** This event will have an American Sign Language interpreter.
 
