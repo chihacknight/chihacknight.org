@@ -11,7 +11,7 @@ image: /images/events/341-lorena_mesa.jpg
 image_credit:
 date: 2019-03-19T18:00:00-05:00
 event_id: 341
-youtube_id:
+youtube_id: h2Z09gOOOJg
 agenda: https://docs.google.com/document/d/1JaEXhssjsYV-7FVEMBONIoXn8o0Gjgzw1eKlwTltQr0/edit?usp=sharing
 sponsor: <a href='https://www.microsoft.com'>Microsoft</a>
 asl_provided: true

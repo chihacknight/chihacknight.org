@@ -11,7 +11,7 @@ image: /images/events/342-mapscorps.jpeg
 image_credit:
 date: 2019-03-26T18:00:00-05:00
 event_id: 342
-youtube_id:
+youtube_id: UyPSJoMz0to
 agenda: https://docs.google.com/document/d/1my8lldKvToFShZeSc5ni0gRweSrquP0uaBTL2QrKwZk/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true

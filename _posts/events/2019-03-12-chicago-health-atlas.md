@@ -13,7 +13,7 @@ image: /images/events/340-chicago-health-atlas.jpg
 image_credit:
 date: 2019-03-12T18:00:00-05:00
 event_id: 340
-youtube_id: 
+youtube_id: w2iOAdE8sRE
 agenda: https://docs.google.com/document/d/1fk0kGpj5ugT5qOwYnTM7AIIgfcd9luGYh4dOXSxX2Ag/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com'>MongoDB</a>
 asl_provided: false
