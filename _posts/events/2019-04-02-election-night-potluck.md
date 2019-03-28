@@ -11,7 +11,7 @@ image_credit:
 date: 2019-04-02T18:00:00-06:00
 event_id: 343
 youtube_id:
-agenda: https://docs.google.com/document/d/1h_rrWv1Dijd0n_fXhs6d_gT77_LFgFE7tBt0DhAjY9A/edit?usp=sharing
+agenda: https://docs.google.com/document/d/13QlfDYe-nnpNa1Qqv2Fy4zhUpqAxe8JOTME4nytahEQ/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: false
 tags: elections
