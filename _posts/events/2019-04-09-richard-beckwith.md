@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "What People Want From Smart City Tech"
-description: "Join us on Tuesday to hear about Richard Beckwith's recent work conducting interviews with Chicago city residents and municipal leadership to understand how the community feels about smart city tech and what kinds of services would be desired of a Smart Community."
+description: "Join us on Tuesday to hear from Richard Beckwith, a research psychologist with Intel, regarding his recent work conducting interviews with Chicago city residents and municipal leadership to understand how the community feels about smart city tech and what kinds of services would be desired of a Smart Community."
 speakers:
     - Richard Beckwith – Research Psychologist, Intel
 image: /images/events/344-richard-beckwith.png
