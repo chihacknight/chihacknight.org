@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Cook County Assessor Fritz Kaegi"
-description: "Join us on Tuesday to hear from Fritz Kaegi and Rob Ross of the Cook County Assessor's Office to learn about how the CCAO is using transparency to support accountability in assessments. Don't forget to RSVP by noon on Tuesday!"
+description: "Join us on Tuesday to hear from Cook County Assessor Fritz Kaegi and his Chief Data Officer Rob Ross  to learn about how their office is using transparency to support accountability in assessments. Don't forget to RSVP by noon on Tuesday!"
 speakers:
     - Fritz Kaegi – Cook County Assessor
     - Rob Ross, Deputy Assessor, Chief Data Officer
@@ -21,9 +21,7 @@ published: true
 
 ---
 
-Paddy Bauler once famously said “Chicago ain’t ready for reform.” In 2018, the voters of Cook County decided the Assessor’s Office was. 
-
-Fritz Kaegi, a progressive candidate with experience in finance and real estate, challenged the politically connected incumbent assessor on a platform of ethics, fairness and transparency. Kaegi won the election and took office, preceded by a series of articles detailing an array of ethical and operational problems with the Cook County Assessor’s Office that would be his to fix. 
+Last year, Fritz Kaegi challenged the incumbent Cook County Assessor on a platform of ethics, fairness and transparency. Kaegi won the election and took office, preceded by a series of articles detailing an array of ethical and operational problems with the Cook County Assessor’s Office that would be his to fix. 
 
 There are three steps to reform: 1) identify and document the problem, 2) remove the problem 3) deliver a solution. In this presentation, Fritz Kaegi and Robb Ross of the Cook County Assessor's Office will outline the first steps they are taking to bring an unprecedented level of reform to the office, and make a commitment to voters for fair, transparent, and ethical assessments from here on out. 
 
