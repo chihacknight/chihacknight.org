@@ -62,7 +62,7 @@ Steve has logged over 40 years in the computer industry.  From Product Acquisiti
 <p class="text-center"><img src="/images/blog/2019-04-11-board-of-directors/mieko.jpg" alt="Mieko Furuhashi" class='img-responsive' style='width:300px;'/>
 </p>
 
-**Mieko Furuhashi**
+### Mieko Furuhashi
 
 Board seat: Appointed<br />
 Term: 1 year
