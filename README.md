@@ -10,7 +10,7 @@ Hosted by [Netlify](https://www.netlify.com/).
 
 Requirements:
 
-* ruby-2.4.3
+* ruby-2.6.2
 * jekyll 3.6.3
 
 We recommend using [rvm](https://rvm.io/) to manage your Ruby versions.
@@ -19,7 +19,7 @@ Initial setup
 ```console
 git clone https://github.com/chihacknight/chihacknight.org.git
 cd chihacknight.org
-rvm install ruby-2.4.3
+rvm install ruby-2.6.2
 bundle install
 ```
 
