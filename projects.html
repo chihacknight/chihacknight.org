@@ -14,7 +14,8 @@ redirect_from: projects/index.html
 <hr />
 
 <div class='projects-list'>
-  {% for post in site.categories['projects'] | sort: 'date' %}
+  {% assign sorted_posts = site.categories['projects'] | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
     <div class='row'>
       <div class='col-sm-4'>
         <a href='{{post.url}}'>
