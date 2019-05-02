@@ -12,7 +12,7 @@ image: /images/events/345-fritz-kaegi.jpg
 image_credit:
 date: 2019-04-16T18:00:00-05:00
 event_id: 345
-youtube_id:
+youtube_id: T7rnr0GQoCs
 agenda: https://docs.google.com/document/d/18T_AIYdqzWS74Eg87D9RizHagJhhvZghteItiIrCkwE/edit?usp=sharing
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 asl_provided: true

@@ -12,7 +12,7 @@ image: /images/events/347-forefront-census-mod2.jpg
 image_credit:
 date: 2019-04-30T18:00:00-05:00
 event_id: 347
-youtube_id:
+youtube_id: eB2DuJaTPwU
 agenda: https://docs.google.com/document/d/1sGt5HhpcQVjbUD8upcVI3I4M1oAw1OUdnyZqYG2P9LU/edit?usp=sharing
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true

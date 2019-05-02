@@ -11,7 +11,7 @@ image: /images/events/344-richard-beckwith.png
 image_credit:
 date: 2019-04-09T18:00:00-05:00
 event_id: 344
-youtube_id:
+youtube_id: OtD017CUjz0
 agenda: https://docs.google.com/document/d/1pkuum5Qi6wwZTTZM6T5r8Tmq04RWiFz1WEw6kcGerD4/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
