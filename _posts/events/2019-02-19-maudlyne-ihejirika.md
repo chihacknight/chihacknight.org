@@ -10,7 +10,7 @@ image: /images/events/337-maudlyne-ihejirika.jpg
 image_credit:
 date: 2019-02-19T18:00:00-06:00
 event_id: 337
-youtube_id:
+youtube_id: _ZM1xMqnJlE
 agenda: https://docs.google.com/document/d/159sh89tQHWFPQ4WEnb7X_JY5yYNaKoEgLM57BtQic2U/edit
 sponsor: <a href='https://www.thecitybase.com'>CityBase</a>
 asl_provided: false
