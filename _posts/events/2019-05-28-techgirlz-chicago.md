@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "How Techgirlz Inspires Girls to Explore Technology"
-description: "TechGirlz is a nonprofit organization dedicated to reducing the gender gap in technology occupations, by focusing on girls at the crucial middle school age. We offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields."
+description: "TechGirlz is a nonprofit organization dedicated to reducing the gender gap in technology occupations, by focusing on girls at the crucial middle school age. They offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields."
 speakers:
  - Joan Matz, TechGirlz Chicago Outreach Manager, Creating IT Futures Sr. Manager, NextUp
 image: /images/events/351-logo-techgirlz@2x.png
@@ -20,9 +20,11 @@ published: true
 
 ---
 
-[TechGirlz](https://www.techgirlz.org/) is a nonprofit organization dedicated to reducing the gender gap in technology occupations, by focusing on girls at the crucial middle school age. We offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields.
+[TechGirlz](https://www.techgirlz.org/) is a nonprofit organization dedicated to reducing the gender gap in technology occupations, by focusing on girls at the crucial middle school age. They offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields.
 
-We believe that there's more to tech careers than just coding. We're here to show middle school girls just that. Through our free hands-on TechShopz, we show them that technology can match their interests and be fun and rewarding.  And it takes a community. No one person or group can offer a total solution to solve the gender gap in tech. We must all work together towards the common goal.
+TechGirlz believe that there's more to tech careers than just coding. They're here to show middle school girls just that. 
+
+[Joan Matz](https://www.techgirlz.org/team/joan-matz/), TechGirlz Chicago Outreach Manager will discuss their free hands-on TechShopz, where they show middle school girls that technology can match their interests and be fun and rewarding.
 
 ---
 
