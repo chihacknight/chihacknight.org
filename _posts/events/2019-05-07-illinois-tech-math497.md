@@ -14,7 +14,7 @@ image: /images/events/348-Math497-S19-Teams.jpg
 image_credit:
 date: 2019-05-07T18:00:00-05:00
 event_id: 348
-youtube_id: 
+youtube_id: NamfsCgmYfo
 agenda: https://docs.google.com/document/d/1q6K9GC1SSbXxNVhOsfpO1AqEBjyJmQOJ7unZbT-Qwaw/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true

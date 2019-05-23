@@ -13,7 +13,7 @@ image: /images/blog/2018-11-09-non-profit/leadership-retreat.jpg
 image_credit:
 date: 2019-05-21T18:00:00-05:00
 event_id: 350
-youtube_id: 
+youtube_id: A0ZIYlhf_k0
 agenda: https://docs.google.com/document/d/1bbwoUMMEfoE1PP9YMoPkGo2Znbc0y4v47_sBc3JjV80/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
@@ -35,6 +35,13 @@ More resources:
 * [Learn more about the Chi Hack Night Board of Directors](https://chihacknight.org/blog/2019/04/11/introducing-the-chi-hack-night-board-of-directors.html)
 * [Chi Hack Night's nonprofit incorporation](https://chihacknight.org/blog/2018/11/09/incorporating-as-a-non-profit.html)
 * [See our past events](https://chihacknight.org/events/index.html)
+
+---
+
+**Update:** This presentation was recorded in two parts:
+
+* [Meet the New Chi Hack Night - Part 1 of 2 (Presentation)](https://www.youtube.com/watch?v=A0ZIYlhf_k0)
+* [Meet the New Chi Hack Night - Part 2 of 2 (Facilitated Discussion)](https://youtu.be/uLRIo8EIuY8)
 
 ---
 
