@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links: 
-title: "How Techgirlz Inspires Girls to Explore Technology"
+title: "How TechGirlz Inspires Girls to Explore Technology"
 description: "TechGirlz is a nonprofit organization dedicated to reducing the gender gap in technology occupations, by focusing on girls at the crucial middle school age. They offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields."
 speakers:
  - Joan Matz, TechGirlz Chicago Outreach Manager, Creating IT Futures Sr. Manager, NextUp
