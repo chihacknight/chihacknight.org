@@ -6,7 +6,7 @@ title: Chi Hack Night
 description: "Chicago's weekly event to build, share, and learn about civic tech."
 encoding: utf-8
 timezone: America/Chicago
-gems:
+plugins:
   - jekyll-redirect-from
 future: true
 rsvp_url: https://chihacknight.eventbrite.com/
