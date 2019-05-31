@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "The Chicago Board of Ethics: Our Responsibilities, and How the Public Can Help"
-description: "Join us on Tuesday to hear from Steve Berlin, the Executive Director of the Chicago Board of Ethics. He will speak about the Board’s role, responsibilities and jurisdiction, the city's ethics laws, public participation, and how the Civic Tech community can help."
+description: "With the start of the new City Council Legislative session, and in light of recent corruption charges against several Chicago Aldremen, the Chicago Board of Ethics has called for new reforms to fight City Hall corruption. Join us on Tuesday to hear from Steve Berlin, the Executive Director of the Chicago Board of Ethics. He will speak about the Board’s role, responsibilities and jurisdiction, the city's ethics laws, public participation, and how the Civic Tech community can help."
 speakers:
  - Steve Berlin, Executive Director, Chicago Board Ethics
 image: /images/events/352-steve-berlin.jpg
@@ -20,13 +20,15 @@ published: true
 
 ---
 
+With the start of the new City Council Legislative session, and in light of [recent corruption charges](https://chicago.suntimes.com/2019/5/30/18646020/chicago-alderman-edward-burke-indictment) against [several Chicago Aldremen](https://www.chicagotribune.com/politics/ct-met-ed-burke-danny-solis-investigation-20190129-story.html), the [Chicago Board of Ethics has called for new reforms to fight City Hall corruption](https://www.chicagotribune.com/politics/ct-met-chicago-ethics-board-20190530-story.html).
+
 Join us on Tuesday to hear from Steve Berlin, the Executive Director of the [Chicago Board of Ethics](https://www.chicago.gov/city/en/depts/ethics.html). He will talk about:
 
 - The Board’s role, responsibilities and jurisdiction
 - What the City’s ethics laws cover
 - The kinds of disclosures we collect and make public
 - Why public participation is important
-- How the Civic Tech community can assist us
+- How the Civic Tech community can be of assistance
 
 ---
 
