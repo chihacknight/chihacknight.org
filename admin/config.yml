@@ -1,8 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  site_domain: chihacknight.netlify.com
-
+  # site_domain: chihacknight.netlify.com
+site_url: https://chihacknight.org/
+publish_mode: editorial_workflow
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
 
