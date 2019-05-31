@@ -11,7 +11,7 @@ image: /images/events/351-logo-techgirlz@2x.png
 image_credit:
 date: 2019-05-28T18:00:00-05:00
 event_id: 351
-youtube_id: 
+youtube_id: zHklYW13t5o
 agenda: https://docs.google.com/document/d/1vAAMviz6SvjTcz_xDhstj5ZbRxV8PUTKNg6wlue5UHk/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
