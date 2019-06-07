@@ -18,7 +18,7 @@ agenda: https://docs.google.com/document/d/1fk0kGpj5ugT5qOwYnTM7AIIgfcd9luGYh4dO
 sponsor: <a href='https://www.mongodb.com'>MongoDB</a>
 asl_provided: false
 tags:
- - Chicago Health Atlas
+ - 'public health'
 published: true
 ---
 

@@ -18,6 +18,7 @@ agenda: https://docs.google.com/document/d/1bbwoUMMEfoE1PP9YMoPkGo2Znbc0y4v47_sB
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
 tags: 
+ - community
 published: true
 
 ---

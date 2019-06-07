@@ -16,7 +16,7 @@ agenda: https://docs.google.com/document/d/1pkuum5Qi6wwZTTZM6T5r8Tmq04RWiFz1WEw6
 sponsor: Chi Hack Night Community
 asl_provided: true
 tags:
- -
+ - 'smart cities'
 published: true
 ---
 

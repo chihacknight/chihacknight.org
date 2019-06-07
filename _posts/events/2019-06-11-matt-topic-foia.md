@@ -17,6 +17,7 @@ agenda: https://docs.google.com/document/d/1GJ8N0wwnm1ARzbH2UOaCqWX0ZhfarFehzKru
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true
 tags: 
+ - foia
 published: true
 
 ---

@@ -16,7 +16,8 @@ agenda: https://docs.google.com/document/d/1JaEXhssjsYV-7FVEMBONIoXn8o0Gjgzw1eKl
 sponsor: <a href='https://www.microsoft.com'>Microsoft</a>
 asl_provided: true
 tags:
- - data
+ - ethics
+ - coding
 published: true
 ---
 

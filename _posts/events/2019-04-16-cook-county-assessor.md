@@ -17,6 +17,10 @@ agenda: https://docs.google.com/document/d/18T_AIYdqzWS74Eg87D9RizHagJhhvZghteIt
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 asl_provided: true
 tags:
+ - govtech
+ - 'real estate'
+ - taxes
+ - transparency
 published: true
 
 ---
