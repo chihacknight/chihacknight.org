@@ -1,10 +1,10 @@
 ---
 layout: blog
-categories: 
-  - board
+categories: board
 name: "Kulsum Ameji"
 seat: "Appointed"
-term: "1 year"
+term: "2 years"
+date: 2019-01-01
 image: "/images/people/board/kulsum.jpg"
 published: true
 ---
