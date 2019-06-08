@@ -1,4 +1,4 @@
-# Chi Hack Night
+# Chi Hack Night website
 
 Website for [Chi Hack Night](http://chihacknight.org/).
 
@@ -6,11 +6,19 @@ Website for [Chi Hack Night](http://chihacknight.org/).
 
 Hosted by [Netlify](https://www.netlify.com/).
 
+## Dependencies
+
+* [Jekyll](http://jekyllrb.com/) - Static site generator built in Ruby
+* [Bootstrap 3](http://getbootstrap.com) - HTML and CSS layouts
+* [DataTables](http://datatables.net) - for searching and sorting tables
+* [Mustache](http://github.com/janl/mustache.js) - templating library for javascript (used on projects page)
+* [jQuery Address](http://github.com/asual/jquery-address) - for deep linking URLs on the projects page
+
 ## Running locally
 
 Requirements:
 
-* ruby-2.4.3
+* ruby-2.6.2
 * jekyll 3.6.3
 
 We recommend using [rvm](https://rvm.io/) to manage your Ruby versions.
@@ -19,7 +27,7 @@ Initial setup
 ```console
 git clone https://github.com/chihacknight/chihacknight.org.git
 cd chihacknight.org
-rvm install ruby-2.4.3
+rvm install ruby-2.6.2
 bundle install
 ```
 
@@ -58,13 +66,10 @@ For convenience in pushing to master and deploying at the same time, use the fol
 alias git_deploy='git push origin master && git push origin master:deploy'
 ```
 
-## Dependencies
+## Workflow
+The Chi Hack Night web team manages bugs, new features and site development through the [GitHub project board](https://github.com/chihacknight/chihacknight.org/projects/2).
 
-* [Jekyll](http://jekyllrb.com/) - Static site generator built in Ruby
-* [Bootstrap 3](http://getbootstrap.com) - HTML and CSS layouts
-* [DataTables](http://datatables.net) - for searching and sorting tables
-* [Mustache](http://github.com/janl/mustache.js) - templating library for javascript (used on projects page)
-* [jQuery Address](http://github.com/asual/jquery-address) - for deep linking URLs on the projects page
+To ensure high code quality, we practice using pull requests and having at least one member of the web team review them before merging in to `master`. 
 
 ## Projects and People
 

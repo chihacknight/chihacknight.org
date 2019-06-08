@@ -12,18 +12,22 @@ image: /images/events/345-fritz-kaegi.jpg
 image_credit:
 date: 2019-04-16T18:00:00-05:00
 event_id: 345
-youtube_id:
+youtube_id: T7rnr0GQoCs
 agenda: https://docs.google.com/document/d/18T_AIYdqzWS74Eg87D9RizHagJhhvZghteItiIrCkwE/edit?usp=sharing
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 asl_provided: true
 tags:
+ - govtech
+ - 'real estate'
+ - taxes
+ - transparency
 published: true
 
 ---
 
 Last year, Fritz Kaegi challenged the incumbent Cook County Assessor on a platform of ethics, fairness and transparency. Kaegi won the election and took office, preceded by a series of articles detailing an array of ethical and operational problems with the Cook County Assessor’s Office that would be his to fix. 
 
-There are three steps to reform: 1) identify and document the problem, 2) remove the problem 3) deliver a solution. In this presentation, Fritz Kaegi and Robb Ross of the Cook County Assessor's Office will outline the first steps they are taking to bring an unprecedented level of reform to the office, and make a commitment to voters for fair, transparent, and ethical assessments from here on out. 
+There are three steps to reform: 1) identify and document the problem, 2) remove the problem 3) deliver a solution. In this presentation, Fritz Kaegi and Rob Ross of the Cook County Assessor's Office will outline the first steps they are taking to bring an unprecedented level of reform to the office, and make a commitment to voters for fair, transparent, and ethical assessments from here on out. 
 
 
 ---
