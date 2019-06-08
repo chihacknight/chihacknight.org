@@ -11,7 +11,7 @@ image: /images/events/352-steve-berlin.jpg
 image_credit:
 date: 2019-06-04T18:00:00-05:00
 event_id: 352
-youtube_id: 
+youtube_id: jbYse34ScmA
 agenda: https://docs.google.com/document/d/1yoY0i0EUjmewo7Bq5tGVA8Dx2wkC4BYRgjG8P6nFTq0/edit?usp=sharing
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
