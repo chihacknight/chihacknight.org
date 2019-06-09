@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Monique"
@@ -13,6 +13,7 @@ committees:
   - "DEI (Chair)"
 date: 2019-01-01
 image: "/images/people/board/monique.jpg"
+permalink: /board-of-directors/monique-wingard.html
 published: true
 ---
 

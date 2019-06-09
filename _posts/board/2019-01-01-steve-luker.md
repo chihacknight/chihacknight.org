@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Steve"
@@ -12,6 +12,7 @@ committees:
   - "DEI"
 date: 2019-01-01
 image: "/images/people/board/steve_l.jpg"
+permalink: /board-of-directors/steve-luker.html
 published: true
 ---
 

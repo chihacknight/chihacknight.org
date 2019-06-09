@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Cameron"
@@ -13,6 +13,7 @@ committees:
   - "Breakout Support (Chair)"
 date: 2019-01-01
 image: "/images/people/board/cameron.jpg"
+permalink: /board-of-directors/cameron-sow.html
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Derek"
@@ -16,6 +16,7 @@ committees:
   - "Finance (Chair)"
 date: 2019-01-01
 image: "/images/people/board/derek.jpg"
+permalink: /board-of-directors/derek-eder.html
 published: true
 ---
 

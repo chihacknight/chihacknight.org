@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class='row'>
+  <div class="col-sm-12 post">
+    <p><a href='/board-of-directors.html'>< back to the Board of Directors</a></p>
+
+    <div class='row'>
+      <div class="col-sm-3">
+        <p><img src="{{page.image}}" alt="{{page.name_first}} {{page.last}}" class='img-responsive'/></p>
+      </div>
+      <div class="col-sm-9">
+        <h1>
+          <small>Chi Hack Night Board of Directors<br /></small>
+          {{page.name_first}} {{page.name_last}}{% if page.position %}, {{page.position}}{% endif %}
+        </h1>
+        Board seat: {{page.seat}}<br />
+        Term: {{page.term}}<br />
+      </div>
+    </div>
+
+    {{ content }}
+
+    <h2>Committee positions</h2>
+    {% for comm in page.committees %}
+      {{comm}}<br />
+    {% endfor %}
+  </div>
+  
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Eric"
@@ -14,6 +14,7 @@ committees:
   - "Finance"
 date: 2019-01-01
 image: "/images/people/board/eric.jpg"
+permalink: /board-of-directors/eric-sherman.html
 published: true
 ---
 

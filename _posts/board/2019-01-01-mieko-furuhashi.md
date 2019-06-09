@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Mieko"
@@ -13,6 +13,7 @@ committees:
   - "DEI"
 date: 2019-01-01
 image: "/images/people/board/mieko.jpg"
+permalink: /board-of-directors/mieko-furuhashi.html
 published: true
 ---
 

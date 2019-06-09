@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Josh"
@@ -13,6 +13,7 @@ committees:
   - "Membership"
 date: 2019-01-01
 image: "/images/people/board/josh.jpg"
+permalink: /board-of-directors/josh-kalov.html
 published: true
 ---
 

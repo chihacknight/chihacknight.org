@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: board
 name_first: "Kulsum"
 name_last: "Ameji"
@@ -10,6 +10,7 @@ committees:
   - "Community Engagement"
 date: 2019-01-01
 image: "/images/people/board/kulsum.jpg"
+permalink: /board-of-directors/kulsum-ameji.html
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: 
   - board
 name_first: "Steve"
@@ -14,6 +14,7 @@ committees:
   - "Finance (Chair)"
 date: 2019-01-01
 image: "/images/people/board/steve_e.jpg"
+permalink: /board-of-directors/steve-ediger.html
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bod
 categories: board
 name_first: "Emily"
 name_last: "Drevets"
@@ -10,6 +10,7 @@ committees:
   - "Onboarding (Chair)"
 date: 2019-01-01
 image: "/images/people/board/emily.jpg"
+permalink: /board-of-directors/emily-drevets.html
 published: true
 ---
 
