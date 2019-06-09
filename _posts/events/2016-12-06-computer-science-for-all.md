@@ -19,7 +19,6 @@ sponsor: <a href='https://google.com'>Google</a>
 published: true
 tags: 
  - education
-redirect_from: /events/2016/12/06/computer-science-for-all.html
 ---
 
 Why don't school reform programs always achieve on their promises? How can youth-led user experience research help out?
