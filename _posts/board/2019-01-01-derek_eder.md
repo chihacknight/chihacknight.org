@@ -2,9 +2,18 @@
 layout: blog
 categories: 
   - board
-name: "Derek Eder, President"
+name_first: "Derek"
+name_last: "Eder"
+position: "President"
 seat: "Elected"
 term: "2 years"
+committees:
+  - "Event Operations"
+  - "Booking (Chair)"
+  - "Website"
+  - "Community Engagement"
+  - "DEI"
+  - "Finance (Chair)"
 date: 2019-01-01
 image: "/images/people/board/derek.jpg"
 published: true

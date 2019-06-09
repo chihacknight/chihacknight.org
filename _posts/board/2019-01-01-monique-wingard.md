@@ -2,9 +2,15 @@
 layout: blog
 categories: 
   - board
-name: "Monique Wingard"
+name_first: "Monique"
+name_last: "Wingard"
 seat: "Appointed"
 term: "2 years"
+committees:
+  - "Booking"
+  - "Social Media"
+  - "Community Engagement"
+  - "DEI (Chair)"
 date: 2019-01-01
 image: "/images/people/board/monique.jpg"
 published: true

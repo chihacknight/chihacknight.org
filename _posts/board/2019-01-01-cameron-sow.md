@@ -2,9 +2,15 @@
 layout: blog
 categories: 
   - board
-name: "Cameron Sow"
+name_first: "Cameron"
+name_last: "Sow"
 seat: "Appointed"
 term: "1 year"
+committees:
+  - "Event Operations"
+  - "Booking"
+  - "Onboarding"
+  - "Breakout Support (Chair)"
 date: 2019-01-01
 image: "/images/people/board/cameron.jpg"
 published: true

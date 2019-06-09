@@ -15,7 +15,8 @@ redirect_from:
 
 <hr />
 
-{% for member in site.categories['board'] %}
+{% assign members_sorted = site.categories['board'] | sort: 'name_last' %}
+{% for member in members_sorted %}
 <div class='row'>
   <div class='col-sm-3'>
     <br />
@@ -23,10 +24,19 @@ redirect_from:
     </p>
   </div>
   <div class='col-sm-9'>
-    <h3>{{member.name}}</h3>
+    <h3>
+      {{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}
+    </h3>
     <p>
       Board seat: {{member.seat}}<br />
       Term: {{member.term}}<br />
+      Committees: {% for comm in member.committees %}
+        {% if forloop.index == 1 %}
+          {{comm}}
+        {% else %}
+          , {{comm}}
+        {% endif %}
+      {% endfor %}
     </p>
 
     <p>

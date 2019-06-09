@@ -2,9 +2,16 @@
 layout: blog
 categories: 
   - board
-name: "Eric Sherman"
+name_first: "Eric"
+name_last: "Sherman"
 seat: "Elected"
 term: "1 year"
+committees:
+  - "Booking"
+  - "Website"
+  - "Breakout Support"
+  - "Community Engagement"
+  - "Finance"
 date: 2019-01-01
 image: "/images/people/board/eric.jpg"
 published: true

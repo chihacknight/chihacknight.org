@@ -2,9 +2,15 @@
 layout: blog
 categories: 
   - board
-name: "Josh Kalov"
+name_first: "Josh"
+name_last: "Kalov"
 seat: "Elected"
 term: "2 years"
+committees:
+  - "Booking"
+  - "Website (Chair)"
+  - "Social Media"
+  - "Membership"
 date: 2019-01-01
 image: "/images/people/board/josh.jpg"
 published: true

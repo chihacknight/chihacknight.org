@@ -1,9 +1,13 @@
 ---
 layout: blog
 categories: board
-name: "Kulsum Ameji"
+name_first: "Kulsum"
+name_last: "Ameji"
 seat: "Appointed"
 term: "2 years"
+committees:
+  - "Booking"
+  - "Community Engagement"
 date: 2019-01-01
 image: "/images/people/board/kulsum.jpg"
 published: true

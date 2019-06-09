@@ -2,9 +2,16 @@
 layout: blog
 categories: 
   - board
-name: "Steve Ediger, Treasurer"
+name_first: "Steve"
+name_last: "Ediger"
+position: "Treasurer"
 seat: "Elected"
 term: "1 year"
+committees:
+  - "Booking"
+  - "Membership"
+  - "Community Engagement (Chair)"
+  - "Finance (Chair)"
 date: 2019-01-01
 image: "/images/people/board/steve_e.jpg"
 published: true

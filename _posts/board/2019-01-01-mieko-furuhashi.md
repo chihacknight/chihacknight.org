@@ -2,9 +2,15 @@
 layout: blog
 categories: 
   - board
-name: "Mieko Furuhashi"
+name_first: "Mieko"
+name_last: "Furuhashi"
 seat: "Appointed"
 term: "1 year"
+committees:
+  - "Website"
+  - "Membership (Chair)"
+  - "Breakout Support"
+  - "DEI"
 date: 2019-01-01
 image: "/images/people/board/mieko.jpg"
 published: true

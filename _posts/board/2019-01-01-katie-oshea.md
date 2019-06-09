@@ -2,9 +2,16 @@
 layout: blog
 categories: 
   - board
-name: "Katie O'Shea"
+name_first: "Katie"
+name_last: "O'Shea"
+position: "Secretary"
 seat: "Elected"
 term: "2 years"
+committees:
+  - "Event Operations"
+  - "Social Media (Chair)"
+  - "Onboarding"
+  - "DEI"
 date: 2019-01-01
 image: "/images/people/board/katie.jpg"
 published: true

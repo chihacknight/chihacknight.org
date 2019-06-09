@@ -1,9 +1,13 @@
 ---
 layout: blog
 categories: board
-name: "Emily Drevets"
+name_first: "Emily"
+name_last: "Drevets"
 seat: "Elected"
 term: "1 year"
+committees:
+  - "Event Operations (Chair)"
+  - "Onboarding (Chair)"
 date: 2019-01-01
 image: "/images/people/board/emily.jpg"
 published: true

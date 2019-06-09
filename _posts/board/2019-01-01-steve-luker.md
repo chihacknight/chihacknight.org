@@ -2,9 +2,14 @@
 layout: blog
 categories: 
   - board
-name: "Steve Luker"
+name_first: "Steve"
+name_last: "Luker"
 seat: "Appointed"
 term: "2 years"
+committees:
+  - "Website"
+  - "Social Media"
+  - "DEI"
 date: 2019-01-01
 image: "/images/people/board/steve_l.jpg"
 published: true
