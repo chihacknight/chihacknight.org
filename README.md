@@ -71,6 +71,10 @@ The Chi Hack Night web team manages bugs, new features and site development thro
 
 To ensure high code quality, we practice using pull requests and having at least one member of the web team review them before merging in to `master`. 
 
+## Protocols
+
+**Cancelled presenters** If a presenter cancels without enough time to book another presenter or do an open hack, add `CANCELLED PRESENTATION` to the event title. Example: https://chihacknight.org/events/2018/10/09/censusbureau.html
+
 ## Projects and People
 
 The [projects](http://chihacknight.org/open-source-projects.html) and [people](http://chihacknight.org/open-source-people.html) pages are powered by [Github](https://github.com/) and [civic-json-worker](https://github.com/open-city/civic-json-worker), 
