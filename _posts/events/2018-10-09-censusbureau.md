@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links:
-title: "CANCELLED: Census Datasets and Tools: Measuring America's People and Economy"
+title: "CANCELLED PRESENTATION: Census Datasets and Tools: Measuring America's People and Economy"
 description: "This presentation has been cancelled due to a family medical emergency. This event will be an Open Hack Session instead. Come build, share, and learn about civic tech with us!"
 speakers:
  - David Schuler, Data Dissemination Specialist, US Commerce Department, Bureau of Census
