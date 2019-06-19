@@ -12,7 +12,7 @@ image: /images/events/331-chicago-for-all.jpg
 image_credit:
 date: 2019-01-08T18:00:00-06:00
 event_id: 331
-youtube_id:
+youtube_id: 7UGx_s0Fpqo
 agenda: https://docs.google.com/document/d/15kyveJGYKAa4kt43dGXVfFfpLLvqB7Qa5DrxZzDRmmE/edit
 sponsor: The Chi Hack Night Community
 asl_provided: true

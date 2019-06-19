@@ -11,7 +11,7 @@ image: /images/events/332-tech-month-chicago.jpg
 image_credit:
 date: 2019-01-15T18:00:00-06:00
 event_id: 332
-youtube_id:
+youtube_id: WCiXUIDAh4U
 agenda: https://docs.google.com/document/d/15kyveJGYKAa4kt43dGXVfFfpLLvqB7Qa5DrxZzDRmmE/edit?usp=sharing
 sponsor: The Chi Hack Night Community
 asl_provided: true

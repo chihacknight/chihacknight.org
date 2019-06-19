@@ -14,7 +14,7 @@ image: /images/events/333-IL-traffic-stops.jpg
 image_credit:
 date: 2019-01-22T18:00:00-06:00
 event_id: 333
-youtube_id:
+youtube_id: SXGBxiAwABc
 agenda: https://docs.google.com/document/d/1FCPRFn_6tQ5q_YYKUNAdXruC-I9ZrVC10bOvfceFs6Y/edit
 sponsor: <a href='https://datamade.us'>DataMade</a>
 asl_provided: true
