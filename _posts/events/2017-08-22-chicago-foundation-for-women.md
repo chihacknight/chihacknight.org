@@ -26,6 +26,6 @@ How do we move Chicago closer to gender parity, and how can data help us get the
 
 Chicago Foundation for Women President and CEO [K. Sujata](https://twitter.com/k_sujata) will share their vision for gender equity, and how the foundation is using data to remove barriers for women and girls.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

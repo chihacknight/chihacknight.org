@@ -27,6 +27,6 @@ From well-known leaders at major institutions to hyperlocal changemakers at comm
 
 In her talk, Sandee will highlight their stories - what inspires them to strengthen communities through technology and what journeys brought them to their roles and missions.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -29,6 +29,6 @@ While it's true that Grace literally wrote the book on how to program the worldâ
 
 This presentation is part of our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

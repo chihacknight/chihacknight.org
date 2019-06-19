@@ -30,6 +30,6 @@ This talk will cover :
 - why we probably can't draw districts with one, unbiased algorithm
 - open source maps and metrics that Metric Geometry and Gerrymandering Group is developing
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

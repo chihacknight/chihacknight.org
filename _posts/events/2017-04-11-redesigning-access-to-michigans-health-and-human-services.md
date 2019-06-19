@@ -27,6 +27,6 @@ The [Michigan Department of Health and Human Services](http://www.michigan.gov/m
 
 [Lena Selzer](https://www.linkedin.com/in/lenaselzer/), Design Director at Civilla and [Janice M. Cho](https://www.linkedin.com/in/janice-m-cho-0572b719/), Design Director at DevMynd, will discuss how they delivered an 80% reduction in complexity (words, questions, pages) without any structural shifts in administrative rules, State laws, or Federal regulations.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

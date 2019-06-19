@@ -14,6 +14,7 @@ event_id: 260
 youtube_id: rD7ByPxRdNU
 agenda: https://docs.google.com/document/d/1D1IMj_i1562ywRmaEEFCuPHYvLU8hz9wrmWwbFvhzvQ/edit#
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
+asl_provided: true
 tags:
  - advocacy
  - politics
@@ -22,6 +23,6 @@ published: true
 
 [Jean Cochrane](https://twitter.com/jean_cochrane) and [Alex Soble](https://twitter.com/alexsoble) will talk about their work creating [Chano4Mayor.com](https://chano4mayor.com/). The website proposes that [Chance the Rapper](https://en.wikipedia.org/wiki/Chance_the_Rapper) run for the Mayor of Chicago in the upcoming 2019 elections. The site also explains what's at stakes and engages residents to make sure they're registered. 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

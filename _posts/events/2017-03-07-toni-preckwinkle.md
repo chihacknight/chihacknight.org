@@ -27,4 +27,4 @@ President Preckwinkle has been a dedicated community leader for over two decades
 
 President Preckwinkle will talk about strategies for collaborative approaches that can drive positive change in Cook County.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.

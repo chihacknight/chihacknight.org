@@ -29,6 +29,6 @@ Eric Vazquez, Chief Technology Officer for the [Chicago City Clerk](http://www.c
 Eric Vazquez is a native Chicagoan. He studied English at the University of Illinois and proceeded to work in the fast-paced, bubble-bursting Web 1.0 scene. Grateful for an opportunity to serve the people of Chicago, Eric is responsible for bringing together technology across departments, identifying and exploiting new technologies and driving overall Office technology strategy.
 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

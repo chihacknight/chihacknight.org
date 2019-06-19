@@ -13,6 +13,7 @@ event_id: 262
 youtube_id: IrPwZ7ejsw8
 agenda: https://docs.google.com/document/d/1gNJRxZgfbiGxPQ5C1S7vmyUyZOb0tbEWWjNcEAICj7U/edit#
 sponsor: <a href='https://google.com'>Google</a>
+asl_provided: true
 tags:
  - education
 published: true
@@ -23,6 +24,6 @@ Peter Alter, director of the [Chicago History Museum’s Studs Terkel Center for
 In these projects, elementary, middle, and high school students are the historians. Alter will discuss the highlights as well as the challenges in working on these two efforts.
 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

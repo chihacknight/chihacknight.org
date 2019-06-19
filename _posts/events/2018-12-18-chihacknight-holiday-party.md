@@ -47,6 +47,6 @@ Please see the [FAQ](https://docs.google.com/document/d/1cWoZGNNJG-Xfgvd5up8Pu09
 
 **RSVP required** Braintree now requires all attendees to [RSVP beforehand](https://www.eventbrite.com/e/chi-hack-night-registration-41703945624) by 12:00 PM (noon). Walk-ins will not be allowed!
 
-**ASL** This event will not have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -12,6 +12,7 @@ event_id: 251
 youtube_id: 
 agenda: https://docs.google.com/document/d/1XkkdpdLihsKzt6frIfuBX-yBId0cd2LQwQvT2s2DVOk/edit#
 sponsor: <a href='https://devbootcamp.com'>Dev Bootcamp</a>
+asl_provided: true
 tags: 
  - openhack
 published: true
@@ -21,6 +22,6 @@ This week will be Open Hack & Demo Night. "Demo Night" is a new-old thing. A few
 
 This is an opportunity for hack nighters and breakout groups to show off projects in progress – to attract potential new members, and inspire people to give the feedback you've been looking for. Demos are short, and don't have formal presentations or slideshows. Come see what your compatriots are working on!
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -26,7 +26,7 @@ In June 2016, as part of their strategy to foster stronger community faith and p
 
 In her talk, Robin will discuss the role she has taken on and the work needed to [rebuild trust between the Chicago Police Department](http://chicagotonight.wttw.com/2016/06/23/robin-robinson-her-new-role-chicago-police-department) and the communities it serves.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
 

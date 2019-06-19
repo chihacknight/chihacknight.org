@@ -28,6 +28,6 @@ First responders need to have good maps to know where things used to be, and whe
 
 Longtime Chi Hack Night member and transportation writer Steven Vance will introduce you to OpenStreetMap, and dive right into a simple editing job. Anyone can do this, and it's beneficial to responders to have you spend a couple of hours, or even 10 minutes every other day, to ensure maps for areas struck by disaster have all the buildings and roads that were there prior to the disaster. 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

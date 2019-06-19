@@ -13,6 +13,7 @@ event_id: 252
 youtube_id: bmnyeMo-B3M
 agenda: https://docs.google.com/document/d/1mce2VDjHrfcNI8aAgF1fPGgh7Dwnx7agtYzJp5JsCAQ/edit#
 sponsor: <a href='https://google.com'>Google</a>
+asl_provided: true
 tags: 
  - candidate
 published: true
@@ -22,7 +23,7 @@ This week, we’re excited to have 47th Ward Alderman Ameya Pawar join us! As an
 
 Alderman Ameya Pawar is the son of Indian immigrants and the first Asian American to be elected onto the Chicago City Council. Since taking office in 2011 and being reelected with 82% of the vote in 2015, Ameya has secured millions of dollars for schools in his community. Ameya’s work on neighborhood schools—helping families stay in one neighborhood from kindergarten through 12th grade—is seen by many as a model for the city. 
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
 

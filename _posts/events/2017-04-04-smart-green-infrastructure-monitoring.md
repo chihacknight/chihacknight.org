@@ -31,6 +31,6 @@ With the City of Chicago, the monitoring technology has been deployed at four gr
 
 [Adam Hecktman](https://twitter.com/AdamHecktman), Microsoft’s Director of Technology & Civic Innovation Chicago, [Dana Al-Qadi](https://www.linkedin.com/in/dana-al-qadi-eit-708b01a0), Engineer at AECOM and [Tom Schenk](https://twitter.com/chicagocdo), Chief Data Officer at the City of Chicago will present details on the pilot formation, solution deployed, and initial findings from this effort.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -22,6 +22,6 @@ Oooooh … for the first time, Chi Hack Night falls on October 31st …
 
 Which means it’s time for the spookiest night of civic tech all year! Instead of a presentation, we'll have a game show and some especially haunted breakout groups. Bring some candy/Halloween-themed snacks for breakout group trick-or-treating, and don't forget to wear a costume! We will have some prizes for the best disguises!
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -31,6 +31,6 @@ In her talk, Lorena will be speaking on the ethical questions and quandaries tha
 
 **RSVP required** Braintree now requires all attendees to [RSVP beforehand]({{site.rsvp_url}})by 12:00 PM (noon). Walk-ins will not be allowed!
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
