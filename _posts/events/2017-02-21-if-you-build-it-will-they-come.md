@@ -25,4 +25,4 @@ The reality is that there are just too many options out there in the world, and 
 
 [Janice Cho](https://www.linkedin.com/in/janice-m-cho-0572b719/), Design Director at [DevMynd Software](https://www.devmynd.com/), will give a talk premised on answering the question: How might we leverage the design methodologies that constitute Human Centered Design to vet our ideas before we build them?
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.

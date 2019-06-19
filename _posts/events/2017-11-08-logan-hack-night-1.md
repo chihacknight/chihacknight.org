@@ -50,3 +50,5 @@ People are invited to break off into groups and work on projects, discuss potent
 ---
 
 Food will be provided.
+
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.

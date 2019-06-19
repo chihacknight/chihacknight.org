@@ -26,3 +26,5 @@ published: true
 ---
 
 How can communities leverage data to solve problems? Join us for Nourish (comm)Unity: Community Tech. Chi Hack Night participants will present on the state of civic technology in Chicago and how it can be used to improve life for Chicagoans. Afterwards, a facilitated "World Cafe" activity will ask questions of the community and harvest the results.
+
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.

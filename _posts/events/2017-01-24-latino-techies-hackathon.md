@@ -32,7 +32,7 @@ This past November, the all-day hackathon gathered 30 housing advocates, artists
 
 Latin@ Hackathon organizers Luz Chavez and Kara Carrell will give an overview of the event. Noah Moskowitz, Antonio Gutierrez, Henri Idrovo, Shelley Hoover and Janet Gomez, all members of the winning team, will show off their project and how they tackled the question “How can we leverage technology to build renter power?"
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 ---
  

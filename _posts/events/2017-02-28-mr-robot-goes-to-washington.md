@@ -26,7 +26,7 @@ This week at Chi Hack Night, we’ll be looking at data from a less rosy perspec
 
 [Ari Scharg](https://www.linkedin.com/in/ari-scharg-4a30b47/), Partner at Edelson PC will give an overview of the consumer privacy issues facing the tech world, and talk about how privacy laws affect tech firms and startups. He will also touch on the immediate need for technologists to help lawmakers understand these issues, and how to get involved in the legislative process.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 ---
 

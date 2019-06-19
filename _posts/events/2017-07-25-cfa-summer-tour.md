@@ -14,6 +14,7 @@ event_id: 263
 youtube_id: nN3veIKCXIQ
 agenda: https://docs.google.com/document/d/1KLgatY5oTQMzXLDweDNoxJba6wvUwXRvtpXtIdvnGuk/edit#
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
+asl_provided: true
 tags:
  - govtech
 published: true
@@ -23,6 +24,6 @@ Join [Code for America](https://www.codeforamerica.org/) Founder [Jen Pahlka](ht
 
 They will show off a few of their new initiatives, including their [Talent program](https://www.codeforamerica.org/jobs) and the upcoming Brigade Congress event this October.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

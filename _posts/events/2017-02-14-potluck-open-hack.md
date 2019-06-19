@@ -22,4 +22,4 @@ There will be no presentation this week. Instead, we're going to have another ci
 
 While we eat, we'll build, share, and learn about civic tech!
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.

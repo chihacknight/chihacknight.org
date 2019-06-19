@@ -13,6 +13,7 @@ event_id: 259
 youtube_id: ulrLTCrHeeo
 agenda: https://docs.google.com/document/d/1ruyej51hkgfUZFGDBNfJm5fKYSSG5Gd46XFFiU6rtxA/edit?usp=sharing
 sponsor: <a href='http://twilio.com'>Twilio</a>
+asl_provided: true
 tags: 
  - govtech
 published: true
@@ -20,6 +21,6 @@ published: true
 
 Five years leading the second largest municipal IT department in the country is a journey marked by equal parts exhilaration, frustration and pride.  Just two months after leaving her position as CIO, Brenna Berman will be sharing achievements and reflections from her time at the City of Chicago Department of Innovation & Technology.
 
-**ASL** This event will have an American Sign Language interpreter.
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

@@ -43,3 +43,5 @@ Daniel Kay Hertz(Senior Policy Analyst, Center for Tax and Budget Accountability
 People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills. Members of the Chi Hack Night community will be on site to run several of their breakout groups.
 
 Food will be provided.
+
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
