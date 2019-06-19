@@ -73,7 +73,7 @@ To ensure high code quality, we practice using pull requests and having at least
 
 ## Protocols
 
-**Cancelled presenters** If a presenter cancels without enough time to book another presenter or do an open hack, add `CANCELLED PRESENTATION` to the event title. Example: https://chihacknight.org/events/2018/10/09/censusbureau.html
+**Cancelled presenters** If a presenter cancel after we have sent out our email blast, we add `CANCELLED PRESENTATION` to the event title and update the description of the event noting that it will be an open hack event. Example: https://chihacknight.org/events/2018/10/09/censusbureau.html
 
 ## Projects and People
 
