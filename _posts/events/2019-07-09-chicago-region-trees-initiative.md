@@ -3,11 +3,11 @@ layout: event
 categories:
   - events
 links: 
-title: "Chicago Region Trees Initiative"
-description: "The Chicago Region Trees Initiative (CRTI) was established in 2013 as a collaboration of Chicago-region partners to develop and implement a strategy that builds a healthier and more diverse urban forest by 2050. This strategy is being developed based on findings from Urban Trees and Forests of the Chicago Region, a regional tree census conducted by The Morton Arboretum and the U.S. Forest Service. Agency, industry, and community representatives are working together to expand knowledge, skills and resources."
+title: "Using Uran Forestry Data to Improve Health and Quality of Life in the Chicago Region"
+description: "Results from an extensive tree census conducted in the seven-county Chicago metropolitan region found that urban forests are in a state of transition with the recent loss of 13 million trees to emerald ash borer. Further, 28% of the overall forest is comprised of an exotic invasive species. This transition has significant impacts on the 8.5 million people who rely on the benefits these trees provide (US 2010 Census). The Chicago Region Trees Initiative (CRTI), founded by The Morton Arboretum, was organized to reverse this outlook and leverage collaborative efforts for a holistic approach to improve the urban forest and quality of life for Chicago region residents."
 speakers:
- - Lydia Scott, Director, Chicago Region Trees Initiative
-image: /images/events/356-chicagorti-logo.gif
+ - Lydia Scott, Director, Chicago Region Trees Initiative, The Morton Arboretum
+image: /images/events/356-Lydia-Scott.png
 image_credit:
 date: 2019-07-09T18:00:00-05:00
 event_id: 356
@@ -20,13 +20,12 @@ published: true
 
 ---
 
-The [Chicago Region Trees Initiative (CRTI)](http://chicagorti.org/) was established in 2013 as a collaboration of Chicago-region partners to develop and implement a strategy that builds a healthier and more diverse urban forest by 2050. This strategy is being developed based on findings from Urban Trees and Forests of the Chicago Region, a regional tree census conducted by The Morton Arboretum and the U.S. Forest Service. Agency, industry, and community representatives are working together to expand knowledge, skills and resources.
+Results from an extensive tree census conducted in the seven-county Chicago metropolitan region found that urban forests are in a state of transition with the recent loss of 13 million trees to emerald ash borer. Further, 28% of the overall forest is comprised of an exotic invasive species. This transition has significant impacts on the 8.5 million people who rely on the benefits these trees provide (US 2010 Census). The [Chicago Region Trees Initiative (CRTI)](http://chicagorti.org/), founded by The Morton Arboretum, was organized to reverse this outlook and leverage collaborative efforts for a holistic approach to improve the urban forest and quality of life for Chicago region residents. 
 
-The vision of the Chicago Region Trees Initiative is to ensure the following:
-- The region’s tree population is broadly understood and valued.
-- Collaborative management opportunities are identified and enacted.
-- Measurable improvements toward the health and vigor of the region’s trees are identified and established.
-- Public awareness and support is developed to maintain our urban forest and enhance its health for the future.
+To understand the dynamic nature of the forest and develop a data driven strategy, the CRTI collected and combined extensive datasets. These datasets included LiDAR, aerial imagery, land cover, forest inventories (private and public), forest management capacity, socio-economic data, pre-settlement ecosystem mapping, human and tree health data, among others. The resulting analyses help identify a community's unique list of challenges (low canopy cover, high poverty, poor health, etc.) and opportunities (strong forestry program, remnant woodlands, community engagement, etc.). By recognizing challenges and opportunities at varying scales, strategies can be successfully tailored to improve the urban forest. 
+
+For outreach purposes, a scientific literature review was conducted on the benefits trees provide to people. The CRTI develops programs and outreach for people and organizations that make land use decisions and manage trees. By expanding knowledge and skills to improve the urban forest, the quality of life will be improved in this region. This integrated program based on urban forest research serves as a strong case study.
+
 
 ---
 
