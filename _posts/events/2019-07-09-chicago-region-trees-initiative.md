@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links: 
-title: "Using Uran Forestry Data to Improve Health and Quality of Life in the Chicago Region"
+title: "Using Urban Forestry Data to Improve Health and Quality of Life in the Chicago Region"
 description: "Results from an extensive tree census conducted in the seven-county Chicago metropolitan region found that urban forests are in a state of transition with the recent loss of 13 million trees to emerald ash borer. Further, 28% of the overall forest is comprised of an exotic invasive species. This transition has significant impacts on the 8.5 million people who rely on the benefits these trees provide (US 2010 Census). The Chicago Region Trees Initiative (CRTI), founded by The Morton Arboretum, was organized to reverse this outlook and leverage collaborative efforts for a holistic approach to improve the urban forest and quality of life for Chicago region residents."
 speakers:
  - Lydia Scott, Director, Chicago Region Trees Initiative, The Morton Arboretum
