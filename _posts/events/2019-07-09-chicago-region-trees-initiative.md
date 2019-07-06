@@ -16,6 +16,7 @@ agenda: https://docs.google.com/document/d/1vntIl9WhzYXibOKTlEue-EpGllybVmXamjwa
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 asl_provided: true
 tags: 
+ - environment
 published: true
 
 ---

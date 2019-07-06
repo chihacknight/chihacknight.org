@@ -90,10 +90,23 @@ layout: default
             {% endif %}
             </p>
           {% endif %}
+
+          {% if page.speakers %}
+            {% if page.speakers.size > 1 %}
+              <strong>Presenters</strong>
+            {% else %}
+              <strong>Presenter</strong>
+            {% endif %}
+            <p>
+            {% for p in page.speakers %}
+              {{p}}<br />
+            {% endfor %}
+            </p>
+          {% endif %}
          
-          {{ page.date | date: "%l:%M%P" }}<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
+          <strong>Location</strong><br />
+          {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-            <br />
             <span itemprop="name">Braintree office</span><br />
             <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
               <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
