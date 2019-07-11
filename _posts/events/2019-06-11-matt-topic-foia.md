@@ -12,7 +12,7 @@ image: /images/events/353-topic-burday-foia.png
 image_credit:
 date: 2019-06-11T18:00:00-05:00
 event_id: 353
-youtube_id: 
+youtube_id: FMOaEfd5n8E
 agenda: https://docs.google.com/document/d/1GJ8N0wwnm1ARzbH2UOaCqWX0ZhfarFehzKru5KIrJOU/edit?usp=sharing
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: true

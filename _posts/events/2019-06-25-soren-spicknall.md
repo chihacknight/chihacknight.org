@@ -11,11 +11,13 @@ image: /images/events/355-spicknall.jpg
 image_credit:
 date: 2019-06-25T18:00:00-05:00
 event_id: 355
-youtube_id: 
+youtube_id: q6_GBf_US0M
 agenda: https://docs.google.com/document/d/1IaJj76GMF5TLnIM8mmHHtCawQhef-MZB4rkVOWciVu8/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
 tags: 
+ - equity
+ - data
 published: true
 
 ---
