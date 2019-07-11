@@ -11,7 +11,7 @@ image: /images/events/356-Lydia-Scott.png
 image_credit:
 date: 2019-07-09T18:00:00-05:00
 event_id: 356
-youtube_id: 
+youtube_id: bKgvjuhMJFY
 agenda: https://docs.google.com/document/d/1vntIl9WhzYXibOKTlEue-EpGllybVmXamjwaf3X4ZSY/edit?usp=sharing
 sponsor: <a href='https://thecitybase.com/'>CityBase</a>
 asl_provided: true
