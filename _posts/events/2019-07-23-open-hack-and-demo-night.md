@@ -12,7 +12,7 @@ event_id: 358
 youtube_id: 
 agenda: https://docs.google.com/document/d/18jOVJnj1zwUDllAedgiRLU3ZRBSyxcFP0DP4FEJ_Tik/edit?usp=sharing
 sponsor: <a href='https://microsoft.com'>Microsoft</a>
-asl_provided: true
+asl_provided: false
 tags: 
  - openhack
 published: true
