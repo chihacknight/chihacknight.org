@@ -3,7 +3,7 @@ layout: event
 categories: 
   - events
 links:
-title: "How Illinois Legal Aid Online Bridges the Access to Justice Gap"
+title: "Illinois Legal Aid Online"
 description: "Illinois Legal Aid Online (ILAO) is a nonprofit organization that uses innovation to lower barriers to the law so that people can understand their legal options, make informed decisions and represent themselves in court when they cannot afford a lawyer. ILAO puts the law within reach for all Illinois residents by simplifying our complex legal system and connecting people to legal information and assistance on ILAO’s website, IllinoisLegalAid.org."
 speakers:
  - Amy Clark, Community Engagement Manager
