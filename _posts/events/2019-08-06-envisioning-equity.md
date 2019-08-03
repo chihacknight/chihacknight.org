@@ -1,9 +1,9 @@
 ---
 layout: event
-categories: 
+categories:
   - events
 links:
-title: "Envisioning Equity at Chi Hack Night"
+title: "Envisioning Equity Being Nice Is Not Enough"
 description: There's a whole lot of talk in the news about people saying "I don't have a racist bone in my body!" Nice people are convinced they couldn't possibly be racist. But is that what it's really about? Racial equity consultants Heidi Massey and Prerna Abbi-Scanlon will provide a context for how organizations can effectively address racism in their organization, and how to do so through an intersectional lens.
 speakers:
  - Heidi Massey, Co-Creator, Envisioning Equity and Founder, CommunityConnective
@@ -11,11 +11,11 @@ speakers:
 image: /images/events/360-Prerna-and-Heidi.png
 date: 2019-08-06T18:00:00-05:00
 event_id: 360
-youtube_id: 
+youtube_id:
 agenda: https://docs.google.com/document/d/1ouxDOwW9HKj_DBqmVyknBwLVw9Wmuz9eKD0npRMk3QI/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
-tags: 
+tags:
 published: true
 ---
 
