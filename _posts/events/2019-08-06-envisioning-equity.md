@@ -3,12 +3,12 @@ layout: event
 categories: 
   - events
 links:
-title: "Envisioning Equity"
-description: ""
+title: "Envisioning Equity at Chi Hack Night"
+description: There's a whole lot of talk in the news about people saying "I don't have a racist bone in my body!" Nice people are convinced they couldn't possibly be racist. But is that what it's really about? Racial equity consultants Heidi Massey and Prerna Abbi-Scanlon will provide a context for how organizations can effectively address racism in their organization, and how to do so through an intersectional lens.
 speakers:
- - Heidi Massey
- - Prerna Abbi
-image: /images/events/envisioning-equity-logo-400.png
+ - Heidi Massey, Co-Creator, Envisioning Equity and Founder, CommunityConnective
+ - Prerna Abbi-Scanlon, Partner, Envisioning Equity and Co-Founder, Moxie Consultancy Collective
+image: /images/events/360-Prerna-and-Heidi.png
 date: 2019-08-06T18:00:00-05:00
 event_id: 360
 youtube_id: 
@@ -19,6 +19,11 @@ tags:
 published: true
 ---
 
+There's a whole lot of talk in the news about people saying "I don't have a racist bone in my body!" Nice people are convinced they couldn't possibly be racist. But is that what it's really about? Organizations are hoping to do better by having half day workshops for their teams. But what's happening in our organizations has been developing throughout our society since before the United States was even a country. It's going to take more than a half day workshop to change our organizations and the people in them. Chi Hack Night has decided to explicitly embark on this work by bringing in a team to do an initial presentation to help the Chi Hack Night community begin to understand what that work might entail.  
+
+Racial equity consultants Heidi Massey (Co-Creator of [Envisioning Equity](https://envisioningequitychi.org/) and Founder of [CommunityConnective](http://communityconnective.com/)) and Prerna Abbi-Scanlon (Envisioning Equity Partner and Co-Founder of [Moxie Consultancy Collective](https://www.moxiecollective.com/)) will provide a context for how organizations can effectively address racism in their organization, and how to do so through an intersectional lens. They will help the group define basic terms and will share a broad overview of the work that needs to be done if organizations are committed to becoming anti-racist, including the need for addressing the systemic and institutional causes of racism that are present even when we don't realize it.
+
+Following the presentation, Prerna and Heidi will lead a breakout group to dive more deeply into the topic, with a specific focus on how Chi Hack Night might want to move forward.
 
 
 **ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
