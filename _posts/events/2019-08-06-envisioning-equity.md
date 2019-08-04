@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Envisioning Equity: Being Nice Is Not Enough"
-description: There's a whole lot of talk in the news about people saying "I don't have a racist bone in my body!" Nice people are convinced they couldn't possibly be racist. But is that what it's really about? Racial equity consultants Heidi Massey and Prerna Abbi-Scanlon will provide a context for how organizations can effectively address racism in their organization, and how to do so through an intersectional lens.
+description: "There's a whole lot of talk in the news about people saying 'I don't have a racist bone in my body!' Nice people are convinced they couldn't possibly be racist. But is that what it's really about? Racial equity consultants Heidi Massey and Prerna Abbi-Scanlon will provide a context for how organizations can effectively address racism in their organization, and how to do so through an intersectional lens."
 speakers:
  - Heidi Massey, Co-Creator, Envisioning Equity and Founder, CommunityConnective
  - Prerna Abbi-Scanlon, Partner, Envisioning Equity and Co-Founder, Moxie Consultancy Collective
