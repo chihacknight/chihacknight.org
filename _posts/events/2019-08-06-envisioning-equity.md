@@ -11,7 +11,7 @@ speakers:
 image: /images/events/360-Prerna-and-Heidi.png
 date: 2019-08-06T18:00:00-05:00
 event_id: 360
-youtube_id:
+youtube_id: Pl6GXMznsx4
 agenda: https://docs.google.com/document/d/1ouxDOwW9HKj_DBqmVyknBwLVw9Wmuz9eKD0npRMk3QI/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
