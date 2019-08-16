@@ -20,9 +20,9 @@ published: true
 
 The right to vote is fundamental to a healthy democracy. [The Voting Rights Project](https://www.clccrul.org/voting-rights-project) works to prevent, reduce, and eliminate barriers to voting and civic participation, especially in communities of color and low-income communities, to ensure that each eligible citizen is able to cast a ballot and make her voice heard.
 
-[Ami Gandhi](https://www.linkedin.com/in/ami-gandhi-292a99b), an attorney and the Director of Voting Rights and Civic Empowerment at Chicago Lawyers’ Committee for Civil Rights, will present on the work she does in statewide voter protection, partnering with community members in the criminal justice system to expand voter access and advocating for communities of color during Illinois redistricting..
+[Ami Gandhi](https://www.clccrul.org/staff-1/ami-gandhi), an attorney and the Director of Voting Rights and Civic Empowerment at Chicago Lawyers’ Committee for Civil Rights, will present on the work she does in statewide voter protection, partnering with community members in the criminal justice system to expand voter access and advocating for communities of color during Illinois redistricting..
 
-She will show [data visualizations of problems at the polls](http://electionprotectionillinois.org/) to inform their non-partisan voter protection work during every election and analysis of hyperlocal demographic data to identify and address injustice in redistricting in Chicago and Illinois.
+She will show [data visualizations of problems at the polls](http://electionprotectionillinois.org/) to inform their non-partisan voter protection work during every election and analysis of hyperlocal demographic data to identify and [address injustice in redistricting](https://www.clccrul.org/publications/2015/4/1/the-color-of-representation-local-government-in-illinois) in Chicago and Illinois.
 
 
 **ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
