@@ -10,7 +10,7 @@ speakers:
 image: /images/events/362-ami-gandhi.jpg
 date: 2019-08-20T18:00:00-05:00
 event_id: 362
-youtube_id: 
+youtube_id: O78jCdLCHsg
 agenda: https://docs.google.com/document/d/1l4YQ5pUWb_rYvhlHydIpzMfIuSh21pdaw5lAyayqSAo/edit#
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
