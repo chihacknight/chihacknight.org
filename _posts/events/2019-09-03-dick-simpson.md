@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Dick Simpson: UIC Politics Professor and Former Alderman"
-description: ""
+description: "Dick W. Simpson has uniquely combined a distinguished academic career with public service in government. Professor Simpson will discuss his recent work pushing for ethics reforms and greater accessibility and accountability from Chicago’s City Council and the Chicago City Clerk, specifically on publishing usable data on divided roll call votes by Aldermen."
 speakers:
  - UIC Professor Dick Simpson
  - "UIC Ph.D. Student, Marco Rosaire Rossi"
@@ -19,10 +19,9 @@ tags:
 published: true
 ---
 
-Dick W. Simpson has uniquely combined a distinguished academic career with public service in government. He served as Chicago's 44th Ward Alderman from 1971 to 1979. During the past 50 years, Dick Simpson has published numerous studies on elections, voting patterns of elected officials, local government, public policy, and government budgeting. He is also author or co-author of more than 20 books on political action, ethics, and politics.
+[Dick W. Simpson](https://pols.uic.edu/profiles/simpson-dick-w/) has uniquely combined a distinguished academic career with public service in government. He served as Chicago’s 44th Ward Alderman from 1971 to 1979. During the past 50 years, Dick Simpson has published numerous studies on elections, voting patterns of elected officials, local government, public policy, and government budgeting. He is also author or co-author of more than 20 books on political action, ethics, and politics.
 
-The City Clerk’s web site on the Chicago City Council fails to provide in a useable form the divided roll call vote data necessary for citizens, community groups, and civic organizations to hold aldermen accountable.  We have worked with three separate city clerks and their staff over three decades to correct this problem and it is worse than before.  It takes about 60-75 person hours to translate the information on the web site into a useable form.
-
+Professor Simpson will discuss his recent work pushing for ethics reforms and greater accessibility and accountability from Chicago’s City Council and the [Chicago City Clerk](http://www.chicityclerk.com/), specifically on publishing usable data on divided roll call votes by Aldermen.
 
 ---
 
