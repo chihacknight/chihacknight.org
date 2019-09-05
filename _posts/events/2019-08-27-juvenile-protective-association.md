@@ -11,7 +11,7 @@ speakers:
 image: /images/events/363-jpa-logo.png
 date: 2019-08-27T18:00:00-05:00
 event_id: 363
-youtube_id: 
+youtube_id: E8FiOwJO5sk
 agenda: https://docs.google.com/document/d/1Wf92ktogrY5AcWmaS2m1iKxLDjPzOYxGD0OpduTUc6o/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
