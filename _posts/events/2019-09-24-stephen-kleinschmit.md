@@ -7,7 +7,7 @@ title: "UIC Civic Analytics and the Evolving Landscape of Public Data Science Ed
 description: "A new model for public sector data science education, the MSCA is the first graduate degree to combine civic technology and data analytics into one curriculum. Its development was directly influenced by members of Chicago’s civic tech and public data communities, including Chihacknight, and will help serve as a model for the development of the field's data science competencies, thanks to a recent initiative by NASPAA."
 speakers:
  - "Stephen Kleinschmit, Ph.D. Director, Master of Science in Civic Analytics University of Illinois at Chicago"
-image: /images/events/367-stevekhs.PNG
+image: /images/events/367-stevekhs.jpg
 date: 2019-09-24T18:00:00-05:00
 event_id: 367
 youtube_id:
