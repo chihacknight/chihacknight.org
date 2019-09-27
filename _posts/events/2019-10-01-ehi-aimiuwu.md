@@ -3,8 +3,8 @@ layout: event
 categories:
   - events
 links:
-title: "Code Burnout, it’s time to take a break"
-description: "Code Burnout is a space for talking out the issues that exist and creating a safe space for it. Our goal is to let those who are in these high pressured spaces to know that they are not alone and there is always time to take a breather. Let’s be there for one another."
+title: "Code Burnout: it’s time to take a break"
+description: "Ehi Aimiuwu will share how she started Code Burnout, a space for those who operate in high pressured spaces to know that they are not alone and there is always time to take a breather."
 speakers:
  - "Ehi Aimiuwu, Founder of Code Burnout"
 image: /images/events/368-ehi-aimiuwu.jpg
@@ -18,13 +18,11 @@ tags:
 published: true
 ---
 
-After 4 years of working in corporate as a technologist and 2 years working as a entrepreneur, I realized one thing, I was extremely stressed out.
+After 4 years of working in corporate as a technologist and 2 years working as a entrepreneur, Ehi Aimiuwu realized she was extremely stressed out.
 
-I managed by going to therapy, finding the right support and self care (whenever I get the chance to) Throughout my journey, I wondered how many other people like me are suffering, managing or even worse ignoring it. 
+While she managed by going to therapy, finding the right support, and prioritizing self care when possible, she often wondered how many other people like her were suffering, just getting by or ignorign the problem entirely.
 
-My goal is to create safe spaces to talk about it, manage resources for mental health and for large companies to make room for mental health, in their benefits or in their overall company culture. This mission will require everyone, and we can start with what we have.
-
-Code Burnout is a space for talking out the issues that exist and creating a safe space for it. Our goal is to let those who are in these high pressured spaces to know that they are not alone and there is always time to take a breather. Let’s be there for one another. 
+The goal of Code Burnout is to create safe spaces to talk about the problem of burnout, manage resources for mental health, and to advocate for large companies to make room for mental health, in their benefits and in their overall company culture.
 
 ---
 
