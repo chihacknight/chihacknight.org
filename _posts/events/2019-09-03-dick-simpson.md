@@ -11,7 +11,7 @@ speakers:
 image: /images/events/364-DickSimpson.jpg
 date: 2019-09-03T18:00:00-05:00
 event_id: 364
-youtube_id: 
+youtube_id: yITUudS1SX0
 agenda: https://docs.google.com/document/d/1f3sapkQjcSGr6Rc61x959bzQczhELCZUm8cVSq_ctwg/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true

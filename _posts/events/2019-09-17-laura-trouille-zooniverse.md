@@ -10,7 +10,7 @@ speakers:
 image: /images/events/366-Zooniverse-images2.png
 date: 2019-09-17T18:00:00-05:00
 event_id: 366
-youtube_id: 
+youtube_id: ZrT_4eEA2Iw
 agenda: https://docs.google.com/document/d/1h7xvJJWHF1_53eDP9CQaVP5S_VCExBwaV_vdM_7PlUA/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true

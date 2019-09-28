@@ -20,7 +20,7 @@ published: true
 
 After 4 years of working in corporate as a technologist and 2 years working as a entrepreneur, Ehi Aimiuwu realized she was extremely stressed out.
 
-While she managed by going to therapy, finding the right support, and prioritizing self care when possible, she often wondered how many other people like her were suffering, just getting by or ignorign the problem entirely.
+While she managed by going to therapy, finding the right support, and prioritizing self care when possible, she often wondered how many other people like her were suffering, just getting by or ignoring the problem entirely.
 
 The goal of Code Burnout is to create safe spaces to talk about the problem of burnout, manage resources for mental health, and to advocate for large companies to make room for mental health, in their benefits and in their overall company culture.
 
