@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "CANCELLED PRESENTATION: Code Burnout: it’s time to take a break"
-description: "Ehi Aimiuwu will share how she started Code Burnout, a space for those who operate in high pressured spaces to know that they are not alone and there is always time to take a breather."
+description: "Notice: This presentation has been cancelled. This event will be an Open Hack Session instead. Please join us to build, share, and learn about civic tech! Don't forget to RSVP by noon on Tuesday!"
 speakers:
  - "Ehi Aimiuwu, Founder of Code Burnout"
 image: /images/events/368-ehi-aimiuwu.jpg
