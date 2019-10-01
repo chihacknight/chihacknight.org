@@ -3,11 +3,10 @@ layout: event
 categories:
   - events
 links:
-title: "CANCELLED PRESENTATION: Code Burnout: it’s time to take a break"
-description: "Notice: This presentation has been cancelled. This event will be an Open Hack Session instead. Please join us to build, share, and learn about civic tech! Don't forget to RSVP by noon on Tuesday!"
+title: "Open Hack (Presentation Cancelled)"
+description: "No presentation this week. Instead, we're going to have another civic hacking potluck! If you'd like, please bring drinks, snacks or desserts! We'll provide the usual empanadas too. While we eat, we'll build, share, and learn about civic tech! Don't forget to RSVP by noon on Tuesday!"
 speakers:
- - "Ehi Aimiuwu, Founder of Code Burnout"
-image: /images/events/368-ehi-aimiuwu.jpg
+image: /images/events/potluck-collage.jpg
 date: 2019-10-01T18:00:00-05:00
 event_id: 368
 youtube_id:
@@ -18,13 +17,9 @@ tags:
 published: true
 ---
 
-**Notice** This presentation has been cancelled. This event will be an *Open Hack Session* instead.
+**Notice** The presentation from Ehi Aimiuwu on Code Burnhout has been cancelled due to a family emergency. This event will be an *Open Hack Session* instead. 
 
-After 4 years of working in corporate as a technologist and 2 years working as a entrepreneur, Ehi Aimiuwu realized she was extremely stressed out.
-
-While she managed by going to therapy, finding the right support, and prioritizing self care when possible, she often wondered how many other people like her were suffering, just getting by or ignoring the problem entirely.
-
-The goal of Code Burnout is to create safe spaces to talk about the problem of burnout, manage resources for mental health, and to advocate for large companies to make room for mental health, in their benefits and in their overall company culture.
+Come build, share, and learn about civic tech with us!
 
 ---
 
