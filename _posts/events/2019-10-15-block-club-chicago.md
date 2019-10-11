@@ -4,8 +4,7 @@ categories:
   - events
 links:
 title: "Block Club Chicago: Building A Nonprofit Newsroom"
-description: "Block Club Chicago Editor-In-Chief and Co-founder Shamus Toomey will talk about creating a nonprofit neighborhood newsroom from the ashes of DNAinfo, the now-defunct for-profit newsroom.
-Block Club mixes nonprofit fund-raising strategies with a subscription-based newsroom model, blending multiple revenue streams to diversify funding."
+description: "Block Club Chicago Editor-In-Chief and Co-founder Shamus Toomey will talk about creating a nonprofit neighborhood newsroom from the ashes of DNAinfo, the now-defunct for-profit newsroom."
 speakers:
  - "Shamus Toomey, Editor-In-Chief and Co-founder"
 image: /images/events/370-shamus-toomey.jpg
@@ -20,10 +19,8 @@ published: true
 ---
 
 [Block Club Chicago](https://blockclubchicago.org/) Editor-In-Chief and Co-founder Shamus Toomey will talk about creating a nonprofit neighborhood newsroom from the ashes of DNAinfo, the now-defunct for-profit newsroom.
-Block Club mixes nonprofit fund-raising strategies with a subscription-based newsroom model, blending multiple revenue streams to diversify funding.
 
-But it’s really all about the news and finding stories that matter to people, whether they are big or small.
-
+Launched in 2018, Block Club Chicago mixes nonprofit fund-raising strategies with a subscription-based newsroom model, blending multiple revenue streams to diversify funding, which helps them focus on finding stories that matter to people, whether they are big or small.
 
 ---
 
