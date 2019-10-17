@@ -3,8 +3,8 @@ layout: event
 categories:
   - events
 links:
-title: "Building City technology for police accountability"
-description: "The City of Austin now has an online form for submitting anonymous feedback on police conduct. Eric Sherman will talk about what it took to get there, and what that can mean for police accountability in other cities."
+title: "Building city technology for police accountability"
+description: "The City of Austin now has an online form for submitting anonymous feedback on police conduct. Eric Sherman, , Full Stack Developer at the City of Austin's Office of Design and Delivery, will talk about what it took to get there, and what that can mean for police accountability in other cities."
 speakers:
   - "Eric Sherman, Full Stack Developer at the City of Austin's Office of Design and Delivery"
 image: /images/events/OPO.png
@@ -18,7 +18,7 @@ tags:
 published: true
 ---
 
-A collaboration between the Office of Design Delivery and the Office of Police Oversight has resulted in a new online form for resident feedback on interactions with the Austin Police Department. For the first time ever, residents can anonymously register complaints or express thanks regarding interactions with officers.
+A collaboration between the [Office of Design Delivery](https://odd.austintexas.io/) and the [Office of Police Oversight](https://alpha.austin.gov/police-oversight/) has resulted in a new online form for resident feedback on interactions with the Austin Police Department. For the first time ever, residents can anonymously register complaints or express thanks regarding interactions with officers.
 
 These digital forms are the result of extensive research, community outreach and forums, many content and design drafts, a lot of open source development, several rounds of user testing and bug squashing, and close collaboration between many stakeholders.
 
