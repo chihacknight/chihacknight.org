@@ -10,7 +10,7 @@ speakers:
 image: /images/events/370-shamus-toomey.jpg
 date: 2019-10-15T18:00:00-05:00
 event_id: 370
-youtube_id: 
+youtube_id: vhuJrqT-9AY
 agenda: https://docs.google.com/document/d/13bmOjLFqRyI29fhVJT6_-8IrkTDsi5Sz4_pZB6z2PyY/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
