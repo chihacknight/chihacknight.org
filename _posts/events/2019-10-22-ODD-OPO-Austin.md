@@ -11,7 +11,7 @@ image: /images/events/OPO.png
 date: 2019-10-22T18:00:00-05:00
 event_id: 371
 youtube_id:
-agenda: https://docs.google.com/document/d/13bmOjLFqRyI29fhVJT6_-8IrkTDsi5Sz4_pZB6z2PyY/edit?usp=sharing
+agenda: https://docs.google.com/document/d/1gC7HEmkM3V6xduduT-E0go2KJ0tEG_CPWxxAGDotGP4/edit?usp=sharing
 sponsor: <a href='https://www.chihacknight.org/'>Chi Hack Night</a>
 asl_provided: true
 tags:
