@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links:
-title: "Building city technology for police accountability"
+title: "Building city technology for police accountability in the City of Austin"
 description: "The City of Austin now has an online form for submitting anonymous feedback on police conduct. Eric Sherman, , Full Stack Developer at the City of Austin's Office of Design and Delivery, will talk about what it took to get there, and what that can mean for police accountability in other cities."
 speakers:
   - "Eric Sherman, Full Stack Developer at the City of Austin's Office of Design and Delivery"
@@ -13,7 +13,7 @@ event_id: 371
 youtube_id:
 agenda: https://docs.google.com/document/d/1gC7HEmkM3V6xduduT-E0go2KJ0tEG_CPWxxAGDotGP4/edit?usp=sharing
 sponsor: <a href='https://www.chihacknight.org/'>Chi Hack Night</a>
-asl_provided: true
+asl_provided: false
 tags:
 published: true
 ---
