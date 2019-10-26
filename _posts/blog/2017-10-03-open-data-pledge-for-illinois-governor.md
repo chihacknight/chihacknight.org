@@ -13,7 +13,7 @@ author_bio: "Derek is an entrepreneur, developer and one of the leaders of the c
 author2: 
 author2_url: 
 author2_image: 
-published: true
+published: false
 ---
 
 <p class="text-center"><img src="/images/blog/2017-10-03-illinois-governor-open-data-pledge/seal_of_illinois.jpg" alt="The Seal of the great State of Illinois" class="img-thumbnail" style='width:50%;'/><br />

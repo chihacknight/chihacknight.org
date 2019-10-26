@@ -13,7 +13,7 @@ author_bio: "Derek is an entrepreneur, developer and one of the leaders of the c
 author2: 
 author2_url: 
 author2_image: 
-published: true
+published: false
 ---
 
 <p class="text-center"><img src="/images/blog/2016-02-12-chi-hack-nights-open-data-pledge-for-cook-county-states-attorney/cook-county-states-attorney.jpg" alt="Introductions at Chi Hack Night" class="img-thumbnail" /><br />

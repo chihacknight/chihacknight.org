@@ -13,7 +13,7 @@ author_bio: "Derek is an entrepreneur, developer and one of the leaders of the c
 author2: 
 author2_url: 
 author2_image: 
-published: true
+published: false
 ---
 
 <p class="text-center"><img src="/images/blog/2016-02-16-chi-hack-nights-open-data-pledge-for-cook-county-clerk-of-the-circuit-court/clerk-of-the-circuit-court-candidates.jpg" alt="Candidates for Cook County Clerk of the Circuit Court: Jacob Meister (D), Dorothy A. Brown (D), Michelle A. Harris (D) and Diane S. Shapiro (R)" class="img-thumbnail" /><br />
