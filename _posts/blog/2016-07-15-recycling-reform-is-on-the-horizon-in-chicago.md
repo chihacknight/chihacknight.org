@@ -13,7 +13,7 @@ author_bio: "Claire Micklin is an interaction designer in Web Services at the Un
 author2: 
 author2_url: 
 author2_image: 
-published: true
+published: false
 ---
 
 **UPDATE: New Ordinance Passes!** The revised [recycling ordinance](https://chicago.legistar.com/LegislationDetail.aspx?ID=2765691&GUID=DE513BDB-4893-4EB2-9377-F3FACF725E40&Options=Advanced&Search=) moved on from the Committee on Health and Environmental Protection on July 18 and [passed City Council on July 20](https://chicago.councilmatic.org/legislation/o-2016-4792/). Thank you to everyone who contacted their Alderman!
