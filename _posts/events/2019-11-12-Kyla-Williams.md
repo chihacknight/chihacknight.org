@@ -31,7 +31,9 @@ interviews with U.S. Embassy and WorldChicago staff.
 Presenter Kyla Williams will introduce us to World Chicago and it's Programs, highlight the Professional fellows program, and introduce us to this year's cohort who will share their ideas and action plans.
 
 
-The Fall 2019 World Chicago Professional Fellows Cohort members are:<br>
+The Fall 2019 World Chicago Professional Fellows Cohort members are:
+
+<br>
 <b>Hana Cosic | Sarajevo, Bosnia and Herzegovina</b><br>
 Founder and CEO, Doktor Online Assistant Professor in Economics, IUS
 
