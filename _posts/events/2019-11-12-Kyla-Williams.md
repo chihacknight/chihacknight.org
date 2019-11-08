@@ -4,14 +4,17 @@ categories:
   - events
 links:
 title: "Civic Diplomacy through Tech Innovation and Entrepreneurship"
-description: ""
+description: "Sponsored by the U.S. Department of State, Bureau of Educational and Cultural Affairs, the
+Professional Fellows Program (PFP) brings emerging tech innovation, entrepreneurship, and
+education leaders from Bosnia-Herzegovina, Croatia, Slovenia, North Macedonia and
+Montenegro (2020) to Chicago for short-term professional development fellowships."
 speakers:
  - "Kyla Williams and the Fall 2019 Professional Fellows Cohort"
 image: /images/events/374-ProFellowsFall2019.jpg
 date: 2019-11-12T18:00:00-05:00
 event_id: 374
-youtube_id: 
-agenda: 
+youtube_id:
+agenda:
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: false
 tags:
@@ -38,41 +41,55 @@ while refining their civic-inspired ideas and action plans for projects they wil
 returning to their home countries. These action plans will be briefly presented by the Fellows
 with questions to follow from the audience.
 
-The Fall 2019 World Chicago Professional Fellows Cohort members are:
-Hana Cosic | Sarajevo, Bosnia and Herzegovina
+The Fall 2019 World Chicago Professional Fellows Cohort members are:<br>
+<b>Hana Cosic | Sarajevo, Bosnia and Herzegovina</b><br>
 Founder and CEO, Doktor Online Assistant Professor in Economics, IUS
-Miron Lukac | Sarajevo, Bosnia and Herzegovina
-Lonac Hub Manager, Mozaik Foundation
-Semir Music | Sarajevo, Bosnia and Herzegovina
-Co-founder and Sales Director, Lilium ltd.
-Elvir Salcinovic | Sarajevo, Bosnia and Herzegovina
-CEO and UI/UX Designer, Beta TelStudio Ltd.
-Tanja Dzido | Zagreb, Croatia
-Founder and CEO, Shhhefica
-Tihana Šmitran | Zagreb, Croatia
-Founder & CEO, Amulet Studio and Amulet Nordic
-Katarina Guja | Zagreb, Croatia
-CFO, Croatian Office for Creativity and Innovation
-Petra Hartman | Ljubljana, Slovenia
-Project Manager, Ekvilib Institute
-Veronika Jelen | Šempeter, Slovenia
-Startup and Mentorship Coordinator, Ljubljana University Incubator
-Katja Koren Ošljak | Ljubljana, Slovenia
-Founder and Managing Director, Institute Vsak
-Teacher, Faculty of Social Sciences, University of Ljubljana Independent Researcher and Author
-Tadej Špitalar | Trbovlje, Slovenia
-Managing Director, RDA Zasavje
-Aleksandar Celeski | Skopje, North Macedonia
-Founder and CEO, DUEL Consulting
-Dimitar Jovevski | Skopje, North Macedonia
+
+<b>Miron Lukac | Sarajevo, Bosnia and Herzegovina</b><br>
+Lonac Hub Manager, Mozaik Foundation<br>
+
+<b>Semir Music | Sarajevo, Bosnia and Herzegovina</b><br>
+Co-founder and Sales Director, Lilium ltd.<br>
+
+<b>Elvir Salcinovic | Sarajevo, Bosnia and Herzegovina</b><br>
+CEO and UI/UX Designer, Beta TelStudio Ltd.<br>
+
+<b>Tanja Dzido | Zagreb, Croatia</b><br>
+Founder and CEO, Shhhefica<br>
+
+<b>Tihana Šmitran | Zagreb, Croatia</b><br>
+Founder & CEO, Amulet Studio and Amulet Nordic<br>
+
+<b>Katarina Guja | Zagreb, Croatia</b><br>
+CFO, Croatian Office for Creativity and Innovation<br>
+
+<b>Petra Hartman | Ljubljana, Slovenia</b><br>
+Project Manager, Ekvilib Institute<br>
+
+<b>Veronika Jelen | Šempeter, Slovenia</b><br>
+Startup and Mentorship Coordinator, Ljubljana University Incubator<br>
+
+<b>Katja Koren Ošljak | Ljubljana, Slovenia</b><br>
+Founder and Managing Director, Institute Vsak Teacher, Faculty of Social Sciences,
+University of Ljubljana Independent Researcher and Author<br>
+
+<b>Tadej Špitalar | Trbovlje, Slovenia</b><br>
+Managing Director, RDA Zasavje<br>
+
+<b>Aleksandar Celeski | Skopje, North Macedonia</b><br>
+Founder and CEO, DUEL Consulting<br>
+
+<b>Dimitar Jovevski | Skopje, North Macedonia</b><br>
 Assistant Professor, Faculty of Economics, Ss. Cyril and Methodious University Founder, Piksel
-Ltd.
-Ljupka Naumovska | Skopje, North Macedonia
+Ltd.<br>
+
+<b>Ljupka Naumovska | Skopje, North Macedonia</b><br>
 Assistant Professor, University of Tourism and Management Skopje Lecturer at Brainster
-Academy, School of Digital Marketing Founder and Manager, HONEYBIZ
-Ivana Spasova | Skopje, North Macedonia
+Academy, School of Digital Marketing Founder and Manager, HONEYBIZ<br>
+
+<b>Ivana Spasova | Skopje, North Macedonia</b><br>
 Chief Marketing Officer, Web Factory LLC
-Organizer, Growth & Marketing, Google Developers Group
+Organizer, Growth & Marketing, Google Developers Group<br>
 
 ---
 
