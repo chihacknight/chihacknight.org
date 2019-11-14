@@ -11,7 +11,7 @@ speakers:
 image: /images/events/374-ProFellowsFall2019.jpg
 date: 2019-11-12T18:00:00-05:00
 event_id: 374
-youtube_id:
+youtube_id: 94zYRC16yVA
 agenda: https://docs.google.com/document/d/1s9k1i_rhuutzB3ae3wHllhChK0eN6PahUsJ2OgDSBfU/edit#
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: false
