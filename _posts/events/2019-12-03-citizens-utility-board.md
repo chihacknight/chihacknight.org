@@ -11,7 +11,7 @@ speakers:
 image: /images/events/376-CUB-cover-photo.jpg
 date: 2019-12-03T18:00:00-05:00
 event_id: 376
-youtube_id: 
+youtube_id: xzbUuVoHRdI
 agenda: https://docs.google.com/document/d/1oAIaur67GZM3CbPqPGvcTZ5YKtZlg0JjV8ILm1clwvw/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: true
