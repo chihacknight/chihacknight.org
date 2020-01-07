@@ -13,7 +13,7 @@ author_bio: "Derek is an entrepreneur, developer and one of the leaders of the c
 author2: 
 author2_url: 
 author2_image: 
-published: true
+published: false
 ---
 
 <p class="text-center"><img src="/images/blog/2018-03-07-illinois-ag-open-data-pledge/ag_seal.jpg" alt="The Seal of the Office of the Attorney General of Illinois" class="img-thumbnail" style='width:50%;'/><br />
