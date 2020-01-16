@@ -67,11 +67,30 @@ Here’s a breakdown of the available seats:
 
 To vote in this election, or to run or be appointed to a Board seat, you must be a [Member of Chi Hack Night](https://chihacknight.org/membership/application.html). If you are not sure of your membership status, email [membership@chihacknight.org](mailto:membership@chihacknight.org).
 
-Are you a Member of Chi Hack Night and interested in running for the board? Great! Here’s what you need to do before Tuesday, January 28, 2020:
+## Running for the Board
+
+Are you a Member of Chi Hack Night and interested in running for the Board? Great! Here’s what you need to do before Tuesday, January 28, 2020:
 
 * [Fill out the Candidate Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSdylSfkc2AONyavSXmMtgLFD18bE-aQVH9jvETzsvTWJ6c06g/viewform). You can nominate yourself or someone else. Remember, though, they must be a Member of Chi Hack Night.
-* [Fill out the Candidate Statement Form](https://docs.google.com/forms/d/e/1FAIpQLSf619JAUqhIHJKYjmKoK3nwcPDodqp301USlNlcYwbIcJ5vig/viewform). Make your case for why you should be part of the Chi Hack Night board. All candidate statements will be shared out publicly ahead of the election.
+* [Fill out the Candidate Statement Form](https://docs.google.com/forms/d/e/1FAIpQLSf619JAUqhIHJKYjmKoK3nwcPDodqp301USlNlcYwbIcJ5vig/viewform). Make your case for why you should be part of the Chi Hack Night Board. All candidate statements will be shared out publicly ahead of the election.
+
+## What would my responsibilities as a Board member be?
+
+Being on the Chi Hack Night Board of Directors is a volunteer position and we have no paid staff. All of the work of Chi Hack Night is done by the Board and other volunteers. The Board is divided up into 10 committees responsible for a core function of Chi Hack Night:
+
+* Breakout Group Support
+* Community Engagement
+* Diversity, Equity and Inclusion
+* Event Operations
+* Fundraising and Finances
+* Membership Management
+* Onboarding
+* Presenter Booking
+* Social Media
+* Website
+
+You will be expected to join several of these committees and volunteer your time to them. In addition, you will be expected to attend or call in to 8 Board meetings a year. You will not be expected to make any financial contribution to Chi Hack Night.
 
 Got a question? Does any of this not make sense? It’s possible - we’ve never done this before! Let us know at [info@chihacknight.org](mailto:info@chihacknight.org).
 
-Yay democracy and long live Chi Hack Night! We’ll see you for the board election on Tuesday, February 4, 2020!
+Yay democracy and long live Chi Hack Night! We’ll see you for the Board election on Tuesday, February 4, 2020!
