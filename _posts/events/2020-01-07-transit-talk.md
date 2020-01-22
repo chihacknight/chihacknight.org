@@ -12,7 +12,7 @@ speakers:
 image: /images/events/379-TransitTalkTeamPhoto.jpg
 date: 2020-01-07T18:00:00-05:00
 event_id: 379
-youtube_id: 
+youtube_id: knr33aMz_Ys
 agenda: https://docs.google.com/document/d/1NI2Bx-BEbXHccJEEPVz5GeMT0xfpGYG8KYAVGCL0Go4/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: false
