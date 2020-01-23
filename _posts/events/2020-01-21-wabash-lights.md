@@ -10,7 +10,7 @@ speakers:
 image: /images/events/381-TheWabashLights3.jpg
 date: 2020-01-21T18:00:00-05:00
 event_id: 381
-youtube_id: 
+youtube_id: enfdp0DgZ-s
 agenda: https://docs.google.com/document/d/1olNjjbLlMy40AULImivEpuEuTE6mSBsyLq4h4W_9mLU/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: false
