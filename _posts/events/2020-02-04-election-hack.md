@@ -3,8 +3,8 @@ layout: event
 categories:
   - events
 links: 
-title: "Chi Hack Night's First Board Election & Open Hack"
-description: "Chi Hack Night will hold our first ever election for our Board of Directors as part of our first General Meeting of the Chi Hack Night membership. After announcements and introductions, members will gather to vote on updates to our By-Laws as well as Board directors. If you are a member of Chi Hack Night please attend this event to participate and vote. Not a member? Tonight will also be a regular Open Hack for everyone."
+title: "Board Election & Open Hack"
+description: "Chi Hack Night will hold our first ever election for our Board of Directors as part of our first General Meeting of the Chi Hack Night Membership. After announcements and introductions, Members will gather to vote on updates to our bylaws as well as new Board Directors. If you are a Member of Chi Hack Night please attend this event to participate and vote! Not a member? Tonight will also be a regular Open Hack for everyone."
 speakers:
 image: /images/blog/2019-01-14-board-election/vote.jpg
 image_credit:
@@ -20,9 +20,9 @@ published: true
 
 ---
 
-Chi Hack Night will hold our first ever election for our Board of Directors as part of our first General Meeting of the Chi Hack Night membership. The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen. After announcements and introductions, members will gather to vote on updates to our By-Laws as well as Board directors. **If you are a member of Chi Hack Night please attend this event to participate and vote.**
+Chi Hack Night will hold our first ever election for our Board of Directors as part of our first General Meeting of the Chi Hack Night Membership. The Chi Hack Night [Board of Directors](/board-of-directors.html), composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen. After announcements and introductions, members will gather to vote on updates to our bylaws as well as Board Directors. **If you are a Member of Chi Hack Night please attend this event to participate and vote.**
 
-Not a member of Chi Hack Night? There will be no presentation this week but it will be a regular Open Hack. 
+Not a [Member of Chi Hack Night](https://chihacknight.org/membership/application.html)? There will be no presentation this week but it will be a regular Open Hack. 
 
 
 ---
