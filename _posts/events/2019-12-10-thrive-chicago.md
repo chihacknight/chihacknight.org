@@ -12,7 +12,7 @@ speakers:
 image: /images/events/377-Thrive_logo.jpg
 date: 2019-12-10T18:00:00-05:00
 event_id: 377
-youtube_id: 
+youtube_id: 6D_748NIlkE
 agenda: https://docs.google.com/document/d/13KEGzOJMyNY5RMUvMF_uSezP_ovP7oEWa7sWF6EH644/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: false
