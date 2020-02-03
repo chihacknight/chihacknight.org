@@ -89,7 +89,7 @@ Being on the Chi Hack Night Board of Directors is a volunteer position and we ha
 * Social Media
 * Website
 
-You will be expected to join several of these committees and volunteer your time to them. In addition, you will be expected to attend or call in to 8 Board meetings a year. You will not be expected to make any financial contribution to Chi Hack Night.
+You will be expected to join several of these committees and volunteer your time to them. In addition, you will be expected to attend or call in to 9 Board meetings a year. You will not be expected to make any financial contribution to Chi Hack Night.
 
 Got a question? Does any of this not make sense? It’s possible - we’ve never done this before! Let us know at [info@chihacknight.org](mailto:info@chihacknight.org).
 
