@@ -14,7 +14,7 @@ youtube_id: vhuJrqT-9AY
 agenda: https://docs.google.com/document/d/13bmOjLFqRyI29fhVJT6_-8IrkTDsi5Sz4_pZB6z2PyY/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
-tags:
+tags: journalism
 published: true
 ---
 

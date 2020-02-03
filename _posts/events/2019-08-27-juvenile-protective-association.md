@@ -15,7 +15,7 @@ youtube_id: E8FiOwJO5sk
 agenda: https://docs.google.com/document/d/1Wf92ktogrY5AcWmaS2m1iKxLDjPzOYxGD0OpduTUc6o/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: true
-tags:
+tags: 'safety and justice'
 published: true
 ---
 

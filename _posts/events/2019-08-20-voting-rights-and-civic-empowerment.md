@@ -14,7 +14,7 @@ youtube_id: O78jCdLCHsg
 agenda: https://docs.google.com/document/d/1l4YQ5pUWb_rYvhlHydIpzMfIuSh21pdaw5lAyayqSAo/edit#
 sponsor: <a href='https://microsoft.com/'>Microsoft</a>
 asl_provided: true
-tags:
+tags: elections
 published: true
 ---
 

@@ -14,7 +14,7 @@ youtube_id: osNs6vHU1ec
 agenda: https://docs.google.com/document/d/1gC7HEmkM3V6xduduT-E0go2KJ0tEG_CPWxxAGDotGP4/edit?usp=sharing
 sponsor: <a href='https://www.chihacknight.org/'>Chi Hack Night</a>
 asl_provided: false
-tags:
+tags: govtech
 published: true
 ---
 

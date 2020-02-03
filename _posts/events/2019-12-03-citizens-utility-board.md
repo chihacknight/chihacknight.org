@@ -15,7 +15,7 @@ youtube_id: xzbUuVoHRdI
 agenda: https://docs.google.com/document/d/1oAIaur67GZM3CbPqPGvcTZ5YKtZlg0JjV8ILm1clwvw/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: true
-tags:
+tags: energy
 published: true
 ---
 

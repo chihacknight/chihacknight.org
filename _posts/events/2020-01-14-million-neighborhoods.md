@@ -17,7 +17,7 @@ youtube_id: QU-NhpsfhRA
 agenda: https://docs.google.com/document/d/1iXMcSKfi5F4Yvy8G7bjWKPA6aZyDF3Fc-IX8CRYVky8/edit?usp=sharing
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: false
-tags:
+tags: poverty
 published: true
 ---
 

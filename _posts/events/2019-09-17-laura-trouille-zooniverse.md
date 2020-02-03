@@ -14,7 +14,7 @@ youtube_id: ZrT_4eEA2Iw
 agenda: https://docs.google.com/document/d/1h7xvJJWHF1_53eDP9CQaVP5S_VCExBwaV_vdM_7PlUA/edit?usp=sharing
 sponsor: <a href='https://www.mongodb.com/'>MongoDB</a>
 asl_provided: true
-tags:
+tags: science
 published: true
 ---
 
