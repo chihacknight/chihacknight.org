@@ -37,13 +37,15 @@ The appointed Board members approved by the Membership are:
 * **Cameron Sow (incumbent)**
 * **Alexis Shoemaker**
 
-### Election process
-The votes cast by 30 Chi Hack Night Members in person via paper ballot. The results were tallied by hand by Chi Hack Night Members Derek Eder, Josh Kalov, Howard Kier, Claire Micklin, and Katie O'Shea.
+### General Meeting and election process
+Voting took place at our General Meeting, which happens once a year according to our [Bylaws](). This meeting was for Chi Hack Night Members only. At the meeting we followed [this agenda](https://docs.google.com/document/d/1NiQ8fCLnDeWgeX_xORX6tWCnNpAkvCBx5vbuCzJ5zjw/edit#) and discussed a change to our Bylaws to allow Members who recently joined to participate in voting. We also heard from each of the 9 candidates running for elected or appointed seats. You can [read their candidate statements here](https://docs.google.com/document/d/1XyI7P0uHB7aFjA1e0w9W9cE_bTy1ZBNSLF6hIxOuCXw/edit).
 
 <p class="text-center"><img src="/images/blog/2020-02-05-election-results/general-meeting.jpg" alt="Chi Hack Night's first ever General Meeting with 30 Members in attendance. Photo by Jorge Garcia" class='img-responsive'/><br />
 
 <small><em>Chi Hack Night's first ever General Meeting with 30 Members in attendance. Photo by Jorge Garcia</em></small>
 </p>
+
+The votes cast by 30 Chi Hack Night Members in person via paper ballot. The results were tallied by hand by Chi Hack Night Members Derek Eder, Josh Kalov, Howard Kier, Claire Micklin, and Katie O'Shea.
 
 The final vote tallies are below:
 
@@ -69,4 +71,56 @@ Amendment to the Bylaws of Chi Hack Night (2/3rds approval for adoption)
 <p><img src="/images/blog/2020-02-05-election-results/election-results-paper.jpg" alt="Hand counted results from our 2020 General Meeting" class='img-responsive ' style='width: 50%;'/><br />
 
 <small><em>Hand counted results from our 2020 General Meeting</em></small>
+</p>
+
+More photos of the Chi Hack Night General Meeting, [courtesy of Jorge Garcia](https://twitter.com/yorickgarcia/status/1224857302479536129):
+
+<p><img src="/images/blog/2020-02-05-election-results/michael.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Michael Chladek making his candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/diana.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Diana Hernandez making her candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/joel.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Joel Inwood making his candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/sherman.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Eric Sherman making his candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/cameron.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Cameron Sow making his candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/ryan.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Ryan Spencer making her candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/soren.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Soren Spicknall making his candidate statement</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/drevets.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Outgoing Board Member Emily Drevets addressing the Membership</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/mieko.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Outgoing Board Member Mieko Furuhashi addressing the Membership</em></small>
+</p>
+
+<p><img src="/images/blog/2020-02-05-election-results/ediger.jpg" alt="" class='img-responsive' style='width: 50%;'/><br />
+
+<small><em>Outgoing Board Member Steve Ediger</em></small>
 </p>
