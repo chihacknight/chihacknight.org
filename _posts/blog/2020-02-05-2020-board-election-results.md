@@ -40,6 +40,11 @@ The appointed Board members approved by the Membership are:
 ### Election process
 The votes cast by 30 Chi Hack Night Members in person via paper ballot. The results were tallied by hand by Chi Hack Night Members Derek Eder, Josh Kalov, Howard Kier, Claire Micklin, and Katie O'Shea.
 
+<p class="text-center"><img src="/images/blog/2020-02-05-election-results/general-meeting.jpg" alt="Chi Hack Night's first ever General Meeting with 30 Members in attendance. Photo by Jorge Garcia" class='img-responsive'/><br />
+
+<small><em>Chi Hack Night's first ever General Meeting with 30 Members in attendance. Photo by Jorge Garcia</em></small>
+</p>
+
 The final vote tallies are below:
 
 Elected Board of Directors seats (top 3 vote getters are elected)
