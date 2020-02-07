@@ -6,7 +6,7 @@ name_first: "Katie"
 name_last: "O'Shea"
 position: "Secretary"
 seat: "Elected"
-term: "2 years"
+term_expires: "2021"
 committees:
   - "Event Operations"
   - "Social Media (Chair)"

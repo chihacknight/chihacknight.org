@@ -5,7 +5,7 @@ categories:
 name_first: "Josh"
 name_last: "Kalov"
 seat: "Elected"
-term: "2 years"
+term_expires: "2021"
 committees:
   - "Booking"
   - "Website (Chair)"

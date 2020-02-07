@@ -37,7 +37,7 @@ redirect_from:
       <td>
         <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong><br />
         Board seat: {{member.seat}}<br />
-        Term: {{member.term}}
+        Term: {{member.term_expires}}
       </td>
       <td class='hidden-xs hidden-sm'>
         {{member.content | truncatewords: 50}} <a href='{{ member.url }}'>Read more ></a>

@@ -5,7 +5,7 @@ categories:
 name_first: "Monique"
 name_last: "Wingard"
 seat: "Appointed"
-term: "2 years"
+term_expires: "2021"
 committees:
   - "Booking"
   - "Social Media"

@@ -5,13 +5,13 @@ categories:
 name_first: "Cameron"
 name_last: "Sow"
 seat: "Appointed"
-term: "1 year"
+term_expires: "2022"
 committees:
   - "Event Operations"
   - "Booking"
   - "Onboarding"
   - "Breakout Support (Chair)"
-date: 2019-01-01
+date: 2020-02-04
 image: "/images/people/board/cameron.jpg"
 permalink: /board-of-directors/cameron-sow.html
 published: true

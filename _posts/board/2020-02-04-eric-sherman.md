@@ -5,14 +5,14 @@ categories:
 name_first: "Eric"
 name_last: "Sherman"
 seat: "Elected"
-term: "1 year"
+term_expires: "2022"
 committees:
   - "Booking"
   - "Website"
   - "Breakout Support"
   - "Community Engagement"
   - "Finance"
-date: 2019-01-01
+date: 2020-02-04
 image: "/images/people/board/eric.jpg"
 permalink: /board-of-directors/eric-sherman.html
 published: true
