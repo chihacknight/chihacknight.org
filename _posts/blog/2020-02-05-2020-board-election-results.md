@@ -67,6 +67,8 @@ Amendment to the Bylaws of Chi Hack Night (2/3rds approval for adoption)
 
 * Approve - 27 votes ☑️
 
+8 of 12 Board Members also approved these Bylaws changes. The amendment is adopted.
+
 <br />
 <p><img src="/images/blog/2020-02-05-election-results/election-results-paper.jpg" alt="Hand counted results from our 2020 General Meeting" class='img-responsive ' style='width: 50%;'/><br />
 
