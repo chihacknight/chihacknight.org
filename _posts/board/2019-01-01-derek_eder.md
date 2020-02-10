@@ -6,7 +6,7 @@ name_first: "Derek"
 name_last: "Eder"
 position: "President"
 seat: "Elected"
-term_expires: "Feb 2021"
+term_expires: "2021"
 committees:
   - "Event Operations"
   - "Booking (Chair)"
