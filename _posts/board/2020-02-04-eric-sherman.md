@@ -16,6 +16,7 @@ date: 2020-02-04
 image: "/images/people/board/eric.jpg"
 permalink: /board-of-directors/eric-sherman.html
 published: true
+active: true
 ---
 
 Eric is a full stack developer (who learned how to code at Chi Hack Night!), GIS consultant, and public policy expert. He is very passionate about empowering marginalized groups and the potential ways for art and technology to intersect to tell powerful, relevant stories, and has [spoken on the subject]([https://youtu.be/ppf4K9fbVTA](https://youtu.be/ppf4K9fbVTA)). As board member, his focus is on outreach and community events, managing the website, project support, and booking. 

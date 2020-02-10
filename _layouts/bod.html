@@ -12,7 +12,11 @@ layout: default
       </div>
       <div class="col-sm-9">
         <h1>
-          <small>Chi Hack Night Board of Directors<br /></small>
+          {% if page.active %}
+            <small>Board Member<br /></small>
+          {% else %}
+            <small>Former Board Member<br /></small>
+          {% endif %}
           {{page.name_first}} {{page.name_last}}{% if page.position %}, {{page.position}}{% endif %}
         </h1>
         Board seat: {{page.seat}}<br />
@@ -22,10 +26,12 @@ layout: default
 
     {{ content }}
 
-    <h2>Committee positions</h2>
-    {% for comm in page.committees %}
-      {{comm}}<br />
-    {% endfor %}
+    {% if page.active %}
+      <h2>Committee positions</h2>
+      {% for comm in page.committees %}
+        {{comm}}<br />
+      {% endfor %}
+    {% endif %}
   </div>
   
 </div>

@@ -10,6 +10,7 @@ date: 2020-02-04
 image: "/images/people/board/alexis_shoemaker.jpg"
 permalink: /board-of-directors/alexis-shoemaker.html
 published: true
+active: true
 ---
 
 Bio coming soon

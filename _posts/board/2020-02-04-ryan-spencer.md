@@ -10,6 +10,7 @@ date: 2020-02-04
 image: "/images/people/board/ryan_spencer.jpg"
 permalink: /board-of-directors/ryan-spencer.html
 published: true
+active: true
 ---
 
 Bio coming soon
