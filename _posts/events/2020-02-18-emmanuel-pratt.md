@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links: 
-title: "[Re]Constructing Real Estate: The Question of Value?"
+title: "The Sweet Water Foundation"
 description: "At Chi Hack Night, Emmanuel + Sweet Water Foundation team members will discuss their plans for The Commonwealth, an emerging community land trust that is taking a triple bottom line (people, planet, profit) approach to neighborhood development of 10 city blocks at the nexus of the Englewood and Washington Park communities on Chicago’s South Side."
 speakers:
  - "Emmanuel Pratt, Co-Founder and Executive Director of Sweet Water Foundation"
