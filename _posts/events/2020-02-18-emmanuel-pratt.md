@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links: 
-title: "The Sweet Water Foundation"
+title: "Emmanuel Pratt, Sweet Water Foundation"
 description: "At Chi Hack Night, Emmanuel + Sweet Water Foundation team members will discuss their plans for The Commonwealth, an emerging community land trust that is taking a triple bottom line (people, planet, profit) approach to neighborhood development of 10 city blocks at the nexus of the Englewood and Washington Park communities on Chicago’s South Side."
 speakers:
  - "Emmanuel Pratt, Co-Founder and Executive Director of Sweet Water Foundation"
@@ -11,7 +11,7 @@ image: /images/events/385-SWF_ReConstructingRealEstate.jpg
 image_credit:
 date: 2020-02-18T18:00:00-05:00
 event_id: 385
-youtube_id: 
+youtube_id: KDBVgaPKmgw
 agenda: https://docs.google.com/document/d/1eOrEsLA9KtVO8jedrZEMkBnIdK9wY55UrTl7NWMDxwA/edit?usp=sharing
 sponsor: <a href='https://opentechstrategies.com/'>Open Tech Strategies</a>
 asl_provided: false
