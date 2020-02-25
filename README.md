@@ -50,21 +50,9 @@ docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyl
 
 ## Deploying
 
-Deployments are handled by Netlify by pushing to the `deploy` branch.
+Deployments are handled by Netlify by pushing to the `master` branch.
 
-We follow the pattern of keeping the `master` in sync with what we want on the live site. The `deploy` branch is a mirror of `master`. Don't ever commit to the `deploy` branch. 
-
-Instead, push `master` into `deploy`:
-
-```
-git push origin master:deploy
-```
-
-For convenience in pushing to master and deploying at the same time, use the following alias in your `.bash_profile`
-
-```
-alias git_deploy='git push origin master && git push origin master:deploy'
-```
+Whenver a branch is merged into `master`, or a commit is pushed to `master` it will trigger a Netlify deploy.
 
 ## Workflow
 The Chi Hack Night web team manages bugs, new features and site development through the [GitHub project board](https://github.com/chihacknight/chihacknight.org/projects/2).
