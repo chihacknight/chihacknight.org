@@ -7,8 +7,8 @@ name_last: "Kalov"
 seat: "Elected"
 term_expires: "2021"
 committees:
-  - "Booking"
   - "Website (Chair)"
+  - "Booking"
   - "Social Media"
   - "Membership"
 date: 2019-01-01

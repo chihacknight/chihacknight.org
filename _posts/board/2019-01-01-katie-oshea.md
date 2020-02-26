@@ -8,8 +8,8 @@ position: "Secretary"
 seat: "Elected"
 term_expires: "2021"
 committees:
-  - "Event Operations"
   - "Social Media (Chair)"
+  - "Event Operations"
   - "Onboarding"
   - "DEI"
 date: 2019-01-01

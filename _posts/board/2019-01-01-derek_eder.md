@@ -8,12 +8,12 @@ position: "President"
 seat: "Elected"
 term_expires: "2021"
 committees:
-  - "Event Operations"
   - "Booking (Chair)"
-  - "Website"
+  - "Fundraising (Chair)"
   - "Community Engagement"
   - "DEI"
-  - "Finance (Chair)"
+  - "Event Operations"
+  - "Website"
 date: 2019-01-01
 image: "/images/people/board/derek.jpg"
 permalink: /board-of-directors/derek-eder.html

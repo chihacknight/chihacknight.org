@@ -6,6 +6,11 @@ name_last: "Spencer"
 seat: "Appointed"
 term_expires: "2022"
 committees:
+ - "Onboarding (Chair)"
+ - "Booking"
+ - "Community Engagement"
+ - "DEI"
+ - "Event Operations"
 date: 2020-02-04
 image: "/images/people/board/ryan_spencer.jpg"
 permalink: /board-of-directors/ryan-spencer.html

@@ -4,14 +4,14 @@ categories:
   - board
 name_first: "Eric"
 name_last: "Sherman"
+position: "Treasurer"
 seat: "Elected"
 term_expires: "2022"
 committees:
-  - "Booking"
   - "Website"
   - "Breakout Support"
   - "Community Engagement"
-  - "Finance"
+  - "Fundraising"
 date: 2020-02-04
 image: "/images/people/board/eric.jpg"
 permalink: /board-of-directors/eric-sherman.html

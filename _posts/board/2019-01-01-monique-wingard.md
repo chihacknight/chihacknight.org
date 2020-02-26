@@ -7,10 +7,10 @@ name_last: "Wingard"
 seat: "Appointed"
 term_expires: "2021"
 committees:
+  - "DEI (Chair)"
   - "Booking"
   - "Social Media"
   - "Community Engagement"
-  - "DEI (Chair)"
 date: 2019-01-01
 image: "/images/people/board/monique.jpg"
 permalink: /board-of-directors/monique-wingard.html
