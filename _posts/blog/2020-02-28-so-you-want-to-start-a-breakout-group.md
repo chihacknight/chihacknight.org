@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "So you want to start a breakout group?"
-description: "A practical guide to running breakout groups at Chi Hack Night. Have an idea for a breakout group? This guide is for you! It contains hard-earned knowledge, reccomendations and resources compiled by Chi Hack Night veterans."
+description: "A practical guide to running breakout groups at Chi Hack Night. Have an idea for a breakout group? This guide is for you! It contains hard-earned knowledge, recommendations and resources compiled by Chi Hack Night veterans."
 date: 2020-02-28
 image: /images/events/potluck-collage.jpg
 author: Yonatan Kogan
