@@ -8,6 +8,7 @@ position: "Treasurer"
 seat: "Elected"
 term_expires: "2022"
 committees:
+  - "Membership (Chair)"
   - "Website"
   - "Breakout Support"
   - "Community Engagement"
