@@ -23,7 +23,7 @@ Due to the ongoing outbreak of COVID-19 (Coronavirus), Chi Hack Night has been p
 
 The decision was made by our hosting organization, Braintree/PayPal, to cancel all outside events (which includes Chi Hack Night) as a preventative measure. As a mass gathering of people from across the Chicago-land region, the Chi Hack Night Board sees this as an unfortunate, but necessary measure to do our part to curb the potential spread of the virus. As Zeynep Tufekci said in Scientific American, [preparing for Coronavirus is “not only smart; it’s also our civic duty.”](https://blogs.scientificamerican.com/observations/preparing-for-coronavirus-to-strike-the-u-s/?amp) And you know we’re all about that!
 
-While this news may be concerning to you, please note that according to the Chicago Department of Public Health, [the immediate health risk to the general public from the virus causing COVID-19 remains low both in the U.S. and in Chicago](https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/svcs/2019-novel-coronavirus--2019-ncov-.html).
+For daily updates, risk level, and actions you can take to prevent the spread of COVID-19 in Chicago, we recommend regularly checking the [Chicago Department of Public Health page on COVID-19](https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/svcs/2019-novel-coronavirus--2019-ncov-.html).
 
 In the coming weeks, Chi Hack Night will facilitate remote hack nights on Tuesdays over our [Slack channel](http://slackme.chihacknight.org/), [email](http://eepurl.com/z65hn) and [Twitter](https://twitter.com/search?q=chihacknight).
 
