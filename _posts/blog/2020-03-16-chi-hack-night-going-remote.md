@@ -17,7 +17,7 @@ author2_bio: "President, Chi Hack Night"
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/remote-hack-night-hackerman.gif" alt="Hackerman from Kung Fury says - lets hack!" style='width:75%;'/><br /><em><a href='https://www.youtube.com/watch?v=bS5P_LAqiVg' target="_blank">Hackerman</a> says: "Let's hack!"</em>
+<p class="text-center"><img src="/images/blog/remote-hack-night-hackerman.gif" alt="Hackerman from Kung Fury says - lets hack!" style='width:75%;'/><br /><em><a href='https://www.youtube.com/watch?v=bS5P_LAqiVg' target="_blank">Hackerman</a> says: "If its Tuesday, its hack night! Now go forth and hack!"</em>
 </p>
 
 *Due to the ongoing outbreak of COVID-19 (Coronavirus), in-person [Chi Hack Night is Postponed Until Further Notice](/blog/2020/03/09/chi-hack-night-postponed.html)*.
