@@ -5,7 +5,7 @@ categories:
 title: "Introducing Remote Chi Hack Nights"
 description: "Are you already feeling that Tuesday night void? Looking for a way to help out and contribute during the COVID-19 outbreak? Chi Hack Nights are going remote! Same time, but now from the comfort of your own home / quarantine location!"
 date: 2020-03-16
-image: 
+image: /images/blog/remote-hack-night-hackerman.gif
 author: Eric Sherman
 author_url:
 author_image: /images/people/eric_sherman.jpg
@@ -14,11 +14,13 @@ author2: Derek Eder
 author2_url: https://twitter.com/derekeder
 author2_image: /images/people/derek_eder.jpg
 author2_bio: "President, Chi Hack Night"
-
 published: true
 ---
 
-*Due to the ongoing outbreak of COVID-19 (Coronavirus), in-person [Chi Hack Night is Postponed Until Further Notice](/blog/2020/03/09/chi-hack-night-postponed.html)*
+<p class="text-center"><img src="/images/blog/remote-hack-night-hackerman.gif" alt="Hackerman from Kung Fury says - lets hack!" style='width:75%;'/><br /><em><a href='https://www.youtube.com/watch?v=bS5P_LAqiVg' target="_blank">Hackerman</a> says: "Let's hack!"</em>
+</p>
+
+*Due to the ongoing outbreak of COVID-19 (Coronavirus), in-person [Chi Hack Night is Postponed Until Further Notice](/blog/2020/03/09/chi-hack-night-postponed.html)*.
 
 Are you already feeling that Tuesday night void? Looking for a way to help out and contribute during the COVID-19 outbreak?
 
