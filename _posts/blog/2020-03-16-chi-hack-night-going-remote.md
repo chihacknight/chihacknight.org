@@ -47,4 +47,6 @@ Chi Hack Night now has a **#covid19** channel you are welcome to join for sharin
 
 **The Coronavirus Tech Handbook** A great collection of tools, websites and data relating to the Coronavirus outbreak. If you're building a project, please submit it! [https://coronavirustechhandbook.com](https://coronavirustechhandbook.com)
 
+**Find and Join a Mutual Aid Group** A compiled [list of over 100 Covid-19 Mutual Aid groups around the country](https://docs.google.com/spreadsheets/d/e/2PACX-1vRks16AM9mtiFCCdEJmckD9IszC7rHkvfRj6xxspMB4BBB8n_SiUsHCfbHbDCixmvNGTSPm7PEii2nP/pubhtml#).
+
 **Even more COVID-19 resources** For more, Chi Hack Night Board Member Cameron Sow is [organizing these resources and more here](https://airtable.com/shrb4c1bx0e1qjc5L/tblnnTETpr8U0Tx3x?blocks=hide).
