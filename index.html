@@ -60,7 +60,7 @@ layout: default
 </div> -->
 
 
-<!-- <div class="panel panel-default">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
@@ -79,7 +79,7 @@ layout: default
         {% endif %}
         <br />
         {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="{{site.rsvp_url}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
+          <!-- <a class='btn btn-success btn-lg' href="{{site.rsvp_url}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP (required)</a> -->
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
@@ -97,6 +97,7 @@ layout: default
   </div>
 </div>
 
+<!--
 {% for post in site.categories['satellite']  limit:1 %}
   {% if site.time <= post.date %}
     <div class="panel panel-default">
