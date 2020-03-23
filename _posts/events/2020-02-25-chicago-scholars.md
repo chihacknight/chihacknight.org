@@ -11,7 +11,7 @@ image: /images/events/386-jeff-beckham.jpg
 image_credit:
 date: 2020-02-25T18:00:00-05:00
 event_id: 386
-youtube_id: 
+youtube_id: rhxltOOVEIA
 agenda: https://docs.google.com/document/d/1hAF4XNypmjwY0AJCPewthlKGpMqFwtdhKZWeQ_f1w-E/edit#
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: false

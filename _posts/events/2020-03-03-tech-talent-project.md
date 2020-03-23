@@ -12,7 +12,7 @@ image: /images/events/387-tech-talent-project.jpg
 image_credit:
 date: 2020-03-03T18:00:00-05:00
 event_id: 387
-youtube_id: 
+youtube_id: YFz-xVQg4iM
 agenda: https://docs.google.com/document/d/1SOx7tj2plmSZiF88PbMoO9TBrYEd4OhHP76jxsN9d7k/edit?usp=sharing
 sponsor: <a href='https://www.chicagocityscape.com/'>Chicago Cityscape</a>
 asl_provided: false
