@@ -24,7 +24,7 @@ published: true
 
 Here’s how you can participate in Remote Chi Hack Nights:
 
-1. Join the Chi Hack Night Slack (What is Slack?): http://slackme.chihacknight.org/
+1. Join the Chi Hack Night Slack ([What is Slack?](https://slack.com/help/articles/115004071768-What-is-Slack-)): [http://slackme.chihacknight.org/](http://slackme.chihacknight.org/)
 2. Once you’re in, you’ll have access to a number of channels:
  - **#chihacknight** - Our main channel used to share news, announcements and presentations from Chi Hack Night. Only admins can post here, but anyone can respond to a thread or give emoji reactions.
  - **#chihacknight-remote** - For conducting our remote Chi Hack Night events. 
