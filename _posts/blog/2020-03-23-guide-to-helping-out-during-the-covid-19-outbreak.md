@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "The Civic Technologist's Guide to Helping Out During the COVID-19 Outbreak"
+title: "The Civic Technologist's Guide to Helping Out During the COVID-19 Outbreak (Chicagoland Edition)"
 description: "If you’re reading this, you’re probably interested in, or already part of Chicago’s civic tech community. With everyone sheltering in place, the tools we use and information that we share have never been more critical. Well, if you know about technology and its impact on civic life, this is your moment: you are someone who can be a leader in your own community and to the people that you love. This is a guide for volunteering with Chi Hack Night during the COVID-19 outbreak."
 date: 2020-03-23
 image: /images/blog/covid-19.jpg
@@ -86,7 +86,7 @@ The COVID-19 Digital Rapid Response Team will develop and execute strategies to 
 **[Technical support for Chicago Mutual Aid Groups](https://github.com/chihacknight/breakout-groups/issues/204)**<br />
 A number of Mutual Aid groups have formed in Chicago recently. The goal of this breakout group is to connect with as many of them as we can and offer our technical, operational and data expertise to them so they can reach and assist more people.
 
-For updates on our latest projects, check out our [COVID-19 breakout groups >](https://github.com/chihacknight/breakout-groups/labels/covid-19)**
+For updates on our latest projects, check out our **[COVID-19 breakout groups >](https://github.com/chihacknight/breakout-groups/labels/covid-19)**
 
 
 <h2 id='6'>6. Let us know how Chi Hack Night can support you</h2>
