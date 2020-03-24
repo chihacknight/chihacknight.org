@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Chi Hack Night’s Guide to Helping Out During the COVID-19 Outbreak"
+title: "The Civic Technologist's Guide to Helping Out During the COVID-19 Outbreak"
 description: "If you’re reading this, you’re probably interested in, or already part of Chicago’s civic tech community. With everyone sheltering in place, the tools we use and information that we share have never been more critical. Well, if you know about technology and its impact on civic life, this is your moment: you are someone who can be a leader in your own community and to the people that you love. This is a guide for volunteering with Chi Hack Night during the COVID-19 outbreak."
 date: 2020-03-23
 image: /images/blog/covid-19.jpg
