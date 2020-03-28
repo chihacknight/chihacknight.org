@@ -33,7 +33,7 @@ Here’s how you can participate in Remote Chi Hack Nights:
  - **#jobs** - For posting job opportunities and inquiring about job opportunities.
  - **#questions** - For asking questions about Chi Hack Night and civic tech generally.
  - **#watercooler** - Formerly known as #random. For posts about civic tech news, politics and other announcements.
- - **#covid19** - For organizing teams and opportunities to help out during the COVID-19 crisis.
+ - **#covid19-response** - For organizing teams and opportunities to help out during the COVID-19 crisis.
 
 ---
 

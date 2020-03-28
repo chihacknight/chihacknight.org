@@ -69,7 +69,7 @@ If you’re set on the above, we would love your help at Chi Hack Night. We are 
  - **#jobs** - For posting job opportunities and inquiring about job opportunities.
  - **#questions** - For asking questions about Chi Hack Night and civic tech generally.
  - **#watercooler** - Formerly known as #random. For posts about civic tech news, politics and other announcements.
- - **#covid19** - For sharing news and opportunities to help out during the COVID-19 crisis.
+ - **#covid19-response** - For sharing news and opportunities to help out during the COVID-19 crisis.
 
 <h2 id='5'>5. List of ongoing COVID-19 breakout group projects</h2>
 

@@ -37,7 +37,7 @@ As always, our [Code of Conduct](https://chihacknight.org/code-of-conduct.html) 
 Do you have feedback, questions, concerns, or comments you'd like to share that aren't related to a particular breakout group? Feel free to share them by reaching out to [info@chihacknight.org](mailto:info@chihacknight.org). We know this is a new situation for everyone, and we are here to support our community in the best ways we can! 
 
 ## Resources and actions to slow the spread of COVID-19 
-Chi Hack Night now has a **#covid19** channel you are welcome to join for sharing resources, info & opportunities to help specifically with this crisis. Here’s a few great examples we’ve shared out so far:
+Chi Hack Night now has a **#covid19-response** channel you are welcome to join for sharing resources, info & opportunities to help specifically with this crisis. Here’s a few great examples we’ve shared out so far:
 
 **#FlattenTheCurve** A one-stop place with practical knowledge and tips on COVID-19, and what each of us can do to slow the spread of the virus:  [Flattenthecurve.com](https://www.flattenthecurve.com/)
 
