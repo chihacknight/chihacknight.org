@@ -48,6 +48,7 @@ A lot of people are out of work now, and federal relief may not come for a while
 * [Out Of Work Due To Coronavirus? Here’s How To Get Unemployment Benefits, Rent Relief And More](https://blockclubchicago.org/2020/03/18/out-of-work-due-to-coronavirus-heres-how-to-get-unemployment-benefits-rent-relief-and-more/), Block Club Chicago
 * [Sign up for SNAP (formerly known as food stamps)](https://www.mrelief.com/coronavirus), mRelief
 * [Participate in a mutual aid effort, requesting or providing supplies and help in your neighborhood](https://www.mutualaidhub.org/).
+* [https://blockclubchicago.org/2020/03/26/want-to-help-dont-know-where-to-start-heres-a-list-of-chicago-groups-that-need-donations-right-now/](Want To Help, Don’t Know Where To Start? Here’s A List Of Chicago Groups That Need Donations Right Now)
 
 <h2 id='3'>3. Stay informed by trusted sources</h2>
 Next, it’s important to stay informed. The news changes every day and there are no shortage of sources out there that you are probably already reading. The biggest challenge here is knowing what to pay attention to, and what to ignore. Here’s a few suggestions we have:
