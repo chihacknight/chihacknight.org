@@ -11,7 +11,7 @@ image_credit:
 date: 2020-03-31T18:00:00-05:00
 event_id: 391
 youtube_id: 
-agenda: https://docs.google.com/document/d/1e532sruhH_V3JtmBIOlrz-QQqUKpmAKVvYqvAgOpKv4/edit?usp=sharing
+agenda: https://docs.google.com/document/d/123armE4kvECYODWZqE2M6A1jIbLSsMZMNkQnMxoO-FM/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
