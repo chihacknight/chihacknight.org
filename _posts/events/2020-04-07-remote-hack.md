@@ -35,7 +35,7 @@ Here’s how you can participate in Remote Chi Hack Nights:
  - **#watercooler** - Formerly known as #random. For posts about civic tech news, politics and other announcements.
  - **#covid19-response** - For organizing teams and opportunities to help out during the COVID-19 crisis.
 
-3. Participate in one of our ongoing breakout groups: https://chihacknight.org/breakouts.html
+3. Participate in one of our ongoing [breakout groups](https://chihacknight.org/breakouts.html).
 
 ---
 
