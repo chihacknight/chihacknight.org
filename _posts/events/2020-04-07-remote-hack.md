@@ -35,16 +35,7 @@ Here’s how you can participate in Remote Chi Hack Nights:
  - **#watercooler** - Formerly known as #random. For posts about civic tech news, politics and other announcements.
  - **#covid19-response** - For organizing teams and opportunities to help out during the COVID-19 crisis.
 
-3. Participate in one of our ongoing COVID-19 breakout group projects
- - **[Researching local government pages to be updated in the wake of COVID-19](https://github.com/chihacknight/breakout-groups/issues/202)**<br />
-  In the wake of COVID-19, most government agencies have transitioned to remote work. The goal of this group is to find instances where local gov agencies haven’t updated their pages on their website with how things are going to work now that they are mostly working remote.
- - **[COVID-19 Digital Rapid Response](https://github.com/chihacknight/breakout-groups/issues/203)**<br />
-  Lots of inaccurate COVID-19 information, some of it dangerous, is getting pushed out via social media and other types of digital communications. Some misinformation is shared by people on their own social media accounts, but misinformation can also spread by people posting misleading or inaccurate responses to legitimate questions posed by others on social media. The COVID-19 Digital Rapid Response Team will develop and execute strategies to mitigate the spread of misinformation and amplify the spread of important information from trusted sources.
-- **[Technical support for Chicago Mutual Aid Groups](https://github.com/chihacknight/breakout-groups/issues/204)**<br />
-  A number of Mutual Aid groups have formed in Chicago recently. The goal of this breakout group is to connect with as many of them as we can and offer our technical, operational and data expertise to them so they can reach and assist more people.
-
-For updates on our latest projects, check out our **[COVID-19 breakout groups >](https://github.com/chihacknight/breakout-groups/labels/covid-19)**
-
+3. Participate in one of our ongoing breakout groups: https://chihacknight.org/breakouts.html
 
 ---
 
