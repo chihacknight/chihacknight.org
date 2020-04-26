@@ -23,7 +23,7 @@ published: true
 
 [Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Same time (6pm Tuesdays), but now from the comfort of your self-quarantine location!
 
-**This week we will have our first remote presentation. Join us in our slack channel on Tuesday for details on how to tune in and stick around after for live Q&A with nikhil.**
+**This week we will have our first remote presentation. Join us Tuesday at 6pm on our YouTube channel for the [live stream](http://youtube.com/chihacknight/live) and stick around after for live Q&A with nikhil.**
 
 The Art Institute of Chicago is one of the oldest and largest art museums in the United States. As part of a recent website redesign, their engineers embarked on aggregating all the museum's public data into one place and serving it all up through a unified, searchable API. That API will be formally launched as their public API later this year, and Chi Hack Night will get a sneak peek.
 
