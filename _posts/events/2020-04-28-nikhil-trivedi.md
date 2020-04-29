@@ -11,7 +11,7 @@ image: /images/events/395-nikhil-trivedi.jpg
 image_credit:
 date: 2020-04-28T18:00:00-05:00
 event_id: 395
-youtube_id: 
+youtube_id: 1YAFJdXZiC8
 agenda: https://docs.google.com/document/d/18W5MzJzfxtsbTemtIljbz-Gh6Pkt9mf1mZ9XzD7tR14/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
