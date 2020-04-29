@@ -29,6 +29,7 @@ The tragic events that we know colloquially as 3/11 began the afternoon of March
 This talk tackles several pressing mysteries. Perhaps the biggest one is how so many people survived one of the most catastrophic events of the last decade. Despite the massive height and broad impact of the tsunami, some 96% of those living and working in the inundated areas in Tōhoku made it through. Smaller- scale earthquakes and tsunami have killed far more people in nearby countries such as China and India. Yet even with such a high survival rate overall, some towns and cities in northeastern Japan suffered significantly more than others. Accordingly, Aldrich investigates why survival and mortality rates varied so much across the Tōhoku region.
 
 Further, the rebuilding process has not moved in lockstep across the area, nor has it proceeded according to government mandates. Aldrich uses qualitative and quantitative data to show precisely how trust, reciprocity, and social ties worked during these multiple crises. Using Japan's 3/11 triple disasters - earthquake, tsunami, and nuclear meltdowns - he walks the audience through a narrative focused on how social ties are the critical element in surviving and thriving in disaster. He also shows how these ties can be mapped and improved through deliberate interventions.
+
 ---
 
 <!-- **RSVP required** Braintree now requires all attendees to [RSVP beforehand]({{site.rsvp_url}}) by 12:00 PM (noon). Walk-ins will not be allowed! -->
