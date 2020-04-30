@@ -28,9 +28,10 @@ Chi Hack Nights are going remote! Same time, but now from the comfort of your ow
 
 Here’s how you can participate in Remote Chi Hack Nights:
 
-1. Join the Chi Hack Night Slack [(What is Slack?)](https://slack.com/help/articles/115004071768-What-is-Slack-): [http://slackme.chihacknight.org/](http://slackme.chihacknight.org/)
-2. Once you’re in, join the **#chihacknight-remote** channel. This will be the virtual hangout for Remote Chi Hack Night. Members of [Chi Hack Night’s Board](https://chihacknight.org/board-of-directors.html) will be around to answer questions, provide resources about working remotely, share memes, talk and create a positive space to hang out in. 
-3. Existing breakout groups can also pitch their projects in this channel. You can also start a new breakout group if you’d like! Want to learn more about starting a breakout group? [Read this informative blog post](https://chihacknight.org/blog/2020/02/28/so-you-want-to-start-a-breakout-group.html).
+1. Tune into our **[livestream](http://youtube.com/chihacknight/live)** every Tuesday at 6pm with weekly presentations, Q&A and civic hacking!
+2. Join the Chi Hack Night Slack [(What is Slack?)](https://slack.com/help/articles/115004071768-What-is-Slack-): [http://slackme.chihacknight.org/](http://slackme.chihacknight.org/)
+3. Once you’re in, join the **#chihacknight-remote** channel. This will be the virtual hangout for Remote Chi Hack Night. Members of [Chi Hack Night’s Board](https://chihacknight.org/board-of-directors.html) will be around to answer questions, provide resources about working remotely, share memes, talk and create a positive space to hang out in. 
+4. Existing breakout groups can also pitch their projects in this channel. You can also start a new breakout group if you’d like! Want to learn more about starting a breakout group? [Read this informative blog post](https://chihacknight.org/blog/2020/02/28/so-you-want-to-start-a-breakout-group.html).
 
 As always, our [Code of Conduct](https://chihacknight.org/code-of-conduct.html) will apply to this new mode of hack nights. [Some basic etiquette](https://slackhq.com/etiquette-tips-in-slack) also goes a long way towards making the experience fun and useful for everyone!
 
