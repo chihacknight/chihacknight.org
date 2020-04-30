@@ -20,9 +20,11 @@ published: true
 
 ---
 
-[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Same time (6pm Tuesdays), but now from the comfort of your self-quarantine location!
+[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Same time, but now from the comfort of your self-quarantine location!
 
-**This week we will have another remote presentation. Join us Tuesday at 6pm on our YouTube channel for the live stream at [http://youtube.com/chihacknight/live](http://youtube.com/chihacknight/live) and stick around after for live Q&A with nikhil.**
+Tune into our livestream at 6pm CST every Tuesday: **[youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)**
+
+---
 
 The tragic events that we know colloquially as 3/11 began the afternoon of March 11, 2011, but have continued to affect survivors and rivet the world for more than nine years. A trio of disasters— an earthquake, tsunami, and nuclear meltdown— paralyzed Japan, a country ranked among the world’s most advanced, industrialized democracies with some of the best building regulations and best- trained engineers. Hundreds of miles of breakwaters and seawalls defended the coastal population of Tōhoku, the region most affected by the disaster. Concrete barriers and planted pine forests along nearly half the shoreline served as additional layers of protection against massive waves. But the tsunami set off by the 9.0 Great East Japan Earth-quake not only killed more than 18,400 people but also caused full fuel meltdowns in three of the six reactors at the Fukushima Dai-ichi nuclear power plant.
 
