@@ -11,7 +11,7 @@ image: /images/events/396-black-wave.jpg
 image_credit:
 date: 2020-05-05T18:00:00-05:00
 event_id: 396
-youtube_id: 
+youtube_id: Vz2vuW8OArI
 agenda: https://docs.google.com/document/d/1elcHdDJPbCOFFBi9tfixgNvf-qF61b0JwFFuVNdoJu8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
