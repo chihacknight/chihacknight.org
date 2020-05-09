@@ -43,7 +43,7 @@ With this designation, all [donations to Chi Hack Night](/donate/) are now tax-d
 
 When we incorporated as a non-profit, we did so as a member-based organization. We are planning to bring our Members together so that we can check in with each other, provide updates to them, and discuss ways that Chi Hack Night can continue to adapt to serve our community moving forward. If you’re a Member, we look forward to seeing you then. 
 
-You can learn more about what it means to be a [Member here](/membership/application.html).
+You can learn more about what it means to be a Member [here](/membership/application.html).
 
 **Chi Hack Night’s 400 episode is on June 2nd, 2020. Share a short video to help celebrate!**
 
@@ -54,6 +54,10 @@ Has Chi Hack Night affected you in some way? Did you work on a meaningful projec
 We'll share it at Chi Hack Night on June 2nd!
 
 Submit your video here: [https://forms.gle/ZJW7mpnuAvrKHZDn9](https://forms.gle/ZJW7mpnuAvrKHZDn9)
+
+**We need your help!**
+We know these are challenging times. If you are looking for ways to help, we would love to have you! We are looking for volunteers to help continue to fill out our roatating cast of hosts and generally be present to help things run smoothly in our new remote only context. 
+You can sign up to volunteer [here](https://forms.gle/nR7HjqYpm5ZWXQ7q6).
 
 **We’d like to hear from you!**
 
