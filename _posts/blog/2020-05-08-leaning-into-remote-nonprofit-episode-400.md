@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Chi Hack Night updates: leaning into remote, 501(c)(3) status attained & episode 400!"
+title: "Leaning into remote, 501(c)(3) status attained & celebrating episode 400!"
 description: "As we enter into the second month of staying at home and the world being turned upside down by COVID-19, we’d like to share what Chi Hack Night has been up to, as well as some exciting updates. We are now a 501(c)(3) charitable organization and our 400th episode is coming up next month!"
 date: 2020-05-08
 image: /images/blog/chihacknight_nfp.jpg
