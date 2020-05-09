@@ -6,10 +6,10 @@ title: "Chi Hack Night updates: leaning into remote, 501(c)(3) status attained &
 description: "As we enter into the second month of staying at home and the world being turned upside down by COVID-19, we’d like to share what Chi Hack Night has been up to, as well as some exciting updates. We are now a 501(c)(3) charitable organization and our 400th episode is coming up next month!"
 date: 2020-05-08
 image: /images/blog/chihacknight_nfp.jpg
-author: The Board of Directors
+author: The Chi Hack Night Board of Directors
 author_url: https://chihacknight.org/board-of-directors.html
 author_image: /images/logo/logo-star.png
-author_bio: "The Chi Hack Night Board of Directors"
+author_bio: ""
 author2: 
 author2_url: 
 author2_image: 
