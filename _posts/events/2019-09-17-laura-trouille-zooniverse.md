@@ -7,7 +7,7 @@ title: "Zooniverse: Unlocking Data through People-Powered Research"
 description: "The Zooniverse is the world’s largest platform for online citizen science, engaging more than 1.7 million volunteers around the world (including 18,000 Chicagoans) in over 100 projects across the disciplines, from identifying animals in images from the Serengeti to discovering planets around distant stars to transcribing African American Civil War soldiers’ service records to tracking resistance to antibiotics."
 speakers:
  - "Dr. Laura Trouille, Vice President of Citizen Science at the Adler Planetarium"
-image: /images/events/366-Zooniverse-images2.png
+image: /images/events/366-Zooniverse-images2.jpg
 date: 2019-09-17T18:00:00-05:00
 event_id: 366
 youtube_id: ZrT_4eEA2Iw

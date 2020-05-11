@@ -11,7 +11,7 @@ speakers:
  - Derek Burk
  - Mary Kuhn
  - Eric Sherman
-image: /images/events/159-slowroll.png
+image: /images/events/159-slowroll.jpg
 date: 2015-06-09T18:00:00-05:00
 event_id: 159
 youtube_id: 

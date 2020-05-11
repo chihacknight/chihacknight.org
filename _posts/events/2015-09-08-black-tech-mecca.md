@@ -9,7 +9,7 @@ speakers:
  - Fabian Elliott, Black Tech Mecca
  - Corey Thurman, Black Tech Mecca
  - Myron Hicks, Black Tech Mecca
-image: /images/events/172-black-tech-mecca.png
+image: /images/events/172-black-tech-mecca.jpg
 date: 2015-09-08T18:00:00-05:00
 event_id: 172
 youtube_id: 
