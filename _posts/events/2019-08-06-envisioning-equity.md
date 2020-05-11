@@ -8,7 +8,7 @@ description: "There's a whole lot of talk in the news about people saying 'I don
 speakers:
  - Heidi Massey, Co-Creator, Envisioning Equity and Founder, CommunityConnective
  - Prerna Abbi-Scanlon, Partner, Envisioning Equity and Co-Founder, Moxie Consultancy Collective
-image: /images/events/360-Prerna-and-Heidi.png
+image: /images/events/360-Prerna-and-Heidi.jpg
 date: 2019-08-06T18:00:00-05:00
 event_id: 360
 youtube_id: YndLXDVyV-g

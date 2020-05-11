@@ -8,7 +8,7 @@ description: "The Freedom of Information Act is an important tool for monitoring
 speakers:
  - Matt Topic
  - Josh Burday
-image: /images/events/353-topic-burday-foia.png
+image: /images/events/353-topic-burday-foia.jpg
 image_credit:
 date: 2019-06-11T18:00:00-05:00
 event_id: 353

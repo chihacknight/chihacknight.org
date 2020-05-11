@@ -7,7 +7,7 @@ title: "Building city technology for police accountability in the City of Austin
 description: "The City of Austin now has an online form for submitting anonymous feedback on police conduct. Eric Sherman, , Full Stack Developer at the City of Austin's Office of Design and Delivery, will talk about what it took to get there, and what that can mean for police accountability in other cities."
 speakers:
   - "Eric Sherman, Full Stack Developer at the City of Austin's Office of Design and Delivery"
-image: /images/events/OPO.png
+image: /images/events/OPO.jpg
 date: 2019-10-22T18:00:00-05:00
 event_id: 371
 youtube_id: osNs6vHU1ec
