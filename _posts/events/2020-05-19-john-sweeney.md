@@ -11,7 +11,7 @@ image: /images/events/398-263904128_386514.jpg
 image_credit:
 date: 2020-05-19T18:00:00-05:00
 event_id: 398
-youtube_id: 
+youtube_id: wyXX9BZAUPo
 agenda: 
 sponsor: Chi Hack Night Community
 asl_provided: false
