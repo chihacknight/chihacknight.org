@@ -12,7 +12,7 @@ image: /images/events/399-angela-siefer.jpg
 image_credit:
 date: 2020-05-26T18:00:00-05:00
 event_id: 399
-youtube_id: 
+youtube_id: vH6OzlODP2I
 agenda: 
 sponsor: Chi Hack Night Community
 asl_provided: false
