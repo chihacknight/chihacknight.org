@@ -20,7 +20,7 @@ published: true
 
 ---
 
-[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Same time, but now from the comfort of your self-quarantine location!
+[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Now from the comfort of your self-quarantine location!
 
 Tune into our livestream at 7pm CST every Tuesday: **[youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)**
 
