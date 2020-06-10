@@ -11,7 +11,7 @@ image: /images/events/401-nick-lucius.jpg
 image_credit:
 date: 2020-06-09T19:00:00-05:00
 event_id: 401
-youtube_id: 
+youtube_id: K7wFnbeBtl0
 agenda: 
 sponsor: Chi Hack Night Community
 asl_provided: false
