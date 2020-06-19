@@ -15,7 +15,7 @@ image_credit:
 date: 2020-06-23T19:00:00-05:00
 event_id: 403
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1Vngjjm7oKIDOKvuUikShyjVaOUb1GpD6X35bSM2_sWo/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) Now from the comfort of your self-quarantine location!
+[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) You can participate from anywhere with an internet connection!
 
 Tune into our livestream at 7pm CST every Tuesday: **[youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)**
 

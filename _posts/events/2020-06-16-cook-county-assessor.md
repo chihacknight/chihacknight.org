@@ -12,7 +12,7 @@ image: /images/events/402-COVID19_mapsnapshot.jpg
 image_credit:
 date: 2020-06-16T19:00:00-05:00
 event_id: 402
-youtube_id: 
+youtube_id: VFFjjTyEmy0
 agenda: 
 sponsor: Chi Hack Night Community
 asl_provided: false
