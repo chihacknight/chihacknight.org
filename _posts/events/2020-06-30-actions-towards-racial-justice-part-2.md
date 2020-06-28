@@ -23,11 +23,13 @@ published: true
 
 ---
 
-After our 400th episode group discussion on Actions Towards Racial Justice, we received overwhelming feedback that people wanted to continue the conversation and create a space for productive conversation around racial justice, equity and being anti-racist. 
+After our 400th episode group discussion on [Actions Towards Racial Justice](/events/2020/06/02/episode-400.html), we received overwhelming feedback that people wanted to continue the conversation and create a space for productive conversation around racial justice, equity and being anti-racist. 
 
 For our 404th episode, we will gather again via Zoom call to discuss constructive ways our community can support efforts to end racial injustice.
 
 **Join the Zoom call at 7pm**: [https://bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
+
+If you weren't at our last conversation, that's ok! But it would be a good idea to watch Heidi Massey and Prerna Abbi-Scanlon's presentation on [Envisioning Equity: Being Nice Is Not Enough](/events/2019/08/06/envisioning-equity.html) to get some background on being anti-racist.
 
 We will follow the same format as we did for our 400th episode. For a large portion of the discussion, we will be splitting up into affinity groups. You can read more about what affinity groups are in this context and why that is important [here](https://www.racialequitytools.org/act/strategies/caucus-affinity-groups). 
 
