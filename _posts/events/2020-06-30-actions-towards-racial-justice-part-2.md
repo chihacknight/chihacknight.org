@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links:
-title: "CHN 404: Actions Towards Racial Justice"
+title: "Actions Towards Racial Justice - Part II"
 description: "After our 400th episode group discussion on Actions Towards Racial Justice, we received overwhelming feedback that people wanted to continue the conversation and create a space for productive conversation around racial justice, equity and being anti-racist. For our 404th episode, we will gather again via Zoom call to discuss constructive ways our community can support efforts to end racial injustice."
 speakers:
 image: /images/logo/logo-star-social.jpg
@@ -27,9 +27,7 @@ After our 400th episode group discussion on Actions Towards Racial Justice, we r
 
 For our 404th episode, we will gather again via Zoom call to discuss constructive ways our community can support efforts to end racial injustice.
 
-**Zoom link**: [https://bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
-
-[Agenda](https://docs.google.com/document/d/1qwZeESWnND85yLdDZ8lKuGQqoSTHEF_SwrisgyMgynE/edit#)
+**Join the Zoom call at 7pm**: [https://bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
 
 We will follow the same format as we did for our 400th episode. For a large portion of the discussion, we will be splitting up into affinity groups. You can read more about what affinity groups are in this context and why that is important [here](https://www.racialequitytools.org/act/strategies/caucus-affinity-groups). 
 
@@ -44,6 +42,8 @@ We want to be clear that the primary focus of this time will be to process how w
 
 Afterwards, we’ll come back together and share out what each group discussed and identify next steps that we can take as a community.
 
----
+**Bonus: ChiCommons presents Chi Hack Night Pre-Party**
 
-**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
+Grab your dinner or a drink and join us at 6:30pm before Chi Hack Night to socialize, touch base, and share what you plan on doing at Chi Hack Night tonight!
+
+[Join the pre-party at 6:30pm on Zoom](https://us02web.zoom.us/j/85321634926?pwd=WlFGK3JjN3FISzJnaU1HOG9VdUdZUT09)
