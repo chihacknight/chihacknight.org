@@ -20,11 +20,13 @@ published: true
 
 ---
 
-[Chi Hack Nights are now remote!](/blog/2020/03/16/chi-hack-night-going-remote.html) You can participate from anywhere with an internet connection!
+Agenda:
 
-Tune into our livestream at 7pm CST every Tuesday: **[youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)**
-
----
+* **6:30pm: ChiCommons/Chi Hack Night Pre-Party**<br />
+Socialize, touch base, and share what you plan on doing at Chi Hack Night [bit.ly/CHNpre-party](https://bit.ly/CHNpre-party)
+* **7:00pm: Livestream presentation starts**<br /> Announcements and feature presentation with Q&A [youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)
+* **8:00pm: Open zoom call** 3-word intros, community 
+  announcements & breakout group pitches [bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
 
 As Chicago and other cities across the world begin reopening, communities are trying to figure out how to get the supplies that are needed to the places that need them the most. To make this happen, cities need technology solutions that allow them to obtain and share supplies — in other words, they need to become circular cities. To be circular means to keep materials continuously in use, extending life cycles and designing out waste. 
 
