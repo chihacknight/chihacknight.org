@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "A Live Attempt At Building Circular Cities"
+title: "Chicago's PPE Market"
 description: "As Chicago and other cities across the world begin reopening, communities are trying to figure out how to get the supplies that are needed to the places that need them the most. Chicago PPE Market connects Chicago businesses and nonprofits to local distributors of PPE materials, allowing businesses to ensure their customers and staff are safe upon their return to work."
 speakers:
  - "Garr Punnett, Chief of Staff & Sustainability"
