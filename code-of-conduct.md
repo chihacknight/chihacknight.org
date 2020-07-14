@@ -55,4 +55,4 @@ Before taking photographs Chi Hack Night participants, please ask for verbal app
 
 Created collaboratively by the Chi Hack Night community, adapted from the [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct).
 
-*Version 1.3. Published on Feb 25, 2019. This Code of Conduct is licensed to the public under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license. [View the change history on GitHub](https://github.com/chihacknight/chihacknight.org/commits/master/code-of-conduct.md)*
+*Version 1.3. Published on Feb 25, 2019. This Code of Conduct is licensed to the public under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license. [View the change history on GitHub](https://github.com/chihacknight/chihacknight.org/commits/production/code-of-conduct.md)*
