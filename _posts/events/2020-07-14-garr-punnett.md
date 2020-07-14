@@ -23,7 +23,7 @@ published: true
 Agenda:
 
 * **6:30pm: ChiCommons/Chi Hack Night Pre-Party**<br />
-Socialize, touch base, and share what you plan on doing at Chi Hack Night [bit.ly/CHNpre-party](https://bit.ly/CHNpre-party)
+Socialize, touch base, and share what you plan on doing at Chi Hack Night [bit.ly/CHN-pre-party](https://bit.ly/CHN-pre-party)
 * **7:00pm: Livestream presentation starts**<br /> Announcements and feature presentation with Q&A [youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)
 * **8:00pm: Open zoom call** 3-word intros, community 
   announcements & breakout group pitches [bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
