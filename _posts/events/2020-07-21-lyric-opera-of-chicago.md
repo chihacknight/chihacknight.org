@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: https://docs.google.com/document/d/1zGM0byg8DR-o9XCXuWxCpGXuiGItE9ve-wQRsskOOww/edit?usp=sharing
-title: "Lyric Opera of Chicago"
+title: "The Lyric Opera of Chicago's EmpowerYouth! Program"
 description: "How do people create community when they physically can't be together? That was the challenge that Crystal Coats and Angela Hamilton of the Lyric Opera of Chicago faced this spring. When COVID-19 meant participants had to stay home, the future of Lyric Unlimited’s community programming was uncertain. In this presentation, Coats and Hamilton will talk about the process of doing art online, keeping young people engaged, and maintaining community during a pandemic."
 speakers:
  - "Crystal Coats, Interim Director of Lyric Unlimited"
