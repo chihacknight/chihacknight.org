@@ -50,14 +50,14 @@ docker run --rm --label=jekyll --volume=%CD%:/srv/jekyll  -it -p 4000:4000 jekyl
 
 ## Deploying
 
-Deployments are handled by Netlify by pushing to the `master` branch.
+Deployments are handled by Netlify by pushing to the `production` branch.
 
-Whenver a branch is merged into `master`, or a commit is pushed to `master` it will trigger a Netlify deploy.
+Whenver a branch is merged into `production`, or a commit is pushed to `production` it will trigger a Netlify deploy.
 
 ## Workflow
 The Chi Hack Night web team manages bugs, new features and site development through the [GitHub project board](https://github.com/chihacknight/chihacknight.org/projects/2).
 
-To ensure high code quality, we practice using pull requests and having at least one member of the web team review them before merging in to `master`. 
+To ensure high code quality, we practice using pull requests and having at least one member of the web team review them before merging in to `production`. 
 
 ## Protocols
 
