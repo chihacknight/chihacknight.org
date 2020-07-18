@@ -13,7 +13,7 @@ image_credit:
 date: 2020-07-21T19:00:00-05:00
 event_id: 406
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1zGM0byg8DR-o9XCXuWxCpGXuiGItE9ve-wQRsskOOww/edit
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
