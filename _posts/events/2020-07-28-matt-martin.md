@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Police reform in Chicago: why it's taking so long and what we can do about it?"
+title: "Police reform in Chicago: why it's taking so long and what we can do about it"
 description: "Join us for a conversation with 47th Ward Alderman Matt Martin to discuss the status of police reform in Chicago and why the CPD budget must remain part of that discussion."
 speakers:
  - "Matt Martin, 47th Ward Alderman"
