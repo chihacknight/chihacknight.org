@@ -17,6 +17,7 @@ agenda: https://docs.google.com/document/d/1SOx7tj2plmSZiF88PbMoO9TBrYEd4OhHP76j
 sponsor: <a href='https://www.chicagocityscape.com/'>Chicago Cityscape</a>
 asl_provided: false
 tags: 
+ - govtech
 published: true
 
 ---

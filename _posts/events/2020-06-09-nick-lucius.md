@@ -16,6 +16,9 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - covid-19
+ - govtech
+ - 'open data'
 published: true
 
 ---

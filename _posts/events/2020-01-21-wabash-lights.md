@@ -14,7 +14,7 @@ youtube_id: enfdp0DgZ-s
 agenda: https://docs.google.com/document/d/1olNjjbLlMy40AULImivEpuEuTE6mSBsyLq4h4W_9mLU/edit?usp=sharing
 sponsor: <a href='https://chihacknight.org/'>Chi Hack Night Community</a>
 asl_provided: false
-tags: art
+tags: arts
 published: true
 ---
 

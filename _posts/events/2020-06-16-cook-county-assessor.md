@@ -17,6 +17,9 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - govtech
+ - "real estate"
+ - taxes
 published: true
 
 ---

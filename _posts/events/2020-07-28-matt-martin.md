@@ -15,7 +15,7 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1WtUSobtVdjxBKG8EwheVeDYLkBXj4_3JXJk9ohY_fN8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: "police accountability"
 published: true
 
 ---

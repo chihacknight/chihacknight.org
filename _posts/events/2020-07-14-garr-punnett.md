@@ -15,7 +15,7 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1uLokGI3-km7u3mxafhE4ItMfYCoi7YDbfydLPF8_uYI/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: "marketplaces"
 published: true
 
 ---

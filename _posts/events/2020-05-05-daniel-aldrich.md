@@ -16,6 +16,7 @@ agenda: https://docs.google.com/document/d/1elcHdDJPbCOFFBi9tfixgNvf-qF61b0JwFFu
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - covid-19
 published: true
 
 ---

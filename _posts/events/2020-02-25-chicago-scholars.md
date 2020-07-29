@@ -16,6 +16,8 @@ agenda: https://docs.google.com/document/d/1hAF4XNypmjwY0AJCPewthlKGpMqFwtdhKZWe
 sponsor: <a href='https://datamade.us/'>DataMade</a>
 asl_provided: false
 tags: 
+ - education
+ - 'racial equity'
 published: true
 
 ---

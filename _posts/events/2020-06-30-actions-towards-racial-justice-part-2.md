@@ -14,7 +14,7 @@ youtube_id:
 agenda: https://docs.google.com/document/d/1qwZeESWnND85yLdDZ8lKuGQqoSTHEF_SwrisgyMgynE/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags:
+tags: "racial equity"
 published: true
 
 ---

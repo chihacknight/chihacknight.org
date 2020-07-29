@@ -16,6 +16,7 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - "participatory futures"
 published: true
 
 ---

@@ -19,6 +19,8 @@ agenda: https://docs.google.com/document/d/1Vngjjm7oKIDOKvuUikShyjVaOUb1GpD6X35b
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - "racial equity"
+ - govtech
 published: true
 
 ---

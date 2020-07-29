@@ -16,6 +16,8 @@ agenda: https://docs.google.com/document/d/1eOrEsLA9KtVO8jedrZEMkBnIdK9wY55UrTl7
 sponsor: <a href='https://opentechstrategies.com/'>Open Tech Strategies</a>
 asl_provided: false
 tags: 
+ - 'urban farming'
+ - environment
 published: true
 
 ---

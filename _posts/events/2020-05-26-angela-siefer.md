@@ -17,6 +17,7 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - 'digital equity'
 published: true
 
 ---
