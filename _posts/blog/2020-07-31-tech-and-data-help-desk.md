@@ -17,6 +17,9 @@ author2_bio:
 published: true
 ---
 
+<p class="text-center"><img src="/images/blog/help-desk-form.jpg" alt="The Tech & Data Help Desk Request Form" class='img-responsive'/>
+</p>
+
 Chi Hack Night is now offering **free tech & data assistance to nonprofits, government, small businesses and people** that request it.
 
 With everyone adjusting to a more digital work and life, we see a large and growing need for technical and data assistance, but with little or no means to pay for it. The Chi Hack Night Tech & Data Help Desk is here to help.
