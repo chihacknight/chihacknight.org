@@ -11,7 +11,7 @@ image: /images/events/405-rheaply.jpg
 image_credit:
 date: 2020-07-14T19:00:00-05:00
 event_id: 405
-youtube_id: 
+youtube_id: ykWg6mcGRis
 agenda: https://docs.google.com/document/d/1uLokGI3-km7u3mxafhE4ItMfYCoi7YDbfydLPF8_uYI/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

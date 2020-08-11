@@ -13,7 +13,7 @@ image: /images/events/408-chicago-zip-thumbnail.jpg
 image_credit:
 date: 2020-08-04T19:00:00-05:00
 event_id: 408
-youtube_id: 
+youtube_id: BjLz9shN2_M
 agenda: https://docs.google.com/document/d/1vYmL47tm2hhPsNxzUhqcfqkE2pXJH5mE_gkik3177vo/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

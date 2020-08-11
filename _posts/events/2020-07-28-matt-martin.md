@@ -11,7 +11,7 @@ image: /images/events/407-martin-matt-2019-017.jpg
 image_credit:
 date: 2020-07-28T19:00:00-05:00
 event_id: 407
-youtube_id: 
+youtube_id: T0to_QtopPk
 agenda: https://docs.google.com/document/d/1WtUSobtVdjxBKG8EwheVeDYLkBXj4_3JXJk9ohY_fN8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
