@@ -7,7 +7,7 @@ title: "Chicago Police Took Thousands Of Cars Without Criminal Charges And Stuck
 description: "On the surface, Chicagos’s vehicle impoundment program was intended to get cars of drug dealers, criminals caught with illegal weapons, or those with DUIs. Instead, it grew over time to ensnare hundreds of thousands for small-time offenses. "
 speakers:
  - "Elliott Ramos, WBEZ"
-image: /images/events/411-A6xO3_L0_400x400.jpg
+image: /images/events/411-wbez.jpg
 image_credit:
 date: 2020-08-25T19:00:00-05:00
 event_id: 411
