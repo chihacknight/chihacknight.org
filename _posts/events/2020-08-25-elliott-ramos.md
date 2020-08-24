@@ -29,7 +29,9 @@ On the surface, Chicagos’s vehicle impoundment program was intended to get car
 
 The program was enforced almost exclusively in the city’s Black neighborhoods, and City Hall and the police department failed to put adequate checks on the program.
 
-The lack of oversight and bad policy decisions  allowed storage fees to balloon to tens of thousands of dollars, even after the city sold off their cars. Half of the people in the program were found automatically liable for all the fines and fees without ever getting a hearing. 
+The lack of oversight and bad policy decisions allowed storage fees to balloon to tens of thousands of dollars, even after the city sold off their cars. Half of the people in the program were found automatically liable for all the fines and fees without ever getting a hearing. 
+
+Elliott Ramos, Data Editor at WBEZ, will dive into the story he wrote on this topic: [Chicago Police Impounded 250,000 Vehicles Since 2010. Here’s Why City Hall’s Rethinking That](https://www.wbez.org/stories/chicago-police-impounded-250000-vehicles-since-2010-heres-why-city-halls-rethinking-that/a085f94b-4a87-437b-837a-d5b4501a9168).
 
 ---
 
