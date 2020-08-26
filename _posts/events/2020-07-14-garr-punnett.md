@@ -20,14 +20,6 @@ published: true
 
 ---
 
-Agenda:
-
-* **6:30pm: ChiCommons/Chi Hack Night Pre-Party**<br />
-Socialize, touch base, and share what you plan on doing at Chi Hack Night [bit.ly/CHN-pre-party](https://bit.ly/CHN-pre-party)
-* **7:00pm: Livestream presentation starts**<br /> Announcements and feature presentation with Q&A [youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)
-* **8:00pm: Open zoom call** 3-word intros, community 
-  announcements & breakout group pitches [bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
-
 As Chicago and other cities across the world begin reopening, communities are trying to figure out how to get the supplies that are needed to the places that need them the most. To make this happen, cities need technology solutions that allow them to obtain and share supplies — in other words, they need to become circular cities. To be circular means to keep materials continuously in use, extending life cycles and designing out waste. 
 
 To aid in this effort, [Rheaply](https://www.rheaply.com/), a Chicago startup whose technology allows organizations to share resources within and between each other, partnered with the City of Chicago and World Business Chicago to build the [Chicago PPE Market](https://www.chicagoppemarket.com/). Chicago PPE Market connects Chicago businesses and nonprofits to local distributors of PPE materials, allowing businesses to ensure their customers and staff are safe upon their return to work.

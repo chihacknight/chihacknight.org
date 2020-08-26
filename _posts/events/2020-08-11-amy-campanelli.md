@@ -15,16 +15,10 @@ youtube_id: P2XDCTZ1iF4
 agenda: https://docs.google.com/document/d/11rIv_hwvx42orxZmyHbjxGoFSaEEIXJHIXD_XVwe8oc/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: "public safety"
 published: true
 
 ---
-
-* **6:30pm: ChiCommons/Chi Hack Night Pre-Party**<br />
-Socialize, touch base, and share what you plan on doing at Chi Hack Night [bit.ly/CHN-pre-party](https://bit.ly/CHN-pre-party)
-* **7:00pm: Livestream presentation starts**<br /> Announcements and feature presentation with Q&A [youtube.com/chihacknight/live](https://youtube.com/chihacknight/live)
-* **8:00pm: Open zoom call** 3-word intros, community 
-  announcements & breakout group pitches [bit.ly/chn-remote-zoom](https://bit.ly/chn-remote-zoom)
 
 Amy P. Campanelli was sworn in as the tenth Public Defender of Cook County on April 1, 2015. Ms. Campanelli's appointment was the culmination of 27 years of representing the indigent accused. Ms. Campanelli started as an Assistant Public Defender in November 1987, assigned to the Juvenile Division. She currently manages a budget of $80 million and a staff of approximately 700.
 

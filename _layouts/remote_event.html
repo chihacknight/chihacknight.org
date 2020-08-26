@@ -48,11 +48,37 @@ layout: default
           <a class='btn btn-link' href="{{page.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
 
         </p>
+
+        <ul>
+          <li>
+            <strong>6:30pm: ChiCommons/Chi Hack Night Pre-Party</strong><br />Socialize, touch base, and share what you plan on doing at Chi Hack Night <a href="https://bit.ly/CHN-pre-party">bit.ly/CHN-pre-party</a>
+          </li>
+          <li>
+            <strong>7:00pm: Livestream presentation starts</strong><br /> Announcements and feature presentation with Q&amp;A <a href="https://youtube.com/chihacknight/live">youtube.com/chihacknight/live</a>
+          </li>
+          <li>
+            <strong>8:00pm: Open zoom call</strong> 3-word intros, community announcements &amp; breakout group pitches <a href="https://bit.ly/chn-remote-zoom">bit.ly/chn-remote-zoom</a>
+          </li>
+        </ul>
+      {% else %}
+        {% if page.speakers %}
+          {% if page.speakers.size > 1 %}
+            <strong>Presenters</strong>
+          {% else %}
+            <strong>Presenter</strong>
+          {% endif %}
+          <p>
+          {% for p in page.speakers %}
+            {{p}}<br />
+          {% endfor %}
+          </p>
+          <hr />
+        {% endif %}
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
 
-      {% if site.time < page.date and page.speakers %}
+      {% if site.time <= page.date and page.speakers %}
 
         <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and prototyping groups</a>.</p>
       {% endif %}
