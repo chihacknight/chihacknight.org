@@ -11,7 +11,7 @@ image: /images/events/409-Amy-5.jpg
 image_credit:
 date: 2020-08-11T19:00:00-05:00
 event_id: 409
-youtube_id: 
+youtube_id: P2XDCTZ1iF4
 agenda: https://docs.google.com/document/d/11rIv_hwvx42orxZmyHbjxGoFSaEEIXJHIXD_XVwe8oc/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

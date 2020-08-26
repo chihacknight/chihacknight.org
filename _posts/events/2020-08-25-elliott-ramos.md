@@ -11,7 +11,7 @@ image: /images/events/411-wbez.jpg
 image_credit:
 date: 2020-08-25T19:00:00-05:00
 event_id: 411
-youtube_id: 
+youtube_id: 59KXCaf9-Dg
 agenda: https://docs.google.com/document/d/1-VfTMnH8DDLlVRweZVjQMcge0pogqYkA-KXFs9DIZng/edit?usp=sharing
 asl_provided: false
 tags: 

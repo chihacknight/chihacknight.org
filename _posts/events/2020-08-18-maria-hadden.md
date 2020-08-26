@@ -11,7 +11,7 @@ image: /images/events/410-hadden.jpg
 image_credit:
 date: 2020-08-18T19:00:00-05:00
 event_id: 410
-youtube_id: 
+youtube_id: d6aV376scLI
 agenda: https://docs.google.com/document/d/1LJ_WI8J-AVVIT1utrTUkXZY0c3K-wA4HM3G1a2-5j2o/edit?usp=sharing
 asl_provided: false
 tags: 
