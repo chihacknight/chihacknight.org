@@ -8,7 +8,7 @@ description: 'In their new book, Prison by Any Other Name, the speakers delve in
 speakers:
  - "Victoria Law, freelance journalist focused on incarceration"
  - "Maya Schenwar, editor-in-chief of Truthout"
-image: /images/events/412-octopus.jpg
+image: /images/events/412.jpg
 image_credit:
 date: 2020-09-01T19:00:00-05:00
 event_id: 412
