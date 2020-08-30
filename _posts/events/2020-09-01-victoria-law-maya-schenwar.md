@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: 'Beware of Tech "Solutions" to Policing and Prisons'
+title: 'Beware of Tech Solutions to Policing and Prisons'
 description: 'In their new book, Prison by Any Other Name, the speakers delve into the way in which many popular policing and prison reforms actually expand the system of criminalization. These reforms include a range of tech-based "fixes," from electronic monitoring to data-driven policing. In their presentation, Law and Schenwar will explain the frightening consequences of these tech-related developments, and how we must chart a different path forward. '
 speakers:
  - "Victoria Law, freelance journalist focused on incarceration"
