@@ -11,7 +11,7 @@ image: /images/events/413-Election-SOS.jpg
 image_credit:
 date: 2020-09-08T19:00:00-05:00
 event_id: 413
-youtube_id: 
+youtube_id: 8KCE9kESrQA
 agenda: https://docs.google.com/document/d/1MVXuPosR61oarOStxpjYM7jFD9VnZI8B5s4oQTEtBJ4/edit?usp=sharing
 asl_provided: false
 tags: 

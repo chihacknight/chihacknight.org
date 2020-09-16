@@ -12,7 +12,7 @@ image: /images/events/412.jpg
 image_credit:
 date: 2020-09-01T19:00:00-05:00
 event_id: 412
-youtube_id: 
+youtube_id: CYaE6Xq7WME
 agenda: https://docs.google.com/document/d/1u8CXHMySva-DU18cnXaiHKhyQx5m88gF1qW-sksDmLU/edit?usp=sharing
 asl_provided: false
 tags: 

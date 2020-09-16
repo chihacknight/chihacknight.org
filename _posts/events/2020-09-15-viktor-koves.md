@@ -11,7 +11,7 @@ image: /images/events/414-headshot.jpg
 image_credit:
 date: 2020-09-15T19:00:00-05:00
 event_id: 414
-youtube_id: 
+youtube_id: obkGfBu3iqs
 agenda: https://docs.google.com/document/d/1RliEhevQRN0BBXq5j9xat09LDcmao1OXGIxmJTGuzhQ/edit?usp=sharing
 asl_provided: false
 tags: 
