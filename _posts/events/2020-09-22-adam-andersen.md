@@ -8,7 +8,7 @@ description: "Amulet Health is a patient advocacy website that shares publicly a
 speakers:
  - "Adam Andersen, Director, Quality Performance and Improvement, UI Health"
  - "Nolan Winkler, Data and Policy Analyst, Acumen LLC"
-image: /images/events/415-headshots.jpg
+image: /images/events/415.png
 image_credit:
 date: 2020-09-22T19:00:00-05:00
 event_id: 415
