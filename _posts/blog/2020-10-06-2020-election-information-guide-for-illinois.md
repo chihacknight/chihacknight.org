@@ -37,7 +37,7 @@ Below are some helpful links we’ve compiled to help you find out voting inform
         * [Day Of (Tuesday, November 3, 2020)](#day-of-tuesday-november-3-2020)
     * [How can I check that my vote was counted?](#how-can-i-check-that-my-vote-was-counted)
 * [Be an Election Judge or Coordinator (and get paid!)](#be-an-election-judge-or-coordinator-and-get-paid)
-* [Anticipating delayed results and misinformation](#anticipating-delayed-results-and-misinformation)
+* [Anticipating delayed results and misinformation on election night](#anticipating-delayed-results-and-misinformation)
 * [Other Illinois-focused voting resources](#other-illinois-focused-voting-resources)
 * [Help us improve this guide](#help-us-improve-this-guide)
 
@@ -109,12 +109,12 @@ Find your polling place via Illinois State Board of Elections’ Polling Place L
 
 Chicago, Cook and several other counties have provided a ballot status form on their election authority website that voters can use to determine their ballot status. This includes notification of when your vote has been counted. Chicago and some other jurisdictions also push this information via email for those who completed the online VBM application. Daily jurisdiction totals of mail-in ballots returned, early votes, etc can also be downloaded [here](https://www.elections.il.gov/VotingAndRegistrationSystems/PreElectionCounts.aspx).
 
-That being said, in nearly all elections in the U.S., there exists no way of directly verifying that published election results are an accurate reflection of the tallied votes._ At least[ one local election](http://news.mit.edu/2009/rivest-voting) in the United States has utilized a method of post-election ballot verification, although this remains uncommon. ([source](https://politics.stackexchange.com/a/19974))
+That being said, in nearly all elections in the U.S., there exists no way of directly verifying that published election results are an accurate reflection of the tallied votes. At least [one local election](http://news.mit.edu/2009/rivest-voting) in the United States has [utilized a method of post-election ballot verification](https://politics.stackexchange.com/a/19974), although this remains uncommon.
 
 
 <h1 id="be-an-election-judge-or-coordinator-and-get-paid">Be an Election Judge or Coordinator (and get paid!)</h1>
 
-You can sign up to be an Election Judge or Election Coordinator in Chicago here: [chipollworker.com](https://chipollworker.com/)
+Want to do more to support our democracy than just vote? You can sign up to be an Election Judge or Election Coordinator in Chicago here: [chipollworker.com](https://chipollworker.com/)
 
 <p class="text-center"><img src="/images/blog/2020-10-06-election-info/election-judge.jpg" alt="Chicago Poll Worker Connection" class='img-thumbnail img-responsive'/><br /><em><a href='https://chipollworker.com/'>Chicago Poll Worker Connection</a></em>
 </p>
@@ -126,7 +126,7 @@ The Cook County Clerk is also seeking judges and technicians: [www.cookcountycle
 It is worth noting, that Chicago and Cook County have mostly filled the Election Day and Democratic Judge positions, so you will likely be placed on a wait list for those positions. They are still seeking Early Voting (you must be available to serve every day of early voting) and Republican Judges.
 
 
-<h1 id="anticipating-delayed-results-and-misinformation">Anticipating delayed results and misinformation</h1>
+<h1 id="anticipating-delayed-results-and-misinformation">Anticipating delayed results and misinformation on election night</h1>
 
 Numerous public officials, reputable news organizations, and informed election observers have warned that due to the influx in vote by mail and other extraordinary circumstances , election results may be too close to call on election night. Veteran Chi Hack Night presenter and Election SOS Senior Strategist Jennifer Brandel, talked about this possibility in her [recent presentation](https://chihacknight.org/events/2020/09/08/jennifer-brandel.html): 
 
