@@ -125,6 +125,8 @@ The Cook County Clerk is also seeking judges and technicians: [www.cookcountycle
 
 It is worth noting, that Chicago and Cook County have mostly filled the Election Day and Democratic Judge positions, so you will likely be placed on a wait list for those positions. They are still seeking Early Voting (you must be available to serve every day of early voting) and Republican Judges.
 
+**Update Oct 8th**: They are still seeking judges who speak Ukranian, Russian, Gujarati, Urdu, Arabic, Tagalog and Polish.
+
 
 <h1 id="anticipating-delayed-results-and-misinformation">Anticipating delayed results and misinformation on election night</h1>
 
