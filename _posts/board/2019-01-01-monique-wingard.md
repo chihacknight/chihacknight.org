@@ -15,7 +15,7 @@ date: 2019-01-01
 image: "/images/people/board/monique.jpg"
 permalink: /board-of-directors/monique-wingard.html
 published: true
-active: true
+active: false
 ---
 
 Monique Wingard is a seasoned digital media professional with more than 15 years of success across the public media, social media, and communications industries. 
