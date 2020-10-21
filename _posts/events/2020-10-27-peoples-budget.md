@@ -15,7 +15,7 @@ image_credit:
 date: 2020-10-27T19:00:00-05:00
 event_id: 420
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1xBDri1FbAJVARO9aBObFrtpel365jkLBO_WpASNIxOg/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
