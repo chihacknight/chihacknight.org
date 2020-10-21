@@ -12,7 +12,7 @@ image: /images/events/418-chn_2020-10-13_coryne-dumke.jpg
 image_credit:
 date: 2020-10-13T19:00:00-05:00
 event_id: 418
-youtube_id: 
+youtube_id: 2sxx56CIKAE
 agenda: https://docs.google.com/document/d/1z7qti_ynCoCIJWhH1LQAsm_Gm5jvmFJVIDPa8Htdzpg/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

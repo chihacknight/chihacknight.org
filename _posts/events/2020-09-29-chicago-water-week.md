@@ -10,7 +10,7 @@ speakers:
  - "Tim Kearns, Chief Information Officer, Great Lakes Observing System (GLOS)"
  - "Svetlana Taylor, Technical Program Director, Current"
 image: /images/events/416-cww.jpg
-image_credit:
+image_credit: FMNjGRwoR58
 date: 2020-09-29T19:00:00-05:00
 event_id: 416
 youtube_id: 

@@ -12,7 +12,7 @@ image: /images/events/415.png
 image_credit:
 date: 2020-09-22T19:00:00-05:00
 event_id: 415
-youtube_id: 
+youtube_id: iaNc9HMpJ28
 agenda: https://docs.google.com/document/d/1VGiGPDrIDqmihh_WhCZZyN_5ymKfVJ558R-ZInn1mGY/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
