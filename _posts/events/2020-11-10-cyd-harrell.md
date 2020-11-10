@@ -9,7 +9,7 @@ speakers:
  - "Cyd Harrell, author of A Civic Technologist's Practice Guide"
 image: /images/events/421-ACTPG-clean-cover.jpg
 image_credit:
-date: 2020-11-10T19:00:00-05:00
+date: 2020-11-10T19:00:00-06:00
 event_id: 421
 youtube_id: 
 agenda: https://docs.google.com/document/d/1UFc67eNqFSHDkHgAkFPNyufp1nDoFHN0L-47nvUIbog/edit?usp=sharing
