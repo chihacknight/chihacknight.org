@@ -19,6 +19,8 @@ agenda: https://docs.google.com/document/d/1xBDri1FbAJVARO9aBObFrtpel365jkLBO_Wp
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - "civic engagement"
+ - finance
 published: true
 
 ---
