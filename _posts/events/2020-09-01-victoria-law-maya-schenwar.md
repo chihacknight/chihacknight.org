@@ -16,6 +16,8 @@ youtube_id: CYaE6Xq7WME
 agenda: https://docs.google.com/document/d/1u8CXHMySva-DU18cnXaiHKhyQx5m88gF1qW-sksDmLU/edit?usp=sharing
 asl_provided: false
 tags: 
+ - justice
+ - equity
 published: true
 
 ---

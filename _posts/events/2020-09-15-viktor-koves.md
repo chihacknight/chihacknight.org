@@ -15,6 +15,7 @@ youtube_id: obkGfBu3iqs
 agenda: https://docs.google.com/document/d/1RliEhevQRN0BBXq5j9xat09LDcmao1OXGIxmJTGuzhQ/edit?usp=sharing
 asl_provided: false
 tags: 
+ - accessibility
 published: true
 
 ---
