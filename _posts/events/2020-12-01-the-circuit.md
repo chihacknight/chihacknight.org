@@ -16,7 +16,7 @@ image: /images/events/423-the-circuit.jpg
 image_credit:
 date: 2020-12-01T19:00:00-06:00
 event_id: 423
-youtube_id: 
+youtube_id: xCw2jaoRvZs 
 agenda: https://docs.google.com/document/d/168_Tbu9dKJwD45WJpuQ-KKD1_D1Ifx7Hbn7t_1kRxhs/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
