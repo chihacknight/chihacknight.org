@@ -4,7 +4,7 @@ categories: board
 name_first: "Soren"
 name_last: "Spicknall"
 seat: "Elected"
-term_expires: "2022"
+term_expires: "2022 (Resigned Dec 2020)"
 committees:
  - "Community Engagement (Chair)"
  - "DEI"

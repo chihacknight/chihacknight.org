@@ -5,7 +5,7 @@ categories:
 name_first: "Monique"
 name_last: "Wingard"
 seat: "Appointed"
-term_expires: "2021"
+term_expires: "2021 (Resigned Oct 2020)"
 committees:
   - "DEI (Chair)"
   - "Booking"
