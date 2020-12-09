@@ -11,7 +11,7 @@ image: /images/events/424.jpg
 image_credit:
 date: 2020-12-08T19:00:00-06:00
 event_id: 424
-youtube_id: 
+youtube_id: eOUxhTw4Sug
 agenda: https://docs.google.com/document/d/1zdOLT4Y2TjRMwzTC9xuXcC9f9INkjQf89IEnyQoDcEU/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
