@@ -8,6 +8,16 @@ layout: default
   </div>
 </div>
 
+<!-- <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
+  </div>
+  <div class="panel-body">
+    <h2>No Chi Hack Night on November 3rd.</h2>
+    <p>We're taking election night off. We’ll be back again on <strong>November 10th, 2020</strong> with more civic hacking fun!</p>
+  </div>
+</div> -->
+
 <!-- 4th of July notice -->
 <!-- <div class="panel panel-default">
   <div class="panel-heading">
@@ -37,8 +47,8 @@ layout: default
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <h2><i class='fa fa-fw fa-spoon fa-spin'></i> No Chi Hack Night on Nov 26th. Happy Thanksgiving!<i class='fa fa-fw fa-spoon fa-spin'></i></h2>
-    <p>We're taking the week of Thanksgiving off. We’ll be back again on <strong>Dec 3rd, 2019</strong> with more civic hacking fun!</p>
+    <h2><i class='fa fa-fw fa-spoon fa-spin'></i> No Chi Hack Night on Nov 24th. Happy Thanksgiving!<i class='fa fa-fw fa-spoon fa-spin'></i></h2>
+    <p>We're taking the week of Thanksgiving off. We’ll be back again on <strong>Dec 1st, 2020</strong> with more civic hacking fun!</p>
   </div>
 </div> -->
 
@@ -76,12 +86,9 @@ layout: default
           <p>{{ post.description }}</p>
         {% endif %}
         <br />
-        {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="{{site.rsvp_url}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-        {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
-        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
+        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'>Agenda</a>
       </div>
       <div class='col-sm-5'>
         {% if post.image %}

@@ -15,6 +15,8 @@ youtube_id: 8KCE9kESrQA
 agenda: https://docs.google.com/document/d/1MVXuPosR61oarOStxpjYM7jFD9VnZI8B5s4oQTEtBJ4/edit?usp=sharing
 asl_provided: false
 tags: 
+ - elections
+ - journalism
 published: true
 
 ---

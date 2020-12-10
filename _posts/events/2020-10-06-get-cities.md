@@ -13,11 +13,12 @@ image: /images/events/417-get-cities.jpg
 image_credit:
 date: 2020-10-06T19:00:00-05:00
 event_id: 417
-youtube_id: 
+youtube_id: 7b9l7QTCOJc
 agenda: https://docs.google.com/document/d/1rQGQuJYkym8ap-5tZdcBkO1oenWJRykfVTRbFXOHk44/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - equity
 published: true
 
 ---
