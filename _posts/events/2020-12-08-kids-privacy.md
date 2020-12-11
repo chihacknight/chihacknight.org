@@ -3,6 +3,9 @@ layout: remote_event
 categories:
   - events
 links: 
+ - <a href='https://www.studentprivacymatters.org/state-legislation/'>Student Privacy Grades for each State</a>
+ - <a href='https://privacy.commonsense.org/resource/2019-state-of-edtech-privacy-report'>Analysis of EdTech privacy policies</a>
+ - <a href='https://www.ilfps.org/tech_use_in_remote_learning'>Policy recommendations for tech use in remote learning</a>
 title: "Kids' Privacy and Security During Online Learning"
 description: "Remote learning places additional burdens on schools to help maintain children’s online privacy and security. Schools are also more dependent on educational technologies now more than ever. What are the main issues with helping kids stay safe online? What laws exist to protect children’s digital privacy and security in schools? Who should be taking care of this learning? Where should this learning occur?"
 speakers:
