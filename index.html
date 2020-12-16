@@ -53,22 +53,20 @@ layout: default
 </div> -->
 
 <!-- End of year holiday notice -->
-<!-- <div class="panel panel-default">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <h2><i class='fa fa-snowflake-o fa-spin'></i> Happy holidays! See you in 2020! <i class='fa fa-snowflake-o fa-spin'></i></h2>
-    <p>We're taking the next two weeks off due to the holidays. We’ll be back again on <strong>January 7th, 2020</strong> with more civic hacking fun! While you're waiting, <a href='/events/index.html'>check out some of our presentations</a> from the last year.</p>
+    <h2><i class='fa fa-snowflake-o fa-spin'></i> Happy holidays! See you in 2021! <i class='fa fa-snowflake-o fa-spin'></i></h2>
+    <p>We're taking the next two weeks off for the holidays. We’ll be back again on <strong>January 5th, 2021</strong> with more civic hacking fun! While you're waiting, <a target="_blank" href='https://www.youtube.com/playlist?list=PL_dBjjdnIbKysC7_e8-Jf55mB_sBs71zv'>check out some of our presentations</a> from the last year.</p>
 
     <p><i class='fa fa-lightbulb-o fa-fw'></i> Would you like to propose a talk at an upcoming Chi Hack Night? Take a look at our <a href='/speaker-submissions.html'>speaker requirements</a>.</p>
-
-    <p><i class='fa fa-dollar fa-fw'></i> If your organization is interested in becoming a sponsor of Chi Hack Night in 2020, <a href='mailto:info@chihacknight.org?subject=2020 sponsorship'>drop us a line</a>!</p>
   </div>
-</div> -->
+</div>
 
 
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
@@ -101,7 +99,7 @@ layout: default
     </div>
       {% endfor %}
   </div>
-</div>
+</div> -->
 
 <!--
 {% for post in site.categories['satellite']  limit:1 %}
@@ -146,32 +144,34 @@ layout: default
     <h3 class="panel-title"><b>Latest blog post</b> <a class='pull-right' href='/blog/'>All posts &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    {% for post in site.categories['blog'] limit:1 %}
-      <div class='row'>
-        <div class='col-sm-4'>
-          {% if post.image %}
-            <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
-          {% else %}
-            <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
-          {% endif %}
-        </div>
-        <div class='col-sm-8'>
-          <h4>
-            <a href='{{post.url}}'>{{ post.title }}</a>
-          </h4>
-          <p>
-            <small>{{ post.date | date: "%b %-d, %Y" }} by
-              <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
-              {% if post.author2 %}
-                , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
-              {% endif %}
-            </small>
+    {% for post in site.categories['blog'] %}
+      {% if post.featured %}
+        <div class='row'>
+          <div class='col-sm-4'>
+            {% if post.image %}
+              <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
+            {% else %}
+              <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
+            {% endif %}
+          </div>
+          <div class='col-sm-8'>
+            <h4>
+              <a href='{{post.url}}'>{{ post.title }}</a>
+            </h4>
+            <p>
+              <small>{{ post.date | date: "%b %-d, %Y" }} by
+                <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
+                {% if post.author2 %}
+                  , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
+                {% endif %}
+              </small>
+              <br />
+              {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
+            </p>
             <br />
-            {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
-          </p>
-          <br />
+          </div>
         </div>
-      </div>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
@@ -239,39 +239,15 @@ layout: default
           </div>
         </div>
 
-        <!-- <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://microsoft-chicago.com' itemprop='url'>
-                <img src='images/sponsors/microsoft.png' alt='Microsoft' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>Microsoft</span>
-            </a>
-          </div>
-        </div> -->
-      </div>
-      <!-- <div class='row'>
-        <div class='col-sm-2'>
-          <h4 class='sponsor-level'>3-Star</h4>
-        </div> -->
-
-        <!-- <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://www.mongodb.com' itemprop='url'>
-                <img src='images/sponsors/mongodb.png' alt='Mongo DB' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>Mongo DB</span>
-            </a>
-          </div>
-        </div> -->
-        
-        <!-- <div class='col-sm-3'>
+        <div class='col-sm-3'>
           <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
             <a href='https://google.com/' itemprop='url'>
                 <img src='images/sponsors/google.png' alt='Google' itemprop='logo' class='img-responsive' />
                 <span itemprop='name'>Google</span>
             </a>
           </div>
-        </div> -->
-      <!-- </div> -->
-
+        </div>
+      </div>
 
       <div class='row'>
         <div class='col-sm-2'>
@@ -337,19 +313,9 @@ layout: default
             </a>
           </div>
         </div>
-
-        <!-- <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://www.gaintap.com/' itemprop='url'>
-                <img src='images/sponsors/gaintap.png' alt='GainTap' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>GainTap</span>
-            </a>
-          </div>
-        </div> -->
       </div>
 
       <div class='row'>
-
         <div class='col-sm-3 col-sm-offset-2'>
           <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
             <a href='https://www.mrelief.com' itemprop='url'>
@@ -358,19 +324,8 @@ layout: default
             </a>
           </div>
         </div>
-
-        <div class='col-sm-2'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://www.bikelaneuprising.com/' itemprop='url'>
-                <img src='images/sponsors/bike-lane-uprising.jpg' alt='mRelief' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>Bike Lane Uprising</span>
-            </a>
-          </div>
-        </div>
-
       </div>
 
-      </div>
     </div>
   </div>
 </div>
