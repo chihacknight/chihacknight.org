@@ -18,7 +18,10 @@ youtube_id: eOUxhTw4Sug
 agenda: https://docs.google.com/document/d/1zdOLT4Y2TjRMwzTC9xuXcC9f9INkjQf89IEnyQoDcEU/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: govtech
+tags: 
+ - education
+ - privacy
+ - 'digital security'
 published: true
 
 ---
