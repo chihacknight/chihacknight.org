@@ -11,11 +11,13 @@ image: /images/events/425-NSHSS.jpg
 image_credit:
 date: 2020-12-15T19:00:00-06:00
 event_id: 425
-youtube_id: 
+youtube_id: _n9BftcttwM
 agenda: https://docs.google.com/document/d/1ysGi2cVd_DXyIHgUuJABXYcGlnhZzOM87l51fJkMFII/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - housing
+ - homelessness
 published: true
 
 ---

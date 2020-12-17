@@ -15,6 +15,7 @@ author2_url:
 author2_image: 
 author2_bio: 
 published: true
+featured: true
 ---
 
 <p class="text-center"><img src="/images/blog/help-desk-form.jpg" alt="The Tech & Data Help Desk Request Form" class='img-responsive'/>
