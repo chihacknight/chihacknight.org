@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Feb 9, 2021: Chi Hack Night's First Board Election"
+title: "Feb 9, 2021: Chi Hack Night's Second Board Election"
 description: "On February 9th, 2021, Chi Hack Night will hold our first ever election for our Board of Directors. There are a total of 5 seats up in this election. Three of them will be chosen by Chi Hack Night Members based on popular vote and two will be appointed by the current Board of Directors with majority Membership approval. All of the seats are 2 year terms."
 date: 2021-01-19
 image: /images/blog/2019-01-14-board-election/vote.jpg
