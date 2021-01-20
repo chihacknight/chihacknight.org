@@ -11,7 +11,7 @@ image: /images/events/426-villegas.jpg
 image_credit:
 date: 2021-01-05T19:00:00-06:00
 event_id: 426
-youtube_id:
+youtube_id: btW42E9PIbs
 agenda: https://docs.google.com/document/d/1GQ2ZYtAG1DeOooYsLgNbsfOyKIsL7Rp8UzJ4QaqjaNQ/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

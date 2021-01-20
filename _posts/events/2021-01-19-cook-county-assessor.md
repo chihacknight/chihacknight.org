@@ -11,11 +11,13 @@ image: /images/events/428-assessor.jpg
 image_credit:
 date: 2021-01-19T19:00:00-06:00
 event_id: 428
-youtube_id:
+youtube_id: 6rd-xYJb27Q
 agenda: https://docs.google.com/document/d/13uoxQY9AP3xloCmmjjzqXZ-yigs2AwrfOkQYa1FAVc8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - 'real estate'
+ - 'taxes'
 published: true
 
 ---

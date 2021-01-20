@@ -11,11 +11,11 @@ image: /images/events/427-twh.jpg
 image_credit:
 date: 2021-01-12T19:00:00-06:00
 event_id: 427
-youtube_id:
+youtube_id: Oj2pzhBn5yo
 agenda: https://docs.google.com/document/d/1T41mAGQmf5aSgbOmAgPetjUFH9pyZ1HpFWKS6v3heZU/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: equity
 published: true
 
 ---
