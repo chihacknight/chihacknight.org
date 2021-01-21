@@ -28,14 +28,14 @@ There are a total of 6 seats up in this election. Four of them will be chosen by
 Here’s a breakdown of the available seats:
 
 
-<table>
+<table class='table'>
   <tr>
-   <td><strong>Board seat</strong>
-   </td>
-   <td><strong>Current director</strong>
-   </td>
-   <td><strong>Election status</strong>
-   </td>
+   <th><strong>Board seat</strong>
+   </th>
+   <th><strong>Current director</strong>
+   </th>
+   <th><strong>Election status</strong>
+   </th>
   </tr>
   <tr>
    <td>Elected
