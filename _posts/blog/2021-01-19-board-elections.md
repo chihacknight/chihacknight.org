@@ -14,7 +14,7 @@ author2: Eric Sherman
 author2_url: https://chihacknight.org/board-of-directors/eric-sherman.html
 author2_image: /images/people/board/eric.jpg
 author2_bio: "Board Member, Chi Hack Night"
-featured: true
+featured: false
 published: true
 ---
 
