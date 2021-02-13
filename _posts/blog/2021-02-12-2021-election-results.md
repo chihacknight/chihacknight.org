@@ -5,7 +5,7 @@ categories:
 title: "2021 Board Election Results"
 description: "On Feb 9, we held our second annual General Meeting and election for our Board of Directors. We were amazed at the turnout. Of our 41 official Members, 28 attended virtually to cast their votes. There were four members chosen by Chi Hack Night Members based on popular vote and two appointed by the current Board of Directors with majority Membership approval."
 date: 2021-02-12
-image: 
+image: /images/blog/2019-01-14-board-election/vote.jpg
 author: Eric Sherman
 author_url: https://twitter.com/OSGISOMG
 author_image: /images/people/eric_sherman.jpg
