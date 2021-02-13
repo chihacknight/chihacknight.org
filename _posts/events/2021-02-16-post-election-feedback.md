@@ -6,7 +6,7 @@ links:
 title: "Second Quadrennial Post-election Feedback Session"
 description: "Following the last presidential election in 2016, Chi Hack Night held a post-election community feedback session. Now, four years later, we invite you to join us as we discuss the same questions as we assess the challenges and opportunities for the Chi Hack Night Community in 2021. Join us Tuesday at 7:00 p.m. via Zoom for our second quadrennial post-election feedback session."
 speakers:
-image: /images/blog/2015-09-23-results-of-our-community-feedback-session/image1.jpg
+image: /images/events/432-community-feedback-2016.jpg
 image_credit:
 date: 2021-02-16T19:00:00-06:00
 event_id: 432
@@ -15,7 +15,7 @@ agenda: https://docs.google.com/document/d/1gIPgheL5D7hwR3Nu6z3A9gdg76FiGRNVGEAS
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
- - openhack
+ - 'community feedback'
 published: true
 
 ---
