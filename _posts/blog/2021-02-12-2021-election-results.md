@@ -14,6 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
+featured: true
 ---
 
 On Feb 9th, we held our second election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). We were amazed at the turnout. Of our 41 official Members, 28 attended virtually to cast their votes. 
