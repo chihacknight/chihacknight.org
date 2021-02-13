@@ -5,7 +5,7 @@ categories:
 name_first: "Steve"
 name_last: "Luker"
 seat: "Appointed"
-term_expires: "2021"
+term_expires: "2023"
 committees:
   - "Website"
   - "Social Media"
