@@ -29,14 +29,14 @@ There were four members chosen by Chi Hack Night Members based on popular vote a
 The elected members of the Board are:
 
 * **Michael Chladek**
-* **Josh Kalov(incumbent)**
-* **Derek Eder(incumbent)**
-* **Katie O'Shea(incumbent)**
+* **Josh Kalov (incumbent)**
+* **Derek Eder (incumbent)**
+* **Katie O'Shea (incumbent)**
 
 The appointed Board members approved by the Membership are: 
 
 * **Sam Evans**
-* **Steve Luker**
+* **Steve Luker (incumbent)**
 
 
 ### General Meeting and election process
