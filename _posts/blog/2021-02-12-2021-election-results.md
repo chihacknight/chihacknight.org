@@ -5,7 +5,7 @@ categories:
 title: "2021 Board Election Results"
 description: "On Feb 9, we held our second annual General Meeting and election for our Board of Directors. We were amazed at the turnout. Of our 41 official Members, 28 attended virtually to cast their votes. There were four members chosen by Chi Hack Night Members based on popular vote and two appointed by the current Board of Directors with majority Membership approval."
 date: 2021-02-12
-image: /images/blog/2019-01-14-board-election/vote.jpg
+image: /images/blog/2021-board.jpg
 author: Eric Sherman
 author_url: https://twitter.com/OSGISOMG
 author_image: /images/people/eric_sherman.jpg
@@ -16,6 +16,11 @@ author2_bio:
 published: true
 featured: true
 ---
+
+<p class="text-center"><img src="/images/blog/2021-board.jpg" alt="From top left, elected and appointed Board Members Katie O'Shea, Derek Eder, Sam Evans, Steve Luker, Josh Kalov and Michael Chladek" class='img-responsive'/><br />
+
+<small><em>From top left, elected and appointed Board Members Katie O'Shea, Derek Eder, Sam Evans, Steve Luker, Josh Kalov and Michael Chladek</em></small>
+</p>
 
 On Feb 9th, we held our second election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). We were amazed at the turnout. Of our 41 official Members, 28 attended virtually to cast their votes. 
 
