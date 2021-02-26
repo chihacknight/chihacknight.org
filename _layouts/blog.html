@@ -19,46 +19,34 @@ layout: default
 
     <hr />
 
-    <h3>About the author</h3>
+    {% if page.author2 %}
+      <h3>About the authors</h3>
+    {% else %}
+      <h3>About the author</h3>
+    {% endif %}
 
     <div class='row'>
-      <div class='col-sm-3'>
-
-        {% if page.author_url %}
-          <a href='{{page.author_url}}'>
-            <img class='img-rounded author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
-          </a>
-          <h4>
-            <a href='{{page.author_url}}'>{{page.author}}</a>
-          </h4>
-        {% else %}
-          <img class='img-rounded author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
-          <h4>{{page.author}}</h4>
-        {% endif %}
+      <div class='col-sm-2'>
+      <img class='img-rounded author-headshot hidden-phone' src='{{page.author_image}}' alt='{{page.author}}' />
       </div>
       <div class='col-sm-9'>
-        <p><br />{{ page.author_bio }}</p>
+        <p>
+          <strong>{{page.author}}</strong><br />
+          {{ page.author_bio }}
+        </p>
       </div>
     </div>
 
     {% if page.author2 %}
       <div class='row'>
-        <div class='col-sm-3'>
-
-          {% if page.author2_url %}
-            <a href='{{page.author2_url}}'>
-              <img class='img-rounded author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
-            </a>
-            <h4>
-              <a href='{{page.author2_url}}'>{{page.author2}}</a>
-            </h4>
-          {% else %}
-            <img class='img-circle author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
-            <h4>{{page.author2}}</h4>
-          {% endif %}
+        <div class='col-sm-2'>
+          <img class='img-rounded author-headshot hidden-phone' src='{{page.author2_image}}' alt='{{page.author2}}' />
         </div>
         <div class='col-sm-9'>
-          <p><br />{{ page.author2_bio }}</p>
+          <p>
+            <strong>{{page.author2}}</strong><br />
+            {{ page.author2_bio }}
+          </p>
         </div>
       </div>
     {% endif %}

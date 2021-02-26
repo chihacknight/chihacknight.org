@@ -64,7 +64,8 @@ a { text-decoration: none !important; }
 
 .author-headshot {
   width: 100px;
-  margin-top: 18px;
+  margin-top: 8px;
+  margin-bottom: 10px;
 }
 
 .project-headshot {

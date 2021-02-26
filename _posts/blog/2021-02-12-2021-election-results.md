@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/2021-board.jpg" alt="From top left, elected and appointed Board Members Katie O'Shea, Derek Eder, Sam Evans, Steve Luker, Josh Kalov and Michael Chladek" class='img-responsive'/><br />
