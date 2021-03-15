@@ -7,7 +7,6 @@ seat: "Appointed"
 term_expires: "2022"
 committees:
  - "Membership"
- - "Onboarding"
  - "Breakout Support"
  - "Community Engagement"
  - "DEI"

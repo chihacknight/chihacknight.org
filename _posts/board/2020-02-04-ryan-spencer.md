@@ -6,7 +6,6 @@ name_last: "Spencer"
 seat: "Appointed"
 term_expires: "2022"
 committees:
- - "Onboarding (Chair)"
  - "Booking"
  - "Community Engagement"
  - "DEI"

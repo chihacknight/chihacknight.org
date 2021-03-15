@@ -10,7 +10,6 @@ term_expires: "2023"
 committees:
   - "Social Media (Chair)"
   - "Event Operations"
-  - "Onboarding"
   - "DEI"
 date: 2019-01-01
 image: "/images/people/board/katie.jpg"

@@ -7,6 +7,9 @@ name_last: "Chladek"
 seat: "Elected"
 term_expires: "2022"
 committees:
+  - "Membership"
+  - "Breakout Support"
+  - "Fundraising"
 date: 2021-01-01
 image: "/images/people/board/michael-chladek.jpg"
 permalink: /board-of-directors/michael-chladek.html
