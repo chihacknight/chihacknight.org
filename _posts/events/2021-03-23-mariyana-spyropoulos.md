@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: ""
+title: "MWRD Commissioner Mariyana Spyropoulos"
 description: "Metropolitan Water Reclamation District of Greater Chicago (MWRD) is a special purpose government agency responsible for wastewater treatment and stormwater management. Commissioner Mariyana Spyropoulos will talk about the importance of MWRD and the history behind the agency."
 speakers:
  - "Commissioner Mariyana Spyropoulos"
