@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Intro to being anti-racist in civic tech"
-description: ""
+description: "In recognition of Chi Hack Night’s commitment to Black Lives Matter and the racial justice movement, we believe it’s important for our community to continue taking steps to address white supremacy culture. But what does it mean to be anti-racist? What is white supremacy culture and how does it show up? Over the past months, Chi Hack Night’s DEI committee has discussed and researched these questions. Now we’re sharing what we learned so that we can all work to make our communities more equitable and just."
 date: 2021-02-26
 image: 
 author: Ryan Spencer
