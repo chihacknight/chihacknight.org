@@ -10,7 +10,7 @@ speakers:
  - "Matthew Saniie - Chief Data & Technology Officer"
 image: /images/events/438-sao-image001.png
 image_credit:
-date: 2021-03-30T19:00:00-06:00
+date: 2021-03-30T19:00:00-05:00
 event_id: 438
 youtube_id: 
 agenda: https://docs.google.com/document/d/1ObFNM67WQo_JQwPeVJ0HqSnQeWgrcYIAsfaFFFDtyMg/edit?usp=sharing
