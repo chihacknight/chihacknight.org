@@ -13,7 +13,7 @@ image: /images/events/434-maintainers-logo-01.jpg
 image_credit:
 date: 2021-03-02T19:00:00-06:00
 event_id: 434
-youtube_id: 
+youtube_id: MV20XomcfuA
 agenda: https://docs.google.com/document/d/1WZT5KegNKq7n85ld_aCmKSMkhtEXyaOXSwEQgxRK1Ds/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

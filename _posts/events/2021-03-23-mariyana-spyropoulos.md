@@ -11,7 +11,7 @@ image: /images/events/437-Mariyana-Spyropoulos-450x450.jpg
 image_credit:
 date: 2021-03-23T19:00:00-06:00
 event_id: 437
-youtube_id: 
+youtube_id: KpKvMasadbs
 agenda: https://docs.google.com/document/d/1uHODeh5HiVeN7OV7tvNwjLWuAWz3jnIOKCEXCatYPIg/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
