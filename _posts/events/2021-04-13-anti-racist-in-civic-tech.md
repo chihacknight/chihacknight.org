@@ -13,7 +13,7 @@ image: /images/events/440-image1.jpg
 image_credit:
 date: 2021-04-13T19:00:00-05:00
 event_id: 440
-youtube_id: 
+youtube_id: Jb3FokzjfK8
 agenda: https://docs.google.com/document/d/1esXsSOEiIUpcSvBM-eMqv9v0u9QLaTGLMtFFs0bovrs/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

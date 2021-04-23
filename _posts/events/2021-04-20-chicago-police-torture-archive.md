@@ -11,7 +11,7 @@ image: /images/events/441-chicago-police-torture-archive.jpg
 image_credit:
 date: 2021-04-20T19:00:00-05:00
 event_id: 441
-youtube_id: 
+youtube_id: VxQNJel9lcg
 agenda: https://docs.google.com/document/d/1-cxYKB_ko_oyVhxVkFlJaj_XBNLpYEPQXfXsiNz0MCs/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

@@ -12,7 +12,7 @@ image: /images/events/438-sao-image001.png
 image_credit:
 date: 2021-03-30T19:00:00-05:00
 event_id: 438
-youtube_id: 
+youtube_id: CqgRsXPQ0BM
 agenda: https://docs.google.com/document/d/1ObFNM67WQo_JQwPeVJ0HqSnQeWgrcYIAsfaFFFDtyMg/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
