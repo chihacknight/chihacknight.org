@@ -17,7 +17,7 @@ youtube_id: MV20XomcfuA
 agenda: https://docs.google.com/document/d/1WZT5KegNKq7n85ld_aCmKSMkhtEXyaOXSwEQgxRK1Ds/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: maintenance
 published: true
 
 ---

@@ -18,6 +18,8 @@ agenda: https://docs.google.com/document/d/1esXsSOEiIUpcSvBM-eMqv9v0u9QLaTGLMtFF
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags:
+ - "civic tech"
+ - "anti-racism"
 published: true
 
 ---

@@ -16,6 +16,8 @@ agenda: https://docs.google.com/document/d/1uHODeh5HiVeN7OV7tvNwjLWuAWz3jnIOKCEX
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - water
+ - environment
 published: true
 
 ---
