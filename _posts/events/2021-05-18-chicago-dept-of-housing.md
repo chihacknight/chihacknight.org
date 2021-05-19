@@ -3,6 +3,14 @@ layout: remote_event
 categories:
   - events
 links: 
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_mission.html'>Chicago Department of Housing - Mission, vision and Values</a>"
+ - "<a href='https://www.chicago.gov/city/en/sites/blueprint-for-fair-housing/home.html'>Blueprint for Fair Housing</a>"
+ - "<a href='https://webapps1.chicago.gov/eforms/fairhousingcomment'>Public comment form (through May 28)</a>"
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/supp_info/2022-23-community-development-grant-application--cdga-.html'>Delegate Agency Application (applications currently being accepted)</a>"
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/supp_info/qap-2021.html'>Racial Equity Impact Assessment (REIA) Qualified Allocation Plan (QAP), 2021 QAP and Architectural Technical Standards</a>"
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/provdrs/renters/svcs/emergency-rental-assistance-program.html'>Emergency Rental Assistance Program (ERAP) (Application portal opens May 24 through June 8)</a>"
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/provdrs/homeowners/svcs/adu-ordinance.html'>Additional Dwelling Units (ADUs) (applications currently being accepted for the pilot areas)</a>"
+ - "<a href='https://www.chicago.gov/city/en/depts/doh/provdrs/developers/svcs/aro.html'>Affordable Requirements Ordinance (ARO)</a>"
 title: "Chicago Department of Housing Racial Equity Impact Assessment"
 description: "The Mission of the Chicago Department of Housing (DOH) is to expand access and choice for residents and protect their right to quality homes that are affordable, safe, and healthy. ​As part of its efforts in ensuring that it is programs, initiatives and policies are working to improve access and choice to housing, in March, DOH released the results of a Racial Equity Impact Assessment (REIA) on its Qualified Allocation Plan (QAP) for the distribution of Low-Income Housing Tax Credits (LIHTC)."
 speakers:
@@ -12,11 +20,11 @@ image: /images/events/445-cdoh.png
 image_credit:
 date: 2021-05-18T19:00:00-05:00
 event_id: 445
-youtube_id: 
+youtube_id: 55PWaEY6kHM
 agenda: https://docs.google.com/document/d/1WOu_TrI1JIUA_yisc7aRwGFgSK7QYPIpqyhF6rmowDo/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags:
+tags: housing
 published: true
 
 ---
