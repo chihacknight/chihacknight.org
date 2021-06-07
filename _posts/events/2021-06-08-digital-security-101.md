@@ -9,10 +9,10 @@ speakers:
  - "Nicole Lopez (she/her), Software Engineer Digital Defense Fund; Director of Engineering, Board Secretary, Midwest Access Coalition"
  - "Derek Eder (he/him), President, Chi Hack Night; Partner, DataMade"
  - "Khoa Truong (he/him), IT Security Specialist, TargetSmart"
-image: /images/events/447-Practical-Digital-Security-101.jpg
+image: /images/events/448-Practical-Digital-Security-101.jpg
 image_credit:
 date: 2021-06-08T19:00:00-05:00
-event_id: 447
+event_id: 448
 youtube_id: 
 agenda: https://docs.google.com/document/d/1AXw5ofEyfu6RbCHVBZS5wNVarq07NOz5b7clpTVluVQ/edit?usp=sharing
 sponsor: Chi Hack Night Community
