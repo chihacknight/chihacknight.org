@@ -7,7 +7,6 @@ title: "Digital Security 101: Practical Tips to Level Up Your Digital Security G
 description: "From big tech, to city offices, to the meat industry, no person or organization is immune to a hack, and anyone can be a target. This means that securing digital accounts and personal data is important now more than ever. Enter: Chi Hack Night's very own digital security experts. They will discuss how to create strong passwords that are impossible to crack, how to identify the red flags in phishing emails, and what to do if information is compromised."
 speakers:
  - "Nicole Lopez (she/her), Software Engineer Digital Defense Fund; Director of Engineering, Board Secretary, Midwest Access Coalition"
- - "Derek Eder (he/him), President, Chi Hack Night; Partner, DataMade"
  - "Khoa Truong (he/him), IT Security Specialist, TargetSmart"
 image: /images/events/448-Practical-Digital-Security-101.jpg
 image_credit:
