@@ -12,7 +12,7 @@ image: /images/events/448-Practical-Digital-Security-101.jpg
 image_credit:
 date: 2021-06-08T19:00:00-05:00
 event_id: 448
-youtube_id: 
+youtube_id: KN8UfaP7tMw
 agenda: https://docs.google.com/document/d/1AXw5ofEyfu6RbCHVBZS5wNVarq07NOz5b7clpTVluVQ/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

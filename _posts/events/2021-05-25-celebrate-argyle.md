@@ -16,7 +16,7 @@ image: /images/events/446-celebrate-argyle.jpg
 image_credit:
 date: 2021-05-25T19:00:00-05:00
 event_id: 446
-youtube_id: 
+youtube_id: 9onfS5X0y74
 agenda: https://docs.google.com/document/d/1js-WQIMBgSD6G5cm6C7CtIXeAN9T6b85ADgElbvw3Q8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
