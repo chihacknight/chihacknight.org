@@ -12,7 +12,7 @@ image: /images/events/450-chicago-cityscape.jpg
 image_credit:
 date: 2021-06-22T19:00:00-05:00
 event_id: 450
-youtube_id: 
+youtube_id: p_YiMRZ8lj8
 agenda: https://docs.google.com/document/d/10-gRuE-zizA9vsKyzqqfsLNT3nQXL1yGbZMYPTMaxAQ/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
