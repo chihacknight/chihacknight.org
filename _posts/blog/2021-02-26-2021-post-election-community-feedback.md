@@ -15,7 +15,7 @@ author2_image: /images/people/board/derek.jpg
 author2_url: https://twitter.com/derekeder
 author2_bio: "President, Chi Hack Night"
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/2021-community-feedback-board.png" alt="Chi Hack Night 2021 Post-Election Community Feedback" class='img-responsive'/><br />
