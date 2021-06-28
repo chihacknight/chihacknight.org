@@ -21,6 +21,10 @@ featured: true
 <p class="text-center"><img src="/images/logo/logo_lg.jpg" alt="Chi Hack Night" class='img-responsive' style='width:50%;'/>
 </p>
 
+**Update:** Chi Hack Night Board Members Ryan Spencer, Derek Eder and Samantha Evans gave a [presentation on April 13, 2021](/events/2021/04/13/anti-racist-in-civic-tech.html) based on this blog post. You can watch it here:
+
+<p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/Jb3FokzjfK8" width="100%"></iframe></p>
+
 In recognition of [Chi Hack Night's commitment](https://chihacknight.org/blog/2020/06/06/black-lives-matter.html) to Black Lives Matter and the racial justice movement, we believe it’s important for our community to continue taking steps to address white supremacy culture. But what does it mean to be anti-racist? What is white supremacy culture and how does it show up? Over the past months, Chi Hack Night’s DEI committee has discussed and researched these questions. Now we’re sharing what we learned so that we can all work to make our communities more equitable and just. 
 
 <h2>What does it mean to be Anti-racist? What is white supremacy culture and how does it show up?</h2>
