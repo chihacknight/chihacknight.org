@@ -27,7 +27,7 @@ While some presenters are more than happy to do this, or do it in service of the
 
 To increase the diversity of speakers at Chi Hack Night and to provide opportunities to potential presenters who may not have the privilege or ability to give their time away for free or in service of their company or organization, **Chi Hack Night is now offering a standard presenter honorarium of $100 for all speakers** to compensate them for their time and expertise. 
 
-If you would like to present at Chi Hack Night, and get paid to do it, follow the instructions on our [speaker submissions page](https://chihacknight.org/speaker-submissions.html).
+If you would like to present at Chi Hack Night, and get paid to do it, follow the instructions on our [speaker submissions page](/speaker-submissions.html).
 
 
 **A few additional rules for honorariums**<br />
@@ -36,7 +36,7 @@ We plan on offering honorariums in perpetuity, so it was important to consider b
 Additionally, there are some groups that would have conflicts of interest with getting paid by Chi Hack Night, either due to their relationship to Chi Hack Night or from their employer. For that reason, we will not offer honorariums to presenters in the following groups:
 
 * current Chi Hack Night sponsors
-* current Chi Hack Night [Members](https://chihacknight.org/membership/application.html) or [Board Members](https://chihacknight.org/board-of-directors.html)
+* current Chi Hack Night [Members](/membership/application.html) or [Board Members](/board-of-directors.html)
 * government employees
 * political candidates
 * or people otherwise not able to receive compensation for presenting
