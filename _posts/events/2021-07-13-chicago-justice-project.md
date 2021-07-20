@@ -12,7 +12,7 @@ image: /images/events/452-public-safety-report.jpg
 image_credit:
 date: 2021-07-13T19:00:00-05:00
 event_id: 452
-youtube_id: 
+youtube_id: mlbQLWsAzI4
 agenda: https://docs.google.com/document/d/1ZmDnPcI38SPKUtmLVm_FfFa9LBC9lMYc23knwyjp5XI/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
