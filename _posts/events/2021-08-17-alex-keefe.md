@@ -11,7 +11,7 @@ image: /images/events/457-ABK-HEADSHOT.jpg
 image_credit:
 date: 2021-08-17T19:00:00-05:00
 event_id: 457
-youtube_id: 
+youtube_id: 506gEfTS8vw
 agenda: https://docs.google.com/document/d/1G7J5Y1324gJnjEj0yy5DW4c8a5o90Qd4zPUUekJI0e0/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
