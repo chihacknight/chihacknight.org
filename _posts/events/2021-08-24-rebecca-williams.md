@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "Whose Streets? Our Streets! – Smart City Cautionary Tales & Prevention Tactics"
-description: 'Rebecca spent the 2020-21 academic year researching "smart city" harms to civil liberties as part of Harvard Kennedy School’s Belfer Center for Science and International Affairs’ Technology and Public Purpose (TAPP) Project. In her final report Whose Streets? Our Streets! (Tech Edition) she outlines 2020-21 “Smart City” Cautionary Trends & 10 Calls to Action to Protect and Promote Democracy. In this presentation, Rebecca will describe how "smart city" technology tracks individuals and how that could impact democracy.'
+description: 'Rebecca spent the 2020-21 academic year researching smart city harms to civil liberties as part of Harvard Kennedy School’s Belfer Center for Science and International Affairs’ Technology and Public Purpose (TAPP) Project. In her final report Whose Streets? Our Streets! (Tech Edition) she outlines 2020-21 Smart City Cautionary Trends & 10 Calls to Action to Protect and Promote Democracy. In this presentation, Rebecca will describe how smart city technology tracks individuals and how that could impact democracy.'
 speakers:
   - "Rebecca Williams, Harvard Technology and Public Purpose Fellow, she/her"
 image: /images/events/458-rebecca.jpg
