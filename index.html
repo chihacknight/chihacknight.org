@@ -73,37 +73,43 @@ layout: default
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    {% for post in site.categories['events'] limit:1 %}
-    <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+    {% capture current_time %}{{ 'now' | date: "%s" }}{% endcapture %}
+    {% capture in_six_days%}{{ 'now' | date: "%s" | plus : 518400 }}{% endcapture %}
 
-    <h2 class='no-margin-top'>
-      <small>#{{post.event_id}}</small>
-      <a href="{{post.url}}">{{post.title}}</a>
-    </h2>
-    <div class='row'>
-      <div class='col-sm-7'>
-        {% if post.description %}
-          <p>{{ post.description }}</p>
-        {% endif %}
-        <br />
-        <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-        {% if post.layout == "remote_event_openhack" %}
-          <a class='btn btn-link btn-lg' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Chi Hack Night Zoom Call @ 7pm</a>
-        {% else %}
-          <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
-        {% endif %}
-        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'>Agenda</a>
-      </div>
-      <div class='col-sm-5'>
-        {% if post.image %}
-          <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
-          {% if post.image_credit %}
-            <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
-          {% endif %}
-        {% endif %}
-      </div>
-    </div>
-      {% endfor %}
+    {% for post in site.categories['events'] limit:10 %}
+      {% capture post_time %}{{ post.date | date: "%s" }}{% endcapture %}
+      {% if post_time <= in_six_days and post_time >= current_time %}
+        <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+
+        <h2 class='no-margin-top'>
+          <small>#{{post.event_id}}</small>
+          <a href="{{post.url}}">{{post.title}}</a>
+        </h2>
+        <div class='row'>
+          <div class='col-sm-7'>
+            {% if post.description %}
+              <p>{{ post.description }}</p>
+            {% endif %}
+            <br />
+            <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
+            {% if post.layout == "remote_event_openhack" %}
+              <a class='btn btn-link btn-lg' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Chi Hack Night Zoom Call @ 7pm</a>
+            {% else %}
+              <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
+            {% endif %}
+            <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'>Agenda</a>
+          </div>
+          <div class='col-sm-5'>
+            {% if post.image %}
+              <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+              {% if post.image_credit %}
+                <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>
 
