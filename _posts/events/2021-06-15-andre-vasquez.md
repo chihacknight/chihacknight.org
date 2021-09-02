@@ -15,7 +15,7 @@ youtube_id: Zj4UsOdgBvU
 agenda: https://docs.google.com/document/d/1X7MMHdQzSlzEubLGS9ugvTASI4Q0r7gPFsDrk5UCMM8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: 'budgeting'
 published: true
 
 ---

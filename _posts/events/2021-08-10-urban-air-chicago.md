@@ -20,7 +20,7 @@ youtube_id: Q8Rk7Wuq1kk
 agenda: https://docs.google.com/document/d/1ZbbDQ9QivEbuXl9VP5n6oOUOypbVbcemtqpfu7FujXE/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: 'environment'
 published: true
 
 ---
