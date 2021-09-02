@@ -6,8 +6,8 @@ links:
 title: "Brianne Caplan, Code Your Dreams"
 description: ''
 speakers:
-  - ""
-image: /images/events/
+  - "Brianne Caplan"
+image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2021-09-14T19:00:00-05:00
 event_id: 461

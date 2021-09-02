@@ -8,70 +8,18 @@ layout: default
   </div>
 </div>
 
-<!-- <div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    <h2>No Chi Hack Night on November 3rd.</h2>
-    <p>We're taking election night off. We’ll be back again on <strong>November 10th, 2020</strong> with more civic hacking fun!</p>
-  </div>
-</div> -->
-
-<!-- 4th of July notice -->
-<!-- <div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    <h2 class='text-center'>
-      <i class='fa fa-fw fa-star fa-spin' style='color:#DC382A;'></i>
-      <i class='fa fa-fw fa-star fa-spin' style='color:#47AAEC;'></i>
-      <i class='fa fa-fw fa-star fa-spin' style='color:#DC382A;'></i>
-      <br /><br />
-      No Chi Hack Night on July 6th. <br />Happy 4th of July!
-      <br /><br />
-      <i class='fa fa-fw fa-star fa-spin' style='color:#47AAEC;'></i>
-      <i class='fa fa-fw fa-star fa-spin' style='color:#DC382A;'></i>
-      <i class='fa fa-fw fa-star fa-spin' style='color:#47AAEC;'></i>
-    </h2>
-    <p>On July 6th, there will be no regular Chi Hack Night.</p>
-
-    <p>We’ll be back again on <strong>July 13th</strong>!</p>
-  </div>
-</div> -->
-
-<!-- Thanksgiving notice -->
-<!-- <div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    <h2><i class='fa fa-fw fa-spoon fa-spin'></i> No Chi Hack Night on Nov 24th. Happy Thanksgiving!<i class='fa fa-fw fa-spoon fa-spin'></i></h2>
-    <p>We're taking the week of Thanksgiving off. We’ll be back again on <strong>Dec 1st, 2020</strong> with more civic hacking fun!</p>
-  </div>
-</div> -->
-
-<!-- End of year holiday notice -->
-<!-- <div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    <h2><i class='fa fa-snowflake-o fa-spin'></i> Happy holidays! See you in 2021! <i class='fa fa-snowflake-o fa-spin'></i></h2>
-    <p>We're taking the next two weeks off for the holidays. We’ll be back again on <strong>January 5th, 2021</strong> with more civic hacking fun! While you're waiting, <a target="_blank" href='https://www.youtube.com/playlist?list=PL_dBjjdnIbKysC7_e8-Jf55mB_sBs71zv'>check out some of our presentations</a> from the last year.</p>
-
-    <p><strong>Present at Chi Hack Night in 2021</strong>: Would you like to propose a talk at an upcoming Chi Hack Night? Take a look at our <a href='/speaker-submissions.html'>speaker requirements</a> and pitch your talk to us.</p>
-
-    <p><strong>Apply to be a Member</strong>: Chi Hack Night is a Membership-based organizaton! If you'd like to become a Member and have ownership of what Chi Hack Night does, <a href='/membership/application.html'>apply or renew for membership here!</a></p>
-  </div>
-</div> -->
-
 {% assign upcoming_posts = site.categories['events'] | where_exp:"post", "post.date >= site.time" | sort: 'date' %}
 {% for post in upcoming_posts limit: 1 %}
+
+{% assign next_date = post.date | date: "%A, %B %-d, %Y" %}
+<!-- {% include weekoff_4th.html date_off="July 10th" date_back= next_date %}
+{% include weekoff_election.html date_off="July 10th" date_back= next_date %}
+{% include weekoff_thanksgiving.html date_off="July 10th" date_back= next_date %}
+{% include weekoff_endofyear.html date_back= next_date new_year="2022" %} -->
+
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
+    <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>All events &raquo;</a></h3>
   </div>
   <div class="panel-body">
     <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
@@ -120,27 +68,24 @@ layout: default
       <a href="{{post.url}}">{{post.title}}</a>
     </h2>
     <div class='row'>
-      <div class='col-sm-7'>
+      <div class='col-sm-12'>
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% endif %}
         <br />
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-        {% if post.layout == "remote_event_openhack" %}
-          <a class='btn btn-link btn-lg' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Chi Hack Night Zoom Call @ 7pm</a>
-        {% else %}
-          <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
+        {% if post.youtube_id %}
+        <a class='btn btn-link btn-lg' href="https://www.youtube.com/watch?v={{post.youtube_id}}" target='_blank'><i class='fa fa-play-circle'></i> YouTube Video</a>
         {% endif %}
-        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'>Agenda</a>
       </div>
-      <div class='col-sm-5'>
+      <!-- <div class='col-sm-5'>
         {% if post.image and post.description.size > 0 %}
           <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
           {% if post.image_credit %}
             <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
           {% endif %}
         {% endif %}
-      </div>
+      </div> -->
     </div>
       
   </div>
@@ -325,24 +270,6 @@ layout: default
             </a>
           </div>
         </div>
-
-        <!-- <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='http://thecitybase.com' itemprop='url'>
-                <img src='images/sponsors/citybase.jpg' alt='City Base' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>City Base</span>
-            </a>
-          </div>
-        </div> -->
-
-        <!-- <div class='col-sm-3'>
-          <div itemscope itemtype='http://schema.org/Organization' class='sponsor-details'>
-            <a href='https://www.civisanalytics.com' itemprop='url'>
-                <img src='images/sponsors/civis-analytics.png' alt='Civis Analytics' itemprop='logo' class='img-responsive' />
-                <span itemprop='name'>Civis Analytics</span>
-            </a>
-          </div>
-        </div> -->
       </div>
 
       <div class='row'>

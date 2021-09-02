@@ -6,8 +6,8 @@ links:
 title: "Stephen Kleinschmit, Ph.D."
 description: ''
 speakers:
-  - ""
-image: /images/events/
+  - "Stephen Kleinschmit, Ph.D."
+image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2021-09-21T19:00:00-05:00
 event_id: 462
