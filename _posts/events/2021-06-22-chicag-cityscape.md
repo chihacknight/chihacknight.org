@@ -16,7 +16,7 @@ youtube_id: p_YiMRZ8lj8
 agenda: https://docs.google.com/document/d/10-gRuE-zizA9vsKyzqqfsLNT3nQXL1yGbZMYPTMaxAQ/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: 'real estate'
 published: true
 
 ---
