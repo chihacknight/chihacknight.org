@@ -17,6 +17,8 @@ agenda: https://docs.google.com/document/d/1ZmDnPcI38SPKUtmLVm_FfFa9LBC9lMYc23kn
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - 'public safety'
+ - 'oversight'
 published: true
 
 ---

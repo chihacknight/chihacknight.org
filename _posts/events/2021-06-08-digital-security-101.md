@@ -16,7 +16,7 @@ youtube_id: KN8UfaP7tMw
 agenda: https://docs.google.com/document/d/1AXw5ofEyfu6RbCHVBZS5wNVarq07NOz5b7clpTVluVQ/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: 'digital security'
 published: true
 
 ---

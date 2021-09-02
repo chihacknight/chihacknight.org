@@ -11,11 +11,11 @@ image: /images/events/458-rebecca.jpg
 image_credit:
 date: 2021-08-24T19:00:00-05:00
 event_id: 458
-youtube_id: 
+youtube_id: aL0HDlaoBFA
 agenda: https://docs.google.com/document/d/12QaF3qAtyMJK2QYXdgNITVme4of3-NW7BeXrd84k11M/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: 'smart cities'
 published: true
 
 ---
