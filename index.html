@@ -12,10 +12,13 @@ layout: default
 {% for post in upcoming_posts limit: 1 %}
 
 {% assign next_date = post.date | date: "%A, %B %-d, %Y" %}
-<!-- {% include weekoff_4th.html date_off="July 10th" date_back= next_date %}
+{% comment %}
+{% include weekoff_4th.html date_off="July 10th" date_back= next_date %}
 {% include weekoff_election.html date_off="July 10th" date_back= next_date %}
 {% include weekoff_thanksgiving.html date_off="July 10th" date_back= next_date %}
-{% include weekoff_endofyear.html date_back= next_date new_year="2022" %} -->
+{% include weekoff_endofyear.html date_back= next_date new_year="2022" %} 
+{% endcomment %}
+
 
 <div class="panel panel-default">
   <div class="panel-heading">
