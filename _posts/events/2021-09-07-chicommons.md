@@ -9,12 +9,12 @@ speakers:
   - "Steve Ediger, Founding Worker-owner, they/them"
   - "Alvyn Walker, Founding Worker-owner, they/them/theirs"
   - "Nurul Eusufzai, Founding Worker-owner, he/him"
-  - "Felipe Mitchell, Founding Worker-owner, he/him/el"
+  - "Nemiah Felipe Mitchell, III, Founding Worker-owner, he/him/el"
 image: /images/events/460-HowHackNightHatchedaCo-op.jpg
 image_credit:
 date: 2021-09-07T19:00:00-05:00
 event_id: 460
-youtube_id: 
+youtube_id: 0ikmnMKu_zU
 agenda: https://docs.google.com/document/d/1WZmBljPNVHIpoouE0B-7cqdpei0avI9nRNFjimXhifs/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
