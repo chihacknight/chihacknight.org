@@ -245,3 +245,11 @@ a { text-decoration: none !important; }
   border-color: #7bd9ff;
   color: #2c3e50;
 }
+
+.pagination > li > a, .pagination > li > span{background-color:#428bca!important}
+.pagination > li.disabled > a, .pagination > li.disabled > span{background-color: #006fa9!important}
+.pagination > li.disabled > a.hover, .pagination > li.disabled > span{background-color: #006fa9!important}
+.pagination > li.active > a, .pagination > li.active > span{background-color: #E7121C!important}
+.pagination > li.active > a.hover, .pagination > li.active > span{background-color: #E7121C!important}
+.pagination > li > a:hover, .pagination > li> span{background-color: #980c12!important}
+
