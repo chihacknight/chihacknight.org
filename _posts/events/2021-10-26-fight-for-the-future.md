@@ -6,7 +6,7 @@ links:
 title: "Caitlin Seeley George, Fight for the Future"
 description: ''
 speakers:
-  - "Roberto Barroso-Luque"
+  - "Caitlin Seeley George"
 image: 
 image_credit:
 date: 2021-10-26T19:00:00-05:00
