@@ -11,7 +11,7 @@ image: /images/events/462.jpg
 image_credit:
 date: 2021-09-21T19:00:00-05:00
 event_id: 462
-youtube_id: 
+youtube_id: FqdZDKE1_PQ
 agenda: https://docs.google.com/document/d/1WBaCwWc-ziwvlnmYejmHhbzlM0-c7HwWEs7LJNOwwzc/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

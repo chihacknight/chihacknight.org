@@ -12,7 +12,7 @@ image: /images/events/464-ChicagoCommunityDataPortal.jpg
 image_credit:
 date: 2021-10-05T19:00:00-05:00
 event_id: 464
-youtube_id: 
+youtube_id: AZ242qxdfA8
 agenda: https://docs.google.com/document/d/1O0Eg5XX8nVT1I5mCQJiqLAyQYn2-bTxP1iY1qYiBaos/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
