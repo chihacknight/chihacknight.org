@@ -16,6 +16,7 @@ agenda: https://docs.google.com/document/d/1WBaCwWc-ziwvlnmYejmHhbzlM0-c7HwWEs7L
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - education
 published: true
 
 ---

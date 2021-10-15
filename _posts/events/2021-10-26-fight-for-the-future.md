@@ -16,6 +16,9 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - "digital rights"
+ - privacy
+ - advocacy
 published: true
 
 ---

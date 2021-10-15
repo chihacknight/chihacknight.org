@@ -16,6 +16,8 @@ agenda:
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - redistricting
+ - elections
 published: true
 
 ---

@@ -19,6 +19,8 @@ agenda: https://docs.google.com/document/d/1WZmBljPNVHIpoouE0B-7cqdpei0avI9nRNFj
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
+ - coops
+ - 'breakout group'
 published: true
 
 ---
