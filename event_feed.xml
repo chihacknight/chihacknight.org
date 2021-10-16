@@ -6,7 +6,7 @@ layout: null
   <channel>
     <title>Chi Hack Night Events</title>
     <description>Chicago's place to build, share, and learn about civic tech.</description>
-    <link>http://chihacknight.org/events.html</link>
+    <link>https://chihacknight.org/events.html</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.categories['events'] limit:10 %}
       <item>
