@@ -1,0 +1,157 @@
+---
+layout: default
+---
+
+<div itemscope itemtype="http://schema.org/Event">
+  <h3>
+    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %-d, %Y" }}</time>
+  </h3>
+  <h1>
+    <small>#{{page.event_id}}</small>
+    <span itemprop="name">{{page.title}}</span>
+  </h1>
+  <hr />
+
+  <div class='row'>
+    {% if site.time <= page.date %}
+      <div class='col-sm-7'>
+    {% else %}
+      <div class='col-sm-12'> 
+    {% endif %}
+
+      {% if page.youtube_id %}
+        <iframe width="100%" height="580" src="https://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
+        <hr />
+      {% elsif site.time >= page.date and page.image %}
+        <p>
+          <img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
+        </p>
+      {% else %}
+        {% if page.image %}
+          <p class='hidden-lg hidden-md'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
+          </p>
+        {% endif %}
+      {% endif %}
+
+      {% if site.time <= page.date %}
+        <p>
+          <a class='btn btn-success' href='{{site.rsvp_url}}'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
+
+          {% if page.agenda %}
+            &nbsp;&nbsp;<a class='btn btn-info' href='{{page.agenda}}' target='_blank'><i class='fa fa-file-text-o fa-fw'></i> Agenda</a>
+          {% endif %}
+
+        </p>
+      {% endif %}
+
+      <span itemprop="description">{{content}}</span>
+
+      {% if site.time < page.date and page.speakers %}
+
+        <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and prototyping groups</a> until 9:30pm.</p>
+      {% endif %}
+
+      <hr />
+      {% if page.agenda %}
+        <i class='fa fa-file-text-o fa-fw'></i> <a href='{{page.agenda}}' target='_blank'>Agenda and meeting notes</a><br />
+      {% endif %}
+      {% if site.time <= page.date %}
+        <i class='fa fa-group fa-fw'></i> <a href='/breakouts.html'> Breakout groups</a><br />
+        <i class='fa fa-smile-o fa-fw'></i> <a href='/code-of-conduct.html'> Code of conduct</a><br />
+      {% endif %}
+      <i class='fa fa-cutlery fa-fw'></i> Sponsor {{page.sponsor}}<br />
+      {% if page.asl_provided %}
+        <i class='fa fa-american-sign-language-interpreting fa-fw'></i> American Sign Language interpreter<br />
+      {% endif %}
+
+      {% if page.links %}
+        <hr />
+        <h4>Links</h4>
+        <ul>
+        {% for link in page.links %}
+          <li>{{link}}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    {% if site.time <= page.date %}
+      <div class='col-sm-5'>
+        <div class='well'>
+          {% if page.image %}
+            <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+            {% if page.image_credit %}
+              <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+            {% endif %}
+            </p>
+          {% endif %}
+
+          {% if page.speakers %}
+            {% if page.speakers.size > 1 %}
+              <strong>Presenters</strong>
+            {% else %}
+              <strong>Presenter</strong>
+            {% endif %}
+            <p>
+            {% for p in page.speakers %}
+              {{p}}<br />
+            {% endfor %}
+            </p>
+          {% endif %}
+         
+          <strong>Location</strong><br />
+          {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="name">Braintree office</span><br />
+            <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">20 N Upper Wacker Dr
+                 <br />Suite 1200</span><br />
+                <span itemprop="addressLocality">Chicago</span>,
+                <span itemprop="addressRegion">IL</span>
+              </div>
+            </a><br />
+            When you arrive in the Civic Opera Buildingt, take the elevators to the 12th floor.
+          </div>
+          
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-sm-12'>
+
+    <hr />
+    <h4 id='slideshow-header' style='display: none;'>Flickr photos from Chi Hack Night #{{page.event_id}}</h4>
+    <div class='slideshow'></div>
+    <p>Have a photo of this event? Upload it to <a href='http://flickr.com'>Flickr</a> and tag it with <strong><a href='https://www.flickr.com/search/?tags=chihacknight{{page.event_id}}'>chihacknight{{page.event_id}}</a></strong></p>
+
+    <script src="/js/galleria/galleria.js"></script>
+    <script src="/js/galleria/plugins/flickr/galleria.flickr.js"></script>
+    <script>
+      var flickr = new Galleria.Flickr();
+        flickr.tags('chihacknight-{{page.event_id}}, chihacknight{{page.event_id}}', function(data) {
+            // Should we show or hide the slideshow?
+            var $slideshow = $(".slideshow");
+            if (data.length) {
+              $slideshow.css({height: 600, marginBottom: 20});
+              $('#slideshow-header').show()
+            } else {
+              $slideshow.hide();
+            }
+
+            Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.js');
+            Galleria.run('.slideshow', {
+                dataSource: data
+            });
+        });
+    </script>
+  </div>
+</div>
