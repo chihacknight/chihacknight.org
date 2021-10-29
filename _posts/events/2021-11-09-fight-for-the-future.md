@@ -9,7 +9,7 @@ speakers:
   - "Caitlin Seeley George. Fight for the Future"
 # image: /images/events/468-redistricting chihacknight.jpg
 image_credit:
-date: 2021-11-09T19:00:00-05:00
+date: 2021-11-09T19:00:00-06:00
 event_id: 469
 youtube_id: 
 agenda: 
