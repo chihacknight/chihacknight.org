@@ -11,7 +11,7 @@ image: /images/events/468-redistricting-chihacknight.jpg
 image_credit:
 date: 2021-11-02T19:00:00-05:00
 event_id: 468
-youtube_id: 
+youtube_id: UcqJEd3lI_E
 agenda: https://docs.google.com/document/d/1nA4XmEaFGQjcSOlpATuvqs6x5sxYQl7sYNRzxhCPMio/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
