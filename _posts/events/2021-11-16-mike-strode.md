@@ -7,12 +7,12 @@ title: "Mike Strode, Open Collective Foundation"
 description: ""
 speakers:
  - " Mike Strode, Open Collective Foundation"
-image: /images/events/387-tech-talent-project.jpg
+image: /images/blog/teamworking-technexus-chn.jpg
 image_credit:
 date: 2021-11-16T18:00:00-06:00
 event_id: 470
 youtube_id: 
-agenda: h
+agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
@@ -21,7 +21,9 @@ published: true
 
 ---
  
+**Join us in person or on the livestream! We will be starting around 6pm.**
 
+For more information please see our [latest blog post](/blog/2021/11/09/2021-return-to-in-person.html). 
 
 ---
 
