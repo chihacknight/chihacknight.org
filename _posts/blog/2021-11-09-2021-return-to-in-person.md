@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "In-person Chi Hack Night reurns on Nov 16, 2021"
-description: ""
+description: "On November 16, 2021 at 6pm, in-person Chi Hack Night will return! After 20 months and 75 remote hack nights, we’re excited to bring Chi Hack Night back to the physical world. With COVID cases decreasing in Chicagoland and adult vaccination rates up to 75%, we feel that it is safe again to gather for a masked evening of socializing, learning, and civic hacking. Oh, how we’ve missed you!"
 date: 2021-11-09
 image: /images/blog/teamworking-technexus-chn.jpg
 author: "Derek Eder"
