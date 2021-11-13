@@ -36,7 +36,7 @@ After 20 months and 75 remote hack nights, we’re excited to bring Chi Hack Nig
 <p class="text-center"><img src="/images/blog/teamworking-technexus-2.jpg" alt="Kitchen space at TeamWorking at TechNexus" class='img-responsive'/><br /><em>Kitchen space at TeamWorking at TechNexus</em>
 </p>
 
-For our return to in-person, Chi Hack Night will be hosted at [TeamWorking at TechNexus](https://teamworking.vc/), located in the [Civic Opera Building in downtown Chicago](https://goo.gl/maps/xcdjbHx7PYsefjBh6). At the event, we will hear a presentation from [Mike Strode](https://www.linkedin.com/in/mjstrode/) at [Open Collective Foundation](https://www.opencollective.foundation/), socialize, and hold space for [breakout groups](https://chihacknight.org/breakouts.html). 
+For our return to in-person, Chi Hack Night will be hosted at [TeamWorking at TechNexus](https://teamworking.vc/), located in the [Civic Opera Building in downtown Chicago](https://goo.gl/maps/xcdjbHx7PYsefjBh6). At the event, we will hear a [presentation from Mike Strode at Open Collective Foundation](/events/2021/11/16/mike-strode.html), socialize, and hold space for [breakout groups](https://chihacknight.org/breakouts.html). 
 
 If you can’t make it in person, we will be streaming the presentation on our [YouTube channel](https://www.youtube.com/chihacknight/live). Either way, we hope to see you at 6pm on Tuesday!
 
