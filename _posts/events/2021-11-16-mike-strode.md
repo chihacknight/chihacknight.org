@@ -3,8 +3,8 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "Open Sourcing A Not-For-Profit Organization Through Open Collective"
-description: "In this presentation, Mike Strode, a program manager with Open Collective Foundation, shares some background on the work that led to the development of the Open Collective platform and current growth of the Foundation. He will explore how a decentralized network of fiscal host organizations are advancing participatory budgeting by hosting their projects on the platform. Mike will offer examples of some of the 300+ initiatives currently hosted by Open Collective Foundation whose cross-sectoral work includes: mutual aid, tenant organizing, food access, timebanking, prisoner support, and open source technology."
+title: "In-person: Open Sourcing A Not-For-Profit Organization Through Open Collective"
+description: "This event will be in person, but you can also tune in via our usual livestream. Both start at 6pm CST. In this presentation, Mike Strode, a program manager with Open Collective Foundation, shares some background on the work that led to the development of the Open Collective platform and current growth of the Foundation. He will explore how a decentralized network of fiscal host organizations are advancing participatory budgeting by hosting their projects on the platform. Mike will offer examples of some of the 300+ initiatives currently hosted by Open Collective Foundation whose cross-sectoral work includes: mutual aid, tenant organizing, food access, timebanking, prisoner support, and open source technology."
 speakers:
  - "Mike Strode (he/him), Program Manager, Open Collective Foundation"
 image: /images/events/470-DSC_6268.jpg
@@ -21,9 +21,15 @@ published: true
 
 ---
  
-**Join us in person or on the livestream! We will be starting with announcements around 6pm.**
+**This event will be in person, but you can also tune in via our usual livestream. Both start at 6pm CST.**
 
-For more information please see our [latest blog post](/blog/2021/11/09/2021-return-to-in-person.html). 
+**In-person:** <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>TechNexus, 20 N Upper Wacker Drive, 12th Floor, Chicago IL</a>
+
+**Livestream:** <a href='https://youtube.com/chihacknight/live'>youtube.com/chihacknight/live</a>
+
+For more information on our return to in-person events, please see our [latest blog post](/blog/2021/11/09/2021-return-to-in-person.html). 
+
+---
 
 [Open Collective](https://opencollective.com/) began as a platform to collect and deploy funds that would sustain open source software projects by offering users a way to back their ongoing development. The platform was able to deliver an innovative approach to fiscal sponsorship by host organizations that gave greater visibility and autonomy to small projects or grassroots initiatives to manage their hosted budgets directly through a dashboard on Open Collective. In 2020, [Open Collective Foundation](https://opencollective.foundation/), a first party fiscal host, experienced a massive surge in requests for hosting projects as mutual aid exploded in communities throughout the United States. Their lightweight easy to understand application process provided a simple pathway for groups to expand their capacity and support their neighbors.
 
