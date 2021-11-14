@@ -11,7 +11,7 @@ image: /images/events/469-JoeThorntonHeadshot.jpg
 image_credit:
 date: 2021-11-09T19:00:00-06:00
 event_id: 469
-youtube_id: 
+youtube_id: upUVKfSzr7s
 agenda: https://docs.google.com/document/d/1AQdd4mCd89Z-r7lWZf5-tNdqS6iwtZS_6Fy1I6nTsM8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
