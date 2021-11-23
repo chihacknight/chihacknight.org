@@ -11,7 +11,7 @@ image: /images/events/470-DSC_6268.jpg
 image_credit:
 date: 2021-11-16T18:00:00-06:00
 event_id: 470
-youtube_id: 
+youtube_id: D1fgXS9sIfc
 agenda: https://docs.google.com/document/d/1LjW1kw3B2lOlY5pBXzbs4dtiLOtXXrZrRFhHP4288SU/edit?usp=sharing
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
