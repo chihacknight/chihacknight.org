@@ -16,7 +16,7 @@ agenda: https://docs.google.com/document/d/1LjW1kw3B2lOlY5pBXzbs4dtiLOtXXrZrRFhH
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
-tags: 
+tags: "nonprofit"
 published: true
 
 ---
