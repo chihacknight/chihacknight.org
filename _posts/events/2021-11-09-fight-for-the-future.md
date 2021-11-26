@@ -15,7 +15,7 @@ youtube_id: upUVKfSzr7s
 agenda: https://docs.google.com/document/d/1AQdd4mCd89Z-r7lWZf5-tNdqS6iwtZS_6Fy1I6nTsM8/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: 
+tags: "activism"
 published: true
 
 ---
