@@ -12,7 +12,7 @@ image: /images/events/471.jpg
 image_credit:
 date: 2021-11-30T19:00:00-06:00
 event_id: 471
-youtube_id: 
+youtube_id: qgxSEQfC_VY
 agenda: https://docs.google.com/document/d/1BRthwxByfQ65hTbCq2gYjoC5_o2seYf4ir5hHG5AOb8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
