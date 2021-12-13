@@ -10,7 +10,7 @@ speakers:
 image: /images/events/473.jpg
 image_credit: "Ashlee Rezin Garcia/Sun-Times file"
 date: 2022-01-18T18:00:00-06:00
-event_id: 476
+event_id: 475
 youtube_id: 
 agenda: 
 sponsor: Chi Hack Night Community
@@ -33,11 +33,6 @@ For more information on our return to in-person events, please see our [latest b
 
 ---
 
-**Update**: Our originally planned speaker, Joe Ferguson, has been rescheduled for Jan 18, 2022.
-
-According to the recently released [State of Chicago Tech Talent Report](https://p33chicago.com/tech-talent-report/), lack of diversity at technology companies in Illinois mirrors the demographic profile of computer science programs at local public and private universities. Just 4% of bachelor’s degrees in computer science from Illinois colleges were awarded to Black students and 11.9% went to Latino students in 2020.
-
-Aleena Agrawal, Director of Talent Solutions at P33 Chicago, will discuss the findings of this report and what actions can be taken to increase the racial diversity of Chicago's tech sector.
 
 ---
 
