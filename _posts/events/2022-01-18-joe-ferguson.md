@@ -3,21 +3,22 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person: P33 Chicago - The State of Chicago Tech Talent Report"
-description: "According to the recently released State of Chicago Tech Talent Report, lack of diversity at technology companies in Illinois mirrors the demographic profile of computer science programs at local public and private universities. Just 4% of bachelor’s degrees in computer science from Illinois colleges were awarded to Black students and 11.9% went to Latino students in 2020. Aleena Agrawal, Director of Talent Solutions at P33 Chicago, will discuss the findings of this report and what actions can be taken to increase the racial diversity of Chicago’s tech sector."
+title: "In-person: Former Inspector General Joe Ferguson"
+description: ""
 speakers:
- - "Aleena Agrawal, Director of Talent Solutions at P33 Chicago (she/her)"
-image: /images/events/473-aleena.jpg
-date: 2021-12-14T18:00:00-06:00
-event_id: 473
+ - "Joe Ferguson, Former Inspector General for Chicago (he/him)"
+image: /images/events/473.jpg
+image_credit: "Ashlee Rezin Garcia/Sun-Times file"
+date: 2022-01-18T18:00:00-06:00
+event_id: 476
 youtube_id: 
-agenda: https://docs.google.com/document/d/10Qtmo8bnyRFGUd6k8vHerRPSMdfoAs8Yvye3_lhMFV4/edit#
+agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
 tags: 
-  - "equity"
-  - "workforce development"
+  - "open government"
+  - "transparency"
 published: true
 
 ---
