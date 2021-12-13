@@ -16,7 +16,9 @@ youtube_id: qgxSEQfC_VY
 agenda: https://docs.google.com/document/d/1BRthwxByfQ65hTbCq2gYjoC5_o2seYf4ir5hHG5AOb8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
-tags: "data journalism"
+tags: 
+ - "data journalism"
+ - "water"
 published: true
 
 ---
