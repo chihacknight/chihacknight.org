@@ -10,7 +10,7 @@ speakers:
 image: /images/events/473.jpg
 image_credit: "Ashlee Rezin Garcia/Sun-Times file"
 date: 2022-01-18T18:00:00-06:00
-event_id: 475
+event_id: 476
 youtube_id: 
 agenda: 
 sponsor: Chi Hack Night Community
