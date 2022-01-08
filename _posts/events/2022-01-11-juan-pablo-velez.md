@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Juan-Pablo Velez"
+title: "How Much Solar Does Illinois Need to Build?"
 description: ""
 speakers:
   - "Juan-Pablo Velez"
