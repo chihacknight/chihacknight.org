@@ -3,13 +3,13 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "REMOTE: Former Inspector General Joe Ferguson"
+title: "NOW REMOTE: Former Inspector General Joe Ferguson"
 description: ""
 speakers:
  - "Joe Ferguson, Former Inspector General for Chicago (he/him)"
 image: /images/events/473.jpg
 image_credit: "Ashlee Rezin Garcia/Sun-Times file"
-date: 2022-01-18T18:00:00-06:00
+date: 2022-01-18T18:00:00-07:00
 event_id: 476
 youtube_id: 
 agenda: 
