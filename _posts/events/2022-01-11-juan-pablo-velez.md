@@ -3,10 +3,10 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Juan Pablo-Velez"
+title: "Juan-Pablo Velez"
 description: ""
 speakers:
-  - "Juan Pablo-Velez"
+  - "Juan-Pablo Velez"
 # image: /images/events/474.jpg
 # image_credit:
 date: 2022-01-11T19:00:00-06:00
