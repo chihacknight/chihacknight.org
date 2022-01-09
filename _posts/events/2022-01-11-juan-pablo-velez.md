@@ -12,7 +12,7 @@ image_credit:
 date: 2022-01-11T19:00:00-06:00
 event_id: 475
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1QA-rJCqe1ECjP_x0-WtwyEwQk_LlyAuomJ_upRyEt3M/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: 
