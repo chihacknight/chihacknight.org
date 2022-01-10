@@ -7,8 +7,8 @@ title: "What does it actually take to decarbonize a state?"
 description: "Juan-Pablo Velez, founder and one-time co-organizer of Chi Hack Night, spent the pandemic creating a solar YIMBY group and going deep into New York State climate politics and policy. With an eye towards sparking similar work in Illinois, he'll give an overview of New York State's country-leading climate law, what it will take to decarbonize NYS by 2050, and the political forces standing in the way."
 speakers:
   - "Juan-Pablo Velez, climate activist, he/him/his"
-image: /images/events/475-juan-pablo-velez.jpg
-image_credit:
+image: /images/events/475-solar.jpg
+image_credit: 
 date: 2022-01-11T19:00:00-06:00
 event_id: 475
 youtube_id: 
