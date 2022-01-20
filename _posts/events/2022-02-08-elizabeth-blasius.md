@@ -7,7 +7,7 @@ title: "Elizabeth Blasius, Preservation Futures"
 description: ""
 speakers:
   - "Elizabeth Blasius, Preservation Futures"
-# image: /images/events/477-jon-hansen.jpg
+image: #/images/events/477-jon-hansen.jpg
 image_credit: 
 date: 2022-02-08T18:00:00-07:00
 event_id: 479

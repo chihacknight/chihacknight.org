@@ -7,7 +7,7 @@ title: "Brittany Bennett, Sunrise Movement"
 description: ""
 speakers:
   - "Brittany Bennett, Sunrise Movement"
-# image: /images/events/477-jon-hansen.jpg
+image: #/images/events/477-jon-hansen.jpg
 image_credit: 
 date: 2022-02-01T18:00:00-07:00
 event_id: 478

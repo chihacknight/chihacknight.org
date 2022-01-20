@@ -4,10 +4,10 @@ categories:
   - events
 links: 
 title: "Joseph Tajaran, Code for Chicago"
-description: "Joseph Tajaran, Code for Chicago"
+description: ""
 speakers:
-  - ""
-# image: /images/events/477-jon-hansen.jpg
+  - "Joseph Tajaran, Code for Chicago"
+image: #/images/events/477-jon-hansen.jpg
 image_credit: 
 date: 2022-02-15T18:00:00-07:00
 event_id: 480
