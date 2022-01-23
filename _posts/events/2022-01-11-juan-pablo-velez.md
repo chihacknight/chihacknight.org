@@ -11,7 +11,7 @@ image: /images/events/475-solar.jpg
 image_credit: 
 date: 2022-01-11T19:00:00-06:00
 event_id: 475
-youtube_id: 
+youtube_id: z5H_SWqmt9Q
 agenda: https://docs.google.com/document/d/1QA-rJCqe1ECjP_x0-WtwyEwQk_LlyAuomJ_upRyEt3M/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

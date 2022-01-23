@@ -11,7 +11,7 @@ image: /images/events/473.jpg
 image_credit: "Ashlee Rezin Garcia/Sun-Times file"
 date: 2022-01-18T18:00:00-07:00
 event_id: 476
-youtube_id: 
+youtube_id: 6D1jIxyIlTw
 agenda: https://docs.google.com/document/d/1IQN4LujcwOt9yZf-Q0UFa6wbuoA5qjGxWnhjdjWCrDo/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
