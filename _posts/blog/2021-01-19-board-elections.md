@@ -28,7 +28,7 @@ There are a total of 6 seats up in this election. Four of them will be chosen by
 Here’s a breakdown of the available seats:
 
 
-<table class='table'>
+<table class='table table-border'>
   <tr>
    <th><strong>Board seat</strong>
    </th>
