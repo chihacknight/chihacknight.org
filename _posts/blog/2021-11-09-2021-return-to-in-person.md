@@ -15,7 +15,7 @@ author2_image:
 author2_url: 
 author2_bio: 
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/teamworking-technexus-chn.jpg" alt="The event space at TeamWorking at TechNexus" class='img-responsive'/><br /><em>The event space at TeamWorking at TechNexus</em>
