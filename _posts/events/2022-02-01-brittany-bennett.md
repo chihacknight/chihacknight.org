@@ -11,7 +11,7 @@ image: /images/events/478-brittany-bennett.jpg
 image_credit: 
 date: 2022-02-01T18:00:00-07:00
 event_id: 478
-youtube_id: 
+youtube_id: u8wbA49sHBU
 agenda: https://docs.google.com/document/d/18T_5i7OdArmV5fTCH6VWbA9jMq4ayFlcWbKD3XyN7cQ/edit?usp=sharing
 sponsor: Chi Hack Night Community
 rsvp_url: 
