@@ -1,9 +1,9 @@
 ---
-layout: remote_event
+layout: technexus_event
 categories:
   - events
 links: 
-title: "Joseph Tajaran, Code for Chicago"
+title: "In-person: Joseph Tajaran, Code for Chicago"
 description: ""
 speakers:
   - "Joseph Tajaran, Code for Chicago"
