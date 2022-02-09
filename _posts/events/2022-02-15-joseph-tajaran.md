@@ -14,7 +14,7 @@ event_id: 480
 youtube_id: 
 agenda: 
 sponsor: Chi Hack Night Community
-rsvp_url: 
+rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
 tags: 
 published: true
