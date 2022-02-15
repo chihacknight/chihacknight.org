@@ -36,10 +36,12 @@ When civic tech delivers, it can make a difference in the lives of people who ne
 
 ---
 
-**RSVP required** All in person attendees must [RSVP beforehand]({{page.rsvp_url}}). Walk-ins will not be allowed!
+**RSVP required** All in-person attendees must [RSVP beforehand]({{page.rsvp_url}}). However, walk-ins will be allowed.
 
 **Vaccination required** In order to keep attendees safe, we will be requiring proof of vaccination at the door. A physical vaccine cards or picture of one will be accepted. If you are not vaccinated, you can tune in to the livestream.
 
 **Masks required** As per the City of Chicago’s mask mandate, attendees will be required to wear a mask. We will provide additional masks if you forget yours.
+
+**Snacks and drinks provided** Serving communal food in a pandemic is still a bit risky. We will be providing some light snacks and drinks, so you may want to grab some dinner ahead of time.
 
 **ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
