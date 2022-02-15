@@ -5,6 +5,7 @@ categories:
 name_first: "Michael"
 name_last: "Chladek"
 seat: "Elected"
+position: "Treasurer"
 term_expires: "2022"
 committees:
   - "Membership"
