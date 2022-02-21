@@ -19,7 +19,7 @@ published: true
 
 ---
 
-Chi Hack Night will hold our second election for our Board of Directors as part of a General Meeting of the Chi Hack Night Membership. The Chi Hack Night [Board of Directors](/board-of-directors.html), composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen. After announcements and introductions, members will gather to vote. **If you are a Member of Chi Hack Night please attend this event to participate and vote.**
+Chi Hack Night will hold our third election for our Board of Directors as part of a General Meeting of the Chi Hack Night Membership. The Chi Hack Night [Board of Directors](/board-of-directors.html), composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen. After announcements and introductions, members will gather to vote. **If you are a Member of Chi Hack Night please attend this event to participate and vote.**
 
 Not a [Member of Chi Hack Night](https://chihacknight.org/membership/application.html)? There will be no presentation this week but it will be a regular Open Hack. 
 
