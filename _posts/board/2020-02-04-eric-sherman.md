@@ -4,7 +4,6 @@ categories:
   - board
 name_first: "Eric"
 name_last: "Sherman"
-position: "Treasurer"
 seat: "Elected"
 term_expires: "2022"
 committees:
