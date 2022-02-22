@@ -15,7 +15,7 @@ author2_image:
 author2_url: 
 author2_bio: 
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/money.gif" alt="$100 honorariums" style='width:75%;'/><br /><em>$100 honorariums</em>

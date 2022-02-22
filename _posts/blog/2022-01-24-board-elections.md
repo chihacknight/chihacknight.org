@@ -14,7 +14,7 @@ author2: Josh Kalov
 author2_url: https://chihacknight.org/board-of-directors/josh-kalov.html
 author2_image: /images/people/board/josh.jpg
 author2_bio: "Board Member, Chi Hack Night"
-featured: true
+featured: false
 published: true
 ---
 
