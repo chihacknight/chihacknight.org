@@ -11,7 +11,7 @@ image_credit:
 date: 2022-02-22T19:00:00-06:00
 event_id: 481
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/1RvDehBh4xgEeKGBv7_ZOuCHGeTEJfI8aXuyYSAGZ8wo/edit
 sponsor: Chi Hack Night Community
 asl_provided: false
 tags: openhack
