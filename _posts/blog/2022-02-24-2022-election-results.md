@@ -4,7 +4,7 @@ categories:
   - blog
 title: "2022 Board Election Results"
 description: "On Feb 22nd, we held our third annual General Meeting and election for our Board of Directors. We were amazed at the turnout. Of our 57 official Members, 26 attended virtually to cast their votes. There were three members chosen by Chi Hack Night Members based on popular vote and two appointed by the current Board of Directors with majority Membership approval."
-date: 2022-02-28
+date: 2022-02-24
 image: /images/blog/2022-board-elected.jpg
 author: Josh Kalov
 author_url: https://twitter.com/joshkalov
