@@ -14,7 +14,7 @@ date: 2020-02-04
 image: "/images/people/board/alexis_shoemaker.jpg"
 permalink: /board-of-directors/alexis-shoemaker.html
 published: true
-active: true
+active: false
 ---
 
 Alexis is passionate about using technology to drive successful outcomes for her customers in her day job as a Customer Success Manager. She strives to do the same at Chi Hack Night for everyone who interacts with local government and its partners. She has spent her career in technical and customer facing roles at software companies, including a five year stint with a civic tech organization in New York City. Alexis jumped into her first Chi Hack Night very shortly after she moved to Chicago in June 2019.
