@@ -3,21 +3,19 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Code for Chicago: Supporting Not-for-Profit Organizations"
-description: "When civic tech delivers, it can make a difference in the lives of people who need it the most. While many flock to it for experience building and/or altruistic reasons, those who have been through the trenches know that civic tech in the after work hours has its challenges. In this talk, learn more about how Chicago’s Code for America Brigade, Code for Chicago, attempt to resolve common pain points through the lens of their projects."
+title: "In-person: TBD"
+description: ""
 speakers:
-  - "Joseph Tajaran, Brigade Captain, he/him/his"
-image: /images/events/480-joseph_crop.jpg
+image: 
 image_credit: 
-date: 2022-02-15T17:00:00-07:00
-event_id: 480
+date: 2022-03-15T17:00:00-07:00
+event_id: 484
 youtube_id: 
-agenda: https://docs.google.com/document/d/100PV0I80CKnTrc43Gf50egaO3wBAe1q50jr3Ta5Kob0/edit?usp=sharing
+agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
 tags: 
- - 'civic tech'
 published: true
 
 ---
@@ -29,10 +27,6 @@ published: true
 **Livestream:** <a href='https://youtube.com/chihacknight/live'>youtube.com/chihacknight/live</a>
 
 For more information on our return to in-person events, please see our [return to in person blog post](/blog/2021/11/09/2021-return-to-in-person.html). 
-
----
-
-When civic tech delivers, it can make a difference in the lives of people who need it the most. While many flock to it for experience building and/or altruistic reasons, those who have been through the trenches know that civic tech in the after work hours has its challenges. In this talk, learn more about how Chicago’s Code for America Brigade, Code for Chicago, attempt to resolve common pain points through the lens of their projects.
 
 
 ---
