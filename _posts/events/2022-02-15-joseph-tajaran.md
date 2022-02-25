@@ -11,7 +11,7 @@ image: /images/events/480-joseph_crop.jpg
 image_credit: 
 date: 2022-02-15T17:00:00-07:00
 event_id: 480
-youtube_id: 
+youtube_id: 7nog-T42p6w
 agenda: https://docs.google.com/document/d/100PV0I80CKnTrc43Gf50egaO3wBAe1q50jr3Ta5Kob0/edit?usp=sharing
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027

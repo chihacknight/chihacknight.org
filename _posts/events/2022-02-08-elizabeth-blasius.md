@@ -11,7 +11,7 @@ image: /images/events/479-elizabeth-blasius.jpg
 image_credit: 
 date: 2022-02-08T18:00:00-07:00
 event_id: 479
-youtube_id: 
+youtube_id: rIwGclwfsrE
 agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: 
