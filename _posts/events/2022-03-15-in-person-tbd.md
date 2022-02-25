@@ -8,10 +8,10 @@ description: ""
 speakers:
 image: 
 image_credit: 
-date: 2022-03-15T17:00:00-07:00
+date: 2022-03-15T18:00:00-05:00
 event_id: 484
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
