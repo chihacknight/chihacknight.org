@@ -4,6 +4,7 @@ categories: board
 name_first: "Joel"
 name_last: "Inwood"
 seat: "Elected"
+term_start: "2020"
 term_expires: "2022"
 committees:
   - "Event Operations (Chair)"

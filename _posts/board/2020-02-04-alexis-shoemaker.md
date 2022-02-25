@@ -4,6 +4,7 @@ categories: board
 name_first: "Alexis"
 name_last: "Shoemaker"
 seat: "Appointed"
+term_start: "2020"
 term_expires: "2022"
 committees:
  - "Membership"

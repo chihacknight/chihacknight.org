@@ -5,6 +5,7 @@ categories:
 name_first: "Mieko"
 name_last: "Furuhashi"
 seat: "Appointed"
+term_start: "2019"
 term_expires: "2019"
 committees:
   - "Website"

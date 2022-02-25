@@ -5,6 +5,7 @@ categories:
 name_first: "Sean"
 name_last: "Watland"
 seat: "Elected"
+term_start: "2022"
 term_expires: "2024"
 committees:
 date: 2022-02-22

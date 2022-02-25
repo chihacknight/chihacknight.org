@@ -4,6 +4,7 @@ categories: board
 name_first: "Ryan"
 name_last: "Spencer"
 seat: "Appointed"
+term_start: "2020"
 term_expires: "2022"
 committees:
  - "Booking"

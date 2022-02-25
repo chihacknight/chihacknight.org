@@ -4,6 +4,7 @@ categories: board
 name_first: "Emily"
 name_last: "Drevets"
 seat: "Elected"
+term_start: "2019"
 term_expires: "2019"
 committees:
   - "Event Operations (Chair)"

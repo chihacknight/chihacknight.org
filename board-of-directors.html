@@ -11,7 +11,7 @@ redirect_from:
 
 <p>The Chi Hack Night Board of Directors is responsible for governing our organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.</p>
 
-<p>The board consists of 11 members, who will each serve a 1 or 2 year term and are either appointed or elected by the members of Chi Hack Night.</p>
+<p>The board consists of 11 members, who will each serve a 2 year terms and are either appointed or elected by the members of Chi Hack Night.</p>
 
 <hr />
 
@@ -38,7 +38,7 @@ redirect_from:
       <td>
         <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong><br />
         Board seat: {{member.seat}}<br />
-        Term: {{member.term_expires}}
+        Term: {{member.term_start}} - {{member.term_expires}}
       </td>
       <td class='hidden-xs hidden-sm'>
         {{member.content | truncatewords: 50}} <a href='{{ member.url }}'>Read more ></a>
@@ -62,7 +62,7 @@ redirect_from:
     <tr>
       <th>Former board member</th>
       <th>Board seat</th>
-      <th>Term served</th>
+      <th>Years served</th>
     </tr>
   </thead>
   <tbody>
@@ -75,7 +75,13 @@ redirect_from:
         <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong>
       </td>
       <td>{{member.seat}}</td>
-      <td>{{member.term_expires}}</td>
+      <td>
+        {% if member.term_start ==  member.term_expires %}
+          {{member.term_expires}}
+        {% else %}
+          {{member.term_start}} - {{member.term_expires}}
+        {% endif %}
+      </td>
     </tr>
   {% endif %}
 {% endfor %}
