@@ -20,7 +20,18 @@ layout: default
           {{page.name_first}} {{page.name_last}}{% if page.position %}, {{page.position}}{% endif %}
         </h1>
         Board seat: {{page.seat}}<br />
-        Term: {{page.term_expires}}<br />
+        {% if page.active %}
+          Term:
+        {% else %}
+          Years served:
+        {% endif %}
+        
+        {% if page.term_start ==  page.term_expires %}
+          {{page.term_expires}}
+        {% else %}
+          Term: {{page.term_start}} - {{page.term_expires}}
+        {% endif %}
+        <br />
       </div>
     </div>
 

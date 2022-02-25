@@ -5,6 +5,7 @@ categories:
 name_first: "Steve"
 name_last: "Ediger"
 seat: "Elected"
+term_start: "2019"
 term_expires: "2019"
 committees:
   - "Booking"

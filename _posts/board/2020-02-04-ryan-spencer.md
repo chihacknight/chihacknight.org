@@ -4,6 +4,7 @@ categories: board
 name_first: "Ryan"
 name_last: "Spencer"
 seat: "Appointed"
+term_start: "2020"
 term_expires: "2022"
 committees:
  - "Booking"
@@ -14,7 +15,7 @@ date: 2020-02-04
 image: "/images/people/board/ryan_spencer.jpg"
 permalink: /board-of-directors/ryan-spencer.html
 published: true
-active: true
+active: false
 ---
 
 Ryan graduated from Loyola University Chicago with a BA in Political Science and a minor in International Studies. She currently works at the technology nonprofit Powered by Action as the Customer Success Lead. Her work is focused on helping nonprofits and schools increase community engagement by leveraging technology.

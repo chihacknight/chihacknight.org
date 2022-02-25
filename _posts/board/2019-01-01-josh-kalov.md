@@ -5,6 +5,7 @@ categories:
 name_first: "Josh"
 name_last: "Kalov"
 seat: "Elected"
+term_start: "2019"
 term_expires: "2023"
 committees:
   - "Website (Chair)"
