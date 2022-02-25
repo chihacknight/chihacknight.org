@@ -5,6 +5,7 @@ categories:
 name_first: "Steve"
 name_last: "Luker"
 seat: "Appointed"
+term_start: "2019"
 term_expires: "2023"
 committees:
   - "Website"

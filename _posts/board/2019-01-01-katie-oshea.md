@@ -6,6 +6,7 @@ name_first: "Katie"
 name_last: "O'Shea"
 position: "Secretary"
 seat: "Elected"
+term_start: "2019"
 term_expires: "2023"
 committees:
   - "Social Media (Chair)"

@@ -11,7 +11,7 @@ redirect_from:
 
 <p>The Chi Hack Night Board of Directors is responsible for governing our organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.</p>
 
-<p>The board consists of 11 members, who will each serve a 1 or 2 year term and are either appointed or elected by the members of Chi Hack Night.</p>
+<p>The board consists of 11 members, who will each serve a 2 year terms and are either appointed or elected by the members of Chi Hack Night.</p>
 
 <hr />
 
@@ -38,7 +38,7 @@ redirect_from:
       <td>
         <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong><br />
         Board seat: {{member.seat}}<br />
-        Term: {{member.term_expires}}
+        Term: {{member.term_start}} - {{member.term_expires}}
       </td>
       <td class='hidden-xs hidden-sm'>
         {{member.content | truncatewords: 50}} <a href='{{ member.url }}'>Read more ></a>
@@ -60,29 +60,27 @@ redirect_from:
 <table id='bod' class='table'>
   <thead>
     <tr>
-      <th style="width:20%;"></th>
-      <th style="width:25%;">Board member</th>
-      <th style="width:55%;" class='hidden-xs hidden-sm'>Biography</th>
+      <th>Former board member</th>
+      <th>Board seat</th>
+      <th>Years served</th>
     </tr>
   </thead>
   <tbody>
 
-{% assign members_sorted = site.categories['board'] | sort: 'name_last' %}
+{% assign members_sorted = site.categories['board'] | sort: 'term_expires' %}
 {% for member in members_sorted %}
   {% if member.active == false %}
     <tr>
       <td>
-        <a href='{{ member.url }}'>
-          <img src="{{member.image}}" alt="{{member.name_first}} {{member.last}}" class='img-responsive img-rounded'/>
-        </a>
+        <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong>
       </td>
+      <td>{{member.seat}}</td>
       <td>
-        <strong><a href='{{ member.url }}'>{{member.name_first}} {{member.name_last}}{% if member.position %}, {{member.position}}{% endif %}</a></strong><br />
-        Board seat: {{member.seat}}<br />
-        Term: {{member.term_expires}}
-      </td>
-      <td class='hidden-xs hidden-sm'>
-        {{member.content | truncatewords: 50}} <a href='{{ member.url }}'>Read more ></a>
+        {% if member.term_start ==  member.term_expires %}
+          {{member.term_expires}}
+        {% else %}
+          {{member.term_start}} - {{member.term_expires}}
+        {% endif %}
       </td>
     </tr>
   {% endif %}

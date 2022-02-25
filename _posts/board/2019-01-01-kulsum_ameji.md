@@ -4,6 +4,7 @@ categories: board
 name_first: "Kulsum"
 name_last: "Ameji"
 seat: "Appointed"
+term_start: "2019"
 term_expires: "2019"
 committees:
   - "Booking"
