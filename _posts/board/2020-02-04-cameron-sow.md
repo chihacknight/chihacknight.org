@@ -5,7 +5,7 @@ categories:
 name_first: "Cameron"
 name_last: "Sow"
 seat: "Appointed"
-term_start: "2020"
+term_start: "2019"
 term_expires: "2024"
 committees:
   - "Breakout Support (Chair)"

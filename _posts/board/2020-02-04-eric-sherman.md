@@ -5,7 +5,7 @@ categories:
 name_first: "Eric"
 name_last: "Sherman"
 seat: "Elected"
-term_start: "2020"
+term_start: "2019"
 term_expires: "2024"
 committees:
   - "Membership (Chair)"
