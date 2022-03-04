@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "How The Illinois Climate and Equitable Jobs Act Was Passed"
-description: ""
+description: "The Illinois Clean Jobs Coalition (ICJC) is made up of more than 200 climate groups, healthcare professionals, environmental justice champions, businesses, community leaders, labor unions, consumer advocates, faith-based and student organizations. In this presentation, you’ll hear from members of the ICJC coalition who will take you on a journey of how organizing led to the historic passage of CEJA."
 speakers:
   - "Andrew Barbeau, he/him, The Accelerate Group, President"
   - "Delmar Gillus, he/him, Elevate, Chief Operating Officer"

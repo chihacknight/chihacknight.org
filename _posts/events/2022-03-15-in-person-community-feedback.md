@@ -3,8 +3,8 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person: TBD"
-description: ""
+title: "In-person: Community Feedback Session"
+description: "As we emerge from 2 years of a pandemic that upended the world, Chi Hack Night will host a Community Feedback Session to reflect on what happened and what the Chi Hack Night Community should do next. Please join us for a facilitated group discussion to share what’s important to us now, and come up with ideas for taking action."
 speakers:
 image: 
 image_credit: 
@@ -19,6 +19,11 @@ tags:
 published: true
 
 ---
+
+As we emerge from 2 years of a pandemic that upended the world, Chi Hack Night will host a Community Feedback Session to reflect on what happened and what the Chi Hack Night Community should do next.
+
+Please join us for a facilitated group discussion to share what’s important to us now, and come up with ideas for taking action.
+
 
 **This event will be in person, but you can also tune in via our usual livestream. Doors open at 6pm. Announcements will start around 6:20pm CST.**
 
