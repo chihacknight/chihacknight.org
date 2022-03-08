@@ -9,9 +9,8 @@ speakers:
   - "Andrew Barbeau, he/him, The Accelerate Group, President"
   - "Delmar Gillus, he/him, Elevate, Chief Operating Officer"
   - "Jack Darin, he/him, Sierra Club Illinois, Director" 
-  - "Dulce Ortiz,she/hers, Clean Power Lake County, co-chair"  
+  - "Celeste Flores,she/hers, Clean Power Lake County, co-chair"  
   - "Mike Atty, he/him, United Congregation of Metro East, Executive Director"
-
 image: /images/events/483-ceja.jpg
 image_credit: 
 date: 2022-03-08T19:00:00-06:00
