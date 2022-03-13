@@ -42,7 +42,11 @@ layout: default
       {% if site.time <= page.date %}
         <p>
           <a class='btn btn-success' href='{{page.rsvp_url}}'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
-          <a class='btn btn-link' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 6pm</a>
+          {% if page.remote_url %}
+            <a class='btn btn-link' href="{{page.remote_url}}" target='_blank'><i class='fa fa-play-circle'></i> Zoom @ 6pm</a>
+          {% else %}
+            <a class='btn btn-link' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 6pm</a>
+          {% endif %}
           {% if page.agenda %}
             &nbsp;&nbsp;<a class='btn btn-info' href='{{page.agenda}}' target='_blank'><i class='fa fa-file-text-o fa-fw'></i> Agenda</a>
           {% endif %}
@@ -119,7 +123,11 @@ layout: default
             Enter the Civic Opera Building using the entrance in the middle of the block between Washington and Madison streets. Take the elevators to the 12th floor.
           </div><br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            {% if page.remote_url %}
+            <span itemprop="name">Also on the Chi Hack Night <a href="{{page.remote_url}}">Zoom @ 6pm</a></span><br />
+          {% else %}
             <span itemprop="name">Also on the Chi Hack Night <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a></span><br />
+          {% endif %}
           </div>
           
         </div>
