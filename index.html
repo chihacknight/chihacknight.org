@@ -41,7 +41,11 @@ layout: default
         {% elsif post.layout == "technexus_event"  %}
           <a class='btn btn-link btn-lg' href="https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198" target='_blank'><i class='fa fa-map-marker'></i> TechNexus</a>  
 
-          <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 6pm</a>
+          {% if post.remote_url %}
+            <a class='btn btn-link' href="{{post.remote_url}}" target='_blank'><i class='fa fa-play-circle'></i> Zoom @ 6pm</a>
+          {% else %}
+            <a class='btn btn-link' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 6pm</a>
+          {% endif %}
         {% else %}
           <a class='btn btn-link btn-lg' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
         {% endif %}
