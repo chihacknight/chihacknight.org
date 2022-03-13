@@ -34,7 +34,7 @@ We will split into groups and discuss the following prompts:
 
 After about 40 minutes, we'll come back together and share out our highlights. The Chi Hack Night Board will incorporate this feedback into our plans for 2022. 
 
-**This event will be in person, but you can also tune in via our usual livestream. Doors open at 6pm. Announcements will start around 6:20pm CST.**
+**This event will be in person, but you can also participate via Zoom. Doors open at 6pm. Announcements will start around 6:20pm CST.**
 
 **In-person:** <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>TeamWorking, 20 N Upper Wacker Drive, 12th Floor, Chicago IL</a>. Enter the Civic Opera Building using the entrance in the middle of the block between Washington and Madison streets. Take the elevators to the 12th floor.
 
