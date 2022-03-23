@@ -9,7 +9,7 @@ speakers:
   - "Devon Braunstein (she/her), City of Chicago"
 image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2022-04-15T17:00:00-07:00
+date: 2022-04-12T18:00:00-05:00
 event_id: 488
 youtube_id: 
 agenda: 
