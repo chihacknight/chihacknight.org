@@ -37,11 +37,11 @@ Description coming soon.
 
 ---
 
-**RSVP required** All in-person attendees must [RSVP beforehand]({{page.rsvp_url}}). However, walk-ins will be allowed.
+**RSVP** In-person attendees are strongly encouraged to [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
 
 **Vaccination required** In order to keep attendees safe, we will be requiring proof of vaccination at the door. A physical vaccine cards or picture of one will be accepted. If you are not vaccinated, you can tune in to the livestream.
 
-**Masks required** As per the City of Chicago’s mask mandate, attendees will be required to wear a mask. We will provide additional masks if you forget yours.
+**Masks required** Attendees will be required to wear a mask. We will provide additional masks if you forget yours.
 
 **Snacks and drinks provided** Serving communal food in a pandemic is still a bit risky. We will be providing some light snacks and drinks, so you may want to grab some dinner ahead of time.
 

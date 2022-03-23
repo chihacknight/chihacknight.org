@@ -45,7 +45,7 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-**RSVP ** In-person attendees are strongly encouraged to [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
+**RSVP** In-person attendees are strongly encouraged to [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
 
 **Vaccination required** In order to keep attendees safe, we will be requiring proof of vaccination at the door. A physical vaccine cards or picture of one will be accepted. If you are not vaccinated, you can tune in to the livestream.
 
