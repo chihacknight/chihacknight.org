@@ -8,6 +8,9 @@ seat: "Appointed"
 term_start: "2022"
 term_expires: "2024"
 committees:
+ - "Booking"
+ - "Community Engagement"
+ - "Event Operations"
 date: 2022-02-22
 image: "/images/people/board/laurie_merrell.jpg"
 permalink: /board-of-directors/laurie-merrell.html
