@@ -3,16 +3,16 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "Devon Braunstein, City of Chicago Digital Equity Council"
-description: ""
+title: "Unpacking Chicago’s Digital Divide"
+description: "The digital divide in Chicago is not what it seems: The majority of Chicago households (~80%) are connected to the internet. Yet, deep disparities exist at the neighborhood level. In Chicago’s least connected communities, more than 40% of residents don’t have internet at home. In this talk, we will review internet connectivity trends in Chicago from a socio-economic perspective, dig into the meaning of digital equity and inclusion, discuss the City’s progress to date, and lay out a strategy for achieving digital equity by placing community members at the center of the work."
 speakers:
-  - "Devon Braunstein (she/her), City of Chicago"
-image: /images/logo/logo-star-social.jpg
+  - "Devon Braunstein (she/her), Digital Inclusion Policy Fellow, Office of the Mayor, City of Chicago"
+image: /images/events/488-DevonBraunstein_Headshot.jpg
 image_credit: 
 date: 2022-04-12T18:00:00-05:00
 event_id: 488
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 asl_provided: false
@@ -33,7 +33,11 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-Description coming soon.
+The digital divide in Chicago is not what it seems: The majority of Chicago households (~80%) are connected to the internet. Yet, deep disparities exist at the neighborhood level. In Chicago’s least connected communities, more than 40% of residents don’t have internet at home.
+
+With broadband infrastructure nearly ubiquitous throughout the city, why do so many households still lack high-speed, reliable internet?
+
+In this talk, we will review internet connectivity trends in Chicago from a socio-economic perspective, dig into the meaning of digital equity and inclusion, discuss the City’s progress to date, and lay out a strategy for achieving digital equity by placing community members at the center of the work.
 
 ---
 
