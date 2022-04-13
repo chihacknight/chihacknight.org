@@ -1,0 +1,29 @@
+---
+layout: remote_event
+categories:
+  - events
+links: 
+title: "Cabrini Green: A History of Broken Promises"
+description: "Chicago is set to spend more than $2 billion transforming the city's most famous public housing complex, Cabrini Green. The transformation came with unkept promises of jobs, city contracts and homes for those forced from the neighborhood. We'll talk about the decades-long promises that never materialized and how the reporter tallied the cost to taxpayers."
+speakers:
+ - "Alejandra Cancino (She/Her/Ella), City Bureau's Deputy Editor"
+image: /images/events/489-CityBureauStaff.jpg
+image_credit: 
+date: 2022-04-19T19:00:00-05:00
+event_id: 489
+youtube_id: 
+agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
+sponsor: Chi Hack Night Community
+rsvp_url: 
+asl_provided: false
+tags:
+published: true
+
+---
+
+Chicago is set to spend more than $2 billion transforming the city's most famous public housing complex, Cabrini Green. The transformation came with unkept promises of jobs, city contracts and homes for those forced from the neighborhood. We'll talk about the decades-long promises that never materialized and how the reporter tallied the cost to taxpayers.
+
+---
+
+**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
+
