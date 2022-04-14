@@ -21,7 +21,7 @@ published: true
 
 ---
 
-Chicago is set to spend more than $2 billion transforming the city's most famous public housing complex, Cabrini Green. The transformation came with unkept promises of jobs, city contracts and homes for those forced from the neighborhood. We'll talk about the decades-long promises that never materialized and how the reporter tallied the cost to taxpayers.
+Chicago is set to spend more than $2 billion transforming the city's most famous public housing complex, Cabrini Green. The transformation came with unkept promises of jobs, city contracts and homes for those forced from the neighborhood. Alejandra Cancino will talk about [her reporting on the decades-long promises that never materialized and how the reporter tallied the cost to taxpayers](https://blockclubchicago.org/2021/12/15/cabrini-green-a-history-of-broken-promises/).
 
 ---
 
