@@ -3,13 +3,13 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In Person and Online: The Internet Equity Research Initiative"
+title: "In Person and Online: City Cast Chicago"
 description: ""
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2022-05-10T18:00:00-05:00
-event_id: 492
+date: 2022-06-07T18:00:00-05:00
+event_id: 496
 youtube_id: 
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
