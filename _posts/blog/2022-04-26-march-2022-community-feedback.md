@@ -19,6 +19,11 @@ published: true
 featured: false
 ---
 
+<!---
+use figcaption instead of manually formatting caption
+from: https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6
+-->
+
 <figure><img src="/images/blog/2022-04-26-march-2022-community-feedback/20220315_community_feedback_miro_board.png" alt="A screenshot of a Miro board. There are a set of four panels with discussion prompt headers and a variety of colorful sticky notes with responses below." style="width:100%"><figcaption align = "center">Responses from the March 15, 2022 community feedback session</figcaption></figure>
 
 # March 2022 Community Feedback Session
