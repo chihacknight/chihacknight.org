@@ -7,7 +7,7 @@ description: "On March 15, 2022, Chi Hack Night held a hybrid community feedback
 to assess how our community is feeling about the current phase of the pandemic and what people
 are looking for from Chi Hack Night in this moment."
 date: 2022-04-29
-image: /images/blog/2022-04-26-march-2022-community-feedback/20220315_community_feedback_miro_board.jpg
+image: /images/blog/2022-04-29-march-2022-community-feedback/20220315_community_feedback_miro_board.jpg
 author: Laurie Merrell
 author_url: https://twitter.com/laurie_merrell
 author_image: /images/people/board/laurie_merrell.jpg
@@ -24,7 +24,7 @@ use figcaption instead of manually formatting caption
 from: https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6
 -->
 
-<figure><img src="/images/blog/2022-04-26-march-2022-community-feedback/20220315_community_feedback_miro_board.jpg" alt="A screenshot of a Miro board. There are a set of four panels with discussion prompt headers and a variety of colorful sticky notes with responses below." style="width:100%"><figcaption align = "center">Responses from the March 15, 2022 community feedback session</figcaption></figure>
+<figure><img src="/images/blog/2022-04-29-march-2022-community-feedback/20220315_community_feedback_miro_board.jpg" alt="A screenshot of a Miro board. There are a set of four panels with discussion prompt headers and a variety of colorful sticky notes with responses below." style="width:100%"><figcaption align = "center">Responses from the March 15, 2022 community feedback session</figcaption></figure>
 
 # March 2022 Community Feedback Session
 
@@ -79,7 +79,7 @@ Here are some selected responses to each individual prompt:
 4. **What speakers would you like to see at Chi Hack Night? What organizations do you think the Chi Hack Night community could benefit hearing from?**
 * Attendees proposed a variety of government, media, and advocacy organizations, which have been shared with the booking committee. 
 
-<figure><img src="/images/blog/2022-04-26-march-2022-community-feedback/20220315_community_feedback_proposed_speakers_miro.jpg" alt="A screenshot of a Miro board. There is a prompt at the top reading: 'What speakers would you like to see at Chi Hack Night? What organizations do you think the Chi Hack Night community could benefit hearing from?'. There are a variety of colorful sticky notes below the header, with responses like 'Cook County Government' and 'Better Streets Chicago'." style="width:100%"><figcaption align = "center">Speaker suggestions from feedback session attendees</figcaption></figure>
+<figure><img src="/images/blog/2022-04-29-march-2022-community-feedback/20220315_community_feedback_proposed_speakers_miro.jpg" alt="A screenshot of a Miro board. There is a prompt at the top reading: 'What speakers would you like to see at Chi Hack Night? What organizations do you think the Chi Hack Night community could benefit hearing from?'. There are a variety of colorful sticky notes below the header, with responses like 'Cook County Government' and 'Better Streets Chicago'." style="width:100%"><figcaption align = "center">Speaker suggestions from feedback session attendees</figcaption></figure>
 
 
 ## Reflections
