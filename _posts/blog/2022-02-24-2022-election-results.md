@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/2022-board-elected.jpg" alt="From top left, elected and appointed Board Members Michael Chladek, Sean Watland, Eric Sherman, Cameron Sow, Laurie Merrell" class='img-responsive'/><br />
