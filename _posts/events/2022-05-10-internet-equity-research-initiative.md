@@ -4,9 +4,11 @@ categories:
   - events
 links: 
 title: "In Person and Online: The Internet Equity Research Initiative"
-description: ""
+description: "The Internet Equity Initiative, a flagship research initiative of the University of Chicago’s Data Science Institute, brings together stakeholders and researchers across disciplines to help address these challenges. Nick Feamster and Marc Richardson will discuss the initiative’s approach to mitigating the digital divide and showcase some of the research, toolkits, and data that the initiative has produced to date, as well as ways that you can get involved in the initiative."
 speakers:
-image: /images/logo/logo-star-social.jpg
+ - "Professor Nick Feamster (he/him), Neubauer Professor of Computer Science and The College Faculty Director of Research, Data Science Institute at University of Chicago"
+ - "Marc Richardson (he/him), Technical Project Manager, Internet Equity Initiative, Data Science Institute at University of Chicago"
+image: /images/events/492-internet-equity.jpg
 image_credit: 
 date: 2022-05-10T18:00:00-05:00
 event_id: 492
@@ -28,7 +30,14 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-Details coming soon
+As society increasingly relies on the Internet for work, education, health care, recreation, and many other aspects of daily life, the prevalent and persistent inequity in people’s ability to access, adopt, and use the Internet is more evident than ever. Stakeholders addressing these inequities need better information along the following three dimensions:
+
+1. Measurement techniques, datasets, and analysis that can help address unknown questions and evaluate the effectiveness of different interventions
+2. Data-driven collaborations with communities that are underserved by current Internet infrastructure to develop and evaluate different options for investment
+3. Data and analysis concerning how Internet connectivity improves people’s lived experience
+
+The [Internet Equity Initiative](http://internetequity.uchicago.edu/), a flagship research initiative of the University of Chicago’s [Data Science Institute](http://datascience.uchicago.edu/about/), brings together stakeholders and researchers across disciplines to help address these challenges. Nick Feamster and Marc Richardson will discuss the initiative’s approach to mitigating the digital divide and showcase some of the [research](http://internetequity.uchicago.edu/research), [toolkits](https://github.com/chicago-cdac/nm-exp-active-netrics), and [data](https://github.com/chicago-cdac/netrics-data) that the initiative has produced to date, as well as ways that you can get involved in the initiative.
+
 
 ---
 
