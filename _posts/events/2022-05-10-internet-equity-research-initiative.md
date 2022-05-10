@@ -3,7 +3,7 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In Person and Online: The Internet Equity Research Initiative"
+title: "In Person and Online: The Internet Equity Initiative"
 description: "The Internet Equity Initiative, a flagship research initiative of the University of Chicago’s Data Science Institute, brings together stakeholders and researchers across disciplines to help address these challenges. Nick Feamster and Marc Richardson will discuss the initiative’s approach to mitigating the digital divide and showcase some of the research, toolkits, and data that the initiative has produced to date, as well as ways that you can get involved in the initiative."
 speakers:
  - "Professor Nick Feamster (he/him), Neubauer Professor of Computer Science and The College Faculty Director of Research, Data Science Institute at University of Chicago"
@@ -46,7 +46,7 @@ The [Internet Equity Initiative](http://internetequity.uchicago.edu/), a flagshi
 **Vaccination required** In order to keep attendees safe, we will be requiring proof of vaccination at the door. A physical vaccine cards or picture of one will be accepted. If you are not vaccinated, you can tune in to the livestream.
 
 **Masks required** Attendees will be required to wear a mask. We will provide additional masks if you forget yours.
-<!-- 
-**There will be food!** We will be serving chicken, steak and veggie tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito)! -->
+
+**There will be food!** We will be serving chicken, steak and veggie tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito)!
 
 **ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
