@@ -35,12 +35,12 @@ They will talk about launching a podcast, newsletter and media brand from scratc
 
 ---
 
-**RSVP** In-person attendees are strongly encouraged to [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
+**RSVP** In-person attendees should [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
 
 **Vaccination required** In order to keep attendees safe, we will be requiring proof of vaccination at the door. A physical vaccine cards or picture of one will be accepted. If you are not vaccinated, you can tune in to the livestream.
 
 **Masks required** Attendees will be required to wear a mask. We will provide additional masks if you forget yours.
-<!-- 
-**There will be food!** We will be serving chicken, steak and veggie tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito)! -->
+
+**There will be food!** We will be serving chicken, chicken, steak and veggie tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito)!
 
 **ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
