@@ -29,7 +29,7 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-City Cast Chicago is a daily news podcast, fresh every weekday at 6 a.m., called "the essential Chicago podcast" by Chicago magazine and voted "Best Podcast 2021" by Chicago Reader.
+[City Cast Chicago](https://chicago.citycast.fm/) is a daily news podcast, fresh every weekday at 6 a.m., called "the essential Chicago podcast" by Chicago magazine and voted "Best Podcast 2021" by Chicago Reader.
 
 They will talk about launching a podcast, newsletter and media brand from scratch, and the first year of figuring out their place in the Chicago media landscape. That includes things that worked, things that didn't, and what they are always working to make better for listeners and readers. And they really want this to be interactive--a conversation with the participants and less of a formal presentation. They will play some clips and show excerpts of the newsletter but really want to hear from others about what they listen to and read daily to get their news.
 
