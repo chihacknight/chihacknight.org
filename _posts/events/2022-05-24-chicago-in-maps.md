@@ -11,12 +11,14 @@ image: /images/events/494-ElkGroveZIPs.jpg
 image_credit: 
 date: 2022-05-24T19:00:00-05:00
 event_id: 494
-youtube_id: 
+youtube_id: QwHigW4Y_Q0
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: 
 asl_provided: false
 tags:
+ - maps
+ - GIS
 published: true
 
 ---

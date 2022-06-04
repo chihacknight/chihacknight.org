@@ -19,6 +19,7 @@ sponsor: Chi Hack Night Community
 rsvp_url: 
 asl_provided: false
 tags:
+ - journalism
 published: true
 
 ---
