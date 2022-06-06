@@ -6,6 +6,8 @@ links:
 title: "In Person and Online: City Cast Chicago"
 description: "City Cast Chicago is a daily news podcast, fresh every weekday at 6 a.m., called 'the essential Chicago podcast' by Chicago magazine and voted 'Best Podcast 2021' by Chicago Reader. They will talk about launching a podcast, newsletter and media brand from scratch, and the first year of figuring out their place in the Chicago media landscape. That includes things that worked, things that didn't, and what they are always working to make better for listeners and readers."
 speakers:
+ - "Carrie Shepherd, Lead Producer"
+ - "Jacoby Cochran, Host"
 image: /images/events/496-citycast.png
 image_credit: 
 date: 2022-06-07T18:00:00-05:00
