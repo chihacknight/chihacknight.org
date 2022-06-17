@@ -16,7 +16,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 
 <!---
