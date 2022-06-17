@@ -3,22 +3,20 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In Person and Online: City Cast Chicago"
-description: "City Cast Chicago is a daily news podcast, fresh every weekday at 6 a.m., called 'the essential Chicago podcast' by Chicago magazine and voted 'Best Podcast 2021' by Chicago Reader. They will talk about launching a podcast, newsletter and media brand from scratch, and the first year of figuring out their place in the Chicago media landscape. That includes things that worked, things that didn't, and what they are always working to make better for listeners and readers."
+title: "In-person and Online: The 500th Chi Hack Night!"
+description: ""
 speakers:
- - "Carrie Shepherd, Lead Producer"
- - "Jacoby Cochran, Host"
-image: /images/events/496-citycast.png
+image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2022-06-07T18:00:00-05:00
-event_id: 496
-youtube_id: Gv0JCgyg1G0
-agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
+date: 2022-07-12T18:00:00-05:00
+event_id: 500
+youtube_id: 
+agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
+remote_url: https://bit.ly/chn-remote-zoom
 asl_provided: false
-tags:
-  - journalism
+tags: 
 published: true
 
 ---
@@ -31,9 +29,7 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-[City Cast Chicago](https://chicago.citycast.fm/) is a daily news podcast, fresh every weekday at 6 a.m., called "the essential Chicago podcast" by Chicago magazine and voted "Best Podcast 2021" by Chicago Reader.
-
-They will talk about launching a podcast, newsletter and media brand from scratch, and the first year of figuring out their place in the Chicago media landscape. That includes things that worked, things that didn't, and what they are always working to make better for listeners and readers. And they really want this to be interactive--a conversation with the participants and less of a formal presentation. They will play some clips and show excerpts of the newsletter but really want to hear from others about what they listen to and read daily to get their news.
+Celebrate the 500th Chi Hack Night! Details to come.
 
 ---
 
