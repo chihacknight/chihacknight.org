@@ -43,7 +43,7 @@ layout: default
         <p>
           <a class='btn btn-success' href='{{page.rsvp_url}}'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
           {% if page.remote_url %}
-            <a class='btn btn-link' href="{{page.remote_url}}" target='_blank'><i class='fa fa-play-circle'></i> Zoom @ 6pm</a>
+            <a class='btn btn-link' href="{{page.remote_url}}" target='_blank'><i class='fa fa-play-circle'></i> Zoom @ 6:30pm</a>
           {% else %}
             <a class='btn btn-link' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 6:30pm</a>
           {% endif %}
@@ -124,7 +124,7 @@ layout: default
           </div><br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             {% if page.remote_url %}
-            <span itemprop="name">Also on the Chi Hack Night <a href="{{page.remote_url}}">Zoom @ 6pm</a></span><br />
+            <span itemprop="name">Also on the Chi Hack Night <a href="{{page.remote_url}}">Zoom @ 6:30pm</a></span><br />
           {% else %}
             <span itemprop="name">Also on the Chi Hack Night <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a></span><br />
           {% endif %}

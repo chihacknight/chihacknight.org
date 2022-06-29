@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "In-person and Online: The 500th Chi Hack Night!"
-description: ""
+description: "July 12, 2022 will mark the 500th episode of Chi Hack Night. That’s 10 years! For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community."
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
@@ -29,7 +29,11 @@ For more information on our return to in-person events, please see our [return t
 
 ---
 
-Celebrate the 500th Chi Hack Night! Details to come.
+July 12, 2022 will mark the 500th episode of Chi Hack Night. That’s 10 years!
+
+For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community.
+
+Celebrate the 500th Chi Hack Night! More details to come.
 
 ---
 
