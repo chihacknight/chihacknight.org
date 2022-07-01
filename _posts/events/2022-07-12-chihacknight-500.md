@@ -23,7 +23,7 @@ published: true
 
 July 12, 2022 will mark the 500th episode of Chi Hack Night. That’s 10 years!
 
-For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community.
+For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community. If you want to give a talk, [sign up here by Thursday, July 7](https://forms.gle/Au4kSihFU6qfWF3B7).
 
 There will also be:
 
