@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "MAPPED Chicago (Making a People’s Pathway for Engaging Design)"
+title: "Online: MAPPED Chicago (Making a People’s Pathway for Engaging Design)"
 description: "MAPPED is a searchable database that includes projects at different scales in different categories: community spaces, placemaking interventions, public spaces, plans, neighborhood design guidelines, and toolkits.  This transparent, organized, and accessible index of Chicago’s community spaces will inspire our communities to explore and create spaces in their own neighborhoods. MAPPED users can quickly access budgets, partners, funders, technical information, and other project specifics that can help them better predict costs and concerns."
 speakers:
  - "Elle Ramel, Co-Founder of Design Trust Chicago, she/her"
@@ -11,7 +11,7 @@ speakers:
 image: /images/events/498-Mapped-image_land.jpg
 date: 2022-06-21T19:00:00-05:00
 event_id: 498
-youtube_id: 
+youtube_id: 1158lO-dowQ
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: 
