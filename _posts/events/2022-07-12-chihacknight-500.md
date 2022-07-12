@@ -11,12 +11,13 @@ image_credit:
 date: 2022-07-12T18:00:00-05:00
 event_id: 500
 youtube_id: 
-agenda: 
+agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g87845b9417_1_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 remote_url: 
 asl_provided: true
 tags: 
+ - 'lightning talks'
 published: true
 
 ---
