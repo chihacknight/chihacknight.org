@@ -8,7 +8,7 @@ description: "Decarb My State brings together emissions and electrification data
 speakers:
   - "Derek Eder (he/him)"
   - "Viktor Köves (he/him)"
-image: /images/
+image: /images/events/502-decarbmystate.png
 date: 2022-07-26T19:00:00-05:00
 event_id: 502
 youtube_id: 
