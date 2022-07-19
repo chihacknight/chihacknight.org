@@ -22,6 +22,8 @@ published: true
 
 ---
 
+[DecarbMyState.com](https://decarbmystate.com) brings together emissions and electrification data for all 50 states + DC and organizes it based on the biggest sources of climate pollution: the machines we use to heat our homes, cook our food, get us places, and produce our power.
+
 Using this data, we count and name every coal, gas and oil plant that needs to close, track how many of our buildings and cars have been electrified, and how much wind and solar has been built.
 
 The creators of Decarb My State, all volunteers who worked on it at Chi Hack Night for 6 months, will demo the app and talk about the work and data behind it.
