@@ -22,11 +22,19 @@ published: true
 
 ---
 
-July 12, 2022 will mark the 500th episode of Chi Hack Night. That’s 10 years!
+July 12, 2022 marked the 500th episode of Chi Hack Night. That’s 10 years!
 
-For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community. If you want to give a talk, [sign up here by Thursday, July 7](https://forms.gle/Au4kSihFU6qfWF3B7).
+For this very special in-person hack night we featured 7 lightning talks answering the question 'how has Chi Hack Night impacted you or your organization?' You can watch each of them here:
 
-There will also be:
+1. [Eric Sherman - How I Chi Hacked My Life](https://www.youtube.com/watch?v=WMluh3rCnLY)
+2. [Kyla Williams Tate - Civic Leadership Springboard (pre-recorded)](https://www.youtube.com/watch?v=n1hO6_-o4a4)
+3. [Derek Eder - Decarb My State](https://www.youtube.com/watch?v=coX6Gh0uKvI)
+4. [Emily Drevets-Larson - Start where you are](https://www.youtube.com/watch?v=hetSO0JqOQE)
+5. [Michael Chladek  - Chicago Media Justice](https://www.youtube.com/watch?v=6RPxGrXLiDc)
+6. [Laurie Merrell - The #jobs Channel & Me: How CHN facilitated my career switch into (civic) tech](https://www.youtube.com/watch?v=sDfKirpxPks)
+7. [Nick Lucius - From Lawyer to Chicago’s CTO (pre-recorded)](https://www.youtube.com/watch?v=V7-APONeLwY)
+
+There was also:
 
 - tacos!
 - cupcakes!
