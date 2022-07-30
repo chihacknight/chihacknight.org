@@ -6,6 +6,13 @@ links:
 title: "In-person and Online: The 500th Chi Hack Night!"
 description: "July 12, 2022 will mark the 500th episode of Chi Hack Night. That’s 10 years! For this very special in-person hack night, the presenters will be YOU! We’re bringing back LIGHTNING TALKS from members of our community."
 speakers:
+ - "Eric Sherman (he/him)"
+ - "Kyla Williams Tate (she/her)"
+ - "Derek Eder (he/him)"
+ - "Emily Drevets-Larson (she/her)"
+ - "Michael Chladek (he/him)"
+ - "Laurie Merrell (she/her)"
+ - "Nick Lucius (he/him)"
 image: /images/events/500-chn.png
 image_credit: 
 date: 2022-07-12T18:00:00-05:00
