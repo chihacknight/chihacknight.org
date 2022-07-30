@@ -11,7 +11,7 @@ speakers:
 image: /images/events/502-decarbmystate.png
 date: 2022-07-26T19:00:00-05:00
 event_id: 502
-youtube_id: 
+youtube_id: 3_u81ZjGD24
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: 
