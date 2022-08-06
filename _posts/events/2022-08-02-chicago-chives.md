@@ -12,7 +12,7 @@ speakers:
 image: /images/events/503-chives.jpg
 date: 2022-08-02T19:00:00-05:00
 event_id: 503
-youtube_id: 
+youtube_id: MgxCjvHgMl4
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: 
