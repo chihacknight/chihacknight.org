@@ -15,7 +15,7 @@ youtube_id:
 agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
-remote_url: https://bit.ly/chn-remote-zoom
+remote_url: 
 asl_provided: false
 tags: 
 published: true
