@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "In-person and Online: Tonika Lewis Johnson, Folded Map"
-description: ""
+description: "Tonika Johnson is a visual artist/photographer from Chicago’s South Side Englewood neighborhood. She was featured in Chicago Magazine as a 2017 Chicagoan of the Year for her photography of Englewood's everyday beauty, countering its pervasive media coverage of poverty and crime. Most recently, she was named one of Landmark Illinois' 2022 Influencers for her current \"Inequity For Sale,\" project that encourages us to reevaluate and create positive change of inequities in real estate and land use practices, including historic preservation."
 speakers:
  - "Tonika Lewis Johnson, Folded Map"
 image: /images/logo/logo-star-social.jpg
@@ -22,7 +22,7 @@ published: true
 
 ---
 
-Description coming soon
+Tonika Johnson is a visual artist/photographer from Chicago’s South Side Englewood neighborhood. She was featured in Chicago Magazine as a 2017 Chicagoan of the Year for her photography of Englewood's everyday beauty, countering its pervasive media coverage of poverty and crime. Her "Everyday Englewood," photography was exhibited at Loyola University's Museum of Art (LUMA) in early 2018. Her project, Folded Map, visually investigates disparities among Chicago residents while bringing them together to have a conversation, was also exhibited at LUMA in 2018 from July-October. In 2021, she was selected to be the National Public Housing Museum's 2021 Artist as Instigator to work on her current project "Inequity for Sale," highlighting the living history of Greater Englewood homes sold on Land Sale Contracts in the 50's and 60's. Most recently, she was named one of Landmark Illinois' 2022 Influencers for her current "Inequity For Sale," project that encourages us to reevaluate and create positive change of inequities in real estate and land use practices, including historic preservation. She is also a co-founder of the Englewood Arts Collective. Visit [www.tonikaj.com](http://www.tonikaj.com/) to see more.  
 
 ---
 
