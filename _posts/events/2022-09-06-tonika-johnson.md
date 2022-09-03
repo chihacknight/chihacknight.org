@@ -7,7 +7,7 @@ title: "In-person and Online: Tonika Lewis Johnson, Folded Map"
 description: "Tonika Johnson is a visual artist/photographer from Chicago’s South Side Englewood neighborhood. She was featured in Chicago Magazine as a 2017 Chicagoan of the Year for her photography of Englewood's everyday beauty, countering its pervasive media coverage of poverty and crime. Most recently, she was named one of Landmark Illinois' 2022 Influencers for her current \"Inequity For Sale,\" project that encourages us to reevaluate and create positive change of inequities in real estate and land use practices, including historic preservation."
 speakers:
  - "Tonika Lewis Johnson, Folded Map"
-image: /images/logo/logo-star-social.jpg
+image: /images/events/508-tonika-johnson.jpg
 image_credit: 
 date: 2022-09-06T18:00:00-05:00
 event_id: 508
