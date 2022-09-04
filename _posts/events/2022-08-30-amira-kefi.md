@@ -15,7 +15,7 @@ image: /images/events/507-soype.jpg
 image_credit: "https://www.npr.org/2020/02/22/806966584/who-should-decide-what-books-are-allowed-in-prison"
 date: 2022-08-30T19:00:00-05:00
 event_id: 507
-youtube_id: 
+youtube_id: Jld4SJGlXsI
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: 
