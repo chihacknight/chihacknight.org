@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online - TBD"
+title: "Online: The Chicago Tool Library"
 description: ""
 speakers:
  - ""
