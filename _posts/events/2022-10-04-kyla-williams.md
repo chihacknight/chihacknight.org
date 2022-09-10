@@ -3,7 +3,7 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Kyla Williams, Cook County Digital Equity Director"
+title: "In-person and Online: Project Rainbow - An educational initiative from Cook County Board President Toni Preckwinkle"
 description: ""
 speakers:
  - "Kyla Williams, Cook County Digital Equity Director"
