@@ -9,7 +9,7 @@ image: /images/logo/logo-star-social.jpg
 author: "Cameron Sow"
 author_url: https://www.cameronsow.com
 author_image: /images/people/board/cameron.jpg
-author_bio: "Bard Member, Chi Hack Night"
+author_bio: "Board Member, Chi Hack Night"
 author2: 
 author2_url:
 author2_image: 
