@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Our COVID-19 Policy"
-description: "At Chi Hack night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from COVID-19."
+description: "At Chi Hack Night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from COVID-19."
 date: 2022-09-09
 image: /images/logo/logo-star-social.jpg
 author: "Cameron Sow"
@@ -17,7 +17,7 @@ published: true
 featured: true
 ---
 
-At Chi Hack night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from  COVID-19.
+At Chi Hack Night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from  COVID-19.
 
 First and foremost, we’ll cover the basics. **Ventilation** and **masking** have been consistently demonstrated to be effective mitigation strategies particularly when coupled with **vaccination**. We take these measures to make sure everyone feels safe and welcome in an already stressful time. We appreciate the fact that some people have unique home or health circumstances that require them to take precaution measures. 
 
