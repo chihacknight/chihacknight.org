@@ -11,7 +11,7 @@ image: /images/events/508-tonika-johnson.jpg
 image_credit: 
 date: 2022-09-06T18:00:00-05:00
 event_id: 508
-youtube_id: 
+youtube_id: l6DxEOYnTtY
 agenda: 
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
