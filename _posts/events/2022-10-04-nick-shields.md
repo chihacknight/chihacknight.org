@@ -6,7 +6,7 @@ links:
 title: "In-person and Online: Project Rainbow - An educational initiative from Cook County Board President Toni Preckwinkle"
 description: ""
 speakers:
- - "Kyla Williams, Cook County Digital Equity Director"
+ - "Nick Shields, Cook County Director of Communications and Public Affairs"
 image: /images/logo/logo-star-social.jpg
 image_credit: 
 date: 2022-10-04T18:00:00-05:00
