@@ -16,7 +16,7 @@ agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUAT
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
 remote_url: 
-asl_provided: false
+asl_provided: true
 tags: 
  - education
 published: true
