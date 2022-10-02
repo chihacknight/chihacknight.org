@@ -6,7 +6,7 @@ links:
 title: "In-person and Online: Project Rainbow: Address Learning Loss through a Digital Equity Lens"
 description: "There’s nothing more vital to a person’s chances of success than supporting their development in the first years of life, including easy access to high-quality early education opportunities. While nothing can replace the effectiveness of live, in-person learning, extensive research shows that children’s television programming and other forms of educational media can significantly improve children’s mental and social development. Cook County launched Project Rainbow, new high-quality educational TV programming for children and families in 2021. The content is available on County TV (Channel 22, 900 on Comcast), the Cook County website, Facebook, and on the free Cook County Project Rainbow mobile app."
 speakers:
- - "Nick Shields, Director of Communications and Public Affairs for Cook County & Cook County Board President Toni Preckwinkle, He, Him, His"
+ - "Nick Shields (he/him/his), Director of Communications and Public Affairs for Cook County & Cook County Board President Toni Preckwinkle"
 image: /images/events/512-ProjectRainbowKids.jpg
 image_credit: 
 date: 2022-10-04T18:00:00-05:00
