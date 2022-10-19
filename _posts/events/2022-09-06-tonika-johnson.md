@@ -18,6 +18,8 @@ rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-20798810
 remote_url: 
 asl_provided: false
 tags: 
+ - equity
+ - mapping
 published: true
 
 ---
