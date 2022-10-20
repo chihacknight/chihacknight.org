@@ -9,12 +9,8 @@ seat: "Elected"
 term_start: "2019"
 term_expires: "2023"
 committees:
-  - "Booking (Chair)"
-  - "Fundraising (Chair)"
-  - "Community Engagement"
-  - "DEI"
-  - "Event Operations"
-  - "Website"
+  - "Event Operations (co-chair)"
+  - "Communication & Promotion"
 date: 2019-01-01
 image: "/images/people/board/derek.jpg"
 permalink: /board-of-directors/derek-eder.html

@@ -8,8 +8,7 @@ seat: "Elected"
 term_start: "2022"
 term_expires: "2024"
 committees:
- - "Community Engagement"
- - "Event Operations"
+ - "Membership & Volunteers (co-chair)"
 date: 2022-02-22
 image: "/images/people/board/sean_watland.jpg"
 permalink: /board-of-directors/sean-watland.html
