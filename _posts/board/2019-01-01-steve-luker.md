@@ -8,9 +8,7 @@ seat: "Appointed"
 term_start: "2019"
 term_expires: "2023"
 committees:
-  - "Website"
-  - "Social Media"
-  - "DEI"
+  - "Communication & Promotion"
 date: 2019-01-01
 image: "/images/people/board/steve_l.jpg"
 permalink: /board-of-directors/steve-luker.html

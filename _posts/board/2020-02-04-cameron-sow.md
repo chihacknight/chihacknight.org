@@ -8,9 +8,8 @@ seat: "Appointed"
 term_start: "2019"
 term_expires: "2024"
 committees:
-  - "Breakout Support (Chair)"
   - "Event Operations"
-  - "Booking"
+  - "Membership & Volunteers"
 date: 2020-02-04
 image: "/images/people/board/cameron.jpg"
 permalink: /board-of-directors/cameron-sow.html

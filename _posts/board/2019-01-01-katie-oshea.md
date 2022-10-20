@@ -9,9 +9,8 @@ seat: "Elected"
 term_start: "2019"
 term_expires: "2023"
 committees:
-  - "Social Media (Chair)"
   - "Event Operations"
-  - "DEI"
+  - "Communication & Promotion (co-chair)"
 date: 2019-01-01
 image: "/images/people/board/katie.jpg"
 permalink: /board-of-directors/katie-oshea.html

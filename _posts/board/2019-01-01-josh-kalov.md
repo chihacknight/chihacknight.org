@@ -8,10 +8,8 @@ seat: "Elected"
 term_start: "2019"
 term_expires: "2023"
 committees:
-  - "Website (Chair)"
-  - "Booking"
-  - "Social Media"
-  - "Membership"
+  - "Event Operations"
+  - "Communication & Promotion (co-chair)"
 date: 2019-01-01
 image: "/images/people/board/josh.jpg"
 permalink: /board-of-directors/josh-kalov.html
