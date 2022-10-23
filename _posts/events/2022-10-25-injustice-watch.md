@@ -6,7 +6,8 @@ links:
 title: "Online: Injustice Watch's #CheckYourJudges election guide"
 description: "Judges are the elected officials that you’re most likely to come into contact with. Whether you’re getting a divorce, fighting a traffic ticket, suing over an injury, settling a loved one’s estate, or facing criminal charges, a judge is involved — and their decisions can be life-changing. Yet there are few places to get information about these public officials when they run for election. That’s why Injustice Watch, a nonprofit newsroom in Chicago focused on issues of equity and justice in the courts, created the #CheckYourJudges judicial election guide. Jonah Newman, Injustice Watch’s managing editor, and Bea Malsky, a software engineer at the New York Times, will talk about the research and reporting that goes into the guide."
 speakers:
- - ""
+ - "Jonah Newman (he/him), Injustice Watch managing editor"
+ - "Bea Malsky (she/her), software engineer"
 image: /images/events/515-injustice-watch.jpg
 image_credit:
 date: 2022-10-25T19:00:00-05:00
