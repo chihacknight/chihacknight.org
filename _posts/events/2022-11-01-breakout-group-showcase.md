@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "In-person and Online: Breakout Group Showcase"
-description: "Every week, after presentations are given, announcements are shared, and 3-word introductions are popcorned, Chi Hack Night attendees split off into breakout groups and work on a civic tech project. Some of these groups have been meeting for years, while others started in the past few weeks. Join us for our next in-person Chi Hack Night to hear from each of these breakout groups and learn how they are using technology and data to further the public good."
+description: "Every week, after presentations are given, announcements are shared, and 3-word introductions are popcorned, Chi Hack Night attendees split off into breakout groups and work on civic tech projects. Some of these groups have been meeting for years, while others started in the past few weeks. Join us for our next in-person Chi Hack Night to hear from each of these breakout groups and learn how they are using technology and data to further the public good."
 speakers:
  - "Alvyn Walker (they/them)"
  - "Steve Ediger (he/they)"
@@ -28,7 +28,7 @@ published: true
 
 ---
 
-Every week, after presentations are given, announcements are shared, and 3-word introductions are popcorned, Chi Hack Night attendees split off into breakout groups and work on a civic tech project.
+Every week, after presentations are given, announcements are shared, and 3-word introductions are popcorned, Chi Hack Night attendees split off into breakout groups and work on civic tech projects.
 
 Some of these groups have been meeting for years, while others started in the past few weeks. Join us for our next in-person Chi Hack Night to hear from each of these breakout groups and learn how they are using technology and data to further the public good.
 
@@ -50,14 +50,13 @@ During the pandemic, many transit riders have noted that transit service has see
 Presenters: Sartaj Chowdhury, Brian Burns<br />
 We want to create a social network for elected officials to get feedback from their residents on real bills & resolutions. Our goals are to focus on official things - verified elected officials engaging with registered voters on actual bills & resolutions - start local, and to maintain this work as a non-profit & open-source.
 
+---
 
 **This event will be in person, but you can also tune in via our usual livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
 
 **In-person:** <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>TeamWorking, 20 N Upper Wacker Drive, 12th Floor, Chicago IL</a>. Enter the Civic Opera Building using the entrance in the middle of the block between Washington and Madison streets. Take the elevators to the 12th floor.
 
 For more information on our in-person events, please see our [COVID Policy](/blog/2022/09/09/our-covid-19-policy.html). 
-
----
 
 
 ---
