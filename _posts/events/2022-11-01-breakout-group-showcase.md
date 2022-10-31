@@ -6,7 +6,7 @@ links:
 title: "In-person and Online: Breakout Group Showcase"
 description: "Every week, after presentations are given, announcements are shared, and 3-word introductions are popcorned, Chi Hack Night attendees split off into breakout groups and work on civic tech projects. Some of these groups have been meeting for years, while others started in the past few weeks. Join us for our next in-person Chi Hack Night to hear from each of these breakout groups and learn how they are using technology and data to further the public good."
 speakers:
- - "Alvyn Walker (they/them)"
+ - "Alvyn Walker (they,them, theirs)"
  - "Steve Ediger (he/they)"
  - "Surag Nuthulapaty (he/him)"
  - "Derek Eder (he/him)"
