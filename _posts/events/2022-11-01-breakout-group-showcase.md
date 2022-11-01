@@ -46,7 +46,7 @@ We have 28 years to reduce worldwide emissions to zero to avoid the worst impact
 Presenters: Laurie Merrell<br />
 During the pandemic, many transit riders have noted that transit service has seemed less reliable. People have complained about “ghost buses”, where apps or trackers claim a bus is coming and it never shows up. This breakout group uses public data (the CTA Bus and Rail Tracker APIs and CTA GTFS schedule dataset) to assess the discrepancy between scheduled and actual service levels, to understand the prevalence and geographic distribution of “ghost buses”.
 
-**Civic Engagement Platform To Directly Connect Elected Officials To Residents**<br />
+**Civi.Social**<br />
 Presenters: Sartaj Chowdhury, Brian Burns<br />
 We want to create a social network for elected officials to get feedback from their residents on real bills & resolutions. Our goals are to focus on official things - verified elected officials engaging with registered voters on actual bills & resolutions - start local, and to maintain this work as a non-profit & open-source.
 
