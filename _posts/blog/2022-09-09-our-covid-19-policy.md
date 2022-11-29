@@ -6,10 +6,10 @@ title: "Our COVID-19 Policy"
 description: "At Chi Hack Night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from COVID-19."
 date: 2022-09-09
 image: /images/logo/logo-star-social.jpg
-author: "Cameron Sow"
-author_url: https://www.cameronsow.com
-author_image: /images/people/board/cameron.jpg
-author_bio: "Board Member, Chi Hack Night"
+author: "CHN Board"
+author_url: https://chihacknight.org/board-of-directors.html
+author_image: /images/logo/logo-star-social.jpg
+author_bio: "Chi Hack Night Board Members"
 author2: 
 author2_url:
 author2_image: 
