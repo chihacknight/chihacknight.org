@@ -25,14 +25,12 @@ This includes people with underlying health conditions for whom the risks of inf
 
 **To protect our community from COVID-19 during in-person events, we will:**
 
-* Require proof of vaccination to attend in-person ( vaccination card)
+* Require proof of vaccination to attend in-person (vaccination card)
 * Ensure adequate ventilation in our event space
     * Confirm with our venue hosts; COVID standard ventilation standard as indicated per
         * [Coronavirus (COVID-19) Response Resources from ASHRAE and Others](https://www.ashrae.org/technical-resources/resources)
         * [Ventilation and Coronavirus (COVID-19) US EPA](https://www.epa.gov/coronavirus/ventilation-and-coronavirus-covid-19)
         * [COVID-19 Guidance on Ventilation in the Workplace](https://www.osha.gov/sites/default/files/publications/OSHA4103.pdf) 
-    * Measure air quality (CO2 levels) at our events in real time
-    * Open windows in circumstances where we are not sure of existing engineering controls
 * Require proper masking with the exception of eating food and the night’s speaker(s)
     * Friendly, respectful, understanding but consistent reminders and enforcement of our masking policy
     * Clear eating area designation so that we can meet the standard indicated above
