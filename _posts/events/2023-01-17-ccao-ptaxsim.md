@@ -3,14 +3,14 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Administrative Informatics - Understanding the Data Needs of Public Agencies"
-description: "Join Dr. Stephen Kleinschmit, Director of the MS in Civic Analytics program at the University of Illinois Chicago, as he discusses administrative informatics, an emerging movement grounded in the data needs of local, state and federal agencies. ALSO - this will be our last hack night of the year. Come celebrate the year and holidays with us by brining snack and drinks of your choice!"
+title: "In-person and Online: Cook County Assessor's Office - Approximating Property Tax Bills"
+description: "Presenter details coming soon."
 speakers:
- - "Stephen Kleinschmit, Ph.D., Director, Master of Science in Civic Analytics at UIC" 
-image: /images/events/521-steve_k.jpg
+ - "Dan Snow, Senior Data Scientist, Cook County Assessor's Office (he/him)" 
+image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2022-12-13T18:00:00-06:00
-event_id: 521
+date: 2023-01-17T18:00:00-06:00
+event_id: 524
 youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
@@ -18,23 +18,11 @@ rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-20798810
 remote_url: 
 asl_provided: true
 tags:
- - 'civic tech'
- - 'academia'
 published: true
 
 ---
 
-**Holiday Potluck!** 
-
-This will be our last hack night of the year. Come celebrate the year and holidays with us by brining snack and drinks of your choice! We'll be providing the usual Tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito), as well as snacks, drinks and desserts.
-
----
-
-**Presenter** 
-
-The public data science movement began to emerge in the early 2010s, anchored in smart cities and public policy research. Since that time, the movement has witnessed accelerating growth, but despite substantial investment, most government and nonprofit agencies lack capacity for digital transformation. Could reorienting current approaches to public data science provide a more direct framework for addressing public problems?
-
-Join Dr. Stephen Kleinschmit, Director of the [MS in Civic Analytics program at the University of Illinois Chicago](https://cuppa.uic.edu/academics/pa/pa-programs/master-of-science-in-civic-analytics/), as he discusses administrative informatics, an emerging movement grounded in the data needs of local, state and federal agencies.
+Presenter details coming soon.
 
 ---
 
