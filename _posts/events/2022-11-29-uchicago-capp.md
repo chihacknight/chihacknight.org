@@ -11,7 +11,7 @@ image: /images/events/519-kathryn-mattie.jpg
 image_credit:
 date: 2022-11-29T19:00:00-06:00
 event_id: 519
-youtube_id: 
+youtube_id: y64mJsE9e10
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
