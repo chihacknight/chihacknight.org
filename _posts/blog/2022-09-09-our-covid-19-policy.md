@@ -17,7 +17,7 @@ published: true
 featured: true
 ---
 
-_Updated December 12, 2022_
+_Updated December 30, 2022_
 
 At Chi Hack Night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from  COVID-19.
 
