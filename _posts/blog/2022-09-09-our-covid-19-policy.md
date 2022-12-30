@@ -28,7 +28,8 @@ This includes people with underlying health conditions for whom the risks of inf
 **To protect our community from COVID-19 during in-person events, we will:**
 
 * Require proof of vaccination to attend in-person (vaccination card)
-* Require proper masking with the exception of eating food and the night’s speaker(s)
+* Open windows to provide additional ventilation (weather/temperature permitting)
+* Require proper masking unless actively eating, drinking, or presenting
     * Friendly, respectful, understanding but consistent reminders and enforcement of our masking policy
     * Clear eating area designation
 * Monitor transmission trends and variants consistent with CDC, City, and County guidance
