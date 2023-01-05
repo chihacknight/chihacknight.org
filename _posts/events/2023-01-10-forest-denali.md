@@ -3,9 +3,11 @@ layout: remote_event_openhack
 categories:
   - events
 links: 
-title: "Online: Presenter TBD"
+title: "Online: Chicago Public Schools Enrollment Data"
 description: ""
 speakers:
+ -  "Forest Gregg"
+ - "Denali Dasgupta"
 image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2023-01-10T19:00:00-06:00
@@ -19,7 +21,6 @@ published: true
 
 ---
 
-Presenter TBD
 
 ---
 
