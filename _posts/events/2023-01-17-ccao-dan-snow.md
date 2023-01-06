@@ -30,7 +30,10 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
+Chicago property taxes increased by roughly $468 million in tax year 2021, with the median residential property tax bill in the city rising by roughly 8%. What caused this increase? Who (or what) bears responsibility? And what, if anything, can be done to lower property tax bills?
+
 Join Dan Snow, Director of Data Science at the Cook County Assessor's Office, for a deep dive on Cook County's property tax system. He'll provide a crash course in how the system works and outline the root causes of higher tax bills. Additionally, Dan will introduce a new tool created by the Assessor's Office that can explore "what if" property tax scenarios. Using this tool, he'll examine potential high-impact policy solutions to high property taxes. If you've ever wanted a data-driven answer to the question, "What would my property tax bill be if Chicago had no TIF districts?", then this talk is for you.
+
 
 ---
 
