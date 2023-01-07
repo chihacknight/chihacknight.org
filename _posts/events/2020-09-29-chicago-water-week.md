@@ -10,10 +10,10 @@ speakers:
  - "Tim Kearns, Chief Information Officer, Great Lakes Observing System (GLOS)"
  - "Svetlana Taylor, Technical Program Director, Current"
 image: /images/events/416-cww.jpg
-image_credit: FMNjGRwoR58
+image_credit: 
 date: 2020-09-29T19:00:00-05:00
 event_id: 416
-youtube_id: 
+youtube_id: FMNjGRwoR58
 agenda: https://docs.google.com/document/d/1GcS94MTxTGmqKXh5yw7MMvWtHO-jt6VnDyPjgPcXgWE/edit?usp=sharing
 sponsor: Chi Hack Night Community
 asl_provided: false

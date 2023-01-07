@@ -12,7 +12,7 @@ image: /images/events/477-jon-hansen.jpg
 image_credit: 
 date: 2022-01-25T18:00:00-07:00
 event_id: 477
-youtube_id: 
+youtube_id: oJs_7ZkqWHg
 agenda: https://docs.google.com/document/d/1xYRyWgsmYYxxtAu0T-wh29DFbL9pI-2Hzms0Szbt92U/edit?usp=sharing
 sponsor: Chi Hack Night Community
 rsvp_url: 
