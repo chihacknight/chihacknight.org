@@ -19,7 +19,7 @@ featured: true
 
 # Chi Hack Night’s Fourth Board Election
 
-On Tuesday, February 7, 2023, Chi Hack Night will hold our fourth annual member meeting and election for our Board of Directors. The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.
+On Tuesday, February 7, 2023, Chi Hack Night will hold our fourth annual member meeting and election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.
 
 There are a total of 5 seats up in this election. Four of them will be chosen by Chi Hack Night Members based on popular vote and one will be appointed by the current Board of Directors with majority Membership approval. All of the seats are 2 year terms.
 
@@ -76,7 +76,7 @@ Here’s a breakdown of the available seats:
 </table>
 
 
-To vote in this election, or to run or be appointed to a Board seat, you must be a Member of Chi Hack Night as of Tuesday, January 31, 2023. If you are not sure of your membership status, you can email [membership@chihacknight.org](mailto:membership@chihacknight.org).
+To vote in this election, or to run or be appointed to a Board seat, you must be a [Member of Chi Hack Night](https://chihacknight.org/membership/application.html) as of Tuesday, January 31, 2023. If you are not sure of your membership status, you can email [membership@chihacknight.org](mailto:membership@chihacknight.org).
 
 ## Running for the Board
 
@@ -85,9 +85,10 @@ Are you a Member of Chi Hack Night and interested in running for the Board? Grea
 Here’s what you need to do:
  1. **By Tuesday, January 31, 2023**
     - If unsure, confirm that you (or the person you are nominating) are a Member of Chi Hack Night by reaching out to [membership@chihacknight.org](mailto:membership@chihacknight.org)
+    - Fill out the [Candidate Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSd1-cjECjWSiFSwBPNOuQFCPU0ZxuC8iboMuDx1ld4TxSesJg/viewform). You can nominate yourself or someone else. Remember, though, they must be a Member of Chi Hack Night.
 
 2. **By Friday, February 4, 2023**
- - Fill out the Candidate Statement Form. Make your case for why you should be part of the Chi Hack Night Board. All candidate statements will be shared out publicly ahead of the election.
+ - Fill out the [Candidate Statement Form](https://docs.google.com/forms/d/e/1FAIpQLSd8Wp_ruitKCMNsm_7jgOQA4r0kTa3aKjThphnk2ji3GnJj1Q/viewform?usp=sf_link). Make your case for why you should be part of the Chi Hack Night Board. All candidate statements will be shared out publicly ahead of the election.
 
 3. **On Election Night Tuesday, February 7, 2023**
  - Be prepared with a 1–2 minute speech to deliver to Members sharing why you are seeking a position on the Board.
