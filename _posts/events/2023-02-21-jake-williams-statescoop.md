@@ -3,15 +3,15 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Why are property taxes in Chicago so high? (And what can be done to lower them)"
-description: "Chicago property taxes increased by roughly $468 million in tax year 2021, with the median residential property tax bill in the city rising by roughly 8%. What caused this increase? Who (or what) bears responsibility? And what, if anything, can be done to lower property tax bills?"
+title: "In-person and Online: Jake Williams, StateScoop"
+description: ""
 speakers:
- - "Dan Snow, Director of Data Science, Cook County Assessor's Office (he/him)" 
-image: /images/events/428-assessor.jpg
+ - "Jake Williams, StateScoop" 
+image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2023-01-17T18:00:00-06:00
-event_id: 524
-youtube_id: 0F-iqRj4yR0
+date: 2023-02-21T18:00:00-06:00
+event_id: 529
+youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
@@ -30,10 +30,7 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
-Chicago property taxes increased by roughly $468 million in tax year 2021, with the median residential property tax bill in the city rising by roughly 8%. What caused this increase? Who (or what) bears responsibility? And what, if anything, can be done to lower property tax bills?
-
-Join Dan Snow, Director of Data Science at the Cook County Assessor's Office, for a deep dive on Cook County's property tax system. He'll provide a crash course in how the system works and outline the root causes of higher tax bills. Additionally, Dan will introduce a new tool created by the Assessor's Office that can explore "what if" property tax scenarios. Using this tool, he'll examine potential high-impact policy solutions to high property taxes. If you've ever wanted a data-driven answer to the question, "What would my property tax bill be if Chicago had no TIF districts?", then this talk is for you.
-
+Presenter details coming soon.
 
 ---
 
