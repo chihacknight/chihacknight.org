@@ -87,7 +87,7 @@ Here’s what you need to do:
     - If unsure, confirm that you (or the person you are nominating) are a Member of Chi Hack Night by reaching out to [membership@chihacknight.org](mailto:membership@chihacknight.org)
     - Fill out the [Candidate Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSd1-cjECjWSiFSwBPNOuQFCPU0ZxuC8iboMuDx1ld4TxSesJg/viewform). You can nominate yourself or someone else. Remember, though, they must be a Member of Chi Hack Night.
 
-2. **By Friday, February 4, 2023**
+2. **By Saturday, February 4, 2023**
  - Fill out the [Candidate Statement Form](https://docs.google.com/forms/d/e/1FAIpQLSd8Wp_ruitKCMNsm_7jgOQA4r0kTa3aKjThphnk2ji3GnJj1Q/viewform?usp=sf_link). Make your case for why you should be part of the Chi Hack Night Board. All candidate statements will be shared out publicly ahead of the election.
 
 3. **On Election Night Tuesday, February 7, 2023**
