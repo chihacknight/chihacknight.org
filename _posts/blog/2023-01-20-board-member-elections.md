@@ -18,6 +18,8 @@ featured: true
 ---
 _Last Updated February 2,2023_
 
+_Correction: We previously stated that the seat Sam Evans is vacating was an Elected seat. However, this seat is an Appointed seat. This has been corrected in the post below._
+
 # Chi Hack Night’s Fourth Board Election
 
 On Tuesday, February 7, 2023, Chi Hack Night will hold our fourth annual member meeting and election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.
@@ -71,7 +73,7 @@ Here’s a breakdown of the available seats:
    </td>
    <td>Steve Luker
    </td>
-   <td>Incumbent is not running
+   <td><strong>Incumbent is not running</strong>
    </td>
   </tr>
 </table>
