@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_image: 
 published: true
-featured: true
+featured: false
 ---
 
 _Updated December 30, 2022_
