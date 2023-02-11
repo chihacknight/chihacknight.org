@@ -19,7 +19,7 @@ featured: false
 
 <p class="text-center"><img src="/images/blog/2023-election-results/2023-election-results.jpg" alt="From top left, elected and appointed Board Members Derek Eder, Katie O'Shea, Adam Hecktman, Josh Kalov" class='img-responsive'/><br />
 
-<small><em>From top left, elected and appointed Board Members Michael Chladek, Sean Watland, Eric Sherman, Cameron Sow, Laurie Merrell</em></small>
+<small><em>From top left, elected and appointed Board Members Derek Eder, Katie O'Shea, Adam Hecktman, Josh Kalov</em></small>
 </p>
 
 On Feb 7th, we held our fourth election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). We were amazed at the turnout. Of our 28 official Members, 19 attended virtually to cast their votes. 
