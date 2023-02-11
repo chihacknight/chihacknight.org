@@ -13,7 +13,7 @@ date: 2019-01-01
 image: "/images/people/board/steve_l.jpg"
 permalink: /board-of-directors/steve-luker.html
 published: true
-active: true
+active: false
 ---
 
 Having an affinity for curly braces and the properly placed semicolon, it was only natural that Steve became a .NET developer.
