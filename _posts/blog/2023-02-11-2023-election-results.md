@@ -5,7 +5,7 @@ categories:
 title: "2023 Board Election Results"
 description: "On Feb 7th, we held our fourth annual General Meeting and election for our Board of Directors. We were amazed at the turnout. Of our 28 official Members, 19 attended virtually to cast their votes. There were three members chosen by Chi Hack Night Members based on popular vote and one appointed by the current Board of Directors with majority Membership approval."
 date: 2023-02-11
-image: /images/blog/2023-election-results/2023-election-results.png
+image: /images/blog/2023-election-results/2023-election-results.jpg
 author: Sean Watland
 author_url: https://chihacknight.org/board-of-directors/sean-watland.html
 author_image: /images/people/board/sean_watland.jpg
@@ -17,7 +17,7 @@ published: true
 featured: false
 ---
 
-<p class="text-center"><img src="/images/blog/2023-election-results/2023-election-results.png" alt="From top left, elected and appointed Board Members Derek Eder, Katie O'Shea, Adam Hecktman, Josh Kalov" class='img-responsive'/><br />
+<p class="text-center"><img src="/images/blog/2023-election-results/2023-election-results.jpg" alt="From top left, elected and appointed Board Members Derek Eder, Katie O'Shea, Adam Hecktman, Josh Kalov" class='img-responsive'/><br />
 
 <small><em>From top left, elected and appointed Board Members Michael Chladek, Sean Watland, Eric Sherman, Cameron Sow, Laurie Merrell</em></small>
 </p>
