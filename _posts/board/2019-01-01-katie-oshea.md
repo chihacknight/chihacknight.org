@@ -7,7 +7,7 @@ name_last: "O'Shea"
 position: "Secretary"
 seat: "Elected"
 term_start: "2019"
-term_expires: "2023"
+term_expires: "2025"
 committees:
   - "Event Operations"
   - "Communication & Promotion (co-chair)"
