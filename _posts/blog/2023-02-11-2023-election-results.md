@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: false
+featured: true
 ---
 
 <p class="text-center"><img src="/images/blog/2023-election-results/2023-election-results.jpg" alt="From top left, elected and appointed Board Members Derek Eder, Katie O'Shea, Adam Hecktman, Josh Kalov" class='img-responsive'/><br />
