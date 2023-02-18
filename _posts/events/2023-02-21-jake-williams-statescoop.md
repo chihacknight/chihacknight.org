@@ -7,7 +7,7 @@ title: "In-person and Online: StateScoop: How government technology news could r
 description: "Join Jake Williams, vice president of content and community of StateScoop.com — an online news website that covers the intersection of state and local government and technology — for an overview on how media is serving the govtech landscape. He’ll explain StateScoop’s editorial philosophy that prioritizes people and community, while also holding elected and government officials accountable. In addition, he’ll explain why reframing media with a community-first mindset can help uplift communities and inspire collaboration"
 speakers:
  - "Jake Williams, VP of Content and Community, StateScoop" 
-image: /images/events/529-jake-williams.jpg
+image: /images/events/529-jake-williams.jpeg
 image_credit: 
 date: 2023-02-21T18:00:00-06:00
 event_id: 529
