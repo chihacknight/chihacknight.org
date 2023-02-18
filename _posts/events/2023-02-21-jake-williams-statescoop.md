@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Jake Williams, StateScoop"
-description: ""
+title: "In-person and Online: StateScoop: How government technology news could restore faith in media"
+description: "Join Jake Williams, vice president of content and community of StateScoop.com — an online news website that covers the intersection of state and local government and technology — for an overview on how media is serving the govtech landscape. He’ll explain StateScoop’s editorial philosophy that prioritizes people and community, while also holding elected and government officials accountable. In addition, he’ll explain why reframing media with a community-first mindset can help uplift communities and inspire collaboration"
 speakers:
- - "Jake Williams, StateScoop" 
-image: /images/logo/logo-star-social.jpg
+ - "Jake Williams, VP of Content and Community, StateScoop" 
+image: /images/events/529-jake-williams.jpg
 image_credit: 
 date: 2023-02-21T18:00:00-06:00
 event_id: 529
@@ -30,7 +30,11 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
-Presenter details coming soon.
+Only 34 percent of Americans trust the mass media to report the news “fully, accurately and fairly,” according to a Gallup poll last year. Without trust in media, government, industry and activists alike lose a primary communication channel, leaving a vacuum in the market for reliable and trustworthy updates on communities and what’s happening around you.
+
+Some modern business-to-business media outlets, though, provide a roadmap to bring media back to basics. Through a community, people and visibility-focused approach, industry media can offer government, industry, nonprofits, activists and more the chance to tell stories to a wider audience — and work collectively together to better communities.
+
+Join Jake Williams, vice president of content and community of StateScoop.com — an online news website that covers the intersection of state and local government and technology — for an overview on how media is serving the govtech landscape. He’ll explain StateScoop’s editorial philosophy that prioritizes people and community, while also holding elected and government officials accountable. In addition, he’ll explain why reframing media with a community-first mindset can help uplift communities and inspire collaboration.
 
 ---
 
