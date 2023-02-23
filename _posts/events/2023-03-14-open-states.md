@@ -23,5 +23,3 @@ published: true
 Presenter details coming soon.
 
 ---
-
-**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
