@@ -8,7 +8,7 @@ seat: "Elected"
 term_start: "2022"
 term_expires: "2024"
 committees:
- - "Event Operationss"
+ - "Event Operations"
  - "Membership & Volunteers"
  - "Communications & Promotions"
 date: 2022-02-22
