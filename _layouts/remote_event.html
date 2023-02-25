@@ -79,7 +79,9 @@ layout: default
 
       {% if site.time <= page.date and page.speakers %}
 
-      <p><strong>ASL</strong>This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter. YouTube automatic closed captioning will be available on our <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a>.</p>
+      <p><strong>Closed Captioning</strong> YouTube automatic closed captioning will be available on our <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a>.</p>
+
+      <p><strong>ASL</strong>This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.</p>
 
         <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and prototyping groups</a>.</p>
       {% endif %}
