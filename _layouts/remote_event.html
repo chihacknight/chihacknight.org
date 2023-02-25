@@ -53,7 +53,7 @@ layout: default
             <strong>6:30pm: ChiCommons/Chi Hack Night Pre-Party</strong><br />Socialize, touch base, and share what you plan on doing at Chi Hack Night <a href="https://bit.ly/CHN-pre-party">bit.ly/CHN-pre-party</a>
           </li>
           <li>
-            <strong>7:00pm: Livestream presentation starts</strong><br /> Announcements and feature presentation with Q&amp;A <a href="https://youtube.com/chihacknight/live">youtube.com/chihacknight/live</a>
+            <strong>7:00pm: Livestream presentation starts</strong><br /> Announcements and feature presentation with Q&amp;A <a href="https://youtube.com/chihacknight/live">youtube.com/chihacknight/live</a>. YouTube automatic closed captioning will be available.
           </li>
           <li>
             <strong>8:00pm: Open zoom call</strong> 3-word intros, community announcements &amp; breakout group pitches <a href="https://bit.ly/chn-remote-zoom">bit.ly/chn-remote-zoom</a>
@@ -78,6 +78,10 @@ layout: default
       <span itemprop="description">{{content}}</span>
 
       {% if site.time <= page.date and page.speakers %}
+
+      <p><strong>Closed Captioning</strong> YouTube automatic closed captioning will be available on our <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a>.</p>
+
+      <p><strong>ASL</strong>This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.</p>
 
         <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and prototyping groups</a>.</p>
       {% endif %}

@@ -29,5 +29,3 @@ In January, ProPublica launched The Repatriation Project, a series that began wi
 In this talk, reporters Logan Jaffe, Ash Ngu, and Andrea Suozzo will describe how the database was built, designed, and used in reporting. We’ll also discuss the state of repatriation nationally and in the Midwest region.
 
 ---
-
-**ASL** This event will {% unless page.asl_provided %} not {% endunless %}have an American Sign Language interpreter.
