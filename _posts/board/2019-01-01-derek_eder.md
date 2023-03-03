@@ -4,7 +4,7 @@ categories:
   - board
 name_first: "Derek"
 name_last: "Eder"
-position: "President"
+position: "President Emeritus"
 seat: "Elected"
 term_start: "2019"
 term_expires: "2025"
