@@ -6,25 +6,24 @@ title: "Chi Hack Night President Transistion"
 description: "After 11 years, Derek Eder is stepping down as President and leader of Chi Hack Night and will be succeeded by Sean Watland. Derek will remain on the Board of Directors and continue to be an active member of the Chi Hack Night community"
 date: 2023-03-03
 image: /images/blog/2023-03-03-president-transition.jpg
-author: Derek Eder, Sean Watland
-author_url: https://chihacknight.org/board-of-directors.html
-author_image: /images/logo/logo-star.png
-author_bio: "CHN Board Presidents (Past & Current)"
-author2: 
-author2_url:
-author2_bio:
+author: Derek Eder
+author_image: /images/people/derek_eder.jpg
+author_bio: "Chi Hack Night President Emeritus"
+author2: Sean Watland
+author2_image: /images/people/board/sean_watland.jpg
+author2_bio: "Chi Hack Night President"
 published: true
 featured: true
 ---
-<p class="text-center"><img src="/images/blog/2023-03-03-president-transition.jpg" alt="From left to right, Derek Eder - Past Chi Hack Night President, Sean Watland - Current Chi Hack Night President" class='img-responsive' style='width:100%;'/><br />
+<p class="text-center"><img src="/images/blog/2023-03-03-president-transition.jpg" alt="From left to right, Derek Eder - Chi Hack Night President Emeritus, Sean Watland - New Chi Hack Night President" class='img-responsive' style='width:100%;'/><br />
 
-<small><em>From left to right, Derek Eder - Past Chi Hack Night President, Sean Watland - Current Chi Hack Night President</em></small>
+<small><em>From left to right, Derek Eder - Chi Hack Night President Emeritus, Sean Watland - New Chi Hack Night President</em></small>
 </p>
 
 
 **TL;DR:** After 11 years, [Derek Eder](https://derekeder.com/) is stepping down as President and leader of Chi Hack Night and will be succeeded by [Sean Watland](https://chihacknight.org/board-of-directors/sean-watland.html). Derek will remain on the Board of Directors and continue to be an active member of the Chi Hack Night community.
 
-—
+<img class='img-rounded author-headshot' style='width:30%;' src='/images/people/derek_eder.jpg' alt='Derek Eder, Chi Hack Night President Emeritus' /><br /><em>Derek Eder, Chi Hack Night President Emeritus</em>
 
 If you read our [2022 Year in Review](https://chihacknight.org/blog/2023/02/07/2022-year-in-review.html), much of the work Chi Hack Night has done over the past year was about establishing clear processes, spreading out volunteer responsibilities, and improving how our organization gets work done. In fact, this was something we’ve been working on ever since we decided to [incorporate Chi Hack Night as a nonprofit in 2018](https://chihacknight.org/blog/2018/11/09/incorporating-as-a-non-profit.html).
 
@@ -42,7 +41,7 @@ I plan to be a part of it for years to come, not as its leader, but a member of 
 
 And with that, I'd like to hand it over to Chi Hack Night's next President, Sean Watland.
 
-— 
+<img class='img-rounded author-headshot' style='width:30%;' src='/images/people/board/sean_watland.jpg' alt='Sean Watland, Chi Hack Night President' /><br /><em>Sean Watland, Chi Hack Night President</em>
 
 Hello! I know I’ve had the chance to meet many of you, but for a few of you, I might be a fairly new face so I’d love to share a little bit about myself and my time at Chi Hack Night. I’ve been on the Board with Chi Hack Night since Feb 2022, and I’ve been attending since 2018. During my time at Chi Hack Night, I led our organizational goal setting process, co-hosted over a dozen times, led the Data Viz Learning Group and collaborated on [Decarb My State](https://decarbmystate.com/). Outside of Hack Night, I work with lots of data as a business intelligence analyst at [dscout](https://dscout.com/) - a research platform based in Chicago. 
 
@@ -63,7 +62,3 @@ As Chi Hack Night’s next President, I am committed to work with our Board of D
 
 
 I’m incredibly grateful to be able to serve as Chi Hack Night’s next President. Chi Hack Night is a special place - made up of a wonderful community and led by a committed Board of Directors. I’m eager to see where Chi Hack Night goes in the future and I’m excited to step into this role. 
-
-
-
-

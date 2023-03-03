@@ -4,6 +4,7 @@ categories:
   - board
 name_first: "Sean"
 name_last: "Watland"
+position: "President"
 seat: "Elected"
 term_start: "2022"
 term_expires: "2024"
