@@ -2,7 +2,7 @@
 layout: blog
 categories: 
   - blog
-title: "Chi Hack Night President Transistion"
+title: "Chi Hack Night President Transition"
 description: "After 11 years, Derek Eder is stepping down as President and leader of Chi Hack Night and will be succeeded by Sean Watland. Derek will remain on the Board of Directors and continue to be an active member of the Chi Hack Night community"
 date: 2023-03-03
 image: /images/blog/2023-03-03-president-transition.jpg
