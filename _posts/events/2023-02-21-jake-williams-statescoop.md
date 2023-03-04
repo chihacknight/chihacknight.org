@@ -11,7 +11,7 @@ image: /images/events/529-jake-williams.jpeg
 image_credit: 
 date: 2023-02-21T18:00:00-06:00
 event_id: 529
-youtube_id: 
+youtube_id: wA3jmdcu9aU
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
