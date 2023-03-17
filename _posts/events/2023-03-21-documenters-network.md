@@ -2,7 +2,6 @@
 layout: technexus_event
 categories:
   - events
-  - journalism
 links: 
 title: "In-person and Online: Democratize Journalism Everywhere - City Bureau’s Documenters Network"
 description: "City Bureau’s Documenters Network trains and pays local residents to attend and annotate government meetings, turning the knowledge, relationships, and capacity of local residents into a powerful community information resource. The Documenters Network dramatically increases local journalism capacity while simultaneously creating points of access for anyone to participate in the process of producing civic media. Join the discussion to learn more about the growing Documenters Network and the tools and resources supporting it."
