@@ -6,7 +6,7 @@ links:
 title: "Online: Native Land Digital - Online Cartography for La LLakta"
 description: "Native Land facilitates a place on the digital space for the representation of Native or Indigenous Nations’ traditional territories with their languages and histories through cartography. As such it creates a contrasting space in relation to the form in which the current political divisions of those same territories are presented to the world. In this occasion Victor Sauca, Research Lead at NL, before embarking into new ventures within the organization will share his experience collecting the data to create such space and the impact it has had."
 speakers:
- - "Victor Sauca, Research Lead at Native Land Digital"
+ - "Victor Sauca (he/him), Research Lead at Native Land Digital"
 image: /images/events/537-victor-sauca.jpg
 image_credit:
 date: 2023-04-18T19:00:00-05:00
