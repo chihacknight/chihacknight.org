@@ -11,7 +11,7 @@ image: /images/events/537-victor-sauca.jpg
 image_credit:
 date: 2023-04-18T19:00:00-05:00
 event_id: 537
-youtube_id: 
+youtube_id: NA8UyqrM0gI
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

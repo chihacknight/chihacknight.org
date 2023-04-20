@@ -11,7 +11,7 @@ image: /images/events/533-documenters-network.jpg
 image_credit: 
 date: 2023-03-21T18:00:00-05:00
 event_id: 533
-youtube_id: 
+youtube_id: z7GEStD6KdM
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/in-person-chi-hack-night-tickets-207988107027
