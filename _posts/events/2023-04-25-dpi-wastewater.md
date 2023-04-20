@@ -3,11 +3,12 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Wastewater Surveillance System, DPI / IDPH"
-description: "Wastewater Surveillance System, DPI / IDPH"
+title: "In-person and Online: Flushed with Insights: The Promising Potential of Poop-Based Testing for Public Health"
+description: "Illinois has established a wastewater-based epidemiology monitoring network to track COVID-19, flu, and RSV by measuring the amount of viral RNA in wastewater. The initiative is a collaboration between the Illinois Department of Public Health (IDPH), the Chicago Department of Public Health (CDPH), and the University of Illinois System’s Discovery Partners Institute (DPI). The Illinois Wastewater Surveillance System (IWSS) provides information on the levels of pathogens in wastewater that can help local communities intervene with protective measures to slow disease spread."
 speakers:
- - "" 
-image: /images/logo/logo-star-social.jpg
+ - "Dr. Melissa Pierce, Senior Data Scientist, Discovery Partners Institute (she/her)" 
+ - "Dr. Katelyn Leisman, Research Assistant Professor, Northwestern University (she/her)" 
+image: /images/events/538-dpi.jpg
 image_credit: 
 date: 2023-04-25T18:00:00-05:00
 event_id: 538
@@ -29,7 +30,13 @@ published: true
 For more information on our in-person events, please see our [COVID Policy](/blog/2022/09/09/our-covid-19-policy.html). 
 
 ---
-Presentation details to come.
+
+Illinois has established a wastewater-based epidemiology monitoring network to track COVID-19, flu, and RSV by measuring the amount of viral RNA in wastewater. The initiative is a collaboration between the [Illinois Department of Public Health (IDPH)](https://dph.illinois.gov/covid19/iwss.html), the [Chicago Department of Public Health (CDPH)](https://www.chicago.gov/city/en/sites/covid-19/home/covid-19-wastewater-surveillance.html), and the University of Illinois System’s [Discovery Partners Institute (DPI)](https://dpi.uillinois.edu/applied-research/wastewater-epidemiology/). Additional partners include the University of Illinois Chicago, Northwestern University, and Argonne National Laboratory. The program aims to deliver actionable information to public health decision makers to identify trends in pathogen infection levels and SARS-CoV-2 variants of concern. It also supports DPH efforts related to pandemic preparedness. 
+
+We collect samples from over 100 locations, providing a reliable, non-invasive, and cost-effective way to measure community health, including in areas where clinical testing may be underutilized or unavailable, for 9 million Illinoisians. Our data is publicly available for download on our [Illinois Wastewater Surveillance System dashboard](https://iwss.uillinois.edu/). Wastewater sampling occurs at a treatment plant or sewer that provides an anonymous sample representative of an entire community, effectively protecting individual privacy. Wastewater monitoring has become more important with the increased prevalence of at-home testing, the results of which are often not shared with public health agencies.
+
+The Illinois Wastewater Surveillance System (IWSS) provides information on the levels of pathogens in wastewater that can help local communities intervene with protective measures to slow disease spread. As each of us weighs the risks of respiratory illness in our daily lives, we look to public health guidelines and many of us also track public data such as the case rate or hospitalizations in our communities. 
+
 ---
 
 **RSVP** In-person attendees should [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
