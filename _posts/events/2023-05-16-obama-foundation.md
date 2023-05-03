@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Obama Foundation"
-description: ""
+title: "In-person and Online: Building Connected Services for Physical Spaces: Accessibility & Microservice Architecture at The Obama Presidential Center"
+description: "The Obama Foundation’s Product and Technology Team, formed in 2021, is working to build the digital content, infrastructure, and experiences that will support the offline and online experiences associated with the storytelling of the OPC, and with the Obama Foundation programming more broadly. In this talk, co-founding software engineer Diana M Steakley-Freeman unpacks the conceptual and architectural underpinnings of the technology that will power the Center, the accessibility affordances the team is building at the core of it's museum experience infrastructure, and the lessons learned so far in the process of building the suite of services that will support interested citizens in transforming their hopes into concrete actions."
 speakers:
- - "" 
-image: /images/logo/logo-star-social.jpg
+ - "Building Connected Services for Physical Spaces: Accessibility & Microservice Architecture at The Obama Presidential Center" 
+image: /images/events/541-BuildingConnectedServicesTalk.jpg
 image_credit: 
 date: 2023-05-16T18:00:00-05:00
 event_id: 541
@@ -30,8 +30,9 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
-Presenter details to follow.
+The [Obama Presidential Center (OPC)](https://www.obama.org/the-center/) will be a new landmark for the South Side, welcoming visitors to Jackson Park and marking the Center as an historic civic destination. Inside, exhibits will explore the fullness of the American story— from the promise of our founding documents to the movements that challenged us to live up to them. The Museum exhibits will tell the story of the volunteers who powered the campaign toward history, and will examine the eight years of progress, setback, and hope that followed.
 
+The Obama Foundation’s Product and Technology Team, formed in 2021, is working to build the digital content, infrastructure, and experiences that will support the offline and online experiences associated with the storytelling of the OPC, and with the Obama Foundation programming more broadly. In this talk, co-founding software engineer Diana M Steakley-Freeman unpacks the conceptual and architectural underpinnings of the technology that will power the Center, the accessibility affordances the team is building at the core of it's museum experience infrastructure, and the lessons learned so far in the process of building the suite of services that will support interested citizens in transforming their hopes into concrete actions.
 ---
 
 **RSVP** In-person attendees should [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
