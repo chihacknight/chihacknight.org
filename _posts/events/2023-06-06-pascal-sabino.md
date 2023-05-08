@@ -3,10 +3,10 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: TBD"
+title: "Online: Pascal Sabino, Block Club"
 description: ""
 speakers:
- - ""
+ - "Pascal Sabino, Block Club"
 image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2023-06-06T19:00:00-05:00
