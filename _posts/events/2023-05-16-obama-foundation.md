@@ -6,7 +6,7 @@ links:
 title: "In-person and Online: Building Connected Services for Physical Spaces: Accessibility & Microservice Architecture at The Obama Presidential Center"
 description: "The Obama Foundation’s Product and Technology Team, formed in 2021, is working to build the digital content, infrastructure, and experiences that will support the offline and online experiences associated with the storytelling of the OPC, and with the Obama Foundation programming more broadly. In this talk, co-founding software engineer Diana M Steakley-Freeman unpacks the conceptual and architectural underpinnings of the technology that will power the Center, the accessibility affordances the team is building at the core of its museum experience infrastructure, and the lessons learned so far in the process of building the suite of services that will support interested citizens in transforming their hopes into concrete actions."
 speakers:
- - "Diana Steakley-Freeman (She/Hers) Senior Software Engineer, Obama Foundatio" 
+ - "Diana Steakley-Freeman (She/Hers) Senior Software Engineer, Obama Foundation" 
 image: /images/events/541-BuildingConnectedServicesTalk.jpg
 image_credit: 
 date: 2023-05-16T18:00:00-05:00
