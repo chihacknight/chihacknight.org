@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "Online: Rose Afriyie, Retention at the Intersections"
-description: "Please find a link to the report authored by Rose Afriyie which was published last month, 'Technologist Retention at the Intersections.' It's about bringing an intersectionality lens to how we measure the experiences of people in technology with an eye on driving social change for the unique needs of technologists today. The Chicagoland area is a place where findings show that women, transgender, and nonbinary technologists stay in the field of technology. Retention rates in the field are as high as 93.1 percent. Despite high retention, there are other growth opportunities in the field a considerably lower percentage (51 percent) report a positive experience in the tech field."
+description: "The Chicagoland area is a place where findings show that women, transgender, and nonbinary technologists stay in the field of technology. Retention rates in the field are as high as 93.1 percent. Despite high retention, there are other growth opportunities in the field; a considerably lower percentage (51 percent) report a positive experience in the tech field."
 speakers:
  - "Rose Afriyie"
 image: /images/events/542-RoseAfriyie-2-p-1080.jpeg
