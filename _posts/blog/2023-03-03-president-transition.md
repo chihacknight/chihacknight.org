@@ -13,7 +13,7 @@ author2: Sean Watland
 author2_image: /images/people/board/sean_watland.jpg
 author2_bio: "Chi Hack Night President"
 published: true
-featured: true
+featured: false
 ---
 <p class="text-center"><img src="/images/blog/2023-03-03-president-transition.jpg" alt="From left to right, Derek Eder - Chi Hack Night President Emeritus, Sean Watland - New Chi Hack Night President" class='img-responsive' style='width:100%;'/><br />
 
