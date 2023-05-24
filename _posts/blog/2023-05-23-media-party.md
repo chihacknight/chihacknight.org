@@ -4,7 +4,7 @@ categories:
   - blog
 title: "Join us at Media Party on June 8-10, 2023!"
 description: "Chi Hack Night is excited to be partnering with Hacks/Hackers for Media Party Chicago 2023! Join us as attendees and participants along with journalists, designers, entrepreneurs, and tech experts, sparking innovative dialogues on artificial intelligence, democracy, and the future of media!"
-date: 2023-03-03
+date: 2023-05-23
 image: /images/blog/media-party.jpg
 author: Derek Eder
 author_image: /images/people/derek_eder.jpg
@@ -14,6 +14,7 @@ author2_image:
 author2_bio: 
 published: true
 featured: true
+redirect_from: /blog/2023/03/03/media-party.html
 ---
 <p class="text-center"><img src="/images/blog/media-party.jpg" alt="Join us at Media Party on June 8-10, 2023!" class='img-responsive' style='width:100%;'/>
 </p>
