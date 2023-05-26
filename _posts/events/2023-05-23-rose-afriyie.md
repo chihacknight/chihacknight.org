@@ -11,7 +11,7 @@ image: /images/events/542-RoseAfriyie-2-p-1080.jpeg
 image_credit:
 date: 2023-05-23T19:00:00-05:00
 event_id: 542
-youtube_id: 
+youtube_id: d_AvOY9By94
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
