@@ -17,8 +17,15 @@ published: true
 featured: false
 ---
 
-_Updated December 30, 2022_
+_Updated June 7, 2023_
+### Updated Policy
+As we stated in our initial policy, we would consider updates to our COVID-19 policy when it felt appropriate. With that, we have made the decision to drop our **proof of vaccination** as a requirement for our In Person events. 
 
+We continue asking that all attendees wear a mask while attending our In Person Events. 
+
+As always, we appreciate the commitment of all our attendees who help contribute to a welcoming and safe environment for all. If the board deems it appropriate to make further changes to our COVID-19 policy, we will update this policy and notify our community.
+
+### Initial Policy
 At Chi Hack Night we continue to believe in the importance of hosting in-person events particularly in a time where meaningful social life is so vital, but we must work together to do so safely. We recognize our civic responsibility of standing in solidarity with marginalized communities, particularly as they have been disproportionately impacted by the pandemic. As such, we have created a policy for protecting our community from  COVID-19.
 
  **Ventilation** and **masking** have been consistently demonstrated to be effective mitigation strategies particularly when coupled with **vaccination**. We take these measures to make sure everyone feels safe and welcome in an already stressful time. We appreciate the fact that some people have unique home or health circumstances that require them to take precaution measures. 
