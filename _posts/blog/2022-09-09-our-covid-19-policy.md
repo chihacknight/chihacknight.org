@@ -19,7 +19,7 @@ featured: false
 
 _Updated June 7, 2023_
 ### Updated Policy
-As we stated in our initial policy, we would consider updates to our COVID-19 policy when it felt appropriate. With that, we have made the decision to drop our **proof of vaccination** as a requirement for our In Person events. 
+As stated in our initial policy below, the Board considers updates to our COVID-19 policy when we feel it appropriate. As of June 2023, we have made the decision to drop **proof of vaccination** as a requirement for our In Person events. 
 
 We continue asking that all attendees wear a mask while attending our In Person Events. 
 
