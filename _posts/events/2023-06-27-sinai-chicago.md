@@ -7,7 +7,7 @@ title: "Online: Sinai Chicago"
 description: "Presentation details coming soon."
 speakers:
  - "Dr. Ngozi Ezike, Sinai Chicago"
-image: /images/events/544-pascal-sabino.jpg
+image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2023-06-27T19:00:00-05:00
 event_id: 547
