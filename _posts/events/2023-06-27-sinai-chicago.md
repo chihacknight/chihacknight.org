@@ -27,4 +27,5 @@ In today’s complex healthcare environment, healthcare providers and patients r
 In this talk, Sinai Chicago's President & CEO, Dr. Ngozi Ezike, will discuss the critical role that healthcare data systems can play in addressing health disparities and advancing health equity. She'll introduce a major initiative Sinai Chicago has undertaken to advance modern healthcare data infrastructure and technology for its own patients and communities. She'll also speak to the role Chicago's civic tech community can play in helping advance health equity through enhanced data and technology infrastructure.
 
 Dr. Ezike has served as President & CEO of Sinai Chicago since 2022. Previously, she served as Director of the Illinois Department of Public Health (IDPH), where she navigated the state through the Covid-19 pandemic. Dr. Ezike is a board-certified internist and pediatrician with degrees from Harvard University and the University of California, San Diego School of Medicine. She is a passionate advocate for health equity.
+
 ---
