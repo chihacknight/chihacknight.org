@@ -29,7 +29,7 @@ A. The goal of this project has been to use public data to assess the discrepanc
 
 Q. Why did the Ghost Buses group start?
 
-A. Good question! The Ghost Buses group's story began in Spring 2022, when Chi Hack Night members started to see more reports of ghost buses on Twitter and in the news --- in particular Streetsblog published an [article](https://chi.streetsblog.org/2022/04/25/data-analysis-found-cta-has-only-been-running-about-half-its-schedule-blue-line-runs/) that only half the Blue Line trains were running. This article inspired CHN member Laurie Merrell to try to do an analogous data analysis for CTA buses. Many CHN breakout groups start when CHN members engage with issues of public concern and then feel inspired to start breakout groups.
+A. The Ghost Buses group's story began in Spring 2022, when Chi Hack Night members started to see more reports of ghost buses on Twitter and in the news --- in particular Streetsblog published an [article](https://chi.streetsblog.org/2022/04/25/data-analysis-found-cta-has-only-been-running-about-half-its-schedule-blue-line-runs/) that only half the Blue Line trains were running. This article inspired CHN member Laurie Merrell to try to do an analogous data analysis for CTA buses. Many CHN breakout groups start when CHN members engage with issues of public concern and then feel inspired to start breakout groups.
 
 Q. How did the Ghost Buses group get up and running?
 
