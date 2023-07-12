@@ -25,7 +25,7 @@ A. A "ghost bus" is when a bus tracker app claims that a bus is coming but it ne
 
 Q. What's the goal of this project?
 
-A. The goal of this project has been to "use public data to assess the discrepancy between scheduled and actual service levels, to understand the prevalence and geographic distribution of "ghost buses"."
+A. The goal of this project has been to use public data to assess the discrepancy between scheduled and actual service levels, to understand the prevalence and geographic distribution of "ghost buses."
 
 Q. Why did the Ghost Buses group start?
 
