@@ -11,7 +11,7 @@ author_image: /images/people/placeholder-headshot.jpg
 author_bio: "Chi Hack Night Board Member"
 author2:
 author2_image:
-author2_bio: 
+author2_bio: "hello"
 published: true
 featured: true
 redirect_from: /blog/2023/06/20/ghost-buses.html
