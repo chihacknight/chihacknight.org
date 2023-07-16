@@ -13,7 +13,7 @@ author2:
 author2_image:
 author2_bio: 
 published: true
-featured: true
+featured: false
 redirect_from: /blog/2023/03/03/media-party.html
 ---
 <p class="text-center"><img src="/images/blog/media-party.jpg" alt="Join us at Media Party on June 8-10, 2023!" class='img-responsive' style='width:100%;'/>
