@@ -21,7 +21,7 @@ published: true
 ---
 Olatunji Oboi Reed is the founding President & CEO of The Equiticity Racial Equity Movement. 
 
-Equiticity is a racial equity movement, operationalizing racial equity by harnessing our collective power through research, advocacy, programs, Community Mobility Rituals, and social enterprises, to improve the lives of Black, Brown, and Indigenous people in our society.
+[Equiticity](http://equiticity.org/) is a racial equity movement, operationalizing racial equity by harnessing our collective power through research, advocacy, programs, Community Mobility Rituals, and social enterprises, to improve the lives of Black, Brown, and Indigenous people in our society.
 
 Equiticity’s vision is a mid- to large-size U.S. city where racial equity is fully integrated at the policy and legislative levels into every function, department, resource, and budget associated with the city’s operations, services, and programs. Equiticity is working to help establish a U.S. city which serves as a global model for the rest of the world on showcasing how to normalize, prioritize, and operationalize a full throated and unflinching commitment to racial equity, as an equitably moving flow of resources contributing to reducing violence, improving health, creating jobs, and ultimately making our neighborhoods and cities more liveable for Black, Brown and Indigenous people.
 
