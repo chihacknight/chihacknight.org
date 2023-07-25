@@ -63,6 +63,29 @@ To ensure high code quality, we practice using pull requests and having at least
 
 **Cancelled presenters** If a presenter cancel after we have sent out our email blast, we add `CANCELLED PRESENTATION` to the event title and update the description of the event noting that it will be an open hack event. Example: https://chihacknight.org/events/2018/10/09/censusbureau.html
 
+**Tagging** Events are tagged with one or more categories to help organize and find similar presentations and events. The most common tags we use are:
+- _openhack_: events with no presentation, but breakout groups meet
+- _govtech_: government and technology
+- _education_: anything relating to schools, education or learning
+- _journalism_: presentations from journalists on their reporting
+- _equity_: racial and gender equity
+- _criminal justice_: relating to courts, crime, and police forces
+- _satellite_: events held outside our typical downtown meeting spaces
+- _environment_: climate change, conservation, nature
+- _elections_: covering and educating municipal, state, and national elections
+- _advocacy_: organizations or individuals that advocate for policy positions
+- _nonprofit_: non-for-profit organizations and foundations
+- _housing_: real-estate, affordable housing and policy around it
+- _open data_: release of free, interoperable and structured government data
+- _breakout_: presentations from our own breakout groups
+- _mapping_: creating or using maps to explore data
+- _design_: talks focusing on the design process or methods
+- _community_: community feedback sessions
+- _transportation_: trains, buses, roads and the use of transportation infrastructure
+- _data analytics_: analyzing large amounts of data to determine trends and findings
+- _politics_: lobbying, issue advocacy, political campaigns, local government dynamics, 'how the sausage is made', etc
+- _health_: hospitals, public health and policy
+
 ## Projects and People
 
 The [projects](http://chihacknight.org/open-source-projects.html) and [people](http://chihacknight.org/open-source-people.html) pages are powered by [Github](https://github.com/) and [civic-json-worker](https://github.com/open-city/civic-json-worker), 
