@@ -3,7 +3,7 @@ layout: project
 categories: 
   - projects
 title: "ChiCommons"
-date: 2023-07-24
+date: 2016-06-30
 image: /images/projects/chi-commons.png
 description: "ChiCommons Cooperative is a multi-stakeholder organization that grew out of ChiHackNight and Sustainability volunteer movements for common good.  We are a worker-owned cooperative that runs community projects to increase economic solidarity and digital equity.  We offer opportunities to get involved as a skills volunteer or co-owner."
 website: https://www.chicommons.coop/ 
