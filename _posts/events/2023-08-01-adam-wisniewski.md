@@ -18,6 +18,7 @@ asl_provided: false
 tags: 
   - design
 published: true
+redirect_from: /events/2023/08/01/adam-wizniewski.html
 
 ---
 
