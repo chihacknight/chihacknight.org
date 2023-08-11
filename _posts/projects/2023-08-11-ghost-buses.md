@@ -9,13 +9,7 @@ description: "A 'ghost bus' is when a bus tracker app claims that a bus is comin
 website: https://ghostbuses.com/ 
 github: https://github.com/chihacknight/ghost-buses-frontend
 creators: 
- - Laurie Merrell
- - Sneha Jalukar
- - Amy Corson
- - Sean MacMullan
- - Howard Kier
- - Rishav Raj
- - Dylan Johnson
+ - Coming soon!
 tags:
  - Transit
 featured: true
