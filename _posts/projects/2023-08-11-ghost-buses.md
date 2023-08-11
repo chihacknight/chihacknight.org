@@ -5,7 +5,7 @@ categories:
 title: "Ghost Buses"
 date: 2023-08-11
 image: /images/projects/ghost-buses.png
-description: ""
+description: "A 'ghost bus' is when a bus tracker app claims that a bus is coming but it never shows up. If you live in Chicago and regularly take public transit, you may have been 'ghosted' by a bus! This project compares real-time data (data that indicates which bus trips actually happened) with schedule data (the trips that the CTA said in advance would happen)."
 website: https://ghostbuses.com/ 
 github: https://github.com/chihacknight/ghost-buses-frontend
 creators: 
@@ -37,8 +37,6 @@ A. The Ghost Buses group's story began in Spring 2022, when Chi Hack Night membe
 ### Q. How did the Ghost Buses group get up and running?
 
 Anyone can start a breakout group --- here is a [guide to starting and running breakout groups](https://chihacknight.org/blog/2020/02/28/so-you-want-to-start-a-breakout-group.html) at CHN. In our case, Laurie was the CHN member who got the Ghost Buses breakout group started --- she opened up an issue under the CHN GitHub repository, writing up a [short description of the group](https://github.com/chihacknight/breakout-groups/issues/217) to help orient people who were new to the breakout group, announcing the group at the weekly CHN meetings, and creating the Slack channel #ghost-buses-breakout. Gradually, we introduced a google doc for meeting notes, a project board on GitHub, READMEs, and contribution protocols. Since the beginning, many new members have joined and contributed to the project.
-
-(Picture of group meeting)
 
 ### Q. What other Chicago transit efforts are there?
 
