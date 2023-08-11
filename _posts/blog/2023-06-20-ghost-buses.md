@@ -4,9 +4,9 @@ categories:
   - blog
 title: "Breakout Group Highlight: Ghost Buses"
 description: "Chi Hack Night is excited to be partnering with Hacks/Hackers for Media Party Chicago 2023! Join us as attendees and participants along with journalists, designers, entrepreneurs, and tech experts, sparking innovative dialogues on artificial intelligence, democracy, and the future of media!"
-date: 2023-06-20
+date: 2023-08-11
 image: /images/blog/ghost-buses.png
-author: Shriya Jalukar
+author: Sneha Jalukar
 author_image: /images/people/placeholder-headshot.jpg
 author_bio: "Chi Hack Night Board Member"
 author2:
