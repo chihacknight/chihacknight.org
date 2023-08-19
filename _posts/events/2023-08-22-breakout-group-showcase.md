@@ -26,7 +26,7 @@ Join us for our 2023 Breakout Group Showcase! 4 of the breakout groups at Chi Ha
 - Kyle Dolezal
 
 
-**Project**
+### **Project**
 <p class="text-center"><img src="/images/events/showcase-2023-ghostbuses.png" alt="Ghostbuses Logo" class='img-responsive' style='width:100%;'/>
 </p>
 This breakout group uses public data (the CTA Bus Tracker API and CTA GTFS schedule dataset) to assess the discrepancy between scheduled and actual service levels, to understand the prevalence and geographic distribution of “ghost buses”. We're currently working on some new visualizations for the front end and back-end infrastructure improvements. Check out our site at [ghostbuses.com](https://ghostbuses.com/)!
