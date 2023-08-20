@@ -6,7 +6,7 @@ links:
 title: "Online: Breakout Group Showcase"
 description: "4 of the breakout groups at Chi Hack Night are going share a little bit about what they are working on - and how you can help!"
 speakers:
-image: /images/logo/logo-star-social.jpg
+image: /images/events/showcase-2023-logo.png
 image_credit: 
 date: 2023-08-22T19:00:00-05:00
 event_id: 554
