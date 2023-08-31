@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Sarah Karp, WBEZ"
+title: "In-person and Online: Investigating School Closing Promises"
 description: "Presenter description coming soon."
 speakers:
- - "Sarah Karp, WBEZ" 
-image: /images/logo/logo-star-social.jpg
+ - "Sarah Karp, Education Reporter, WBEZ-Chicago" 
+image: /images/events/556-sarah-karp-wbez.jpg
 image_credit: 
 date: 2023-09-05T18:00:00-05:00
 event_id: 556
@@ -30,9 +30,9 @@ published: true
 For more information on our in-person events, please see our [COVID Policy](/blog/2022/09/09/our-covid-19-policy.html). 
 
 ---
+Chicago closed 50 public schools a decade ago in the largest mass school closings in history. At the time, then-Mayor Rahm Emanuel made three key promises: The vacated buildings would be quickly redeveloped into community assets; students would go to better resourced schools with all the bells and whistles and they would have a better chance of success at better schools. I, along with WBEZ data editor and colleagues at the Chicago Sun Times, set out to test whether these promises were kept. We also were interested in how the school closings impacted the communities around them. In other words, did the fears that so many expressed when this was proposed come to fruition.
 
-Presenter description coming soon.
-
+Doing this project took a combination of good ol' fashion shoe leather reporting, as well as deep data analysis. In this presentation, Karp will talk about the value of visiting every single closed school. She will also talk about the community analysis that data editor Alden Loury did and how that led to one of the most profound findings: The areas around schools saw greater population declines than even similarly situated neighborhoods. Finally, she will discuss the data sharing agreement with the Illinois State Board of Education that allowed Karp to compare the educational trajectories of students who were at schools closed in 2013 with those students who were in schools with comparable demographics and performance levels that stayed open.
 ---
 
 **RSVP** In-person attendees should [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
