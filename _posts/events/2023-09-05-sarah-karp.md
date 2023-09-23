@@ -18,7 +18,7 @@ rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-tickets-65538089
 remote_url: 
 asl_provided: false
 tags:
-  - environment
+  - education
 published: true
 
 ---
