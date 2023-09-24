@@ -7,8 +7,8 @@ title: "Online: Why Chicago is Losing the War on Rats"
 description: "An Illinois Answers Project and Block Club Chicago investigation found that since the beginning of the pandemic, record rat complaints have overwhelmed the City of Chicago’s services. The data-heavy investigation focused on the people who live with rats, other shortcomings in city services, and the city’s methods of enforcement."
 speakers:
   - "Casey Toner (he/him), Illinois Answers Project reporter"
-image: /images/logo/logo-star-social.jpg
-image_credit: 
+image: /images/events/559-war-on-rats.jpg
+image_credit: "Colin Boyle/Block Club Chicago"
 date: 2023-09-26T19:00:00-05:00
 event_id: 559
 youtube_id: 
