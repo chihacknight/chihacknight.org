@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Cook County’s Inaugural Digital Equity Action Plan"
-description: ""
+title: "In-person and Online: Building Cook County’s Digital Equity Ecosystem"
+description: "Equitable access to the internet, computers, and other digital tools is essential today. Cook County’s Digital Equity Action Plan charts a path to ensuring these opportunities for connection are accessible to all members of our communities. This presentation will review the inaugural Cook County Digital Equity Action Plan and its companion tool, the Cook County Digital Equity Map."
 speakers:
- - "Kyla Williams Tate" 
-image: /images/logo/logo-star-social.jpg
+ - "Kyla Williams Tate, Director of Digital Equity, Cook County Government (She/Her/Hers)" 
+image: /images/events/560-cook-county-diw.jpg
 image_credit: 
 date: 2023-10-03T18:00:00-05:00
 event_id: 560
@@ -30,7 +30,17 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
-Presentation details to follow.
+Equitable access to the internet, computers, and other digital tools is essential today. Cook
+County’s Digital Equity Action Plan charts a path to ensuring these opportunities for connection
+are accessible to all members of our communities. This presentation will review the inaugural
+Cook County Digital Equity Action Plan and its companion tool, the Cook County Digital Equity Map.
+
+October 2nd- October 6th is also Digital Inclusion Week. Digital Inclusion Week (DIW) is an
+annual awareness, recognition, and celebration week. With support from NDIA, organizations
+like Cook County Government and individuals across the country host special events, run social
+media campaigns, and share their digital inclusion actions and progress with media, among other
+activities. This presentation will also share how Cook County celebrates DIW this year and other
+opportunities to participate.
 
 ---
 
