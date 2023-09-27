@@ -13,8 +13,58 @@ layout: default
   <hr />
 
   <div class='row'>
+
     {% if site.time <= page.date %}
-      <div class='col-sm-7'>
+      <div class='col-sm-5 col-sm-push-7'>
+        <div class='well'>
+          {% if page.image %}
+            <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+            {% if page.image_credit %}
+              <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+            {% endif %}
+            </p>
+          {% endif %}
+
+          {% if page.speakers %}
+            {% if page.speakers.size > 1 %}
+              <strong>Presenters</strong>
+            {% else %}
+              <strong>Presenter</strong>
+            {% endif %}
+            <p>
+            {% for p in page.speakers %}
+              {{p}}<br />
+            {% endfor %}
+            </p>
+          {% endif %}
+         
+          <strong>Location</strong><br />
+          {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="name">TeamWorking</span><br />
+            <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">20 N Upper Wacker Dr
+                 <br />Suite 1200</span><br />
+                <span itemprop="addressLocality">Chicago</span>,
+                <span itemprop="addressRegion">IL</span>
+              </div>
+            </a><br />
+            Enter the Civic Opera Building using the entrance in the middle of the block between Washington and Madison streets. Take the elevators to the 12th floor.
+          </div><br />
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            {% if page.remote_url %}
+            <span itemprop="name">Also on the Chi Hack Night <a href="{{page.remote_url}}">Zoom @ 6:30pm</a></span><br />
+          {% else %}
+            <span itemprop="name">Also on the Chi Hack Night <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a></span><br />
+          {% endif %}
+          </div>
+          
+        </div>
+      </div>
+    {% endif %}
+    {% if site.time <= page.date %}
+      <div class='col-sm-7 col-sm-pull-5'>
     {% else %}
       <div class='col-sm-12'> 
     {% endif %}
@@ -88,55 +138,6 @@ layout: default
         </ul>
       {% endif %}
     </div>
-    {% if site.time <= page.date %}
-      <div class='col-sm-5'>
-        <div class='well'>
-          {% if page.image %}
-            <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
-            {% if page.image_credit %}
-              <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
-            {% endif %}
-            </p>
-          {% endif %}
-
-          {% if page.speakers %}
-            {% if page.speakers.size > 1 %}
-              <strong>Presenters</strong>
-            {% else %}
-              <strong>Presenter</strong>
-            {% endif %}
-            <p>
-            {% for p in page.speakers %}
-              {{p}}<br />
-            {% endfor %}
-            </p>
-          {% endif %}
-         
-          <strong>Location</strong><br />
-          {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
-          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-            <span itemprop="name">TeamWorking</span><br />
-            <a href='https://www.google.com/maps/place/TechNexus+Venture+Collaborative/@41.8835673,-87.6394085,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d5be57f04c5:0xa87e47e177660090!8m2!3d41.8835673!4d-87.6372198'>
-              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">20 N Upper Wacker Dr
-                 <br />Suite 1200</span><br />
-                <span itemprop="addressLocality">Chicago</span>,
-                <span itemprop="addressRegion">IL</span>
-              </div>
-            </a><br />
-            Enter the Civic Opera Building using the entrance in the middle of the block between Washington and Madison streets. Take the elevators to the 12th floor.
-          </div><br />
-          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-            {% if page.remote_url %}
-            <span itemprop="name">Also on the Chi Hack Night <a href="{{page.remote_url}}">Zoom @ 6:30pm</a></span><br />
-          {% else %}
-            <span itemprop="name">Also on the Chi Hack Night <a href="https://youtube.com/chihacknight/live">YouTube Livestream</a></span><br />
-          {% endif %}
-          </div>
-          
-        </div>
-      </div>
-    {% endif %}
   </div>
 </div>
 
