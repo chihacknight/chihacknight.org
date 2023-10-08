@@ -11,7 +11,7 @@ image: /images/events/559-war-on-rats.jpg
 image_credit: "Colin Boyle/Block Club Chicago"
 date: 2023-09-26T19:00:00-05:00
 event_id: 559
-youtube_id: 
+youtube_id: XgLdH6s-r8c
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
