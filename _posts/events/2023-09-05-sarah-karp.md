@@ -19,6 +19,7 @@ remote_url:
 asl_provided: false
 tags:
   - education
+  - journalism
 published: true
 
 ---
