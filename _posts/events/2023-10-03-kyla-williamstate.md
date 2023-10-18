@@ -17,7 +17,7 @@ sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-tickets-655380890887
 remote_url: 
 asl_provided: false
-tags:
+tags: digital equity
 published: true
 
 ---
