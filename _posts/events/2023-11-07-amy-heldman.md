@@ -6,7 +6,7 @@ links:
 title: "In-person and Online: Leveraging Data Visualization to Support Equitable Watershed-Scale Investments in Nature-Based Solutions"
 description: "Amy will explore with participants a recently launched unique online parcel database and watershed analysis tool, the Natural Solutions Tool, to illustrate how goals for equity, public health, biodiversity, resiliency, and greenway connectivity can be achieved together through strategic investments in nature-based solutions. She will provide a live demonstration of the tool where participants will learn how different geographic data layers can be combined to reveal project prioritization strategies, view local demographics, find areas of interest, and be a key tool for advocacy."
 speakers:
- - "Amy Heldman, Planning and GIS Specialist, she/her/hers" 
+ - "Amy Heldman, Planning and GIS Specialist, she/her/hers, Friends of the Chicago River" 
 image: /images/events/565-NST-ChiHackNight.jpg
 image_credit: 
 date: 2023-11-07T18:00:00-06:00
