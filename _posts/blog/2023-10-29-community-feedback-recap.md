@@ -20,7 +20,7 @@ featured: true
 <p class="text-center"><img src="/images/blog/chn-2023-comm-feedback.jpg" alt="2023 Chi Hack Night Community Feedback Miro board" class='img-responsive' style='width:100%;'/>
 </p>
 
-On October 24, 2023, Chi Hack Night hosted a facilitated group conversation with 20 members of our civic tech community about the role of technology and data in our society. In this, our seventh Community Feedback session, we focused our discussion on events and trends going on outside of Chi Hack Night and how the civic tech community might respond to them.
+On [October 24, 2023](/events/2023/10/24/community-feedback.html), Chi Hack Night hosted a facilitated group conversation with 20 members of our civic tech community about the role of technology and data in our society. In this, our seventh Community Feedback session, we focused our discussion on events and trends going on outside of Chi Hack Night and how the civic tech community might respond to them.
 
 The facilitated discussion was structured around three prompts. Below are the prompts, and a summary of our conversations for each:
 
