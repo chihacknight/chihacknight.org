@@ -19,6 +19,10 @@ published: true
 
 ---
 
+**Update:** Read the [recap of this Community Feedback Session](/blog/2023/10/29/community-feedback-recap.html) on our blog.
+
+---
+
 Join us for a facilitated group conversation about the role of technology and data in our society. In our seventh Community Feedback session, we will focus our discussion on things going on outside of Chi Hack Night and how we might respond to them. 
 
 The facilitated discussion will be structured around the following prompts:
