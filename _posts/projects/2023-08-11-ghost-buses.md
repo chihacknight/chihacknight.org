@@ -23,7 +23,7 @@ creators:
  - Sean MacMullan
  - Sneha Jalukar
  - Vien Nguyen
- - And others, including outsite contributors on GitHub
+ - And others, including outside contributors on GitHub
 
 tags:
  - Transit
