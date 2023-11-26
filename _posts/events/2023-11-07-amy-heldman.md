@@ -11,7 +11,7 @@ image: /images/events/565-NST-ChiHackNight.jpg
 image_credit: 
 date: 2023-11-07T18:00:00-06:00
 event_id: 565
-youtube_id: 
+youtube_id: QsCRMzm4LX4
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-tickets-655380890887
