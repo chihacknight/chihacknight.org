@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: The Harvey World Herald"
-description: "Presenter description coming soon"
+title: "In-person and Online: Movement Journalism and the New Black Press"
+description: "Amethyst J. Davis, founder of The Harvey World Herald, will discuss the fragility of American democracy, the deepening news desert crisis and distrust in communities of color, and how a new generation of Black-owned newsrooms is intervening."
 speakers:
- - "Amethyst Davis, Founder - The Harvey World Herald" 
-image: /images/logo/logo-star-social.jpg
+ - "Amethyst J. Davis (she/they), Founder, The Harvey World Herald" 
+image: /images/events/569-amethyst-j-davis.jpeg
 image_credit: 
 date: 2023-12-12T18:00:00-06:00
 event_id: 569
@@ -30,7 +30,7 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 ---
 
-Presenter description coming soon 
+Davis will discuss the fragility of American democracy, the deepening news desert crisis and distrust in communities of color, and how a new generation of Black-owned newsrooms is intervening.
 
 ---
 
