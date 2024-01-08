@@ -11,7 +11,7 @@ speakers:
 image: /images/events/571-transit-tech-is-civic-tech.png
 image_credit:
 date: 2024-01-09T19:00:00-06:00
-event_id: 567
+event_id: 571
 youtube_id: 
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
