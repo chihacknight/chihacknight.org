@@ -3,7 +3,7 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: Presenter TBD"
+title: "Online: Project Sidewalk"
 description: "Presenter description coming soon"
 speakers:
   - ""
