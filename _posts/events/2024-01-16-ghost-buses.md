@@ -1,5 +1,5 @@
 ---
-layout: technexus_event
+layout: remote_event_openhack
 categories:
   - events
 links: 
@@ -7,6 +7,7 @@ title: "In-person and Online: Ghost Buses"
 description: "Ghost Bus is a Chi Hack Night project conducted by volunteer data scientists, engineers, and researchers. The project compares open source real-time bus tracking data to the CTA’s official schedules to identify gaps in service across Chicago’s bus lines."
 speakers:
  - "Laurie Merrell (she/her)" 
+ - "JR Rubin (he/him)"
 image: /images/events/572-ghost-buses.png
 image_credit: 
 date: 2024-01-16T18:00:00-06:00
