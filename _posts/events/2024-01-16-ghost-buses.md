@@ -32,6 +32,6 @@ You’re waiting to catch your bus. The schedule app says it’ll be there in tw
 
 If you’re a regular rider of the CTA, odds are you’ve been “ghosted” by your bus or train. While the pandemic put an understandable strain on transit systems, Chicago residents have commitments that require travel and the CTA has struggled to keep up. Most importantly, the CTA's official schedules have not reliably represented service levels, leading to confusion, delays, and a general sense of distrust in our city’s public transit.
 
-Ghost Bus is a Chi Hack Night project conducted by volunteer data scientists, engineers, and researchers. The project compares open source real-time bus tracking data to the CTA’s official schedules to identify gaps in service across Chicago’s bus lines.
+[Ghost Bus](https://ghostbuses.com/) is a Chi Hack Night project conducted by volunteer data scientists, engineers, and researchers. The project compares open source real-time bus tracking data to the CTA’s official schedules to identify gaps in service across Chicago’s bus lines.
 
 ---
