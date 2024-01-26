@@ -45,7 +45,7 @@ Here’s a breakdown of the available seats:
    </td>
    <td>Eric Sherman
    </td>
-   <td>Incumbent is running
+   <td>Incumbent is <strong>not</strong> running
    </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ Here’s a breakdown of the available seats:
    </td>
    <td>Laurie Merrell
    </td>
-   <td>Incumbent is not running
+   <td>Incumbent is <strong>not</strong> running
    </td>
   </tr>
   <tr>
