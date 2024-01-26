@@ -15,7 +15,7 @@ author2_url:
 author2_image: 
 author2_bio: 
 published: true
-featured: true
+featured: false
 ---
 <p class="text-center"><img src="/images/blog/chn-2023-comm-feedback.jpg" alt="2023 Chi Hack Night Community Feedback Miro board" class='img-responsive' style='width:100%;'/>
 </p>
