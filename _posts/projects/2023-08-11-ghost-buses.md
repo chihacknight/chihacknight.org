@@ -20,6 +20,7 @@ creators:
  - Kyle Dolezal
  - Laurie Merrell 
  - Rona Hsu
+ - Satoru
  - Sean MacMullan
  - Sneha Jalukar
  - Vien Nguyen
