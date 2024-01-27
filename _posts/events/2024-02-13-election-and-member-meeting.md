@@ -1,5 +1,5 @@
 ---
-layout: remote_event
+layout: remote_event_openhack
 categories:
   - events
 links: 
