@@ -19,7 +19,7 @@ featured: true
 
 On Tuesday, February 13, 2024, Chi Hack Night will hold our fifth annual member meeting and election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.
 
-There are a total of ? seats up in this election. Four of them will be chosen by Chi Hack Night Members based on popular vote and one will be appointed by the current Board of Directors with majority Membership approval. All of the seats are 2 year terms.
+There are a total of seven seats up in this election. Three of them will be chosen by Chi Hack Night Members based on popular vote and four will be appointed by the current Board of Directors with majority Membership approval. Six of the seats are 2 year terms. One of the seats is an appointed seat to fill a vacancy and is a 1 year term.
 
 Here’s a breakdown of the available seats:
 
