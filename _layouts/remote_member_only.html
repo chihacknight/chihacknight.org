@@ -1,0 +1,137 @@
+---
+layout: default
+---
+
+<div itemscope itemtype="http://schema.org/Event">
+  <h3>
+    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %-d, %Y" }}</time>
+  </h3>
+  <h1>
+    <small>#{{page.event_id}}</small>
+    <span itemprop="name">{{page.title}}</span>
+  </h1>
+  <hr />
+
+  <div class='row'>
+    {% if site.time <= page.date %}
+      <div class='col-sm-7'>
+    {% else %}
+      <div class='col-sm-12'> 
+    {% endif %}
+
+      {% if page.youtube_id %}
+        <iframe width="100%" height="480" src="https://www.youtube.com/embed/{{page.youtube_id}}" frameborder="0" allowfullscreen></iframe>
+        <hr />
+      {% elsif site.time >= page.date and page.image %}
+        <p>
+          <img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
+        </p>
+      {% else %}
+        {% if page.image %}
+          <p class='hidden-lg hidden-md'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+          {% if page.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+          {% endif %}
+          </p>
+        {% endif %}
+      {% endif %}
+
+      {% if site.time <= page.date %}
+        <p>
+          <a class='btn btn-link' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Chi Hack Night Zoom Call @ 7pm</a>
+
+          <a class='btn btn-link' href="{{page.agenda}}" target='_blank'>Agenda</a>
+
+        </p>
+
+        <ul>
+          <li>
+            <strong>6:30pm: ChiCommons/Chi Hack Night Pre-Party</strong><br />Socialize, touch base, and share what you plan on doing at Chi Hack Night <a href="https://bit.ly/CHN-pre-party">bit.ly/CHN-pre-party</a>
+          </li>
+          <li>
+            <strong>7:00pm: Member only zoom call</strong> <a href="https://bit.ly/chn-remote-zoom">bit.ly/chn-remote-zoom</a>
+          </li>
+        </ul>
+      {% else %}
+        {% if page.speakers %}
+          {% if page.speakers.size > 1 %}
+            <strong>Presenters</strong>
+          {% else %}
+            <strong>Presenter</strong>
+          {% endif %}
+          <p>
+          {% for p in page.speakers %}
+            {{p}}<br />
+          {% endfor %}
+          </p>
+          <hr />
+        {% endif %}
+      {% endif %}
+
+      <span itemprop="description">{{content}}</span>
+
+      {% if site.time <= page.date and page.speakers %}
+
+        <!-- <p><strong>Civic hacking</strong> After the presentation, we will break out into <a href='/breakouts.html'>learning and prototyping groups</a>.</p> -->
+      {% endif %}
+
+      <hr />
+      <!-- {% if page.agenda %}
+        <i class='fa fa-file-text-o fa-fw'></i> <a href='{{page.agenda}}' target='_blank'>Agenda and meeting notes</a><br />
+      {% endif %} -->
+      {% if site.time <= page.date %}
+        <!-- <i class='fa fa-group fa-fw'></i> <a href='/breakouts.html'> Breakout groups</a><br /> -->
+        <i class='fa fa-smile-o fa-fw'></i> <a href='/code-of-conduct.html'> Code of conduct</a><br />
+      {% endif %}
+      <i class='fa fa-cutlery fa-fw'></i> Sponsor {{page.sponsor}}<br />
+      {% if page.asl_provided %}
+        <i class='fa fa-american-sign-language-interpreting fa-fw'></i> American Sign Language interpreter<br />
+      {% endif %}
+
+      {% if page.links %}
+        <hr />
+        <h4>Links</h4>
+        <ul>
+        {% for link in page.links %}
+          <li>{{link}}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    {% if site.time <= page.date %}
+      <div class='col-sm-5'>
+        <div class='well'>
+          {% if page.image %}
+            <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+            {% if page.image_credit %}
+              <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+            {% endif %}
+            </p>
+          {% endif %}
+
+          {% if page.speakers %}
+            {% if page.speakers.size > 1 %}
+              <strong>Presenters</strong>
+            {% else %}
+              <strong>Presenter</strong>
+            {% endif %}
+            <p>
+            {% for p in page.speakers %}
+              {{p}}<br />
+            {% endfor %}
+            </p>
+          {% endif %}
+         
+          <strong>Location</strong><br />
+          {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
+          <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <span itemprop="name">Chi Hack Night Zoom Call</span><br />
+          </div>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</div>
