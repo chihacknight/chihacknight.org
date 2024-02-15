@@ -41,4 +41,4 @@ The Illinois Network for Pretrial Justice led the campaign to get this transform
 
 **Masks required** Attendees will be required to wear a mask. We will provide additional masks if you forget yours.
 
-**There will be food!** We will be serving chicken, steak and veggie tacos from [Atolito's Tacos](https://atolito.com/restaurant/625/Atolito)!
+**There will be food!** We will be serving Costa Rican empanadas, chicken casado and rice from [Irazu](https://www.irazuchicago.com/)!
