@@ -11,7 +11,7 @@ committees:
  - "Event Operations"
  - "Communication & Promotion"
 date: 2022-08-30
-image: "/images/people/placeholder-headshot.jpg"
+image: "/images/people/board/sneha_jalukar.jpg"
 permalink: /board-of-directors/sneha-jalukar.html
 published: true
 active: true
