@@ -4,7 +4,7 @@ categories:
   - blog
 title: "2024 Board Election Results"
 description: "On Feb 13th, we held our fourth election for our Board of Directors. We were amazed at the turnout. Of our 298 official Members, 22 attended virtually to cast their votes. Congrats to our elected and appointed Board Members Cameron Sow, Sean Watland, Sneha Jalukar, Michael Chladek, Samantha Goodman, Kyle Dolezal!"
-date: 2024-02-14
+date: 2024-02-15
 image: /images/blog/2024-election.jpg
 author: Elections Committee - Derek Eder, Adam Hecktman, Josh Kalov
 author_url: 
