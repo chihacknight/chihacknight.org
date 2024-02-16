@@ -21,7 +21,7 @@ published: true
 
 ---
 
-The #PublicSectorJobBoard started as a one-off LinkedIn post in October 2022 following the announcement of massive layoffs in the tech industry. News about job postings were flying across the internet, but they had one thing in common: none of them were in government.
+The [#PublicSectorJobBoard](https://www.linkedin.com/newsletters/publicsectorjobboard-7054097497383690241/) started as a one-off LinkedIn post in October 2022 following the announcement of massive layoffs in the tech industry. News about job postings were flying across the internet, but they had one thing in common: none of them were in government.
 
 Interest in public service is high, but in order to get a job, you need to be able to find it. The job board and newsletter have become a staple in the civic tech community for those interested in joining government, helping people navigate the process and get excited about civic tech and public service.
 
