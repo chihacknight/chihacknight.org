@@ -6,7 +6,7 @@ name_first: "Cameron"
 name_last: "Sow"
 seat: "Appointed"
 term_start: "2019"
-term_expires: "2024"
+term_expires: "2026"
 committees:
   - "Event Operations"
   - "Membership & Volunteers"

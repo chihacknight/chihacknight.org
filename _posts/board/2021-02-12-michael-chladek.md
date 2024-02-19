@@ -7,7 +7,7 @@ name_last: "Chladek"
 seat: "Elected"
 position: "Treasurer"
 term_start: "2020"
-term_expires: "2024"
+term_expires: "2026"
 committees:
   - "Membership & Volunteers (co-chair)"
 date: 2021-01-01

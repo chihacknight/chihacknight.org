@@ -6,7 +6,7 @@ name_first: "Sneha"
 name_last: "Jalukar"
 seat: "Appointed"
 term_start: "2022"
-term_expires: "2024"
+term_expires: "2026"
 committees:
  - "Event Operations"
  - "Communication & Promotion"
