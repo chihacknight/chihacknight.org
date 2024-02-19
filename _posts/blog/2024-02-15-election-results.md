@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "2024 Board Election Results"
-description: "On Feb 13th, we held our fourth election for our Board of Directors. We were amazed at the turnout. Of our 298 official Members, 22 attended virtually to cast their votes. Congrats to our elected and appointed Board Members Cameron Sow, Sean Watland, Sneha Jalukar, Michael Chladek, Samantha Goodman, Kyle Dolezal!"
+description: "On Feb 13th, we held our fifth election for our Board of Directors. We were amazed at the turnout. Of our 28 official Members, 22 attended virtually to cast their votes. Congrats to our elected and appointed Board Members Cameron Sow, Sean Watland, Sneha Jalukar, Michael Chladek, Samantha Goodman, Kyle Dolezal!"
 date: 2024-02-15
 image: /images/blog/2024-election.jpg
 author: Elections Committee - Derek Eder, Adam Hecktman, Josh Kalov
@@ -22,7 +22,7 @@ featured: true
 <small><em>From top left, elected and appointed Board Members Cameron Sow, Sean Watland, Sneha Jalukar, Michael Chladek, Samantha Goodman, Kyle Dolezal</em></small>
 </p>
 
-On Feb 13th, we held our fourth election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). We were amazed at the turnout. Of our 298 official Members, 22 attended virtually to cast their votes. 
+On Feb 13th, we held our fifth election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). We were amazed at the turnout. Of our 28 official Members, 22 attended virtually to cast their votes.
 
 There were three members chosen by Chi Hack Night Members based on popular vote and one appointed by the current Board of Directors with majority Membership approval. All board members serve 2 year terms. Below are the results and vote tallys. 
 
