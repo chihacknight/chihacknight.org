@@ -7,7 +7,7 @@ name_last: "Watland"
 position: "President"
 seat: "Elected"
 term_start: "2022"
-term_expires: "2024"
+term_expires: "2026"
 committees:
  - "Event Operations"
  - "Membership & Volunteers"
