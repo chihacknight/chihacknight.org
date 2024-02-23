@@ -12,7 +12,7 @@ image: /images/events/575-erase-the-database.jpg
 image_credit:
 date: 2024-02-06T19:00:00-06:00
 event_id: 575
-youtube_id: 
+youtube_id: q-bs1Acjqcg
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
