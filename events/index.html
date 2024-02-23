@@ -8,7 +8,7 @@ description: Past and upcoming Chi Hack Night presentations and events. We have 
 <h1>
   Events
 </h1>
-<p>Past and upcoming Chi Hack Night presentations and events. We have hosted and recorded over 300 presentations since 2012. You can read about and watch them here.</p>
+<p>Past and upcoming Chi Hack Night presentations and events. We have hosted and recorded over 400 presentations since 2012. You can read about and watch them here.</p>
 
 <p>Have a talk you'd like to give at Chi Hack Night? <a href='/speaker-submissions.html'>Learn more about speaker submissions »</a></p>
 
@@ -20,6 +20,7 @@ description: Past and upcoming Chi Hack Night presentations and events. We have 
       <th>Event</th>
       <th>Speaker(s)</th>
       <th>Tags</th>
+      <th>Video</th>
     </tr>
   </thead>
   <tbody>
@@ -33,9 +34,6 @@ description: Past and upcoming Chi Hack Night presentations and events. We have 
           <td>{{post.event_id}}</td>
           <td>
             <a href='{{ post.url }}' itemprop='url'><span itemprop='name'>{{ post.title }}</span></a>
-            {% if post.youtube_id %}
-              <small><i title='This event has a video' class='fa fa-fw fa-video-camera'></i></small>
-            {% endif %}
           </td>
           <td>
             {% for speaker in post.speakers %}
@@ -46,6 +44,11 @@ description: Past and upcoming Chi Hack Night presentations and events. We have 
             {% for tag in post.tags %}
               {{tag}}<br />
             {% endfor %}
+          </td>
+          <td class='nowrap'>
+            {% if post.youtube_id %}
+              <a target="_blank" href='https://www.youtube.com/watch?v={{post.youtube_id}}'><i class='fa fa-fw fa-video-camera'></i> Watch</a>
+            {% endif %}
           </td>
         </tr>
       {% endif %}

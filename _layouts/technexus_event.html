@@ -102,6 +102,20 @@ layout: default
           {% endif %}
 
         </p>
+      {% else %}
+        {% if page.speakers %}
+          {% if page.speakers.size > 1 %}
+            <strong>Presenters</strong>
+          {% else %}
+            <strong>Presenter</strong>
+          {% endif %}
+          <p>
+          {% for p in page.speakers %}
+            {{p}}<br />
+          {% endfor %}
+          </p>
+          <hr />
+        {% endif %}
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
