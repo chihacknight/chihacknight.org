@@ -10,6 +10,7 @@ term_expires: "2025"
 committees:
  - "Event Operations"
  - "Communication & Promotion"
+ - "Fundraising"
 date: 2023-02-11
 image: "/images/people/board/adam-hecktman.jpg"
 permalink: /board-of-directors/adam-hecktman.html

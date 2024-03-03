@@ -4,11 +4,12 @@ categories:
   - board
 name_first: "Eric"
 name_last: "Sherman"
-seat: "Elected"
+seat: "Appointed"
 term_start: "2019"
 term_expires: "2024"
 committees:
   - "Membership & Volunteers (co-chair)"
+  - "Fundraising"
 date: 2020-02-04
 image: "/images/people/board/eric.jpg"
 permalink: /board-of-directors/eric-sherman.html

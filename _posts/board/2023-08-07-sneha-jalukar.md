@@ -10,6 +10,7 @@ term_expires: "2026"
 committees:
  - "Event Operations"
  - "Communication & Promotion"
+ - "Fundraising"
 date: 2022-08-30
 image: "/images/people/board/sneha_jalukar.jpg"
 permalink: /board-of-directors/sneha-jalukar.html

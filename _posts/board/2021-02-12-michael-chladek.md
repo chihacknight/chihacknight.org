@@ -9,7 +9,8 @@ position: "Treasurer"
 term_start: "2020"
 term_expires: "2026"
 committees:
-  - "Membership & Volunteers (co-chair)"
+  - "Membership & Volunteers (chair)"
+  - "Fundraising"
 date: 2021-01-01
 image: "/images/people/board/michael-chladek.jpg"
 permalink: /board-of-directors/michael-chladek.html
