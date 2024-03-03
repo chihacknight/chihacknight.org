@@ -21,16 +21,16 @@ layout: default
         </h1>
         Board seat: {{page.seat}}<br />
         {% if page.active %}
-          Term:
+          {% if page.term_start ==  page.term_expires %}
+            {{page.term_expires}}
+          {% else %}
+            Term: {{page.term_start}} - {{page.term_expires}}
+      {% endif %}
         {% else %}
           Years served:
         {% endif %}
         
-        {% if page.term_start ==  page.term_expires %}
-          {{page.term_expires}}
-        {% else %}
-          Term: {{page.term_start}} - {{page.term_expires}}
-        {% endif %}
+        
         <br />
       </div>
     </div>
