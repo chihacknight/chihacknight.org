@@ -25,13 +25,13 @@ layout: default
     <h3 class="panel-title"><b>Next Chi Hack Night</b> <a class='pull-right' href='/events/'>All events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
-    <h2 class='no-margin-top'>
-      <small>#{{post.event_id}}</small>
-      <a href="{{post.url}}">{{post.title}}</a>
-    </h2>
     <div class='row'>
       <div class='col-sm-7'>
+        <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+        <h2 class='no-margin-top'>
+          <small>#{{post.event_id}}</small>
+          <a href="{{post.url}}">{{post.title}}</a>
+        </h2>
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% endif %}
@@ -73,19 +73,27 @@ layout: default
     <h3 class="panel-title"><b>Last Chi Hack Night</b> <a class='pull-right' href='/events/'>All events &raquo;</a></h3>
   </div>
   <div class="panel-body">
-    <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
-    <h2 class='no-margin-top'>
-      <small>#{{post.event_id}}</small>
-      <a href="{{post.url}}">{{post.title}}</a>
-    </h2>
     <div class='row'>
-      <div class='col-sm-12'>
+      <div class='col-sm-7'>
+        <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+        <h2 class='no-margin-top'>
+          <small>#{{post.event_id}}</small>
+          <a href="{{post.url}}">{{post.title}}</a>
+        </h2>
         {% if post.description %}
           <p>{{ post.description }}</p>
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         {% if post.youtube_id %}
         <a class='btn btn-link btn-lg' href="https://www.youtube.com/watch?v={{post.youtube_id}}" target='_blank'><i class='fa fa-play-circle'></i> YouTube Video</a>
+        {% endif %}
+      </div>
+      <div class='col-sm-5'>
+        {% if post.image and post.description.size > 0 %}
+          <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
+          {% if post.image_credit %}
+            <br /><small class='pull-right'><em>Photo: {{ post.image_credit }}</em></small>
+          {% endif %}
         {% endif %}
       </div>
     </div>
@@ -108,46 +116,7 @@ layout: default
       {% endfor %}
     </small>
   </div>
-  
 </div>
-
-<!--
-{% for post in site.categories['satellite']  limit:1 %}
-  {% if site.time <= post.date %}
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title"><b>Next Community Event</b></h3>
-      </div>
-      <div class="panel-body">
-        <strong>{{ post.date | date: "%l:%M%P" }} {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
-
-        <h2 class='no-margin-top'>
-          <a href="{{post.url}}">{{post.title}}</a>
-        </h2>
-        <div class='row'>
-          <div class='col-sm-7'>
-            {% if post.description %}
-              <p>{{ post.description }}</p>
-            {% endif %}
-            <br />
-            {% if site.time <= post.date %}
-              <a class='btn btn-success btn-lg' href="{{post.rsvp}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-            {% endif %}
-            <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-            {% if page.agenda %}
-            <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
-            {% endif %}
-          </div>
-          <div class='col-sm-5'>
-            {% if post.image %}
-              <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  {% endif %}
-{% endfor %} -->
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -163,6 +132,7 @@ layout: default
             {% else %}
               <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
             {% endif %}
+            <br /><br />
           </div>
           <div class='col-sm-8'>
             <h4>
@@ -178,7 +148,6 @@ layout: default
               <br />
               {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
             </p>
-            <br />
           </div>
         </div>
       {% endif %}

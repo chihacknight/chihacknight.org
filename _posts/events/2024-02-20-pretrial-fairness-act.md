@@ -6,7 +6,6 @@ links:
 title: "In-person and Online: Reducing Pretrial Jailing in Illinois - Implementing the Pretrial Fairness Act"
 description: "The Illinois Network for Pretrial Justice led the campaign to get the Illinois Pretrial Fairness Act law passed and is now working to hold the courts accountable to it. They’ll be presenting on the law, the fight to ensure successful implementation and the role data has played in reforming the state’s pretrial legal system."
 speakers:
- - "Briana Payton (she/her), Senior Policy Analyst, Chicago Appleseed"
  - "Matthew McLoughlin (he/him), Campaign Strategist, Illinois Network for Pretrial Justice" 
 image: /images/events/577-pretrial-fairness.jpg
 image_credit: 
