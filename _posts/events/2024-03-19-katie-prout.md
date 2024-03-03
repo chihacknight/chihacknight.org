@@ -9,7 +9,7 @@ speakers:
  - "Katie Prout, Chicago Reader"
 image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2024-03-19T18:00:00-06:00
+date: 2024-03-19T18:00:00-05:00
 event_id: 581
 youtube_id:
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
