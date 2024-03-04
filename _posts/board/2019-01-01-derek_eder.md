@@ -9,8 +9,9 @@ seat: "Elected"
 term_start: "2019"
 term_expires: "2025"
 committees:
-  - "Event Operations (co-chair)"
+  - "Event Operations"
   - "Communication & Promotion"
+  - "Fundraising"
 date: 2019-01-01
 image: "/images/people/board/derek.jpg"
 permalink: /board-of-directors/derek-eder.html
