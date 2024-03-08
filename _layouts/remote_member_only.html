@@ -2,34 +2,38 @@
 layout: default
 ---
 
-<div itemscope itemtype="http://schema.org/Event">
-  <h3>
-    <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %-d, %Y" }}</time>
-  </h3>
-  <h1>
-    <small>#{{page.event_id}}</small>
-    <span itemprop="name">{{page.title}}</span>
-  </h1>
-  <hr />
+<div class='row'>
+  <div class="col-sm-10 col-sm-offset-1">
+    <div itemscope itemtype="http://schema.org/Event">
+      <h3>
+        <a href='/events'>Events</a> > <time itemprop="startDate" datetime={{ page.date | date: "%Y-%m-%d" }}>{{ page.date | date: "%B %-d, %Y" }}</time>
+      </h3>
+      <h1>
+        <small>#{{page.event_id}}</small>
+        <span itemprop="name">{{page.title}}</span>
+      </h1>
+      <hr />
 
-  <div class='row'>
-    <div class='col-sm-7'>
-      <span itemprop="description">{{content}}</span>
-    </div>
-    <div class='col-sm-5'>
-      <div class='well'>
-        {% if page.image %}
-          <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
-          {% if page.image_credit %}
-            <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
-          {% endif %}
-          </p>
-        {% endif %}
+      <div class='row'>
+        <div class='col-sm-7'>
+          <span itemprop="description">{{content}}</span>
+        </div>
+        <div class='col-sm-5'>
+          <div class='well'>
+            {% if page.image %}
+              <p class='hidden-sm hidden-xs'><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' />
+              {% if page.image_credit %}
+                <br /><small class='pull-right'><em>Photo: {{ page.image_credit }}</em></small>
+              {% endif %}
+              </p>
+            {% endif %}
 
-        <strong>Location</strong><br />
-        {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
-        <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-          <span itemprop="name">Chi Hack Night Zoom Call</span><br />
+            <strong>Location</strong><br />
+            {{ page.date | date: "%l:%M%P" }} {{ page.date | date: "%A, %B %-d, %Y" }}
+            <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+              <span itemprop="name">Chi Hack Night Zoom Call</span><br />
+            </div>
+          </div>
         </div>
       </div>
     </div>
