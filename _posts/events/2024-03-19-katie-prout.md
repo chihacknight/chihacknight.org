@@ -35,6 +35,4 @@ For more information on our in-person events, please see our [COVID Policy](/blo
 
 **RSVP** In-person attendees should [RSVP beforehand]({{page.rsvp_url}}). As occupancy limits permit, walk-ins will be allowed to enter.
 
-**Masks required** Attendees will be required to wear a mask. We will provide additional masks if you forget yours.
-
 **There will be food!** We will be serving Costa Rican empanadas, chicken casado and rice from [Irazu](https://www.irazuchicago.com/)!
