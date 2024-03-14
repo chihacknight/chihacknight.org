@@ -3,11 +3,11 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Katie Prout, Opioid Overdoses on CTA"
-description: "Presenter description coming soon"
+title: "In-person and Online: Every life counts: tracking opioid overdose deaths on the CTA"
+description: "In order to understand the scope of a public health crisis, you must count the dead. While the Medical Examiner's Office does track the number of opioid-overdose related deaths that occur in Cook County every year, no city department tracks how many of those deaths occur on the CTA, including the CTA. This matters, because while the majority of overdoses that result in death in the county do occur in private homes, the ones that happen on the CTA-where hundreds of unhoused Chicagoans shelter every winter--are visible, public, and thus present more opportunity for reversal. According to Katie Prout of the Chicago Reader, 158 people died from overdose on the CTA between 2018-2022. That number is likely an underestimate. For her talk, Prout will discuss how she came to those numbers, how other cities (and transit agencies) across the U.S. are tracking those numbers, and the questions that remain."
 speakers:
- - "Katie Prout, Chicago Reader"
-image: /images/logo/logo-star-social.jpg
+ - "Katie Prout, features writer for Chicago Reader, she/her/hers"
+image: /images/events/581-katie-prout.jpg
 image_credit: 
 date: 2024-03-19T18:00:00-05:00
 event_id: 581
@@ -23,7 +23,9 @@ published: true
 
 ---
 
-Presenter details coming soon.
+In order to understand the scope of a public health crisis, you must count the dead. While the Medical Examiner's Office does track the number of opioid-overdose related deaths that occur in Cook County every year, no city department tracks how many of those deaths occur on the CTA, including the CTA. This matters, because while the majority of overdoses that result in death in the county do occur in private homes, the ones that happen on the CTA-where hundreds of unhoused Chicagoans shelter every winter--are visible, public, and thus present more opportunity for reversal. 
+
+According to Katie Prout of the Chicago Reader, 158 people died from overdose on the CTA between 2018-2022. That number is likely an underestimate. For her talk, Prout will discuss how she came to those numbers, how other cities (and transit agencies) across the U.S. are tracking those numbers, and the questions that remain.
 
 ---
 
