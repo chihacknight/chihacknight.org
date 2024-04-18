@@ -11,7 +11,7 @@ image: /images/events/578-rebecca-heywood.jpg
 image_credit:
 date: 2024-02-27T19:00:00-06:00
 event_id: 578
-youtube_id: 
+youtube_id: WaAw5dLq3fA
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

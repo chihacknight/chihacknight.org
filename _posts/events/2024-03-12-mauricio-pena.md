@@ -11,7 +11,7 @@ image: /images/events/580-mauricio-pena.jpg
 image_credit:
 date: 2024-03-12T19:00:00-05:00
 event_id: 580
-youtube_id: 
+youtube_id: RdASKfRoUDQ
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
