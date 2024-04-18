@@ -3,23 +3,25 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person Open Hack"
-description: "There will be no presentation this week. Instead, we're going to have an Open Hack. Join us at Tech Nexus for food, networking, socializing and breakout groups."
+title: "In-person and Online: Chicago Missing Persons Project"
+description: "Presenter details coming soon."
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2024-04-16T18:00:00-05:00
-event_id: 585
-youtube_id:
+date: 2024-05-14T18:00:00-05:00
+event_id: 589
+youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
-rsvp_url: https://www.eventbrite.com/e/chi-hack-night-tickets-874597975087?aff=oddtdtcreator
+rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-tickets-655380890887
 remote_url: 
 asl_provided: false
 tags:
 published: true
 
 ---
+
+Presenter details coming soon.
 
 ---
 

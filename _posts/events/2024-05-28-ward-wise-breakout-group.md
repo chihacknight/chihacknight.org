@@ -3,14 +3,13 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: US Research Software Engineer Association"
+title: "Online: Ward Wise Breakout Group"
 description: "Presenter details coming soon."
 speakers:
- - Sandra Gesing, Executive Director (she/her)
-image: /images/events/586-us-rse.jpg
+image: /images/logo/logo-star-social.jpg
 image_credit:
-date: 2024-04-23T19:00:00-05:00
-event_id: 586
+date: 2024-05-28T19:00:00-05:00
+event_id: 591
 youtube_id: 
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
