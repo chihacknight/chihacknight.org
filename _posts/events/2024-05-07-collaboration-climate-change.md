@@ -27,4 +27,4 @@ Climate change and its various impacts present significant challenges for the Ch
 
 In this discussion, four experts working on the problem of climate change, vulnerability, and inequity in Chicago will discuss their group's work and collaboration between partners to solve the most pressing climate issues. We'll hear about projected changes in climate hazards in Chicago, how scientists are working with community partners to make data and resources accessible, and how public health professionals are working to ensure a healthier and more just future in Chicago. 
 
-_This event is part of [Chicago Water Week](https://currentwater.org/chicago-water-week/), organzied by Current._
+_This event is part of [Chicago Water Week](https://currentwater.org/chicago-water-week/), held May 5-11, 2024, consisting of dozens of water-focused events._
