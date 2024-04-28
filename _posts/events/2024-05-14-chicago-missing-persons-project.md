@@ -13,7 +13,7 @@ event_id: 589
 youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
-rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-tickets-655380890887
+rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-missing-persons-project-tickets-892348086147
 remote_url: 
 asl_provided: false
 tags:
