@@ -27,8 +27,6 @@ City Bureau and the Invisible Institute partnered in the reporting and developme
 
 They paired this analysis with community engagement and investigative journalism techniques, interviewing more than 40 sources, hosting community events and pinpointing significant discrepancies in official police data that revealed systemic patterns of mismanagement in the Chicago Police Department’s handling of missing person cases. 
 
-“It’s an honor to receive this recognition,” said City Bureau Senior Reporter Sarah Conway. “It’s also a signal to families whose loved ones have gone missing — who have felt neglected by the system — that their experiences matter. We’re grateful for the opportunity to shed light on this story and amplify the voices of those most affected.”
-
 This multidisciplinary reporting led to the discovery of four cases where detectives explicitly noted that the missing person had returned home despite family members saying their loved ones had not. In two of these instances, reporters found these cases by searching for murder charges and news stories and cross-referencing the names of the missing. Their technique also led to identifying 11 cases that ended in homicide that were marked “non-criminal” in the data, more than doubling the number of official homicides in missing persons police data. 
 
 City Bureau and the Invisible Institute also collaborated in publishing the seven-part Missing in Chicago series on [chicagomissingpersons.com](https://chicagomissingpersons.com/), with excerpts tailored for local readership and reach appearing in the Chicago Reader, South Side Weekly, The Triibe and Word in Black News syndication.
