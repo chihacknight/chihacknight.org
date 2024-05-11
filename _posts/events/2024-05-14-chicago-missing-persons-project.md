@@ -4,10 +4,12 @@ categories:
   - events
 links: 
 title: "In-person and Online: Chicago Missing Persons Project"
-description: "Presenter details coming soon."
+description: '"Missing in Chicago" is a seven-part investigative series that reveals how Chicago police have routinely violated state law and police procedure, delaying and mishandling missing person cases. The report revealed a racial bias that disproportionately impacts Black women and girls, and how poor police data is making the problem harder to solve.'
 speakers:
-image: /images/logo/logo-star-social.jpg
-image_credit: 
+  - Trina Reynolds-Tyler, Director of Beneath the Surface at the Invisible Institute
+  - Sarah Conway, Senior Reporter at City Bureau
+image: /images/events/589-trina-reynolds-tyler-sarah-conway.jpg
+image_credit: Felton Kizer / Chicago Reader
 date: 2024-05-14T18:00:00-05:00
 event_id: 589
 youtube_id: 
@@ -21,7 +23,15 @@ published: true
 
 ---
 
-Presenter details coming soon.
+City Bureau and the Invisible Institute partnered in the reporting and development of the two-year investigation “Missing in Chicago” in 2021. City Bureau Senior Reporter Sarah Conway and Invisible Institute Data Director Trina Reynolds-Tyler collaborated using an innovative blend of data science and a machine-learning model to ultimately analyze over 1 million police records. 
+
+They paired this analysis with community engagement and investigative journalism techniques, interviewing more than 40 sources, hosting community events and pinpointing significant discrepancies in official police data that revealed systemic patterns of mismanagement in the Chicago Police Department’s handling of missing person cases. 
+
+This multidisciplinary reporting led to the discovery of four cases where detectives explicitly noted that the missing person had returned home despite family members saying their loved ones had not. In two of these instances, reporters found these cases by searching for murder charges and news stories and cross-referencing the names of the missing. Their technique also led to identifying 11 cases that ended in homicide that were marked “non-criminal” in the data, more than doubling the number of official homicides in missing persons police data. 
+
+City Bureau and the Invisible Institute also collaborated in publishing the seven-part Missing in Chicago series on [chicagomissingpersons.com](https://chicagomissingpersons.com/), with excerpts tailored for local readership and reach appearing in the Chicago Reader, South Side Weekly, The Triibe and Word in Black News syndication.
+
+Project description from [City Bureau's announcement of the Pulitzer Prize awarded to the Missing in Chicago project](https://www.citybureau.org/notebook/city-bureau-and-invisible-institute-win-2024-pulitzer-prize-in-local-reporting).
 
 ---
 
