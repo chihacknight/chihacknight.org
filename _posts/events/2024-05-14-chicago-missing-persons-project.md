@@ -4,10 +4,12 @@ categories:
   - events
 links: 
 title: "In-person and Online: Chicago Missing Persons Project"
-description: "Presenter details coming soon."
+description: '"Missing in Chicago" is a seven-part investigative series that reveals how Chicago police have routinely violated state law and police procedure, delaying and mishandling missing person cases. The report revealed a racial bias that disproportionately impacts Black women and girls, and how poor police data is making the problem harder to solve.'
 speakers:
-image: /images/logo/logo-star-social.jpg
-image_credit: 
+  - Trina Reynolds-Tyler, Director of Beneath the Surface at the Invisible Institute
+  - Sarah Conway, Senior Reporter at City Bureau
+image: /images/events/589-trina-reynolds-tyler-sarah-conway.jpg
+image_credit: Felton Kizer / Chicago Reader
 date: 2024-05-14T18:00:00-05:00
 event_id: 589
 youtube_id: 
@@ -21,7 +23,11 @@ published: true
 
 ---
 
-Presenter details coming soon.
+In 2021, Trina Reynolds-Tyler, Director of Beneath the Surface at the Invisible Institute, partnered with Sarah Conway, senior reporter at City Bureau, to investigate how police respond to missing person cases. Conway and Reynolds-Tyler’s work together has led them to interview more than 40 sources, review Cook County medical examiner’s records, drive to rural Illinois to talk with family of missing person Shantieya Smith, speak with on- and off-record police and government sources, attend local school council meetings, host gatherings for families of missing loved ones and attend the We Walk for Her March for Missing and Murdered Black Women for three years.
+
+The resulting project is “Missing in Chicago”, a seven-part investigative series that reveals how Chicago police have routinely violated state law and police procedure, delaying and mishandling missing person cases. The report revealed a racial bias that disproportionately impacts Black women and girls, and how poor police data is making the problem harder to solve. 
+
+Event description adapted from [Chicago Missing Persons About Us](https://chicagomissingpersons.com/about/) and [City Bureau Pulitzer Prize announcement](https://www.citybureau.org/notebook/city-bureau-and-invisible-institute-win-2024-pulitzer-prize-in-local-reporting).
 
 ---
 
