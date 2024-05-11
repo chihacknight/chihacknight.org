@@ -23,11 +23,17 @@ published: true
 
 ---
 
-In 2021, Trina Reynolds-Tyler, Director of Beneath the Surface at the Invisible Institute, partnered with Sarah Conway, senior reporter at City Bureau, to investigate how police respond to missing person cases. Conway and Reynolds-Tyler’s work together has led them to interview more than 40 sources, review Cook County medical examiner’s records, drive to rural Illinois to talk with family of missing person Shantieya Smith, speak with on- and off-record police and government sources, attend local school council meetings, host gatherings for families of missing loved ones and attend the We Walk for Her March for Missing and Murdered Black Women for three years.
+City Bureau and the Invisible Institute partnered in the reporting and development of the two-year investigation “Missing in Chicago” in 2021. City Bureau Senior Reporter Sarah Conway and Invisible Institute Data Director Trina Reynolds-Tyler collaborated using an innovative blend of data science and a machine-learning model to ultimately analyze over 1 million police records. 
 
-The resulting project is “Missing in Chicago”, a seven-part investigative series that reveals how Chicago police have routinely violated state law and police procedure, delaying and mishandling missing person cases. The report revealed a racial bias that disproportionately impacts Black women and girls, and how poor police data is making the problem harder to solve. 
+They paired this analysis with community engagement and investigative journalism techniques, interviewing more than 40 sources, hosting community events and pinpointing significant discrepancies in official police data that revealed systemic patterns of mismanagement in the Chicago Police Department’s handling of missing person cases. 
 
-Event description adapted from [Chicago Missing Persons About Us](https://chicagomissingpersons.com/about/) and [City Bureau Pulitzer Prize announcement](https://www.citybureau.org/notebook/city-bureau-and-invisible-institute-win-2024-pulitzer-prize-in-local-reporting).
+“It’s an honor to receive this recognition,” said City Bureau Senior Reporter Sarah Conway. “It’s also a signal to families whose loved ones have gone missing — who have felt neglected by the system — that their experiences matter. We’re grateful for the opportunity to shed light on this story and amplify the voices of those most affected.”
+
+This multidisciplinary reporting led to the discovery of four cases where detectives explicitly noted that the missing person had returned home despite family members saying their loved ones had not. In two of these instances, reporters found these cases by searching for murder charges and news stories and cross-referencing the names of the missing. Their technique also led to identifying 11 cases that ended in homicide that were marked “non-criminal” in the data, more than doubling the number of official homicides in missing persons police data. 
+
+City Bureau and the Invisible Institute also collaborated in publishing the seven-part Missing in Chicago series on [chicagomissingpersons.com](https://chicagomissingpersons.com/), with excerpts tailored for local readership and reach appearing in the Chicago Reader, South Side Weekly, The Triibe and Word in Black News syndication.
+
+Project description from [City Bureau's announcement of the Pulitzer Prize awarded to the Missing in Chicago project](https://www.citybureau.org/notebook/city-bureau-and-invisible-institute-win-2024-pulitzer-prize-in-local-reporting).
 
 ---
 
