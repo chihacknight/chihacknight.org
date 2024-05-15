@@ -18,7 +18,7 @@ sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-missing-persons-project-tickets-892348086147
 remote_url: 
 asl_provided: false
-tags:
+tags: journalism
 published: true
 
 ---
