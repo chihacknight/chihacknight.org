@@ -3,10 +3,10 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: Ward Wise Breakout Group"
-description: "Presenter details coming soon."
+title: "Online: Ward Wise -  Neighborhood Infrastructure Spending In Chicago"
+description: "Ward Wise is a Chi Hack Night breakout group working to empower Chicagoans by demystifying the city’s infrastructure spending. Using nearly two decades worth of data, they are performing analysis and crafting tools to make Chicago infrastructure engaging and understandable for the general public. Come learn what “menu money” is, explore the available options for new neighborhood infrastructure, and uncover actionable steps to engage in the decision-making process."
 speakers:
-image: /images/logo/logo-star-social.jpg
+image: /images/events/591-ward-wise.jpg
 image_credit:
 date: 2024-05-28T19:00:00-05:00
 event_id: 591
@@ -19,4 +19,7 @@ published: true
 
 ---
 
-Presenter details coming soon.
+Ever wonder why the alley behind your apartment gets resurfaced while the sidewalks on your block are left cracked and crumbling? What determines which infrastructure improvements are prioritized in your neighborhood? And how can you have a say?
+
+ 
+[Ward Wise](https://www.wardwisechicago.org/) is a Chi Hack Night breakout group working to empower Chicagoans by demystifying the city’s infrastructure spending. Using nearly two decades worth of data, they are performing analysis and crafting tools to make Chicago infrastructure engaging and understandable for the general public. Come learn what “menu money” is, explore the available options for new neighborhood infrastructure, and uncover actionable steps to engage in the decision-making process.
