@@ -6,6 +6,7 @@ links:
 title: "Online: Ward Wise -  Neighborhood Infrastructure Spending In Chicago"
 description: "Ward Wise is a Chi Hack Night breakout group working to empower Chicagoans by demystifying the city’s infrastructure spending. Using nearly two decades worth of data, they are performing analysis and crafting tools to make Chicago infrastructure engaging and understandable for the general public. Come learn what “menu money” is, explore the available options for new neighborhood infrastructure, and uncover actionable steps to engage in the decision-making process."
 speakers:
+  - Sean MacMullan (he/him)
 image: /images/events/591-ward-wise.jpg
 image_credit:
 date: 2024-05-28T19:00:00-05:00
