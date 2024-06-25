@@ -11,7 +11,7 @@ image: /images/events/593-bike-lane-uprising.jpg
 image_credit: 
 date: 2024-06-11T18:00:00-05:00
 event_id: 593
-youtube_id: 
+youtube_id: a0v-Eyf2xwg
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-bike-lane-uprising-tickets-911479899917

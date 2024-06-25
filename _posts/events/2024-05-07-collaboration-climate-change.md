@@ -14,7 +14,7 @@ image: /images/events/588-collaboration-climate-change.jpg
 image_credit:
 date: 2024-05-07T19:00:00-05:00
 event_id: 588
-youtube_id: 
+youtube_id: beimme-kIFc
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

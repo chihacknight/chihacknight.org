@@ -12,7 +12,7 @@ image: /images/events/589-trina-reynolds-tyler-sarah-conway.jpg
 image_credit: Felton Kizer / Chicago Reader
 date: 2024-05-14T18:00:00-05:00
 event_id: 589
-youtube_id: 
+youtube_id: i6pl-b-9pj4
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-missing-persons-project-tickets-892348086147
