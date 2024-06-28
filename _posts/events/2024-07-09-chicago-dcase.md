@@ -3,18 +3,19 @@ layout: technexus_event
 categories:
   - events
 links: 
-title: "In-person and Online: Chicago Department of Cultural Affairs and Special Events"
-description: "Description coming soon!"
+title: "In-person and Online: 
+Navigating the Tangled Web of City Agencies - Producing Large Scale Events in the City of Chicago"
+description: "Chicago is showcased through some of the largest and well known events in the country. From the Chicago Air & Water Show and Taste of Chicago, to Lollapalooza and NASCAR, to the annual St. Patrick’s Day Parade, millions of people participate in thousands of events year-round. Ann Hickey has 24 years event operations and logistics experience with the City of Chicago and oversees the permitting of special events. She joins us for a lively discussion of how the City gets things done for large scale events and how to navigate through the many acronyms to do so."
 speakers:
-  - Ann Hickey, Deputy Commissioner of Operations, Chicago DCASE
-image: /images/events/596-chicago-dcase.png
+  - Ann Hickey, Deputy Commissioner of Operations, City of Chicago Department of Cultural Affairs and Special Events
+image: /images/events/596-dcase.jpg
 image_credit: 
 date: 2024-07-09T18:00:00-05:00
 event_id: 596
 youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
-rsvp_url: 
+rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-dcase-producing-large-scale-events-in-the-city-tickets-936465321987
 remote_url: 
 asl_provided: false
 tags: govtech
@@ -22,7 +23,11 @@ published: true
 
 ---
 
-Description coming soon.
+Chicago is showcased through some of the largest and well known events in the country. From the Chicago Air & Water Show and Taste of Chicago, to Lollapalooza and NASCAR, to the annual St. Patrick’s Day Parade, millions of people participate in thousands of events year-round. 
+
+DCASE, OEMC, CDOT, DSS, CDPH, CTA, BACP? These City agencies (and more) are part of the process that starts with the special [event permit application](https://www.chicago.gov/city/en/depts/dca/supp_info/neighborhood_festivals.html), year-long planning meetings with organizers, and then culminates with on-site execution and contingency plans to ensure a successful event.
+
+Ann Hickey has 24 years event operations and logistics experience with the City of Chicago and oversees the permitting of special events. She joins us for a lively discussion of how the City gets things done for large scale events and how to navigate through the many acronyms to do so.
 
 ---
 
