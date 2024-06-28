@@ -12,9 +12,10 @@ layout: default
 {% for post in upcoming_posts limit: 1 %}
 
 {% assign next_date = post.date | date: "%A, %B %-d, %Y" %}
+{% include weekoff_4th.html date_off="July 2nd" date_back= next_date %}
+
 {% comment %}
 {% include weekoff_election.html date_off="July 10th" date_back= next_date %}
-{% include weekoff_4th.html date_off="July 4th" date_back= next_date %}
 {% include weekoff_thanksgiving.html date_off="November 21st" date_back=next_date %}
 {% include weekoff_endofyear.html date_back= next_date new_year="2024" youtube_playlist="https://youtube.com/playlist?list=PL_dBjjdnIbKyLtNYpH9rRXoDGr6WGE2MO" %} 
 {% endcomment %}
@@ -36,6 +37,9 @@ layout: default
           <p>{{ post.description }}</p>
         {% endif %}
         <br />
+        {% if post.rsvp_url %}
+          <a class='btn btn-success' href='{{post.rsvp_url}}'><i class='fa fa-check-square-o'></i> RSVP (required)</a>
+        {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         {% if post.layout == "remote_event_openhack" %}
           <a class='btn btn-link btn-lg' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Chi Hack Night Zoom Call @ 7pm</a>
