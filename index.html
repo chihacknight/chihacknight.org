@@ -12,9 +12,9 @@ layout: default
 {% for post in upcoming_posts limit: 1 %}
 
 {% assign next_date = post.date | date: "%A, %B %-d, %Y" %}
-{% include weekoff_4th.html date_off="July 2nd" date_back= next_date %}
 
 {% comment %}
+{% include weekoff_4th.html date_off="July 2nd" date_back= next_date %}
 {% include weekoff_election.html date_off="July 10th" date_back= next_date %}
 {% include weekoff_thanksgiving.html date_off="November 21st" date_back=next_date %}
 {% include weekoff_endofyear.html date_back= next_date new_year="2024" youtube_playlist="https://youtube.com/playlist?list=PL_dBjjdnIbKyLtNYpH9rRXoDGr6WGE2MO" %} 
