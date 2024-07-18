@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "Online: The Police Department for Fired Cops"
-description: ""
+description: "The Illinois Answers Project found that 17% of all police officers hired by the Robbins Police Department since 2000 came on board directly after they were fired from previous law enforcement jobs, the most of any department in Illinois. The investigation includes a database that shows the fired cops and the departments that subsequently hired them."
 speakers:
   - Casey Toner, He/His, investigative reporter
 image: /images/events/598-robins-police.jpg
