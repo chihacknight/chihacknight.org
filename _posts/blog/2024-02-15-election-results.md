@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/2024-election.jpg" alt="From top left, elected and appointed Board Members Cameron Sow, Sean Watland, Sneha Jalukar, Michael Chladek, Samantha Goodman, Kyle Dolezal" class='img-responsive'/><br />
