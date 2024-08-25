@@ -56,9 +56,13 @@ layout: default
               <hr />
             {% endif %}
           {% else %}
-            <a class='btn btn-link' href="https://bit.ly/chi-hack-night" target='_blank'><i class='fa fa-play-circle'></i> Live @ 7pm</a>
-          
-            <a class='btn btn-link' href="https://bit.ly/chi-hack-night" target='_blank'><i class='fa fa-play-circle'></i> Civic Hacking @ 8pm</a>
+            {% if page.remote_url %}
+              <a class='btn btn-link' href="{{page.remote_url}}" target='_blank'><i class='fa fa-play-circle'></i> Zoom @ 7pm</a>
+            {% else %}
+              <a class='btn btn-link' href="https://youtube.com/chihacknight/live" target='_blank'><i class='fa fa-play-circle'></i> Livestream @ 7pm</a>
+
+              <a class='btn btn-link' href="https://bit.ly/chn-remote-zoom" target='_blank'><i class='fa fa-play-circle'></i> Civic Hacking @ 8pm</a>
+            {% endif %}
 
           {% endif %}
 
@@ -92,7 +96,13 @@ layout: default
               Announcements and feature presentation with Q&amp;A<br />
             </p>
             <ul>
-              <li>Join: <a href="https://youtube.com/chihacknight/live">https://youtube.com/chihacknight/live</a></li>
+              <li>Join: 
+                {% if page.remote_url %}
+                  <a href="{{page.remote_url}}">{{page.remote_url}}</a>
+                {% else %}
+                  <a href="https://youtube.com/chihacknight/live">https://youtube.com/chihacknight/live</a>
+                {% endif %}
+              </li>
               <li>YouTube automatic closed captioning will be available</li>
             </ul>
               
@@ -101,7 +111,14 @@ layout: default
               3-word intros, community announcements &amp; breakout group pitches<br />
             </p>
             <ul>
-              <li>Join: <a href="https://bit.ly/chn-remote-zoom">https://bit.ly/chn-remote-zoom</a></li>
+              <li>
+                Join: 
+                {% if page.remote_url %}
+                  <a href="{{page.remote_url}}">{{page.remote_url}}</a>
+                {% else %}
+                  <a href="https://bit.ly/chn-remote-zoom">https://bit.ly/chn-remote-zoom</a>
+                {% endif %}
+              </li>
               <li>Follow the agenda for <a href="{{page.agenda}}" target='_blank'>Intros, announcements and breakout groups</a></li>
               <li>After intros and announcements, we will break out into <a href='/breakouts.html'>learning and working groups</a></li>
             </ul>
