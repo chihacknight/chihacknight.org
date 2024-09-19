@@ -5,16 +5,19 @@ categories:
 title: "Ghost Buses"
 date: 2022-11-11
 image: /images/projects/ghost-buses.png
-description: "A 'ghost bus' is when a bus tracker app claims that a bus is coming but it never shows up. If you live in Chicago and regularly take public transit, you may have been 'ghosted' by a bus! This project compares real-time data (data that indicates which bus trips actually happened) with schedule data (the trips that the CTA said in advance would happen)."
+description: "A 'ghost bus' is when a bus tracker app claims that a bus is coming but it never shows up. If you live in Chicago and regularly take public transit, you may have been 'ghosted' by a bus! This project compared real-time data (data that indicates which bus trips actually happened) with schedule data (the trips that the CTA said in advance would happen)."
 website: https://ghostbuses.com/ 
 github: 
   - https://github.com/chihacknight/chn-ghost-buses
 creators: 
  - Alejandro Morales
  - Amy Corson
+ - Bertha Wang
  - Danish M
  - Dylan Johnson
+ - Hailey M
  - Howard Kier
+ - Jackie Ostrowski
  - JR Rubin
  - Katie O’Shea
  - Kyle Dolezal
