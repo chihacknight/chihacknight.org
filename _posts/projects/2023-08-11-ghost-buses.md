@@ -12,8 +12,10 @@ github:
 creators: 
  - Alejandro Morales
  - Amy Corson
+ - Bertha Wang
  - Danish M
  - Dylan Johnson
+ - Hailey M
  - Howard Kier
  - JR Rubin
  - Katie O’Shea
