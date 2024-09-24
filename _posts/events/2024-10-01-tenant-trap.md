@@ -4,9 +4,11 @@ categories:
   - events
 links: 
 title: "In-person and Online: The Tenant Trap"
-description: "Presenter description coming soon"
+description: "A yearlong Injustice Watch investigation found tens of thousands of Chicagoans live in buildings with histories of serious safety violations. Tenants in these buildings regularly face eviction and informal displacement, even when trying to exercise their rights. Reporters Alejandra Cancino and Maya Dukmasova found a dual court system: a lenient one for landlords focused on ensuring buildings are up to code, and a punitive one for tenants focused on getting them out of apartments."
 speakers:
-image: /images/logo/logo-star-social.jpg
+  - Alejandra Cancino (She/Her)
+  - Maya Dukmasova (She/Her)
+image: /images/events/608-tenant-trap.jpg
 image_credit: 
 date: 2024-10-01T18:00:00-05:00
 event_id: 608
@@ -21,7 +23,7 @@ published: true
 
 ---
 
-Presenter description coming soon
+A yearlong [Injustice Watch investigation](https://www.injusticewatch.org/projects/tenant-trap/) found tens of thousands of Chicagoans live in buildings with histories of serious safety violations. Tenants in these buildings regularly face eviction and informal displacement, even when trying to exercise their rights. Reporters Alejandra Cancino and Maya Dukmasova found a dual court system: a lenient one for landlords focused on ensuring buildings are up to code, and a punitive one for tenants focused on getting them out of apartments. The project illustrates how our laws and their enforcement put property rights above the rights of tenants. Dukmasova and Cancino will go through their five-part investigative series and explain how they quantified the problem using three sets of data, how residents fought back, and what solutions are on the table.
 
 ---
 
