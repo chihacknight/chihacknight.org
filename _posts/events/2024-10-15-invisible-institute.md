@@ -3,10 +3,11 @@ layout: remote_event_openhack
 categories:
   - events
 links: 
-title: "Online: CPDP 3.0, Invisible Institute"
-description: "Presenter description coming soon"
+title: "Online: Invisible Institute presents: CPDP 3.0 and National Police Index"
+description: "The Civic Police Data Project (CPDP.co) takes records of police interactions with the public – records that would otherwise be buried in internal databases – and opens them up to make the data useful to the public, creating a permanent record for every CPD police officer. The database, the first and largest of its kind in the country, holds more than a quarter million allegations of misconduct by Chicago Police from 1988-2023. This August, we launched CPDP 3.0, adding 12,000+ misconduct allegations, 28,000+ use of force reports, and 1,500 lawsuit settlements."
 speakers:
-image: /images/logo/logo-star-social.jpg
+ - Maira Khwaja, Invisible Institute
+image: /images/events/610-cpdb-3.jpg
 image_credit:
 date: 2024-10-15T19:00:00-05:00
 event_id: 610
@@ -20,7 +21,11 @@ tags:
 published: true
 ---
 
-Presenter description coming soon
+The Civic Police Data Project ([CPDP.co](https://cpdp.co/)) takes records of police interactions with the public – records that would otherwise be buried in internal databases – and opens them up to make the data useful to the public, creating a permanent record for every CPD police officer. The database, the first and largest of its kind in the country, holds more than a quarter million allegations of misconduct by Chicago Police from 1988-2023. This August, we launched CPDP 3.0, adding 12,000+ misconduct allegations, 28,000+ use of force reports, and 1,500 lawsuit settlements.
+
+In September of 2024, we launched the [National Police Index](https://invisible.institute/national-police-index) - a [new data tool](http://national.cpdp.co/) for residents of 17 states to access the employment history for all law enforcement officers in the state.
+
+Join the data team from Invisible Institute for an overview of the tools and discussion about ways to use this open data.
 
 ---
 
