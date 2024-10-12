@@ -12,7 +12,7 @@ image: /images/events/607-truck-counts.jpg
 image_credit: Karen Canales Salas for NRDC 
 date: 2024-09-24T19:00:00-05:00
 event_id: 607
-youtube_id: 
+youtube_id: r0A9rwJzZg8
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

@@ -11,7 +11,7 @@ image: /images/events/602-the-appeal.jpg
 image_credit:
 date: 2024-08-20T19:00:00-05:00
 event_id: 602
-youtube_id: 
+youtube_id: qE3UnbJWqko
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
