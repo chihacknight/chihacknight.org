@@ -11,7 +11,7 @@ image: /images/events/598-robins-police.jpg
 image_credit:
 date: 2024-07-23T19:00:00-05:00
 event_id: 598
-youtube_id: 
+youtube_id: 7RWyWE1wI8M
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
