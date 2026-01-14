@@ -3,7 +3,7 @@ layout: icstars_event
 categories:
   - events
 links: 
-title: "In-person and Online: Abundant Housing Chicago"
+title: "In-person and Online: Abundant Housing Illinois"
 description: "Join us for a presentation by Steffany Bahamon from Abundant Housing Illinois, a group that advocates for abundant housing and sustainable, inclusive cities throughout Illinois."
 speakers:
 image: /images/logo/logo-star-social.jpg
