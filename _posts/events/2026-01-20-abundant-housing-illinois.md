@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "In-person and Online: Four-Flats, ADUs, and Beyond - How Abundant Housing Illinois is Reshaping Chicago"
-description: "Join us for a presentation by Steffany Bahamon from Abundant Housing Illinois, a group that advocates for abundant housing and sustainable, inclusive cities throughout Illinois."
+description: "What does it mean to be a YIMBY? As the Illinois chapter of the national “Yes In My Backyard” movement, Abundant Housing Illinois advocates for building more homes of all types; from affordable housing and shelters to market-rate apartments and the classic Chicago four-flat. The organization brings together neighbors, urbanists, and policy wonks to push for housing reforms that make the city and state more affordable and welcoming."
 speakers:
  - Robert Spragg, Founder, he/him
  - Steffany Bahamon, Lead, she/her
