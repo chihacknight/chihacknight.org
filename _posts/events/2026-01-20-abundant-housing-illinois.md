@@ -3,10 +3,12 @@ layout: icstars_event
 categories:
   - events
 links: 
-title: "In-person and Online: Abundant Housing Illinois"
+title: "In-person and Online: Four-Flats, ADUs, and Beyond - How Abundant Housing Illinois is Reshaping Chicago"
 description: "Join us for a presentation by Steffany Bahamon from Abundant Housing Illinois, a group that advocates for abundant housing and sustainable, inclusive cities throughout Illinois."
 speakers:
-image: /images/logo/logo-star-social.jpg
+ - Robert Spragg, Founder, he/him
+ - Steffany Bahamon, Lead, she/her
+image: /images/events/667-abundant-housing-il.jpg
 image_credit: 
 date: 2026-01-20T18:00:00-06:00
 event_id: 667
@@ -25,7 +27,11 @@ published: true
   <p><strong>Chi Hack Night will be at <a href='https://www.icstars.org/location/chicago/'>i.c.stars</a></strong>, a non-profit tech training & placement program, will be hosting us at their office at 750 N Orleans Suite 500, Chicago.</p>
 </div>
 
-Join us for a presentation by Steffany Bahamon from [Abundant Housing Illinois](https://abundanthousingillinois.org/), a group that advocates for abundant housing and sustainable, inclusive cities throughout Illinois.
+What does it mean to be a YIMBY? As the Illinois chapter of the national "Yes In My Backyard" movement, [Abundant Housing Illinois](https://abundanthousingillinois.org/) advocates for building more homes of all types; from affordable housing and shelters to market-rate apartments and the classic Chicago four-flat. The organization brings together neighbors, urbanists, and policy wonks to push for housing reforms that make the city and state more affordable and welcoming.
+
+AHIL has racked up wins at every level: supporting individual housing projects through public testimony, helping pass Chicago's citywide ADU ordinance, and advocating for state legislation that saved transit funding and eliminated parking minimums. Fresh off these wins, the group is championing policy changes aimed at making it easier to build family-friendly, "Missing Middle" homes, such as Chicago's iconic 2-4 flats, throughout the state.
+
+AHIL members will share their personal housing stories, break down the data on Chicago's housing shortage, and offer concrete ways for attendees to get involved—whether that's joining AHIL's Slack group, attending ward meetings, or simply showing up and saying "yes" when housing comes to your neighborhood.
 
 **This event will be in person, but you can also tune in via livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
 
