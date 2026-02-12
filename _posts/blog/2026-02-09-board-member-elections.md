@@ -53,7 +53,7 @@ Here’s a breakdown of the available seats:
    </td>
    <td>Sean Watland
    </td>
-   <td>
+   <td>Incumbent is NOT running
    </td>
   </tr>
   <tr>
