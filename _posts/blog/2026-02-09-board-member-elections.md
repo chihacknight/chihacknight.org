@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_image: 
 published: true
-featured: false
+featured: true
 ---
 
 On Tuesday, February 24, 2026, Chi Hack Night will hold our seventh annual member meeting and election for our [Board of Directors](https://chihacknight.org/board-of-directors.html). The Chi Hack Night Board of Directors, composed of 11 members, is responsible for governing our non-profit organization, as well as running our events, managing our website, keeping the books, and doing all the other things needed to make Chi Hack Night happen.
