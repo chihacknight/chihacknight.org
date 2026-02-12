@@ -14,7 +14,7 @@ author2:
 author2_url:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 
 <p class="text-center"><img src="/images/blog/2025-election-results.png" alt="From top left, elected and appointed Board Members Derek Eder, Josh Kalov, Katie O'Shea, Adam Hecktman, Vien Nguyen" class='img-responsive'/><br />
