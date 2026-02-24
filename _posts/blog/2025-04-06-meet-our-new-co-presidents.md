@@ -13,7 +13,7 @@ author2:
 author2_image:
 author2_bio:
 published: true
-featured: true
+featured: false
 ---
 <p class="text-center"><img src="/images/blog/2025-sean-sam-sneha.png" alt="From left to right, Sean Watland - Former Chi Hack Night President Emeritus, Sneha Jaluar and Samantha Goodman - New Chi Hack Night Co-Presidents" class='img-responsive'/>
 <small><em>From left to right, Sean Watland - Outgoing Chi Hack Night President, Sneha Jalukar and Samantha Goodman, Chi Hack Night Co-Presidents</em></small>
