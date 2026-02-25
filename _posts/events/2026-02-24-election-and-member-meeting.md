@@ -14,7 +14,7 @@ youtube_id:
 agenda: 
 sponsor: Chi Hack Night Community
 asl_provided: false
-remote_url: https://bit.ly/chn-remote-zoom
+remote_url: https://bit.ly/chi-hack-night
 tags: 
   - member meeting
 published: true
