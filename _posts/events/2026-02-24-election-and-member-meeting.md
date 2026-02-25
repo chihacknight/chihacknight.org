@@ -1,5 +1,5 @@
 ---
-layout: remote_member_only
+layout: remote_event
 categories:
   - events
 links: 
