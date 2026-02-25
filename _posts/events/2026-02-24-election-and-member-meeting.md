@@ -8,7 +8,7 @@ description: "On Tuesday, February 24, 2026, Chi Hack Night will hold our sevent
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit:
-date: 2026-02-24T19:00:00-06:00
+date: 2026-02-24T19:00:05-06:00
 event_id: 672
 youtube_id: 
 agenda: 
