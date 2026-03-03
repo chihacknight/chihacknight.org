@@ -25,11 +25,24 @@ published: true
   <p><strong>Chi Hack Night will be at <a href='https://www.icstars.org/location/chicago/'>i.c.stars</a></strong>, a non-profit tech training & placement program, will be hosting us at their office at 750 N Orleans Suite 500, Chicago.</p>
 </div>
 
-Show and Tell is back! Join our low-pressure session to share what you're working on with the community. 
+<section style="padding: 1.5em; background-color: #eaf4ff; border-left: 5px solid #0074cc; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <h2 style="margin-top: 0; font-size: 1.5em;">🎤 Show and Tell – Sign Up Now!</h2>
+  <p style="margin-bottom: 1em;">
+    <strong>
+      <a href="https://forms.gle/XdKctQXToFbDrdEZ6" target="_blank" style="font-size: 1.15em; color: #0074cc; text-decoration: none;">
+        ➡️ Sign up here by Monday, March 9th.
+      </a>
+    </strong>
+  </p>
 
-Hear short talks from Chi Hack Night community members about work‑in‑progress projects, breakout‑group updates, and ideas they want to share with the group. Peek at what folks are building and thinking about — all in a friendly, low‑key setting. 
+  <p><em>Show and Tell</em> is our low-pressure session for anyone in the Chi Hack Night community to share what they’ve been working on or thinking about — whether it’s a <strong>breakout group update</strong>, a <strong>cool civic tech project</strong>, an <strong>idea-in-progress</strong>, or something you just started noodling on.</p>
 
-Only if time permits, we may open it up further to the audience - speak to an organizer at "check in" if you're interested in sharing something.
+  <p>It’s more casual than lightning talks — think <em>open mic</em> for ongoing work. All experience levels welcome!</p>
+
+  <p><strong>Each presenter will have 5 minutes total</strong> — that’s 4 minutes to share and 1 minute for quick Q&A.</p>
+
+  <p style="margin-bottom: 0;">No slides required. No pressure. But an HDMI laptop input is available if necessary. Just show up and tell us something cool. 💡</p>
+</section>
 
 
 **This event will be in person, but you can also tune in via livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
