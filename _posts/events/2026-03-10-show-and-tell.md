@@ -8,7 +8,7 @@ description: "Show and Tell is back! Join our low-pressure session to share what
 speakers:
 image: /images/events/chn-show-and-tell.png
 image_credit: 
-date: 2026-03-17T18:00:00-06:00
+date: 2026-03-10T18:00:00-06:00
 event_id: 674
 youtube_id:
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#
