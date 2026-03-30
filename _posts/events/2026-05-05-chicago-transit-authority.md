@@ -13,7 +13,7 @@ event_id: 681
 youtube_id:
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
-rsvp_url: https://www.eventbrite.com/e/chi-hack-night-lucy-parsons-labs-tickets-1983078699774
+rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-transit-authority-in-person-tickets-1986219445830
 remote_url: 
 asl_provided: false
 tags: 'advocacy'
