@@ -6,7 +6,6 @@ links:
 title: "Online: Citizens Utility Board"
 description: "Come hear a presentation from Citizens Utility Board on energy use and data centers."
 speakers:
-- Derek Eder, he/him
 image: /images/logo/logo-star-social.jpg
 image_credit:
 date: 2026-04-28T19:00:00-05:00
