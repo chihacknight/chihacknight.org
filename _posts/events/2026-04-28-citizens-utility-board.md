@@ -3,8 +3,8 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: TBD"
-description: "Come hear a presentation (TBD) with time to work on projects after."
+title: "Online: Citizens Utility Board"
+description: "Come hear a presentation from Citizens Utility Board on energy use and data centers."
 speakers:
 - Derek Eder, he/him
 image: /images/logo/logo-star-social.jpg
@@ -21,4 +21,4 @@ tags:
 published: true
 ---
 
-Presenter: TBD
+Presentation: Citizens Utility Board on Energy Use & Data Centers
