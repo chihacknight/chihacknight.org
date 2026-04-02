@@ -41,7 +41,7 @@ description: Past and upcoming Chi Hack Night presentations and events. We have 
     </tr>
   </thead>
   <tbody>
-    {% for post in upcoming_events reversed %}
+    {% for post in upcoming_events %}
         <tr>
           <td class='nowrap'>
               <meta itemprop='startDate' datetime='{{ post.date | date: "%Y-%m-%d" }}' content='{{ post.date | date: "%Y-%m-%d" }}' />
