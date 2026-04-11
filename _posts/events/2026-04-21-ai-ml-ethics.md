@@ -6,6 +6,7 @@ links:
 title: "In-person and Online: TBD"
 description: "Join us for a presentation (TBD) and time to work on projects."
 speakers:
+- Samantha Blickhan, Ph.D.
 image: /images/logo/logo-star-social.jpg
 image_credit: 
 date: 2026-04-21T18:00:00-05:00
@@ -25,7 +26,9 @@ published: true
   <p><strong>Chi Hack Night will be at <a href='https://www.icstars.org/location/chicago/'>i.c.stars</a></strong>, a non-profit tech training & placement program, will be hosting us at their office at 750 N Orleans Suite 500, Chicago.</p>
 </div>
 
-Presentation: TBD
+Presentation: AI/ML Ethics from Samantha Blickhan, Ph.D (Zooniverse Co-Director & Humanities Lead
+Adler Planetarium, Chicago)
+
 
 **This event will be in person, but you can also tune in via livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
 
