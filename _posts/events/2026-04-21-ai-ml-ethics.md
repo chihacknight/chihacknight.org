@@ -3,8 +3,8 @@ layout: icstars_event
 categories:
   - events
 links: 
-title: "In-person and Online: TBD"
-description: "Join us for a presentation (TBD) and time to work on projects."
+title: "In-person and Online: Relaying Public Input on AI to Researchers: Creating the First AI Ethics Policy for the Zooniverse Crowdsourcing Platform."
+description: "Join us for a presentation from Zooniverse on AI/ML Ethics."
 speakers:
 - Samantha Blickhan, Ph.D.
 image: /images/logo/logo-star-social.jpg
@@ -29,6 +29,7 @@ published: true
 Presentation: AI/ML Ethics from Samantha Blickhan, Ph.D (Zooniverse Co-Director & Humanities Lead
 Adler Planetarium, Chicago)
 
+This talk presents the process and results of the first-ever Zooniverse framework for ethical integration of Artificial Intelligence and Machine Learning (AI/ML) into online crowdsourcing. The Zooniverse (https://www.zooniverse.org) engages nearly 3 million volunteers worldwide who have contributed to 450+ participatory research projects, each led by a different research team. The field of crowdsourced research is mature, with clearly-articulated best practices for equitable approaches which prioritize volunteer experience at the same level as data production. The rapid introduction of widespread AI/ML has the potential to disrupt current practice if not approached with caution and intention.
 
 **This event will be in person, but you can also tune in via livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
 
