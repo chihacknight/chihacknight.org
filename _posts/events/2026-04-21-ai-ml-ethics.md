@@ -7,7 +7,7 @@ title: "In-person and Online: Relaying Public Input on AI to Researchers: Creati
 description: "Join us for a presentation from Zooniverse on AI/ML Ethics."
 speakers:
 - Dr. Samantha Blickhan, Director of Zooniverse at the Adler Planetarium, she/her
-image: /images/logo/logo-star-social.jpg
+image: /images/events/679-zooniverse.png
 image_credit: 
 date: 2026-04-21T18:00:00-05:00
 event_id: 679
