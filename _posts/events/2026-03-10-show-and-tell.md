@@ -10,7 +10,7 @@ image: /images/events/chn-show-and-tell.png
 image_credit: 
 date: 2026-03-10T18:00:00-06:00
 event_id: 674
-youtube_id:
+youtube_id: 5eD4L3o8Dzg
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-show-and-tell-tickets-1983891108711?aff=oddtdtcreator

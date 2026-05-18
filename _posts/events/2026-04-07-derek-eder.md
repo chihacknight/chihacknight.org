@@ -11,7 +11,7 @@ image: /images/events/677-derek-eder-trustee.jpg
 image_credit:
 date: 2026-04-07T19:00:00-05:00
 event_id: 677
-youtube_id: 
+youtube_id: 57Krufo0zr0
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false
