@@ -11,7 +11,7 @@ image: /images/events/673-landlord-mapper.jpg
 image_credit:
 date: 2026-03-03T19:00:00-06:00
 event_id: 673
-youtube_id: 
+youtube_id: yrfA1a08H5E
 agenda: https://docs.google.com/document/d/14GtScQm0l6GyqdNht0LpqG8LmcEF7i3COjNJ06PaTj8/edit#
 sponsor: Chi Hack Night Community
 asl_provided: false

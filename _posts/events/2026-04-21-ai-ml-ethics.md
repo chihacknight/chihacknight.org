@@ -11,7 +11,7 @@ image: /images/events/679-zooniverse.png
 image_credit: 
 date: 2026-04-21T18:00:00-05:00
 event_id: 679
-youtube_id:
+youtube_id: bkoXxQbaLu4
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-in-person-event-tickets-1986219373614
