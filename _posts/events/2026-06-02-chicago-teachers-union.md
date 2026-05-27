@@ -3,7 +3,7 @@ layout: icstars_event
 categories:
   - events
 links: 
-title: "In-person and Online: Chicago Teachers Union (Fighting to Fund our Schools: Organizing with Data)"
+title: "In-person and Online: Fighting to Fund our Schools: Organizing with Data (Chicago Teachers Union)"
 description: "Join to us for a presentation from the Chicago Teachers Union."
 speakers:
 - Chris Poulos, Public Finance Policy Analyst, he/him (https://github.com/chrisdpoulos)
@@ -27,7 +27,7 @@ published: true
   <p><strong>Chi Hack Night will be at <a href='https://www.icstars.org/location/chicago/'>i.c.stars</a></strong>, a non-profit tech training & placement program, will be hosting us at their office at 750 N Orleans Suite 500, Chicago.</p>
 </div>
 
-Presenter: Chicago Teachers Union (Fighting to Fund our Schools: Organizing with Data)
+Presenter: Fighting to Fund our Schools: Organizing with Data (Chicago Teachers Union)
 
 Pavlyn Jankov and Chris Poulos’ talk will focus on the Chicago Teachers Union (CTU) Research Department’s use of Python’s Streamlit library to create flexible organizing tools that provide CTU staff and members with easy access to data, talking points, and education on campaigns to tax the rich and fully fund schools. Their talk will provide a brief context of CTU’s and the Illinois Federation of Teachers (IFT) tax the rich and fully funding education campaigns, our use of data tools to augment the internal and external organizing of these campaigns, and some challenges in using these tools.
 
