@@ -3,8 +3,8 @@ layout: remote_event
 categories:
   - events
 links: 
-title: "Online: Mike Scott, Illinois Chief Information Accessibility Officer"
-description: "Description coming soon"
+title: "Online: Achieving Accessibility - Making IT Work for People with Disabilities"
+description: "Join Mike Scott, Chief Information Accessibility Officer for the State of Illinois, to learn what’s new in the world of information accessibility, including what you can do to help make sure your IT works for people with disabilities."
 speakers:
 - Mike Scott, Chief Information Accessibility Officer,Illinois Department of Innovation & Technology
 image: /images/events/687-mike-scott-il-ciao.jpg
@@ -22,4 +22,4 @@ tags:
 published: true
 ---
 
-Description coming soon.
+Join Mike Scott, Chief Information Accessibility Officer for the State of Illinois, to learn what’s new in the world of information accessibility, including what you can do to help make sure your IT works for people with disabilities.
