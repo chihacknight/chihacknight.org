@@ -3,10 +3,11 @@ layout: icstars_event
 categories:
   - events
 links: 
-title: "In-person and Online: Obama Foundation"
-description: "Join to hear a presentation from the Obama Foundation, with time for networking and hacking on projects afterwords."
+title: "In-person and Online: Obama Foundation - Beyond the Browser: Building Reliable Software for Museum Kiosks and Public Installations"
+description: "In this session, Diana will explore what it takes to build software for physical spaces, where reliability, security, and usability are inseparable. Drawing from the development of the Obama Presidential Center's exhibit platform, she'll discuss the architectural patterns that make resilient visitor experiences possible—from automatic reconnection, offline operation, and graceful degradation to monitoring, deployment, and device orchestration across an entire museum."
 speakers:
-image: /images/logo/logo-star-social.jpg
+- Diana M. Steakley-Freeman (she/her/hers), Senior Software Lead, Obama Foundation
+image: /images/events/692-obama.jpeg
 image_credit: 
 date: 2026-07-28T18:00:00-05:00
 event_id: 692
@@ -25,9 +26,14 @@ published: true
   <p><strong>Chi Hack Night will be at <a href='https://www.icstars.org/location/chicago/'>i.c.stars</a></strong>, a non-profit tech training & placement program, will be hosting us at their office at 750 N Orleans Suite 500, Chicago.</p>
 </div>
 
-Presenter: Obama Foundation
+Title: Beyond the Browser: Building Reliable Software for Museum Kiosks and Public Installations
 
-Talk Description: Coming soon
+Description:
+Diana Steakley-Freeman is the Lead Software Architect for the platform powering the interactive experiences at the Obama Presidential Center on Chicago's South Side. While museum software may appear simple to visitors — tap a screen, an exhibit responds — the systems behind those interactions are anything but. Every kiosk, touchscreen, and media experience depends on distributed software running across cloud infrastructure, on-premises hardware, and a fleet of connected devices.
+
+In this session, Diana will explore what it takes to build software for physical spaces, where reliability, security, and usability are inseparable. Drawing from the development of the Obama Presidential Center's exhibit platform, she'll discuss the architectural patterns that make resilient visitor experiences possible—from automatic reconnection, offline operation, and graceful degradation to monitoring, deployment, and device orchestration across an entire museum.
+
+She'll also examine why accessibility must be treated as a foundational architectural concern rather than a feature added later, and how designing for diverse audiences changes both technical and product decisions. Whether you're building enterprise software, IoT platforms, or interactive public experiences, you'll leave with practical lessons on creating systems that remain robust, secure, and intuitive in environments where every interaction happens in the real world.
 
 
 **This event will be in person, but you can also tune in via livestream. Doors open at 6pm. The livestream and announcements will start around 6:30pm CDT.**
