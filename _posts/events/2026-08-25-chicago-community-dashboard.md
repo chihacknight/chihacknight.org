@@ -12,7 +12,7 @@ speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
 date: 2026-08-25T18:00:00-05:00
-event_id: 693
+event_id: 696
 youtube_id:
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
