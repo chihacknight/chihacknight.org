@@ -9,7 +9,7 @@ speakers:
 - Hannah Cushman Garland, Partner at DataMade, she/her/hers
 - Hayley Owens, Developer at DataMade, she/her/hers
 - Ava Schneider, Grants Manager at The Robert R. McCormick Foundation, she/her/hers
-image: /images/events/ccd.png
+image: /images/events/696-ccd.png
 image_credit: 
 date: 2026-08-25T18:00:00-05:00
 event_id: 696
