@@ -28,14 +28,19 @@ var PATH = Galleria.utils.getScriptPath();
     @requires jQuery
     @requires Galleria
 
-    @param {String} [api_key] Flickr API key to be used, defaults to the Galleria key
+    @param {String} api_key Flickr API key to be used. Must be supplied by the caller;
+    no default key is embedded here to avoid exposing a hardcoded credential.
 
     @returns Instance
 */
 
 Galleria.Flickr = function( api_key ) {
 
-    this.api_key = api_key || '2a2ce06c15780ebeb0b706650fc890b2';
+    if ( !api_key ) {
+        Galleria.raise( 'Galleria.Flickr requires an api_key argument; no default key is provided.' );
+    }
+
+    this.api_key = api_key || '';
 
     this.options = {
         max: 30,                       // photos to return
