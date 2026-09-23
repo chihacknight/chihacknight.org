@@ -11,7 +11,7 @@ image: /images/events/700-fritz-kaegi.jpg
 image_credit: 
 date: 2026-09-22T18:00:00-05:00
 event_id: 700
-youtube_id:
+youtube_id: VsISUNIXfHg
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-cook-county-assessor-in-person-online-tickets-1999033713650

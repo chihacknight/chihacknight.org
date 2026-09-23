@@ -10,7 +10,7 @@ image: /images/events/681-cta.png
 image_credit: 
 date: 2026-05-05T18:00:00-05:00
 event_id: 681
-youtube_id:
+youtube_id: M2UXcxxj7CI
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-transit-authority-in-person-tickets-1986219445830

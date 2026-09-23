@@ -13,7 +13,7 @@ image: /images/events/696-ccd.png
 image_credit: 
 date: 2026-08-25T18:00:00-05:00
 event_id: 696
-youtube_id:
+youtube_id: u8gGVRB132Y
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
 sponsor: Chi Hack Night Community
 rsvp_url: https://www.eventbrite.com/e/chi-hack-night-chicago-community-dashboard-in-person-online-tickets-1996807484940
