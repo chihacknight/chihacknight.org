@@ -4,10 +4,10 @@ categories:
   - events
 links: 
 title: "Online: Chicago Public Media - chicago.com"
-description: "Description coming soon"
+description: "This fall, Chicago Public Media will launch chicago.com, their first major product built specifically for digital audiences. Chicago.com will complement WBEZ and the Sun-Times. It will not be a traditional news-first platform. Hear from Aron Pilhofer, Chief Product and Membership Officer, on the launch of this new community platform!"
 speakers:
  - Aron Pilhofer, Chief Product and Membership Officer (he/him)
-image: /images/logo/logo-star-social.jpg
+image: /images/events/702-chicago-com.jpg
 image_credit:
 date: 2026-10-06T19:00:00-05:00
 event_id: 702
@@ -21,4 +21,10 @@ tags:
 published: true
 ---
 
-Description coming soon
+This fall, Chicago Public Media will launch [chicago.com](https://chicago.com), their first major product built specifically for digital audiences. Chicago.com will complement WBEZ and the Sun-Times. It will not be a traditional news-first platform. 
+
+Instead, it will serve as a community platform – a single destination where Chicagoans can connect around neighborhood issues and shared interests, access information from civic institutions, find useful tools to navigate daily life, and discover trusted journalism from Chicago Public Media and respected local partners. 
+
+Rather than replacing our legacy platforms, chicago.com is designed to extend their reach, helping them engage new audiences who may not regularly seek out traditional news products, including younger generations, while strengthening civic participation and connection across Chicago.
+
+Hear from Aron Pilhofer, Chief Product and Membership Officer, on the launch of this new community platform!
