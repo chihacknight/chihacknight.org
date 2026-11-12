@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "In-person and Online: Community Feedback Session"
-description: "Join us for a facilitated group conversation about the incoming second Trump Administration, the role of technology and data in our society, and how we, the Chi Hack Night community might respond to all of it. Community feedback will be summarized and shared out in a future blog post. Join us Tuesday at 6:00 p.m. in person!"
+description: "Join us for a facilitated group conversation about Chi Hack Night, civic tech and our greater community. Community feedback will be summarized and shared out in a future blog post. Join us Tuesday at 6:00 p.m. in person!"
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
