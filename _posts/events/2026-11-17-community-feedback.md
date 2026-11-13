@@ -1,5 +1,5 @@
 ---
-layout: technexus_event
+layout: icstars_event
 categories:
   - events
 links: 
