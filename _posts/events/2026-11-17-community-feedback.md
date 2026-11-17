@@ -8,7 +8,7 @@ description: "Join us for a facilitated group conversation about Chi Hack Night,
 speakers:
 image: /images/logo/logo-star-social.jpg
 image_credit: 
-date: 2026-11-17T18:00:00-05:00
+date: 2026-11-17T18:00:00-06:00
 event_id: 706
 youtube_id: 
 agenda: https://docs.google.com/presentation/d/1RKxvkI5eE2mBHpROUIjs83Aeh9-DnUATEUSDPDuCADc/edit#slide=id.g121c7120608_0_0
