@@ -1,0 +1,53 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chi Hack Night//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chi Hack Night Events
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+{%- for post in site.categories['events'] %}
+BEGIN:VEVENT
+UID:event-{{ post.event_id | default: post.date | date: "%Y%m%d" }}@chihacknight.org
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S" }}
+DTSTART;TZID=America/Chicago:{{ post.date | date: "%Y%m%dT%H%M%S" }}
+DURATION:PT2H30M
+SUMMARY:{{ post.title | replace: "\", "\\" | replace: ";", "\;" | replace: ",", "\," }}
+{%- if post.description %}
+DESCRIPTION:{{ post.description | strip_html | strip_newlines | replace: "\", "\\" | replace: ";", "\;" | replace: ",", "\," }}
+{%- endif %}
+{%- if post.layout == 'technexus_event' %}
+LOCATION:TeamWorking\, 20 N Upper Wacker Dr Suite 1200\, Chicago\, IL
+{%- elsif post.layout == 'icstars_event' or post.layout == 'icstars_event_nostream' %}
+LOCATION:i.c.stars\, 750 N Orleans Suite 500\, Chicago\, IL
+{%- elsif post.layout contains 'remote' %}
+LOCATION:Online - Zoom
+{%- elsif post.layout == 'event' %}
+LOCATION:Braintree Office\, 222 W Merchandise Mart Plaza\, Chicago\, IL
+{%- elsif post.layout == 'satellite_event' %}
+LOCATION:Satellite Event
+{%- endif %}
+URL:{{ site.url }}{{ post.url }}
+STATUS:CONFIRMED
+END:VEVENT
+{%- endfor %}
+END:VCALENDAR
