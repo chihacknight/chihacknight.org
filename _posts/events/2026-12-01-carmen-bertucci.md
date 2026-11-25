@@ -4,7 +4,7 @@ categories:
   - events
 links: 
 title: "Online: Beyond the datacenter - what a smaller AI footprint can accomplish"
-description: "Join us for a TBD Presentation with time for hacking on civic tech projects afterwards!"
+description: "Join us for a presentation from Carmen Bertucci with time for hacking on civic tech projects afterwards!"
 speakers:
 - Carmen Bertucci (he/him), Director of IT Systems and Services at Vi Living
 image: /images/events/707-carmen.jpg
